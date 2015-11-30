@@ -1,0 +1,1422 @@
+russel_U1 snRNP	LUC7
+YBR119W	russel_U1 snRNP
+YHR086W	russel_U1 snRNP
+YML046W	russel_U1 snRNP
+YKL012W	russel_U1 snRNP
+YDR235W	russel_U1 snRNP
+YIL061C	russel_U1 snRNP
+YDR240C	russel_U1 snRNP
+YGR013W	russel_U1 snRNP
+YLR298C	russel_U1 snRNP
+YOR362C	russel_20S core particle of the proteasome
+YPR103W	russel_20S core particle of the proteasome
+YJL001W	russel_20S core particle of the proteasome
+YOL038W	russel_20S core particle of the proteasome
+YML092C	russel_20S core particle of the proteasome
+YER094C	russel_20S core particle of the proteasome
+YGL011C	russel_20S core particle of the proteasome
+YBL026W	russel_Lsm2-Lsm8 complex
+YER112W	russel_Lsm2-Lsm8 complex
+YDR378C	russel_Lsm2-Lsm8 complex
+YNL147W	russel_Lsm2-Lsm8 complex
+YCR077C	russel_Lsm2-Lsm8 complex
+YIL035C	russel_Casein kinase II complex
+YOR061W	russel_Casein kinase II complex
+YGL019W	russel_Casein kinase II complex
+YOR039W	russel_Casein kinase II complex
+YNL112W	russel_Complex 5
+YFR031C-A	russel_Complex 5
+YMR176W	russel_Complex 6
+YGR170W	russel_Complex 6
+YOL054W	russel_Complex 6
+YGL111W	russel_Complex 7
+YHR088W	russel_Complex 7
+YER017C	russel_m-AAA protease complex
+YGR231C	russel_m-AAA protease complex
+YMR089C	russel_m-AAA protease complex
+YDR036C	russel_Mitochondrial ribosomal small subunit
+YDR347W	russel_Mitochondrial ribosomal small subunit
+YGR084C	russel_Mitochondrial ribosomal small subunit
+YKL003C	russel_Mitochondrial ribosomal small subunit
+YBL090W	russel_Mitochondrial ribosomal small subunit
+YHL004W	russel_Mitochondrial ribosomal small subunit
+YPL118W	russel_Mitochondrial ribosomal small subunit
+YPL013C	russel_Mitochondrial ribosomal small subunit
+YMR188C	russel_Mitochondrial ribosomal small subunit
+YNL306W	russel_Mitochondrial ribosomal small subunit
+YDR337W	russel_Mitochondrial ribosomal small subunit
+YBR251W	russel_Mitochondrial ribosomal small subunit
+YMR158W	russel_Mitochondrial ribosomal small subunit
+YBR146W	russel_Mitochondrial ribosomal small subunit
+YNL137C	russel_Mitochondrial ribosomal small subunit
+YOR158W	russel_Mitochondrial ribosomal small subunit
+YDR041W	russel_Mitochondrial ribosomal small subunit
+YNR037C	russel_Mitochondrial ribosomal small subunit
+YKL155C	russel_Mitochondrial ribosomal small subunit
+YGL129C	russel_Mitochondrial ribosomal small subunit
+YIL093C	russel_Mitochondrial ribosomal small subunit
+YGR215W	russel_Mitochondrial ribosomal small subunit
+YJR113C	russel_Mitochondrial ribosomal small subunit
+YKL029C	russel_Complex 10
+YOR056C	russel_Complex 11
+YPL082C	russel_Complex 12
+YPR035W	russel_Trehalose-6-phosphate synthase/ phosphatase complex
+YBL023C	russel_Trehalose-6-phosphate synthase/ phosphatase complex
+YNL076W	russel_Trehalose-6-phosphate synthase/ phosphatase complex
+YBR265W	russel_Trehalose-6-phosphate synthase/ phosphatase complex
+YDR516C	russel_V0 vacuolar ATPase complex
+YLR447C	russel_V0 vacuolar ATPase complex
+YKL119C	russel_V0 vacuolar ATPase complex
+YGR027C	russel_Complex 15
+YKL125W	russel_Complex 15
+YDR075W	russel_Complex 16
+YNL201C	russel_Complex 16
+YBL046W	russel_Complex 16
+YDR361C	russel_Complex 17
+YPL208W	russel_Complex 17
+YJL033W	russel_Complex 18
+YBR086C	russel_Complex 19
+YFR001W	russel_Complex 20
+YGL147C	russel_Complex 20
+YBR263W	russel_Complex 21
+YPL181W	russel_Sin3 Histone deacetylase complex
+YNL330C	russel_Sin3 Histone deacetylase complex
+YDL076C	russel_Sin3 Histone deacetylase complex
+YMR263W	russel_Sin3 Histone deacetylase complex
+YIL084C	russel_Sin3 Histone deacetylase complex
+YOL004W	russel_Sin3 Histone deacetylase complex
+YPL139C	russel_Sin3 Histone deacetylase complex
+YMR075W	russel_Sin3 Histone deacetylase complex
+YLR186W	russel_Complex 23
+YNL132W	russel_Complex 23
+YCL059C	russel_Complex 23
+YPR144C	russel_Complex 23
+YDL148C	russel_Complex 23
+YGR145W	russel_Complex 23
+YLR074C	russel_Complex 24
+YIR002C	russel_DNA repair complex
+YDR097C	russel_DNA repair complex
+YML032C	russel_DNA repair complex
+YAR007C	russel_DNA repair complex
+YIL128W	russel_Complex 26
+YER171W	russel_Complex 26
+YDL148C	russel_Complex 27
+YGR128C	russel_Complex 27
+YGL195W	russel_Gcn1/Gcn2/Gcn20 complex
+YFR009W	russel_Gcn1/Gcn2/Gcn20 complex
+YJR063W	russel_RNA polymerase I
+YOR341W	russel_RNA polymerase I
+YOR340C	russel_RNA polymerase I
+YNL248C	russel_RNA polymerase I
+YPR110C	russel_RNA polymerase I
+YOL149W	russel_mRNA decapping complex
+YNL118C	russel_mRNA decapping complex
+YEL015W	russel_mRNA decapping complex
+YJL080C	russel_Ribosome-associated complex   (RAC)
+YHR064C	russel_Ribosome-associated complex   (RAC)
+YGR285C	russel_Ribosome-associated complex   (RAC)
+YMR240C	russel_U2 snRNP
+YMR288W	russel_U2 snRNP
+YOR319W	russel_U2 snRNP
+YPL213W	russel_U2 snRNP
+YIR009W	russel_U2 snRNP
+YDL043C	russel_U2 snRNP
+YJL203W	russel_U2 snRNP
+YDL030W	russel_U2 snRNP
+YML049C	russel_U2 snRNP
+YAR042W	russel_Scs2/Opi1 complex
+YKR028W	russel_Sit4/Sap190 complex
+YHR128W	russel_Complex  36
+YPL218W	russel_Complex  36
+YDR341C	russel_Complex  36
+YKL067W	russel_Complex  36
+YOR207C	russel_RNA polymerase III complex
+YKL144C	russel_RNA polymerase III complex
+YNL151C	russel_RNA polymerase III complex
+YNR003C	russel_RNA polymerase III complex
+YKR025W	russel_RNA polymerase III complex
+YPR110C	russel_RNA polymerase III complex
+YDL150W	russel_RNA polymerase III complex
+YPR190C	russel_RNA polymerase III complex
+YOR116C	russel_RNA polymerase III complex
+YLR074C	russel_Complex 39
+YNL182C	russel_Complex 39
+YPL093W	russel_Complex 39
+YNR053C	russel_Complex 39
+YER126C	russel_Complex 39
+YER006W	russel_Complex 39
+YHR197W	russel_Complex 39
+YKR081C	russel_Complex 39
+YGR245C	russel_Complex 39
+YCR072C	russel_Complex 39
+YJL005W	russel_Cyr1/Srv2 complex
+YGR233C	russel_Cyr1/Srv2 complex
+YNL138W	russel_Cyr1/Srv2 complex
+YHR169W	russel_Complex 41
+YDR365C	russel_Complex 41
+YNR043W	russel_Complex 41
+YOR181W	russel_Cytoskeleton-regulatory Lsb3/Las17 complex
+YFR024C-A	russel_Cytoskeleton-regulatory Lsb3/Las17 complex
+YBL007C	russel_Cytoskeleton-regulatory Lsb3/Las17 complex
+YJL041W	russel_Nup82/Nsp1/Nup159 nuclear pore subcomplex
+YIL115C	russel_Nup82/Nsp1/Nup159 nuclear pore subcomplex
+YJL061W	russel_Nup82/Nsp1/Nup159 nuclear pore subcomplex
+YOR326W	russel_Actin-associated motorproteins 1 complex
+YOR035C	russel_Actin-associated motorproteins 1 complex
+YAL035W	russel_Translation initiation factor eIF3 complex
+YLR192C	russel_Translation initiation factor eIF3 complex
+YMR309C	russel_Translation initiation factor eIF3 complex
+YOR361C	russel_Translation initiation factor eIF3 complex
+YDR091C	russel_Translation initiation factor eIF3 complex
+YBR079C	russel_Translation initiation factor eIF3 complex
+YMR146C	russel_Translation initiation factor eIF3 complex
+YDR429C	russel_Translation initiation factor eIF3 complex
+YPR041W	russel_Translation initiation factor eIF3 complex
+YGL206C	russel_Clathrin
+YGR167W	russel_Clathrin
+YKR048C	russel_Complex 47
+YNL078W	russel_Complex 47
+YOL070C	russel_Complex 47
+YOL144W	russel_Complex 48
+YKL014C	russel_Complex 48
+YJR041C	russel_Complex 48
+YGL106W	russel_Actin-associated motorproteins 2 complex
+YAL029C	russel_Actin-associated motorproteins 2 complex
+YKL130C	russel_Actin-associated motorproteins 2 complex
+YBR130C	russel_Actin-associated motorproteins 2 complex
+YGL099W	russel_Complex 50
+YHR170W	russel_Complex 50
+YBR267W	russel_Complex 50
+YPR184W	russel_Complex 51
+YJR077C	russel_Complex 51
+YML105C	russel_Signal recognition complex
+YDL092W	russel_Signal recognition complex
+YPR088C	russel_Signal recognition complex
+YPL243W	russel_Signal recognition complex
+YPL210C	russel_Signal recognition complex
+YML130C	russel_Erv41/Erv46 complex
+YML067C	russel_Erv41/Erv46 complex
+YAL042W	russel_Erv41/Erv46 complex
+YFR001W	russel_Complex 55
+YOL077C	russel_Complex 56
+YMR049C	russel_Complex 56
+YDR060W	russel_Complex 56
+YOR206W	russel_Complex 56
+YPL043W	russel_Complex 56
+YDR496C	russel_Complex 56
+YFL024C	russel_NuA4 Histone Acetyltransferase Complex
+YOR244W	russel_NuA4 Histone Acetyltransferase Complex
+YPL204W	russel_Complex 58
+YKL143W	russel_Complex 58
+YOR056C	russel_Complex 58
+YNL207W	russel_Complex 58
+YDL060W	russel_Complex 58
+YPR036W	russel_V1 vacuolar ATPase complex
+YOR332W	russel_V1 vacuolar ATPase complex
+YKL080W	russel_V1 vacuolar ATPase complex
+YGR020C	russel_V1 vacuolar ATPase complex
+YEL051W	russel_V1 vacuolar ATPase complex
+YLR189C	russel_Mitochondrial ribosomal large subunit
+YCL014W	russel_Mitochondrial ribosomal large subunit
+YNL284C	russel_Mitochondrial ribosomal large subunit
+YBL038W	russel_Mitochondrial ribosomal large subunit
+YOR150W	russel_Mitochondrial ribosomal large subunit
+YLR439W	russel_Mitochondrial ribosomal large subunit
+YPR100W	russel_Mitochondrial ribosomal large subunit
+YJR109C	russel_Arginine-specific carbamoyl-phosphate synthase complex
+YHR052W	russel_Complex 62
+YKL172W	russel_Complex 62
+YHR085W	russel_Complex 62
+YLR406C	russel_Complex 62
+YDR473C	russel_U4/U6.U5 tri-snRNP
+YGR091W	russel_U4/U6.U5 tri-snRNP
+YPR178W	russel_U4/U6.U5 tri-snRNP
+YBR055C	russel_U4/U6.U5 tri-snRNP
+YOR308C	russel_U4/U6.U5 tri-snRNP
+YBR152W	russel_U4/U6.U5 tri-snRNP
+YJL050W	russel_Complex 64
+YPL190C	russel_Complex 64
+YNL251C	russel_Complex 64
+YLR430W	russel_Complex 64
+YMR125W	russel_Complex 64
+YBR114W	russel_DNA repair complex
+YKL029C	russel_Complex 66
+YHL011C	russel_Complex 66
+YDR457W	russel_Complex 66
+YOL139C	russel_Pab1/eIF4G/eIF4E complex
+YHL034C	russel_Pab1/eIF4G/eIF4E complex
+YGR162W	russel_Pab1/eIF4G/eIF4E complex
+YGL049C	russel_Pab1/eIF4G/eIF4E complex
+YFR013W	russel_ISW1/IOC3 complex
+YBR245C	russel_ISW1/IOC3 complex
+YOR250C	russel_Pre-mRNA cleavage and polyadenylation factor IA
+YDR228C	russel_Pre-mRNA cleavage and polyadenylation factor IA
+YMR061W	russel_Pre-mRNA cleavage and polyadenylation factor IA
+YGL044C	russel_Pre-mRNA cleavage and polyadenylation factor IA
+YPL126W	russel_Small subunit  processome
+YJL109C	russel_Small subunit  processome
+YMR093W	russel_Small subunit  processome
+YDR324C	russel_Small subunit  processome
+YGR128C	russel_Small subunit  processome
+YHR196W	russel_Small subunit  processome
+YHR114W	russel_Complex 72
+YJL201W	russel_Complex 72
+YDL115C	russel_RNA polymerase II complex
+YOL005C	russel_RNA polymerase II complex
+YOR151C	russel_RNA polymerase II complex
+YIL021W	russel_RNA polymerase II complex
+YJL140W	russel_RNA polymerase II complex
+YDR404C	russel_RNA polymerase II complex
+YGL070C	russel_RNA polymerase II complex
+YGR186W	russel_RNA polymerase II complex
+YGR005C	russel_RNA polymerase II complex
+YGL130W	russel_mRNA guanylyl transferase complex
+YPL228W	russel_mRNA guanylyl transferase complex
+YHL030W	russel_19/22S regulator
+YHR027C	russel_19/22S regulator
+YHR200W	russel_19/22S regulator
+YFR004W	russel_19/22S regulator
+YFR052W	russel_19/22S regulator
+YLR421C	russel_19/22S regulator
+YDL147W	russel_19/22S regulator
+YDL097C	russel_19/22S regulator
+YPR108W	russel_19/22S regulator
+YOR261C	russel_19/22S regulator
+YDR427W	russel_19/22S regulator
+YKL145W	russel_19/22S regulator
+YLR153C	russel_Complex 76
+YDR301W	russel_Polyadenylation Factor I
+YLR115W	russel_Polyadenylation Factor I
+YJR093C	russel_Polyadenylation Factor I
+YKL059C	russel_Polyadenylation Factor I
+YKR002W	russel_Polyadenylation Factor I
+YNL317W	russel_Polyadenylation Factor I
+YAL043C	russel_Polyadenylation Factor I
+YLR277C	russel_Polyadenylation Factor I
+YPR107C	russel_Polyadenylation Factor I
+YML016C	russel_Ppz1 protein phosphate complex
+YKL088W	russel_Ppz1 protein phosphate complex
+YLR028C	russel_Protein phosphatase 1 complex
+YER133W	russel_Protein phosphatase 1 complex
+YCR073W-A	russel_Protein phosphatase 1 complex
+YDR364C	russel_Prp19-associated complex
+YMR213W	russel_Prp19-associated complex
+YLR117C	russel_Prp19-associated complex
+YDL209C	russel_Prp19-associated complex
+YGR278W	russel_Prp19-associated complex
+YBR065C	russel_Prp19-associated complex
+YLL036C	russel_Prp19-associated complex
+YAL032C	russel_Prp19-associated complex
+YPL151C	russel_Prp19-associated complex
+YDR416W	russel_Prp19-associated complex
+YDR448W	russel_SAGA complex
+YPL254W	russel_SAGA complex
+YDR176W	russel_SAGA complex
+YCL010C	russel_SAGA complex
+YGL066W	russel_SAGA complex
+YOL148C	russel_SAGA complex
+YDR392W	russel_SAGA complex
+YBR081C	russel_SAGA complex
+YLR055C	russel_SAGA complex
+YLR347C	russel_Karyopherins complex
+YLR335W	russel_Karyopherins complex
+YAR002W	russel_Karyopherins complex
+YNL189W	russel_Karyopherins complex
+YLR310C	russel_Sit4/Sap185 protein phosphatase complex
+YOR267C	russel_Sit4/Sap185 protein phosphatase complex
+YGL197W	russel_Sit4/Sap185 protein phosphatase complex
+YJL098W	russel_Sit4/Sap185 protein phosphatase complex
+YDL047W	russel_Sit4/Sap185 protein phosphatase complex
+YKL057C	russel_Nup84 sub-complex
+YGL092W	russel_Nup84 sub-complex
+YDL116W	russel_Nup84 sub-complex
+YJR042W	russel_Nup84 sub-complex
+YLR208W	russel_Nup84 sub-complex
+YGL100W	russel_Nup84 sub-complex
+YDR172W	russel_Translational release factor complex
+YBR143C	russel_Translational release factor complex
+YNL071W	russel_Pyruvate dehydrogenase
+YER178W	russel_Pyruvate dehydrogenase
+YBR221C	russel_Pyruvate dehydrogenase
+YGR193C	russel_Pyruvate dehydrogenase
+YGL190C	russel_Complex 87
+YJR138W	russel_Complex 87
+YLR088W	russel_Complex 88
+YBR196C	russel_Complex 88
+YNR007C	russel_Complex 89
+YOR160W	russel_Complex 89
+YIL070C	russel_Complex 90
+YGR165W	russel_Complex 90
+YDL055C	russel_Complex 91
+YDL145C	russel_COPI complex
+YFR051C	russel_COPI complex
+YPL010W	russel_COPI complex
+YNL287W	russel_COPI complex
+YDR238C	russel_COPI complex
+YGL137W	russel_COPI complex
+YIL076W	russel_COPI complex
+YOR124C	russel_Complex 93
+YOR138C	russel_Complex 93
+YDR174W	russel_Complex 94
+YKL007W	russel_Actin capping complex
+YIL034C	russel_Actin capping complex
+YIR003W	russel_Actin capping complex
+YNL112W	russel_Gyp5/Gyl1 complex
+YMR192W	russel_Gyp5/Gyl1 complex
+YDL033C	russel_Complex 97
+YGL039W	russel_Complex 97
+YDL051W	russel_Complex 98
+YDR395W	russel_Complex 98
+YKR060W	russel_Complex 98
+YJL036W	russel_Yeats nexin complex
+YDR425W	russel_Yeats nexin complex
+YHR169W	russel_Complex 101
+YMR143W	russel_Complex 101
+YDR432W	russel_Complex 102
+YDL167C	russel_Complex 102
+YIR001C	russel_Complex 103
+YHR039C-A	russel_Complex 104
+YBR127C	russel_Complex 104
+YJL033W	russel_Complex 105
+YDL167C	russel_Complex 105
+YEL013W	russel_Complex 106
+YHR121W	russel_Complex 107
+YGR178C	russel_Complex 107
+YPL154C	russel_Complex 108
+YDR233C	russel_Complex 108
+YDR394W	russel_Complex 109
+YML124C	russel_Complex 109
+YML117W	russel_Complex 110
+YDL167C	russel_Complex 110
+YEL036C	russel_Mannan Polymerase II
+YJR075W	russel_Mannan Polymerase II
+YDR245W	russel_Mannan Polymerase II
+YJL183W	russel_Mannan Polymerase II
+YPL050C	russel_Mannan Polymerase II
+YNR050C	russel_Complex 112
+YOR164C	russel_Complex 112
+YNL258C	russel_SNARE complex
+YLR440C	russel_SNARE complex
+YGL145W	russel_SNARE complex
+YOR075W	russel_SNARE complex
+YGL098W	russel_SNARE complex
+YJL034W	russel_Golgi associated retrograde protein  complex
+YDR484W	russel_Golgi associated retrograde protein  complex
+YJL029C	russel_Golgi associated retrograde protein  complex
+YDR027C	russel_Golgi associated retrograde protein  complex
+YOR168W	russel_Complex 115
+YIL143C	russel_Complex 115
+YOR352W	russel_Complex 115
+YAL034C	russel_Complex 116
+YJR123W	russel_Complex 116
+YGL031C	russel_Complex 117
+YGR214W	russel_Complex 117
+YLR304C	russel_Complex 118
+YMR246W	russel_Complex 118
+YML117W	russel_Complex 119
+YER165W	russel_Complex 119
+YBR102C	russel_Exocyst complex
+YLR166C	russel_Exocyst complex
+YER008C	russel_Exocyst complex
+YDR166C	russel_Exocyst complex
+YIL068C	russel_Exocyst complex
+YPR055W	russel_Exocyst complex
+YJL184W	russel_Complex 121
+YKR038C	russel_Complex 121
+YML036W	russel_Complex 121
+YLR304C	russel_Complex 122
+YKL085W	russel_Complex 122
+YGR234W	russel_Complex 122
+YDR300C	russel_Complex 123
+YOR153W	russel_Complex 124
+YML029W	russel_Complex 124
+YPL143W	russel_Complex 125
+YDL136W	russel_Complex 125
+YLR449W	russel_Complex 126
+YLL034C	russel_Complex 126
+YMR242C	russel_Complex 126
+YLR005W	russel_Nucleotide excision repair factor 3 complex
+YDR311W	russel_Nucleotide excision repair factor 3 complex
+YPR056W	russel_Nucleotide excision repair factor 3 complex
+YKL172W	russel_Complex 128
+YER139C	russel_Complex 128
+YKL081W	russel_Complex 129
+YBR039W	russel_Complex 130
+YDR168W	russel_Complex 130
+YNL075W	russel_Complex 131
+YIL075C	russel_Complex 131
+YML124C	russel_Complex 132
+YMR064W	russel_Complex 133
+YOL123W	russel_Complex 133
+YPL081W	russel_Complex 133
+YMR025W	russel_COP9 signalosome complex
+YDR179C	russel_COP9 signalosome complex
+YIL071C	russel_COP9 signalosome complex
+YDL216C	russel_COP9 signalosome complex
+YOL117W	russel_COP9 signalosome complex
+YER086W	russel_Complex 135
+YDL055C	russel_Complex 135
+YGL238W	russel_Complex 136
+YDR170C	russel_Complex 136
+YFL039C	russel_Act1/Sac6 complex
+YDR129C	russel_Act1/Sac6 complex
+YDL075W	russel_Complex 138
+YOR234C	russel_Complex 138
+YDR091C	russel_Complex 139
+YDL149W	russel_Complex 140
+YNL301C	russel_Complex 140
+YGL076C	russel_Complex 140
+YPL048W	russel_Complex 141
+YKL101W	russel_Complex 141
+YDR314C	russel_Complex 141
+YDR254W	russel_Ctf19 protein complex
+YPL018W	russel_Ctf19 protein complex
+YLR381W	russel_Ctf19 protein complex
+YDR318W	russel_Ctf19 protein complex
+YJR135C	russel_Ctf19 protein complex
+YGR179C	russel_Ctf19 protein complex
+YJR005W	russel_AP-2 complex
+YOL062C	russel_AP-2 complex
+YMR246W	russel_Complex 144
+YPL206C	russel_Complex 144
+YIL142W	russel_Chaperonine containing T-complex TRiC
+YJL111W	russel_Chaperonine containing T-complex TRiC
+YOR281C	russel_Chaperonine containing T-complex TRiC
+YNL212W	russel_Chaperonine containing T-complex TRiC
+YCR042C	russel_RNA polymerase II general trancription factor TFIID
+YML114C	russel_RNA polymerase II general trancription factor TFIID
+YJL020C	russel_Complex 147
+YJL123C	russel_Complex 147
+YGL094C	russel_PAN complex
+YKL025C	russel_PAN complex
+YDL149W	russel_Complex 150
+YPL090C	russel_Complex 150
+YPL049C	russel_Complex 151
+YDR432W	russel_Complex 151
+YBL017C	russel_Complex 151
+YNR051C	russel_Bre5/Ubp3 complex
+YER151C	russel_Bre5/Ubp3 complex
+YOL069W	russel_Tid3 complex
+YMR117C	russel_Tid3 complex
+YER018C	russel_Tid3 complex
+YKL191W	russel_Complex 154
+YOR133W	russel_Complex 154
+YIL103W	russel_Complex 154
+YPR049C	russel_Complex 155
+YLR423C	russel_Complex 155
+YPL166W	russel_Complex 155
+YFR030W	russel_Complex 156
+YPR010C	russel_Complex 156
+YDR365C	russel_Complex 157
+YCL059C	russel_Complex 157
+YNR043W	russel_Complex 157
+YDL213C	russel_Complex 157
+YGR034W	russel_Complex 157
+YGR145W	russel_Complex 157
+YPR180W	russel_Complex 158
+YGR063C	russel_Complex 158
+YPL160W	russel_Complex 159
+YPL126W	russel_Complex 159
+YMR093W	russel_Complex 159
+YDR324C	russel_Complex 159
+YOR234C	russel_Complex 160
+YDR382W	russel_Complex 160
+YLR221C	russel_Complex 160
+YDR138W	russel_THO complex
+YNL004W	russel_THO complex
+YML062C	russel_THO complex
+YDL084W	russel_THO complex
+YNL253W	russel_THO complex
+YHR167W	russel_THO complex
+YOR217W	russel_Complex 162
+YJR068W	russel_Complex 162
+YNL288W	russel_Ccr4/Not protein complex
+YAL021C	russel_Ccr4/Not protein complex
+YCR093W	russel_Ccr4/Not protein complex
+YNR052C	russel_Ccr4/Not protein complex
+YBR084W	russel_Complex 164
+YBL022C	russel_Complex 164
+YML124C	russel_Complex 165
+YMR012W	russel_Complex 166
+YBR017C	russel_Complex 166
+YLR226W	russel_Svg1/cyclin Bur2 protein complex
+YPR161C	russel_Svg1/cyclin Bur2 protein complex
+YMR205C	russel_Complex 168
+YOR293W	russel_Complex 168
+YJL190C	russel_Complex 168
+YGR204W	russel_ Complex 169
+YGL238W	russel_ Complex 169
+YJL052W	russel_ Complex 169
+YDR457W	russel_ Complex 169
+YDR341C	russel_ Complex 169
+YML075C	russel_Complex 170
+YER095W	russel_Complex 170
+YDR471W	russel_Complex 170
+YGL195W	russel_Complex 171
+YHR019C	russel_Complex 172
+YNL137C	russel_Complex 173
+YER036C	russel_Complex 174
+YER172C	russel_Complex 175
+YMR240C	russel_Complex 175
+YPL213W	russel_Complex 175
+YJL203W	russel_Complex 175
+YDR473C	russel_Complex 175
+YGR091W	russel_Complex 175
+YPR178W	russel_Complex 175
+YBR055C	russel_Complex 175
+YHR165C	russel_Complex 175
+YDL030W	russel_Complex 175
+YER029C	russel_Complex 175
+YKL173W	russel_Complex 175
+YDL098C	russel_Complex 175
+YOR308C	russel_Complex 175
+YBR152W	russel_Complex 175
+YBR084C-A	russel_Complex 176
+YCR031C	russel_Complex 176
+YBR181C	russel_Complex 176
+YOR234C	russel_Complex 177
+YDL083C	russel_Complex 177
+YLR221C	russel_Complex 177
+YGR281W	russel_Complex 177
+YCL014W	russel_Complex 178
+YDR164C	russel_Complex 178
+YMR284W	russel_Ku complex
+YMR106C	russel_Ku complex
+YIL075C	russel_Complex 180
+YPR066W	russel_Rubiquitin -activating complex
+YPL003W	russel_Rubiquitin -activating complex
+YKR068C	russel_TRAPPII complex
+YML077W	russel_TRAPPII complex
+YDR407C	russel_TRAPPII complex
+YMR218C	russel_TRAPPII complex
+YBR254C	russel_TRAPPII complex
+YDR246W	russel_TRAPPII complex
+YDR472W	russel_TRAPPII complex
+YOR115C	russel_TRAPPII complex
+YER155C	russel_Kel1/Lte1 complex
+YHR158C	russel_Kel1/Lte1 complex
+YAL024C	russel_Kel1/Lte1 complex
+YPL061W	russel_Complex 185
+YER089C	russel_Complex 185
+YIL104C	russel_Complex 185
+YPR035W	russel_Complex 186
+YDR171W	russel_Complex 186
+YPR057W	russel_ Complex 187
+YDR225W	russel_ Complex 187
+YML065W	russel_Origin of replication recognition complex
+YBR060C	russel_Origin of replication recognition complex
+YLL004W	russel_Origin of replication recognition complex
+YPR162C	russel_Origin of replication recognition complex
+YNL261W	russel_Origin of replication recognition complex
+YHR118C	russel_Origin of replication recognition complex
+YGL120C	russel_Complex 189
+YNL224C	russel_Complex 189
+YNL059C	russel_INO80 protein complex
+YOR141C	russel_INO80 protein complex
+YFL013C	russel_INO80 protein complex
+YLR052W	russel_INO80 protein complex
+YER092W	russel_INO80 protein complex
+YGL150C	russel_INO80 protein complex
+YDL002C	russel_INO80 protein complex
+YMR109W	russel_Complex 191
+YBR125C	russel_Complex 192
+YDR186C	russel_Complex 192
+YGR254W	russel_Complex 193
+YDL040C	russel_Complex 193
+YGR281W	russel_Complex 194
+YDR155C	russel_Set3 histone deacetylase protein complex
+YGL194C	russel_Set3 histone deacetylase protein complex
+YIL112W	russel_Set3 histone deacetylase protein complex
+YKR029C	russel_Set3 histone deacetylase protein complex
+YBR103W	russel_Set3 histone deacetylase protein complex
+YCR033W	russel_Set3 histone deacetylase protein complex
+YBR084C-A	russel_Complex 196
+YGL147C	russel_Complex 196
+YMR072W	russel_Complex 197
+YKR001C	russel_Complex 197
+YKL172W	russel_Complex 198
+YER117W	russel_Complex 198
+YNL177C	russel_Complex 200
+YNL221C	russel_RNase MRP
+YNL282W	russel_RNase MRP
+YBR257W	russel_RNase MRP
+YAL033W	russel_RNase MRP
+YBL018C	russel_RNase MRP
+YHR062C	russel_RNase MRP
+YNL244C	russel_Complex 202
+YCL011C	russel_Complex 203
+YHR167W	russel_Complex 203
+YDR044W	russel_Complex 204
+YAL017W	russel_Complex 204
+YGR094W	russel_Complex 204
+YPL154C	russel_Complex 205
+YKL003C	russel_Complex 206
+YNL186W	russel_Complex 206
+YBL074C	russel_Complex 207
+YCR063W	russel_Complex 207
+YHR156C	russel_Complex 207
+YJL146W	russel_Complex 208
+YPL154C	russel_Complex 208
+YNL102W	russel_DNA polymearse alpha-primase complex
+YBL035C	russel_DNA polymearse alpha-primase complex
+YIR008C	russel_DNA polymearse alpha-primase complex
+YKL045W	russel_DNA polymearse alpha-primase complex
+YLR276C	russel_Complex 210
+YLL021W	russel_Complex 210
+YOR078W	russel_Complex 211
+YPR137W	russel_Complex 211
+YDR050C	russel_Complex 212
+YBR049C	russel_Complex 213
+YBR205W	russel_Complex 214
+YBR031W	russel_Complex 214
+YGR061C	russel_Complex 215
+YGL129C	russel_Complex 215
+YMR308C	russel_Complex 216
+YGR081C	russel_Complex 216
+YLL021W	russel_Complex 216
+YPL020C	russel_Complex 216
+YDR035W	russel_Complex 217
+YLR355C	russel_Complex 217
+YKL139W	russel_C-terminal domain kinase I   complex
+YJL006C	russel_C-terminal domain kinase I   complex
+YML112W	russel_C-terminal domain kinase I   complex
+YGR240C	russel_Spindle pole body
+YAL047C	russel_Spindle pole body
+YHR172W	russel_Spindle pole body
+YNL126W	russel_Spindle pole body
+YLR212C	russel_Spindle pole body
+YDL055C	russel_Complex 220
+YML056C	russel_Complex 221
+YJL052W	russel_Complex 221
+YNL084C	russel_Complex 222
+YFR024C-A	russel_Complex 222
+YNL243W	russel_Complex 222
+YPL083C	russel_Complex 223
+YOR187W	russel_Complex 223
+YMR033W	russel_SWI-SNF global transcription activator complex
+YDR073W	russel_SWI-SNF global transcription activator complex
+YNR023W	russel_SWI-SNF global transcription activator complex
+YBR289W	russel_SWI-SNF global transcription activator complex
+YHL025W	russel_SWI-SNF global transcription activator complex
+YPL016W	russel_SWI-SNF global transcription activator complex
+YJL176C	russel_SWI-SNF global transcription activator complex
+YER114C	russel_Boi2/Bem1/Cdc24 complex
+YAL041W	russel_Boi2/Bem1/Cdc24 complex
+YGL246C	russel_Rai1/Rat1 complex
+YOR048C	russel_Rai1/Rat1 complex
+YBR011C	russel_Complex 228
+YLR371W	russel_Complex 228
+YDL203C	russel_Complex 228
+YDR385W	russel_Complex 229
+YGR187C	russel_Complex 229
+YLR436C	russel_Complex 230
+YMR304W	russel_Complex 230
+YBR122C	russel_Complex 231
+YLR180W	russel_Anthranilate synthase complex
+YER090W	russel_Anthranilate synthase complex
+YKL211C	russel_Anthranilate synthase complex
+YER111C	russel_"SBF, SWI4-SWI6-dependent cell cycle box binding factor complex "
+YLR182W	russel_"SBF, SWI4-SWI6-dependent cell cycle box binding factor complex "
+YMR167W	russel_Pms1/Mlh1 mismatch DNA repair complex
+YNL082W	russel_Pms1/Mlh1 mismatch DNA repair complex
+YDL167C	russel_Complex 237
+YLR276C	russel_Complex 238
+YLL021W	russel_Complex 238
+YLR129W	russel_Small subunit  processome
+YPR112C	russel_Small subunit  processome
+YPL126W	russel_Small subunit  processome
+YOR310C	russel_Small subunit  processome
+YOR145C	russel_Small subunit  processome
+YCR057C	russel_Small subunit  processome
+YGL171W	russel_Small subunit  processome
+YPR137W	russel_Small subunit  processome
+YJL109C	russel_Small subunit  processome
+YLR222C	russel_Small subunit  processome
+YMR093W	russel_Small subunit  processome
+YJL069C	russel_Small subunit  processome
+YLR409C	russel_Small subunit  processome
+YGR090W	russel_Small subunit  processome
+YDR324C	russel_Small subunit  processome
+YDR449C	russel_Small subunit  processome
+YER082C	russel_Small subunit  processome
+YGR128C	russel_Small subunit  processome
+YHR196W	russel_Small subunit  processome
+YLR003C	russel_Small subunit  processome
+YGR162W	russel_Complex 240
+YAL036C	russel_Complex 240
+YNL238W	russel_Complex 241
+YOL031C	russel_Complex 241
+YLL048C	russel_Complex 241
+YMR083W	russel_Complex 242
+YMR080C	russel_Complex 242
+YKL181W	russel_Phosphoribosyl diphosphate  synthase complex
+YHL011C	russel_Phosphoribosyl diphosphate  synthase complex
+YKR018C	russel_Complex 244
+YHR169W	russel_Complex 245
+YLR029C	russel_Complex 245
+YDL160C	russel_Complex 246
+YDR170C	russel_Complex 246
+YDR127W	russel_Complex 247
+YLR180W	russel_Complex 247
+YGL190C	russel_Protein phosphatase 2A complex
+YAL016W	russel_Protein phosphatase 2A complex
+YMR273C	russel_Protein phosphatase 2A complex
+YML109W	russel_Protein phosphatase 2A complex
+YPL048W	russel_Translation elongation factor EF1
+YAL003W	russel_Translation elongation factor EF1
+YBR118W	russel_Translation elongation factor EF1
+YPL217C	russel_Complex 250
+YPR112C	russel_Complex 250
+YNL231C	russel_Complex 251
+YDL082W	russel_Complex 252
+YFR031C-A	russel_Complex 252
+YIL056W	russel_Complex 253
+YGR204W	russel_Complex 254
+YLL018C	russel_Complex 254
+YPL218W	russel_Complex 254
+YJL052W	russel_Complex 254
+YDR341C	russel_Complex 254
+YKL067W	russel_Complex 254
+YGL171W	russel_Complex 255
+YML063W	russel_Complex 255
+YML102W	russel_Chromatin assembly complex
+YBR195C	russel_Chromatin assembly complex
+YJL066C	russel_Complex 257
+YLR333C	russel_Complex 257
+YMR203W	russel_Complex 257
+YGR130C	russel_Complex 257
+YOL123W	russel_Kap104/Hrp1 complex
+YBR017C	russel_Kap104/Hrp1 complex
+YKL182W	russel_Complex 259
+YDL112W	russel_Complex 259
+YOR173W	russel_Complex 260
+YDR460W	russel_Complex 260
+YPL195W	russel_Clathrin-associated protein AP-3 complex
+YGR261C	russel_Clathrin-associated protein AP-3 complex
+YBR288C	russel_Clathrin-associated protein AP-3 complex
+YBL074C	russel_Complex 263
+YDR283C	russel_Complex 263
+YOR308C	russel_Complex 263
+YGR061C	russel_Complex 264
+YOR158W	russel_Complex 264
+YAL035W	russel_Complex 265
+YDR418W	russel_Complex 265
+YPR112C	russel_Complex 266
+YGR090W	russel_Complex 266
+YER082C	russel_Complex 266
+YLR003C	russel_Complex 266
+YHR216W	russel_Complex 267
+YBR115C	russel_Complex 267
+YDR395W	russel_Complex 267
+YOL086C	russel_Complex 268
+YMR297W	russel_Complex 268
+YBR136W	russel_Complex 269
+YLR386W	russel_Complex 269
+YMR012W	russel_Complex 270
+YBL039C	russel_Complex 270
+YBR115C	russel_alpha-Aminoadipate-semialdehyde dehydrogenase complex
+YGL154C	russel_alpha-Aminoadipate-semialdehyde dehydrogenase complex
+YMR116C	russel_Complex 272
+YDL040C	russel_Complex 272
+YNL023C	russel_Complex 273
+YML072C	russel_Complex 274
+YLR044C	russel_Complex 275
+YKL039W	russel_Complex 275
+YLR362W	russel_Ste50/Ste11 complex
+YCL032W	russel_Ste50/Ste11 complex
+YAL036C	russel_Complex 278
+YPR184W	russel_Complex 279
+YJL039C	russel_Complex 279
+YBL056W	russel_Complex 280
+YDR071C	russel_Complex 280
+YDR037W	russel_"Cytoplasmic mRNA processing body"
+YJL124C	russel_"Cytoplasmic mRNA processing body"
+YER146W	russel_"Cytoplasmic mRNA processing body"
+YCR077C	russel_"Cytoplasmic mRNA processing body"
+YGR240C	russel_Complex 282
+YMR205C	russel_Complex 282
+YBR169C	russel_Complex 283
+YOR164C	russel_Complex 283
+YDL165W	russel_Complex 284
+YPR112C	russel_Complex 284
+YMR230W	russel_Complex 284
+YMR116C	russel_Complex 285
+YDR471W	russel_Complex 285
+YBL061C	russel_Complex 285
+YNL112W	russel_Complex 286
+YOR260W	russel_Translation initiation factor eIF2B complex
+YER025W	russel_Translation initiation factor eIF2B complex
+YGR083C	russel_Translation initiation factor eIF2B complex
+YDR211W	russel_Translation initiation factor eIF2B complex
+YLR291C	russel_Translation initiation factor eIF2B complex
+YKR026C	russel_Translation initiation factor eIF2B complex
+YNL084C	russel_Complex 288
+YJL011C	russel_Complex 288
+YNL192W	russel_Complex 289
+YHR174W	russel_Complex 289
+YCR012W	russel_Complex 289
+YNR033W	russel_Complex 290
+YNL249C	russel_Complex 290
+YML028W	russel_Complex 290
+YDL191W	russel_Complex 291
+YBR181C	russel_Complex 291
+YBL039C	russel_Complex 291
+YKR031C	russel_Complex 292
+YGL223C	russel_Golgi transport complex
+YGR120C	russel_Golgi transport complex
+YER157W	russel_Golgi transport complex
+YPR105C	russel_Golgi transport complex
+YNL051W	russel_Golgi transport complex
+YNL041C	russel_Golgi transport complex
+YGL005C	russel_Golgi transport complex
+YML071C	russel_Golgi transport complex
+YJR138W	russel_Golgi transport complex
+YDL166C	russel_Complex 294
+YDR300C	russel_Complex 295
+YGR194C	russel_Complex 295
+YPL001W	russel_Histone acetyltransferase B complex
+YEL056W	russel_Histone acetyltransferase B complex
+YNL030W	russel_Histone acetyltransferase B complex
+YLL022C	russel_Histone acetyltransferase B complex
+YBR196C	russel_Complex 297
+YDR164C	russel_Complex 297
+YLL018C	russel_Complex 298
+YER086W	russel_Complex 298
+YNL301C	russel_Complex 298
+YER165W	russel_Complex 299
+YGR250C	russel_Complex 299
+YDL126C	russel_"Ufd1/Npl4/Cdc48, ER ubiquitinated proteins degradation complex"
+YBR170C	russel_"Ufd1/Npl4/Cdc48, ER ubiquitinated proteins degradation complex"
+YBL058W	russel_"Ufd1/Npl4/Cdc48, ER ubiquitinated proteins degradation complex"
+YGR048W	russel_"Ufd1/Npl4/Cdc48, ER ubiquitinated proteins degradation complex"
+YDR049W	russel_"Ufd1/Npl4/Cdc48, ER ubiquitinated proteins degradation complex"
+YDR328C	russel_RAVE/Skp1 complex
+YMR258C	russel_RAVE/Skp1 complex
+YDL044C	russel_Complex 302
+YLR139C	russel_Complex 302
+YIL125W	russel_2-oxoglutarate dehydrogenase complex
+YDR148C	russel_2-oxoglutarate dehydrogenase complex
+YFR049W	russel_2-oxoglutarate dehydrogenase complex
+YBL045C	russel_Cytochrome bc1 complex
+YPR191W	russel_Cytochrome bc1 complex
+YGL105W	russel_Methionyl- and glutamyl-tRNA synthetases complex
+YGL245W	russel_Methionyl- and glutamyl-tRNA synthetases complex
+YGR264C	russel_Methionyl- and glutamyl-tRNA synthetases complex
+YOR284W	russel_Complex 306
+YPL206C	russel_Complex 306
+YNL175C	russel_Complex 307
+YNL002C	russel_Complex 307
+YDR035W	russel_Complex 308
+YOR230W	russel_Complex 308
+YOL006C	russel_Complex 310
+YAL034C	russel_Complex 311
+YER110C	russel_Complex 311
+YPR174C	russel_Complex 311
+YIL033C	russel_cAMP-dependent protein kinase complex
+YPL203W	russel_cAMP-dependent protein kinase complex
+YNL301C	russel_Complex 313
+YML124C	russel_Complex 313
+YDR127W	russel_Complex 314
+YJL008C	russel_Complex 314
+YKL135C	russel_AP-1 adaptor complex
+YPR029C	russel_AP-1 adaptor complex
+YPL259C	russel_AP-1 adaptor complex
+YHL019C	russel_AP-1 adaptor complex
+YLR170C	russel_AP-1 adaptor complex
+YLR449W	russel_Complex 316
+YNL175C	russel_Complex 316
+YDR496C	russel_Complex 316
+YLL034C	russel_Complex 316
+YJL034W	russel_Complex 317
+YMR214W	russel_Complex 317
+YDR141C	russel_Complex 318
+YNL297C	russel_Complex 318
+YDR434W	russel_Complex 319
+YKL039W	russel_Complex 319
+YJL026W	russel_Ribonucleoside-diphosphate reductase complex
+YGR180C	russel_Ribonucleoside-diphosphate reductase complex
+YGR175C	russel_Complex 321
+YNL272C	russel_Complex 321
+YHR128W	russel_Complex 322
+YPL235W	russel_Complex 322
+YFL045C	russel_Complex 322
+YLR325C	russel_Complex 323
+YOL054W	russel_Complex 323
+YJR140C	russel_Complex 324
+YIL070C	russel_Complex 324
+YPL153C	russel_Complex 324
+YDR044W	russel_Complex 325
+YMR227C	russel_Complex 325
+YNL232W	russel_Exosome 3'-5' exoribonuclease complex
+YOL021C	russel_Exosome 3'-5' exoribonuclease complex
+YGR158C	russel_Exosome 3'-5' exoribonuclease complex
+YHR069C	russel_Exosome 3'-5' exoribonuclease complex
+YOL142W	russel_Exosome 3'-5' exoribonuclease complex
+YDL111C	russel_Exosome 3'-5' exoribonuclease complex
+YCR035C	russel_Exosome 3'-5' exoribonuclease complex
+YDR280W	russel_Exosome 3'-5' exoribonuclease complex
+YGR095C	russel_Exosome 3'-5' exoribonuclease complex
+YOR001W	russel_Exosome 3'-5' exoribonuclease complex
+YGR195W	russel_Exosome 3'-5' exoribonuclease complex
+YOR076C	russel_Exosome 3'-5' exoribonuclease complex
+YPL083C	russel_Complex 327
+YLR386W	russel_Complex 327
+YKL092C	russel_Complex 328
+YOR153W	russel_Complex 328
+YBL030C	russel_Complex 328
+YGR175C	russel_Complex 329
+YJL155C	russel_Complex 330
+YHR169W	russel_Complex 331
+YDR365C	russel_Complex 331
+YJL033W	russel_Complex 331
+YNR043W	russel_Complex 331
+YOR375C	russel_Complex 332
+YKL006W	russel_Complex 332
+YJR092W	russel_Septin complex
+YCR002C	russel_Septin complex
+YJR076C	russel_Septin complex
+YHR107C	russel_Septin complex
+YLR314C	russel_Septin complex
+YDL225W	russel_Septin complex
+YOL097C	russel_Complex 334
+YMR315W	russel_Complex 334
+YER027C	russel_AMP-dependent protein kinase complex
+YDR028C	russel_AMP-dependent protein kinase complex
+YDR422C	russel_AMP-dependent protein kinase complex
+YDR477W	russel_AMP-dependent protein kinase complex
+YGL115W	russel_AMP-dependent protein kinase complex
+YDR214W	russel_Complex 336
+YKL010C	russel_Complex 336
+YER148W	russel_Complex 337
+YGR274C	russel_Complex 337
+YML015C	russel_Complex 337
+YDR145W	russel_Complex 337
+YPL011C	russel_Complex 337
+YMR005W	russel_Complex 337
+YMR236W	russel_Complex 337
+YOR284W	russel_Complex 338
+YAL048C	russel_Complex 338
+YFL039C	russel_Complex 339
+YNL218W	russel_Complex 339
+YLR208W	russel_Coatomer COPII complex
+YPL085W	russel_Coatomer COPII complex
+YPR181C	russel_Coatomer COPII complex
+YIL109C	russel_Coatomer COPII complex
+YNL049C	russel_Coatomer COPII complex
+YJL208C	russel_Complex 341
+YKR079C	russel_Complex 341
+YMR099C	russel_Complex 341
+YFL008W	russel_Cohesin complex
+YJL074C	russel_Cohesin complex
+YBR160W	russel_Cyclin-dependent protein kinase complex
+YBR135W	russel_Cyclin-dependent protein kinase complex
+YPL256C	russel_Cyclin-dependent protein kinase complex
+YGR155W	russel_Cyclin-dependent protein kinase complex
+YLR079W	russel_Cyclin-dependent protein kinase complex
+YPL106C	russel_Complex 344
+YJR009C	russel_Complex 344
+YDR214W	russel_Complex 345
+YDR127W	russel_Complex 345
+YNL272C	russel_Complex 346
+YMR296C	russel_Serine palmitoyltransferase  complex
+YDR062W	russel_Serine palmitoyltransferase  complex
+YMR176W	russel_Complex 348
+YJR138W	russel_Complex 348
+YGR170W	russel_Complex 348
+YER091C	russel_Complex 349
+YPR074C	russel_Complex 349
+YPL094C	russel_Sec62/Sec63 complex
+YOR254C	russel_Sec62/Sec63 complex
+YBR171W	russel_Sec62/Sec63 complex
+YLR292C	russel_Sec62/Sec63 complex
+YGL001C	russel_Complex 351
+YLR180W	russel_Complex 352
+YDR502C	russel_Complex 352
+YPL084W	russel_Bro1/Snf7 complex
+YLR025W	russel_Bro1/Snf7 complex
+YLR129W	russel_Complex 354
+YBR247C	russel_Complex 354
+YNL132W	russel_Complex 354
+YCL059C	russel_Complex 354
+YPR144C	russel_Complex 354
+YDL148C	russel_Complex 354
+YGL171W	russel_Complex 354
+YGR090W	russel_Complex 354
+YDR449C	russel_Complex 354
+YER082C	russel_Complex 354
+YGR145W	russel_Complex 354
+YNL085W	russel_Complex  355
+YDL082W	russel_Complex  355
+YBR105C	russel_Complex  355
+YNL076W	russel_Rtg2/Mks1 complex
+YGL252C	russel_Rtg2/Mks1 complex
+YGR218W	russel_Complex 357
+YNR031C	russel_Complex 358
+YOR370C	russel_Complex 359
+YOR347C	russel_Complex 359
+YPR074C	russel_Complex 360
+YML028W	russel_Complex 360
+YGR214W	russel_Complex 361
+YBR189W	russel_Complex 361
+YGL167C	russel_Complex 362
+YPL235W	russel_Complex 362
+YFL045C	russel_Complex 362
+YCR046C	russel_Mitochondrial ribosomal large subunit
+YDR296W	russel_Mitochondrial ribosomal large subunit
+YKL167C	russel_Mitochondrial ribosomal large subunit
+YDR322W	russel_Mitochondrial ribosomal large subunit
+YJL063C	russel_Mitochondrial ribosomal large subunit
+YGR220C	russel_Mitochondrial ribosomal large subunit
+YML025C	russel_Mitochondrial ribosomal large subunit
+YLR398C	russel_SKI complex
+YPR189W	russel_SKI complex
+YGL213C	russel_SKI complex
+YCR009C	russel_Rvs161/Rvs167 complex
+YDR388W	russel_Rvs161/Rvs167 complex
+YPL061W	russel_Complex 366
+YJL101C	russel_Complex 366
+YOR136W	russel_Complex 366
+YPL226W	russel_Complex 366
+YHR208W	russel_Complex 367
+YJR148W	russel_Complex 367
+YNL308C	russel_Complex 368
+YBR048W	russel_Complex 368
+YAL034C	russel_Complex 369
+YML063W	russel_Complex 369
+YNL172W	russel_"Anaphase-promoting complex, cyclosome"
+YLR127C	russel_"Anaphase-promoting complex, cyclosome"
+YDR118W	russel_"Anaphase-promoting complex, cyclosome"
+YOR249C	russel_"Anaphase-promoting complex, cyclosome"
+YLR102C	russel_"Anaphase-promoting complex, cyclosome"
+YKL022C	russel_"Anaphase-promoting complex, cyclosome"
+YHR166C	russel_"Anaphase-promoting complex, cyclosome"
+YBL084C	russel_"Anaphase-promoting complex, cyclosome"
+YNL110C	russel_Complex 371
+YOR349W	russel_Complex 372
+YBL104C	russel_Complex 372
+YCL017C	russel_Complex 373
+YGR192C	russel_Complex 373
+YER048W-A	russel_Complex 373
+YLR015W	russel_"COMPASS, histone H3 methyltransferase protein complex"
+YDR469W	russel_"COMPASS, histone H3 methyltransferase protein complex"
+YHR119W	russel_"COMPASS, histone H3 methyltransferase protein complex"
+YPL138C	russel_"COMPASS, histone H3 methyltransferase protein complex"
+YAR003W	russel_"COMPASS, histone H3 methyltransferase protein complex"
+YBR175W	russel_"COMPASS, histone H3 methyltransferase protein complex"
+YDR032C	russel_Complex 375
+YBR052C	russel_Complex 375
+YLR106C	russel_Complex 376
+YJR132W	russel_Complex 376
+YFL037W	russel_Complex 376
+YBL085W	russel_Complex 377
+YER165W	russel_Complex 377
+YJL194W	russel_Complex 378
+YDR430C	russel_Complex 379
+YLR203C	russel_Complex 379
+YHR012W	russel_Retromer subcomplex
+YJL154C	russel_Retromer subcomplex
+YOR069W	russel_Retromer subcomplex
+YLR088W	russel_GPI transamidase complex
+YDR331W	russel_GPI transamidase complex
+YLR150W	russel_Complex 382
+YIL056W	russel_Complex 382
+YOR234C	russel_Complex 383
+YPR043W	russel_Complex 383
+YOR136W	russel_Complex 384
+YIL094C	russel_Complex 384
+YOR173W	russel_Complex 385
+YDR460W	russel_Complex 385
+YPL220W	russel_Complex 386
+YML072C	russel_Complex 386
+YER165W	russel_Pab1/Pan2/Pan3 complex
+YGL094C	russel_Pab1/Pan2/Pan3 complex
+YJR009C	russel_Complex 389
+YOL097C	russel_Complex 389
+YJR140C	russel_Complex 390
+YPL153C	russel_Complex 390
+YDR127W	russel_Complex 391
+YER095W	russel_Complex 391
+YGR234W	russel_Complex 391
+YDR137W	russel_Ric1/Rgp1 complex
+YLR039C	russel_Ric1/Rgp1 complex
+YLR410W	russel_Complex 393
+YLR276C	russel_Complex 394
+YDR060W	russel_Complex 394
+YBR142W	russel_Complex 394
+YPL043W	russel_Complex 394
+YNL002C	russel_Complex 394
+YLR221C	russel_Complex 394
+YOR272W	russel_Complex 394
+YAL017W	russel_Complex 395
+YMR227C	russel_Complex 395
+YHL033C	russel_Complex 396
+YER036C	russel_Complex 396
+YBR205W	russel_Complex 397
+YDR346C	russel_Complex 397
+YPR118W	russel_Complex 397
+YPL023C	russel_Complex 398
+YGL125W	russel_Complex 398
+YBL047C	russel_Complex 399
+YCR030C	russel_Complex 399
+YGL200C	russel_Heteromeric p24 complex 1
+YAR002C-A	russel_Heteromeric p24 complex 1
+YAL007C	russel_Heteromeric p24 complex 1
+YML012W	russel_Heteromeric p24 complex 1
+YOR299W	russel_Complex 401
+YLR330W	russel_Complex 401
+YJL099W	russel_Complex 401
+YMR237W	russel_Complex 401
+YBR211C	russel_MIND kinetochore complex
+YIR010W	russel_MIND kinetochore complex
+YAL034W-A	russel_MIND kinetochore complex
+YOR038C	russel_Complex 403
+YMR029C	russel_Far  complex
+YHL001W	russel_Far  complex
+YDR292C	russel_Signal recognition particle receptor
+YKL154W	russel_Signal recognition particle receptor
+YNL175C	russel_Complex 406
+YBR123C	russel_TFIIIC complex
+YAL001C	russel_TFIIIC complex
+YGR047C	russel_TFIIIC complex
+YDR362C	russel_TFIIIC complex
+YOR110W	russel_TFIIIC complex
+YPL007C	russel_TFIIIC complex
+YBR086C	russel_Complex 408
+YDR101C	russel_Complex 409
+YLR449W	russel_Complex 409
+YKL009W	russel_Complex 409
+YPL211W	russel_Complex 409
+YPL093W	russel_Complex 409
+YNR053C	russel_Complex 409
+YNL061W	russel_Complex 409
+YER126C	russel_Complex 409
+YER006W	russel_Complex 409
+YKR081C	russel_Complex 409
+YGR245C	russel_Complex 409
+YPR016C	russel_Complex 409
+YNL301C	russel_Complex 410
+YPL249C-A	russel_Complex 410
+YKL092C	russel_Complex 412
+YKL039W	russel_Complex 412
+YNL153C	russel_Gim complexes
+YGR078C	russel_Gim complexes
+YLR200W	russel_Gim complexes
+YOR243C	russel_Complex 414
+YGL232W	russel_Complex 414
+YMR176W	russel_Complex 416
+YJR132W	russel_Complex 416
+YOR349W	russel_Complex 417
+YPR043W	russel_Complex 417
+YGL128C	russel_Complex 418
+YLR424W	russel_Complex 418
+YHL011C	russel_Complex 419
+YBL039C	russel_Complex 419
+YPR175W	russel_DNA polymerase epsilon complex
+YDR121W	russel_DNA polymerase epsilon complex
+YNL262W	russel_DNA polymerase epsilon complex
+YGR200C	russel_HAP subcomplex of elongator  complex
+YPL086C	russel_HAP subcomplex of elongator  complex
+YPL101W	russel_HAP subcomplex of elongator  complex
+YHR187W	russel_HAP subcomplex of elongator  complex
+YLR384C	russel_HAP subcomplex of elongator  complex
+YOR160W	russel_Complex 422
+YJR132W	russel_Complex 422
+YML029W	russel_Complex 422
+YIL062C	russel_ARP2/3 complex
+YLR370C	russel_ARP2/3 complex
+YKL013C	russel_ARP2/3 complex
+YNR035C	russel_ARP2/3 complex
+YBR234C	russel_ARP2/3 complex
+YDL029W	russel_ARP2/3 complex
+YJR065C	russel_ARP2/3 complex
+YNL021W	russel_Trichostatin A-sensitive class II histone deacetylase complex
+YDR295C	russel_Trichostatin A-sensitive class II histone deacetylase complex
+YPR179C	russel_Trichostatin A-sensitive class II histone deacetylase complex
+YOR323C	russel_Trichostatin A-sensitive class II histone deacetylase complex
+YHL034C	russel_Complex 425
+YGL030W	russel_Complex 426
+YKL067W	russel_Complex 426
+YOR036W	russel_Complex 427
+YBL050W	russel_Complex 427
+YMR197C	russel_Complex 427
+YKL196C	russel_Complex 427
+YPR034W	russel_"RSC, abundant chromatin remodeling complex "
+YMR091C	russel_"RSC, abundant chromatin remodeling complex "
+YGR056W	russel_"RSC, abundant chromatin remodeling complex "
+YLR357W	russel_"RSC, abundant chromatin remodeling complex "
+YDR303C	russel_"RSC, abundant chromatin remodeling complex "
+YKR008W	russel_"RSC, abundant chromatin remodeling complex "
+YLR033W	russel_"RSC, abundant chromatin remodeling complex "
+YCR052W	russel_"RSC, abundant chromatin remodeling complex "
+YFR037C	russel_"RSC, abundant chromatin remodeling complex "
+YML127W	russel_"RSC, abundant chromatin remodeling complex "
+YLR321C	russel_"RSC, abundant chromatin remodeling complex "
+YIL126W	russel_"RSC, abundant chromatin remodeling complex "
+YLR148W	russel_38S HOPS complex
+YMR231W	russel_38S HOPS complex
+YDL077C	russel_38S HOPS complex
+YPL045W	russel_38S HOPS complex
+YLR396C	russel_38S HOPS complex
+YDR080W	russel_38S HOPS complex
+YAL002W	russel_38S HOPS complex
+YER007C-A	russel_Complex 430
+YJR014W	russel_Complex 430
+YDR091C	russel_Complex 431
+YOR096W	russel_Complex 431
+YDR471W	russel_Complex 432
+YPL009C	russel_Complex 432
+YGR155W	russel_Complex 433
+YNL078W	russel_Complex 433
+YJR045C	russel_Complex 433
+YOL070C	russel_Complex 433
+YHR019C	russel_ Complex 434
+YBL076C	russel_ Complex 434
+YER164W	russel_Complex 435
+YER103W	russel_Complex 435
+YPR057W	russel_Complex 436
+YDR099W	russel_Complex 437
+YDR001C	russel_Complex 437
+YNR050C	russel_Complex 438
+YNR046W	russel_Complex 438
+YOL124C	russel_Complex 438
+YBR049C	russel_Complex 439
+YIL056W	russel_Complex 439
+YOL077C	russel_Complex 440
+YHR052W	russel_Complex 440
+YDR060W	russel_Complex 440
+YOR206W	russel_Complex 440
+YPL043W	russel_Complex 440
+YFL002C	russel_Complex 440
+YOR272W	russel_Complex 440
+YBR097W	russel_Vps34 PtdIns 3 kinase complex II
+YPL120W	russel_Vps34 PtdIns 3 kinase complex II
+YLR240W	russel_Vps34 PtdIns 3 kinase complex II
+YLR360W	russel_Vps34 PtdIns 3 kinase complex II
+YDR068W	russel_Complex 442
+YDR483W	russel_Complex 442
+YJR064W	russel_Complex 443
+YNL212W	russel_Complex 443
+YLR203C	russel_Complex 444
+YJR045C	russel_Complex 444
+YNR010W	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YOL051W	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YPR070W	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YMR112C	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YHR058C	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YOL135C	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YBR193C	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YGL151W	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YPR168W	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YGL025C	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YLR071C	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YNL236W	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YHR041C	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YER022W	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YGR104C	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YBR253W	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YDR308C	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YCR081W	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YDR443C	russel_"Mediator complex, SRB subcomplex of RNA polymerase II"
+YDR127W	russel_Complex 446
+YGR240C	russel_Complex 446
+YGR214W	russel_Complex 446
+YHR148W	russel_Complex 447
+YLR003C	russel_Complex 447
+YGL030W	russel_Complex 448
+YGR281W	russel_Complex 448
+YGL156W	russel_Complex 450
+YDL171C	russel_Complex 451
+YLR075W	russel_Complex 451
+YJR123W	russel_Complex 451
+YKL142W	russel_Complex  452
+YGR086C	russel_Complex  452
+YDR507C	russel_Complex 453
+YCL024W	russel_Complex 453
+YKL081W	russel_Complex 454
+YBR025C	russel_Complex 454
+YLR060W	russel_Frs1/Frs2  phenylalanyl-tRNA synthetase complex
+YFL022C	russel_Frs1/Frs2  phenylalanyl-tRNA synthetase complex
+YLR355C	russel_Complex 458
+YJL052W	russel_Complex 458
+YGR274C	russel_RNA polymerase II general trancription factor TFIID
+YML015C	russel_RNA polymerase II general trancription factor TFIID
+YPL011C	russel_RNA polymerase II general trancription factor TFIID
+YMR005W	russel_RNA polymerase II general trancription factor TFIID
+YBR198C	russel_RNA polymerase II general trancription factor TFIID
+YAL012W	russel_Complex 460
+YMR235C	russel_Complex 460
+YJR064W	russel_Complex 461
+YOR187W	russel_Complex 461
+YJL002C	russel_Oligosaccharyl-transferase complex
+YGL022W	russel_Oligosaccharyl-transferase complex
+YMR149W	russel_Oligosaccharyl-transferase complex
+YEL002C	russel_Oligosaccharyl-transferase complex
+YLR163C	russel_Processing peptidase complex
+YHR024C	russel_Processing peptidase complex
+YBL099W	russel_F0/F1 ATP synthase
+YBR039W	russel_F0/F1 ATP synthase
+YJL101C	russel_Compex 465
+YOR185C	russel_Compex 465
+YPL226W	russel_Compex 465
+YNL085W	russel_Complex 466
+YPL128C	russel_Complex 467
+YJR066W	russel_Complex 467
+YLR373C	russel_Complex 467
+YPL217C	russel_Complex 468
+YOR078W	russel_Complex 468
+YDR365C	russel_Complex 468
+YNR043W	russel_Complex 468
+YDL213C	russel_Complex 468
+YGR034W	russel_Complex 469
+YLR221C	russel_Complex 469
+YGR281W	russel_Complex 469
+YOR144C	russel_Ctf18/Rfc2/Rfc3/Rfc4/Rfc5 complex
+YOR217W	russel_Ctf18/Rfc2/Rfc3/Rfc4/Rfc5 complex
+YNL290W	russel_Ctf18/Rfc2/Rfc3/Rfc4/Rfc5 complex
+YOL094C	russel_Ctf18/Rfc2/Rfc3/Rfc4/Rfc5 complex
+YBR087W	russel_Ctf18/Rfc2/Rfc3/Rfc4/Rfc5 complex
+YDR471W	russel_Complex 471
+YBL061C	russel_Complex 471
+YDL031W	russel_Complex 472
+YLR276C	russel_Complex 472
+YNL175C	russel_Complex 472
+YPL043W	russel_Complex 472
+YDR496C	russel_Complex 472
+YPR032W	russel_Complex 473
+YDR314C	russel_Complex 473
+YDR225W	russel_Complex 474
+YLR183C	russel_Complex 474
+YLR333C	russel_Complex 475
+YHL002W	russel_Vps27/Hse1 protein complex
+YNR006W	russel_Vps27/Hse1 protein complex
+YKL010C	russel_Complex 477
+YKR059W	russel_eIF4A
+YJL138C	russel_eIF4A
+YKL104C	russel_Complex 479
+YDR335W	russel_Complex 479
+YDR150W	russel_Complex 479
+YPL106C	russel_Complex 480
+YGR234W	russel_Complex 480
+YAL026C	russel_Complex 481
+YOR153W	russel_Complex 481
+YGR175C	russel_Complex 482
+YKL081W	russel_Complex 482
+YPL049C	russel_Complex 483
+YKR028W	russel_Complex 483
+YER136W	russel_Complex 484
+YER031C	russel_Complex 484
+YKR014C	russel_Complex 484
+YKL092C	russel_Complex 485
+YKR066C	russel_Complex 485
+YKL142W	russel_Complex 485
+YOR133W	russel_Complex 486
+YMR109W	russel_Complex 487
+YBR025C	russel_Complex 488
+YGL039W	russel_Complex 488
+YDR283C	russel_Complex 489
+YKL143W	russel_Complex 489
+YML091C	russel_Complex 489
+YNL099C	russel_Complex  490
+YNL032W	russel_Complex  490
+YBR263W	russel_Complex 491
+YPL009C	russel_Complex 491

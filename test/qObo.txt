@@ -1,0 +1,11 @@
+DOID:0060118	thoracic disease
+DOID:0001287	cardiovascular system disease
+DOID:0000015	reproductive system disease
+DOID:0001579	respiratory system disease
+DOID:0000016	integumentary system disease
+DOID:0000017	musculoskeletal system disease
+DOID:0000018	urinary system disease
+DOID:0000028	endocrine system disease
+DOID:0002914	immune system disease
+DOID:0000077	gastrointestinal system disease
+DOID:0000863	nervous system disease

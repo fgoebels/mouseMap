@@ -1,0 +1,186 @@
+	NumberofTissue	NumberofFractions	TotalProtCounts
+PGM2L1	Tissue enriched	cerebral cortex	2	7
+AGL	Tissue enriched	skeletal muscle	19	118
+LGALS7	Tissue enriched	skin	0	0
+ATP2A1	Tissue enriched	skeletal muscle	0	0
+TMPRSS11B	Tissue enriched	esophagus	2	3
+LOXHD1	Tissue enriched	testis	0	0
+BIN1	Tissue enriched	skeletal muscle	4	13
+ACTL7B	Tissue enriched	testis	0	0
+GFAP	Tissue enriched	cerebral cortex	0	0
+COL7A1	Tissue enriched	skin	1	1
+AKR1C4	Tissue enriched	liver	1	3
+MYL1	Tissue enriched	skeletal muscle	5	7
+MSLN	Tissue enriched	fallopian tube	0	0
+LRRN4	Tissue enriched	lung	0	0
+TPM3	Tissue enriched	skeletal muscle	68	300
+TPM2	Tissue enriched	skeletal muscle	35	390
+RBMXL2	Tissue enriched	testis	2	4
+PTCHD3	Tissue enriched	testis	0	0
+CCT6B	Tissue enriched	testis	14	43
+CPLX1	Tissue enriched	cerebral cortex	2	9
+FAM71F2	Tissue enriched	testis	1	2
+CKM	Tissue enriched	skeletal muscle	3	5
+DCD	Tissue enriched	skeletal muscle	2	3
+DLGAP1	Tissue enriched	cerebral cortex	0	0
+WDR64	Tissue enriched	testis	0	0
+COIL	Tissue enriched	testis	2	6
+KIF5A	Tissue enriched	cerebral cortex	11	29
+C16orf78	Tissue enriched	testis	0	0
+DMRTB1	Tissue enriched	testis	0	0
+TMOD2	Tissue enriched	cerebral cortex	0	0
+HSPA4L	Tissue enriched	testis	42	585
+KPRP	Tissue enriched	skin	2	5
+C9	Tissue enriched	liver	1	2
+PSMA8	Tissue enriched	testis	57	335
+DSG1	Tissue enriched	skin	1	2
+C9orf131	Tissue enriched	testis	0	0
+LDHAL6B	Tissue enriched	testis	26	68
+LDHAL6A	Tissue enriched	testis	37	197
+SOCS7	Tissue enriched	testis	0	0
+TMPRSS12	Tissue enriched	testis	1	2
+DCUN1D1	Tissue enriched	testis	5	16
+AMPH	Tissue enriched	cerebral cortex	0	0
+FAM47A	Tissue enriched	testis	0	0
+MAPK12	Tissue enriched	skeletal muscle	0	0
+ADA	Tissue enriched	duodenum	12	71
+HIST1H1E	Tissue enriched	bone marrow	0	0
+PRKACG	Tissue enriched	testis	4	6
+HIST1H2AA	Tissue enriched	testis	1	13
+HSD11B1	Tissue enriched	liver	1	1
+NSF	Tissue enriched	cerebral cortex	2	9
+ZCCHC13	Tissue enriched	testis	0	0
+PRKAR1B	Tissue enriched	cerebral cortex	2	4
+CYP3A43	Tissue enriched	liver	1	2
+DNAJC6	Tissue enriched	cerebral cortex	0	0
+SLC2A14	Tissue enriched	testis	0	0
+ANKRD31	Tissue enriched	testis	1	2
+ERO1L	Tissue enriched	esophagus	13	42
+ERC2	Tissue enriched	cerebral cortex	1	1
+MUSTN1	Tissue enriched	skeletal muscle	2	3
+TGM3	Tissue enriched	esophagus	0	0
+FGFBP3	Tissue enriched	cerebral cortex	0	0
+CCNL1	Tissue enriched	bone marrow	0	0
+TPO	Tissue enriched	thyroid gland	1	3
+KRT77	Tissue enriched	skin	2	3
+KRT76	Tissue enriched	tonsil	7	8
+KRT79	Tissue enriched	skin	1	2
+KRT78	Tissue enriched	esophagus	0	0
+H1FX	Tissue enriched	bone marrow	0	0
+ENO3	Tissue enriched	skeletal muscle	91	756
+C15orf60	Tissue enriched	testis	1	2
+HBA1	Tissue enriched	bone marrow	3	8
+DDX20	Tissue enriched	testis	0	0
+NACA2	Tissue enriched	testis	40	88
+CCDC70	Tissue enriched	testis	1	2
+PRSS21	Tissue enriched	testis	0	0
+PDCL2	Tissue enriched	testis	1	3
+VGF	Tissue enriched	cerebral cortex	1	2
+AGFG2	Tissue enriched	salivary gland	1	2
+DPF1	Tissue enriched	cerebral cortex	0	0
+KRT3	Tissue enriched	esophagus	4	7
+KRT2	Tissue enriched	skin	170	1094
+KRT1	Tissue enriched	skin	187	2568
+KRT4	Tissue enriched	esophagus	2	4
+FLG2	Tissue enriched	skin	0	0
+KRT83	Tissue enriched	thyroid gland	1	3
+KRT6B	Tissue enriched	esophagus	2	3
+KRT6A	Tissue enriched	esophagus	19	81
+CRABP2	Tissue enriched	esophagus	0	0
+TBL2	Tissue enriched	testis	0	0
+MRGBP	Tissue enriched	testis	3	5
+HBB	Tissue enriched	bone marrow	0	0
+DSC1	Tissue enriched	skin	0	0
+CCDC87	Tissue enriched	testis	0	0
+HIST1H2BA	Tissue enriched	testis	9	25
+NUP155	Tissue enriched	testis	2	2
+HSPA1L	Tissue enriched	testis	230	2986
+CNP	Tissue enriched	cerebral cortex	1	1
+AKR1D1	Tissue enriched	liver	1	2
+AKR1B1	Tissue enriched	adrenal gland	24	353
+PSG11	Tissue enriched	placenta	1	2
+SLCO1B1	Tissue enriched	liver	0	0
+NCAPD3	Tissue enriched	prostate	2	8
+ADAD1	Tissue enriched	testis	1	2
+SOAT1	Tissue enriched	adrenal gland	0	0
+HMBS	Tissue enriched	bone marrow	33	110
+SH3GL2	Tissue enriched	cerebral cortex	0	0
+AHSG	Tissue enriched	liver	22	48
+GDF5	Tissue enriched	salivary gland	2	2
+IL36G	Tissue enriched	tonsil	0	0
+ADSSL1	Tissue enriched	skeletal muscle	4	20
+DNAH8	Tissue enriched	testis	6	15
+MYBPC2	Tissue enriched	skeletal muscle	0	0
+AS3MT	Tissue enriched	adrenal gland	0	0
+VTN	Tissue enriched	liver	0	0
+ACTL8	Tissue enriched	testis	1	3
+PRSS1	Tissue enriched	pancreas	27	51
+LGI1	Tissue enriched	cerebral cortex	0	0
+CYP21A2	Tissue enriched	adrenal gland	1	2
+KRT32	Tissue enriched	esophagus	0	0
+CHN1	Tissue enriched	cerebral cortex	1	2
+KIF2B	Tissue enriched	testis	1	2
+SERPINC1	Tissue enriched	liver	3	7
+AQP6	Tissue enriched	kidney	0	0
+AHRR	Tissue enriched	testis	0	0
+CASP14	Tissue enriched	skin	2	8
+GK2	Tissue enriched	testis	3	7
+ACTC1	Tissue enriched	heart muscle	11	33
+ADCY10	Tissue enriched	testis	1	2
+FHL3	Tissue enriched	skeletal muscle	3	4
+ACACB	Tissue enriched	adipose tissue	1	2
+HS3ST6	Tissue enriched	skin	2	3
+KRT14	Tissue enriched	skin	30	129
+KRT13	Tissue enriched	esophagus	13	37
+KRT10	Tissue enriched	skin	152	1485
+PIP	Tissue enriched	salivary gland	1	1
+CCIN	Tissue enriched	testis	0	0
+SERPINB3	Tissue enriched	esophagus	15	135
+LRRD1	Tissue enriched	testis	0	0
+SERPINB10	Tissue enriched	bone marrow	0	0
+SERPINB13	Tissue enriched	esophagus	1	1
+TBPL1	Tissue enriched	testis	1	11
+NEB	Tissue enriched	skeletal muscle	1	1
+CSNK1A1L	Tissue enriched	testis	1	5
+CLPB	Tissue enriched	testis	1	1
+TF	Tissue enriched	liver	6	30
+GGN	Tissue enriched	testis	0	0
+STXBP1	Tissue enriched	cerebral cortex	0	0
+ALB	Tissue enriched	liver	144	765
+MAT1A	Tissue enriched	liver	40	133
+TUBA3C	Tissue enriched	testis	0	0
+FGB	Tissue enriched	liver	1	2
+SCAND3	Tissue enriched	testis	2	4
+RBM46	Tissue enriched	testis	0	0
+COX6B2	Tissue enriched	testis	2	3
+TUBB2A	Tissue enriched	cerebral cortex	112	419
+TUBB2B	Tissue enriched	cerebral cortex	4	4
+GABRA5	Tissue enriched	cerebral cortex	3	11
+CDT1	Tissue enriched	bone marrow	1	3
+LRWD1	Tissue enriched	testis	0	0
+KL	Tissue enriched	kidney	17	24
+RPL10L	Tissue enriched	testis	0	0
+NPTX1	Tissue enriched	cerebral cortex	0	0
+SOX3	Tissue enriched	fallopian tube	0	0
+TPPP	Tissue enriched	cerebral cortex	0	0
+NCDN	Tissue enriched	cerebral cortex	0	0
+TAGLN3	Tissue enriched	cerebral cortex	1	2
+KRTAP3-2	Tissue enriched	esophagus	0	0
+TSHR	Tissue enriched	thyroid gland	2	3
+PGK2	Tissue enriched	testis	1	4
+SYN1	Tissue enriched	cerebral cortex	1	1
+KCNU1	Tissue enriched	testis	1	2
+CDH15	Tissue enriched	skeletal muscle	0	0
+MAP2	Tissue enriched	cerebral cortex	0	0
+MBP	Tissue enriched	cerebral cortex	0	0
+NRGN	Tissue enriched	cerebral cortex	2	4
+HPCA	Tissue enriched	cerebral cortex	4	6
+RYR2	Tissue enriched	heart muscle	1	4
+DNM1	Tissue enriched	cerebral cortex	1	1
+GYS2	Tissue enriched	liver	1	1
+TSKS	Tissue enriched	testis	2	3
+PDHA2	Tissue enriched	testis	0	0
+TSSK2	Tissue enriched	testis	1	2
+GAPDHS	Tissue enriched	testis	4	7
+GPC3	Tissue enriched	placenta	0	0
+AHNAK2	Tissue enriched	skin	0	0

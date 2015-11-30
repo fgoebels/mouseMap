@@ -1,0 +1,3203 @@
+complexID	ORF
+complex_0	NAS6
+complex_0	RPT2
+complex_0	YPR003C
+complex_0	IQG1
+complex_0	RPN14
+complex_0	PEP1
+complex_0	RPT1
+complex_0	SDF1
+complex_0	SEM1
+complex_0	RPN12
+complex_0	ERV46
+complex_0	HUL5
+complex_0	YDL036C
+complex_0	RPN13
+complex_0	SPO77
+complex_0	YNL087W
+complex_0	PCI8
+complex_0	RRI1
+complex_0	RPT6
+complex_0	NMD3
+complex_0	CSI1
+complex_0	PST1
+complex_0	SWA2
+complex_0	YKL027W
+complex_0	RPN1
+complex_0	FPR2
+complex_0	TOR2
+complex_0	SQT1
+complex_0	UBP6
+complex_0	YNL022C
+complex_0	YMR258C
+complex_0	RPN11
+complex_0	CSN9
+complex_0	RPN8
+complex_0	SEC18
+complex_0	RPN5
+complex_0	MOT1
+complex_0	RPN2
+complex_0	RPN9
+complex_0	RPN10
+complex_0	MPT5
+complex_0	YMR191W
+complex_0	RPT5
+complex_0	RPN6
+complex_0	YEN1
+complex_0	YPT52
+complex_0	SKP1
+complex_0	RPT4
+complex_0	RRI2
+complex_0	YBL054W
+complex_0	RPN7
+complex_0	RPT3
+complex_0	NPT1
+complex_0	YOL022C
+complex_1	YKL151C
+complex_1	RSM23
+complex_1	MRP10
+complex_1	NCL1
+complex_1	CBF1
+complex_1	MRP21
+complex_1	MRPS5
+complex_1	RSM26
+complex_1	SVL3
+complex_1	MRPL8
+complex_1	MRP1
+complex_1	YHR155W
+complex_1	YNR036C
+complex_1	MRPS9
+complex_1	MRP51
+complex_1	MRP17
+complex_1	MRPS18
+complex_1	RSM18
+complex_1	MRPS35
+complex_1	RSM27
+complex_1	RSM7
+complex_1	NAM9
+complex_1	PET123
+complex_1	RSM19
+complex_1	RIB4
+complex_1	MRP4
+complex_1	RSM24
+complex_1	RSM28
+complex_1	FYV4
+complex_1	MRPS16
+complex_1	MRPS28
+complex_1	RSM22
+complex_1	RSM25
+complex_1	MRPS17
+complex_1	RSM10
+complex_1	YNL081C
+complex_1	MAM33
+complex_1	YJR096W
+complex_1	YDR124W
+complex_1	
+complex_1	
+complex_1	
+complex_1	
+complex_1	
+complex_1	
+complex_1	
+complex_1	
+complex_1	
+complex_1	
+complex_1	
+complex_1	
+complex_1	
+complex_1	
+complex_1	
+complex_2	CCA1
+complex_2	VID21
+complex_2	YCR060W
+complex_2	YLR385C
+complex_2	FUN36
+complex_2	IES3
+complex_2	ESA1
+complex_2	EPL1
+complex_2	IES5
+complex_2	IES2
+complex_2	VPS71
+complex_2	EAF5
+complex_2	NTO1
+complex_2	ARP6
+complex_2	NHP10
+complex_2	VPS72
+complex_2	YNL136W
+complex_2	ARP5
+complex_2	IES4
+complex_2	ARP8
+complex_2	AOR1
+complex_2	IES6
+complex_2	YNG2
+complex_2	RVB1
+complex_2	YHR034C
+complex_2	RVB2
+complex_2	SWR1
+complex_2	EAF6
+complex_2	INO80
+complex_2	TRA1
+complex_2	IES1
+complex_2	SAS3
+complex_2	GOD1
+complex_2	YAF9
+complex_2	ARP4
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_2	
+complex_3	SCL1
+complex_3	PRE6
+complex_3	PRE2
+complex_3	YJL132W
+complex_3	MCM6
+complex_3	PRE5
+complex_3	YKR070W
+complex_3	UMP1
+complex_3	DCG1
+complex_3	SNQ2
+complex_3	TOS8
+complex_3	YDL203C
+complex_3	PRE7
+complex_3	MLP1
+complex_3	PRE10
+complex_3	PMD1
+complex_3	PMT4
+complex_3	SGA1
+complex_3	PRE4
+complex_3	PRE1
+complex_3	GNA1
+complex_3	PUP1
+complex_3	YLR290C
+complex_3	PRE3
+complex_3	PRE8
+complex_3	CIN8
+complex_3	PUP2
+complex_3	YLR211C
+complex_3	YDR179W-A
+complex_3	PUP3
+complex_3	PRE9
+complex_3	RFT1
+complex_3	YCR076C
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_3	
+complex_4	SMX2
+complex_4	SNU66
+complex_4	PRP31
+complex_4	BRR1
+complex_4	MUD1
+complex_4	SNU56
+complex_4	YDL085C-A
+complex_4	YHC1
+complex_4	NAM8
+complex_4	YJU2
+complex_4	SMD3
+complex_4	SNU71
+complex_4	SME1
+complex_4	PRP2
+complex_4	PRP42
+complex_4	PRP40
+complex_4	BRR2
+complex_4	CSE1
+complex_4	SMD1
+complex_4	SMD2
+complex_4	TAD2
+complex_4	SMB1
+complex_4	PRP8
+complex_4	SMX3
+complex_4	PRP6
+complex_4	AAR2
+complex_4	SNP1
+complex_4	YNL092W
+complex_4	YOR305W
+complex_4	PRP3
+complex_4	LUC7
+complex_4	SNU114
+complex_4	PRP39
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_4	
+complex_5	AHC1
+complex_5	TAF68
+complex_5	SPT8
+complex_5	TAF67
+complex_5	TAF90
+complex_5	HFI1
+complex_5	TAF25
+complex_5	ADA2
+complex_5	TAF40
+complex_5	SPT7
+complex_5	MPT1
+complex_5	TAF19
+complex_5	REV3
+complex_5	RAD59
+complex_5	SGF29
+complex_5	YMR007W
+complex_5	PDR15
+complex_5	TAF6
+complex_5	GCN5
+complex_5	SPT20
+complex_5	SNL1
+complex_5	TAF17
+complex_5	YPL047W
+complex_5	YPL222W
+complex_5	NGG1
+complex_5	YCR082W
+complex_5	MSS4
+complex_5	TAF47
+complex_5	SPT3
+complex_5	TAF145
+complex_5	UBP8
+complex_5	SGF73
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_5	
+complex_6	SRB4
+complex_6	PGD1
+complex_6	SOH1
+complex_6	SRB5
+complex_6	MED7
+complex_6	MSU1
+complex_6	YOR013W
+complex_6	NUT1
+complex_6	MED6
+complex_6	GAL11
+complex_6	ROX3
+complex_6	CSE2
+complex_6	MED11
+complex_6	MED8
+complex_6	GPT2
+complex_6	SRB6
+complex_6	SIN4
+complex_6	MED2
+complex_6	NUT2
+complex_6	MED4
+complex_6	MED1
+complex_6	SSN3
+complex_6	RGR1
+complex_6	YOR192C
+complex_6	SRB7
+complex_6	SSN8
+complex_6	SRB2
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_6	
+complex_7	RPA135
+complex_7	RPC53
+complex_7	CDC14
+complex_7	RPA43
+complex_7	RPA34
+complex_7	YDL144C
+complex_7	RPA12
+complex_7	RPC11
+complex_7	RPC37
+complex_7	RPC40
+complex_7	RPC31
+complex_7	GIF1
+complex_7	RPA49
+complex_7	RPA190
+complex_7	RPA14
+complex_7	RPC25
+complex_7	RPC34
+complex_7	BDP1
+complex_7	FAR7
+complex_7	COY1
+complex_7	RET1
+complex_7	RPC17
+complex_7	RPC82
+complex_7	RPC19
+complex_7	RPO31
+complex_7	MAF1
+complex_7	RPC10
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_7	
+complex_8	DIG2
+complex_8	AHA1
+complex_8	SMT3
+complex_8	CPR6
+complex_8	HSP104
+complex_8	UTP20
+complex_8	RTS1
+complex_8	HSC82
+complex_8	YAL028W
+complex_8	PPT1
+complex_8	PAM1
+complex_8	HSP82
+complex_8	GPA2
+complex_8	QNS1
+complex_8	MBB1
+complex_8	HOM6
+complex_8	YEL070W
+complex_8	MRPL50
+complex_8	STI1
+complex_8	TDH1
+complex_8	STP4
+complex_8	DNM1
+complex_8	BUD3
+complex_8	YBL104C
+complex_8	CNS1
+complex_8	RMD8
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_8	
+complex_9	RPO26
+complex_9	RPB10
+complex_9	RPB1
+complex_9	RPB3
+complex_9	RPB2
+complex_9	RHK1
+complex_9	RPB4
+complex_9	ESS1
+complex_9	RPB8
+complex_9	YPL225W
+complex_9	CBF2
+complex_9	IWR1
+complex_9	RPB9
+complex_9	YBR259W
+complex_9	RPB11
+complex_9	FYV11
+complex_9	YBL059W
+complex_9	RPB7
+complex_9	SPT4
+complex_9	TAF30
+complex_9	TFG2
+complex_9	TFG1
+complex_9	RPB5
+complex_9	DST1
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_9	
+complex_10	RSC2
+complex_10	STH1
+complex_10	APG16
+complex_10	HTL1
+complex_10	PCL9
+complex_10	YDR520C
+complex_10	RSC58
+complex_10	YIL177C
+complex_10	ARP7
+complex_10	YBR161W
+complex_10	NPL6
+complex_10	RSC8
+complex_10	GRS2
+complex_10	SFH1
+complex_10	RSC3
+complex_10	ARP9
+complex_10	RTT102
+complex_10	YCL044C
+complex_10	RSC4
+complex_10	RSC1
+complex_10	NFI1
+complex_10	RSC9
+complex_10	RIM15
+complex_10	RSC6
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_10	
+complex_11	YGR272C
+complex_11	YRF11
+complex_11	YGR271C-A
+complex_11	SFA1
+complex_11	NOP8
+complex_11	HAS1
+complex_11	DBP6
+complex_11	YMR034C
+complex_11	RRP5
+complex_11	MAK21
+complex_11	NOC2
+complex_11	SSQ1
+complex_11	PUS7
+complex_11	RSA3
+complex_11	BUD22
+complex_11	NOB1
+complex_11	NOC3
+complex_11	FRE3
+complex_11	SBP1
+complex_11	NOP2
+complex_11	NOP1
+complex_11	GIS2
+complex_11	NIP7
+complex_11	CIC1
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_11	
+complex_12	HAL5
+complex_12	DIG1
+complex_12	TLG2
+complex_12	PTH2
+complex_12	RGA2
+complex_12	THR1
+complex_12	RMA1
+complex_12	SIR1
+complex_12	YPL035C
+complex_12	YBR168W
+complex_12	KRE21
+complex_12	YDR275W
+complex_12	ECM29
+complex_12	YEL057C
+complex_12	RPN3
+complex_12	STE12
+complex_12	MRC1
+complex_12	PRP5
+complex_12	YDL199C
+complex_12	CWH41
+complex_12	ADE2
+complex_12	YJL207C
+complex_12	DBF4
+complex_12	VPS45
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_12	
+complex_13	RGA1
+complex_13	SHE3
+complex_13	YGR003W
+complex_13	SHE2
+complex_13	YLR356W
+complex_13	SRC1
+complex_13	YDR186C
+complex_13	BUB1
+complex_13	STT4
+complex_13	SSH4
+complex_13	TOF2
+complex_13	MYO2
+complex_13	ISM1
+complex_13	RSB1
+complex_13	GUT1
+complex_13	YOL098C
+complex_13	MEC3
+complex_13	MLC1
+complex_13	YMR071C
+complex_13	SAT4
+complex_13	MYO4
+complex_13	SHE4
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_13	
+complex_14	TUP1
+complex_14	YDR330W
+complex_14	TEM1
+complex_14	YNL155W
+complex_14	SHP1
+complex_14	NDT80
+complex_14	NPL4
+complex_14	YDR049W
+complex_14	BFA1
+complex_14	CDC48
+complex_14	YGL108C
+complex_14	PET56
+complex_14	YFL044C
+complex_14	DOA1
+complex_14	YOR342C
+complex_14	YJR098C
+complex_14	UFD1
+complex_14	RDS2
+complex_14	YMR067C
+complex_14	YBR273C
+complex_14	FBP1
+complex_14	UFD2
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_14	
+complex_15	NUP188
+complex_15	PSY2
+complex_15	HTB2
+complex_15	ARG82
+complex_15	HEX3
+complex_15	TOP2
+complex_15	YDL156W
+complex_15	YBL046W
+complex_15	STP1
+complex_15	HHF2
+complex_15	HTB1
+complex_15	SPT5
+complex_15	CKI1
+complex_15	HHF1
+complex_15	ABF2
+complex_15	RRD1
+complex_15	HTA2
+complex_15	SLX8
+complex_15	PPH3
+complex_15	HTA1
+complex_16	MSE1
+complex_16	SAS5
+complex_16	YHR127W
+complex_16	RRS1
+complex_16	YPR045C
+complex_16	BRE5
+complex_16	YCR087C-A
+complex_16	RPF2
+complex_16	YRA1
+complex_16	CSN12
+complex_16	YPL146C
+complex_16	MET10
+complex_16	NPY1
+complex_16	DBP7
+complex_16	YGR126W
+complex_16	CUP2
+complex_16	YDL053C
+complex_16	MSC7
+complex_16	ALG5
+complex_16	UME6
+complex_17	MRH1
+complex_17	YNR021W
+complex_17	RPL36B
+complex_17	YOR193W
+complex_17	SPC3
+complex_17	SPC1
+complex_17	SEC11
+complex_17	FKS1
+complex_17	TSC13
+complex_17	RPL10
+complex_17	SPC2
+complex_17	RPL37A
+complex_17	CTP1
+complex_17	TCM62
+complex_17	OLE1
+complex_17	YFR022W
+complex_17	FTR1
+complex_17	RPP1A
+complex_17	ERV25
+complex_17	
+complex_18	PTI1
+complex_18	FUN21
+complex_18	YAL046C
+complex_18	YOR179C
+complex_18	PFS2
+complex_18	MPE1
+complex_18	YTH1
+complex_18	SWD2
+complex_18	ECM21
+complex_18	REF2
+complex_18	YSH1
+complex_18	YBL010C
+complex_18	PTA1
+complex_18	FIP1
+complex_18	SSU72
+complex_18	PAP1
+complex_18	YLR358C
+complex_18	CFT1
+complex_18	CFT2
+complex_18	
+complex_19	RRP40
+complex_19	RRP43
+complex_19	LRP1
+complex_19	SKI7
+complex_19	DDI1
+complex_19	SKI6
+complex_19	RRP6
+complex_19	RRP4
+complex_19	RRP42
+complex_19	CSL4
+complex_19	RRP45
+complex_19	YBL055C
+complex_19	YNR024W
+complex_19	DIS3
+complex_19	MTR3
+complex_19	OSM1
+complex_19	ENT3
+complex_19	RRP46
+complex_19	
+complex_19	
+complex_20	CAJ1
+complex_20	YGR198W
+complex_20	SAC6
+complex_20	ARC15
+complex_20	SAR1
+complex_20	YEL001C
+complex_20	MSK1
+complex_20	YIL105C
+complex_20	INP52
+complex_20	PST2
+complex_20	YPR093C
+complex_20	TCP1
+complex_20	CRN1
+complex_20	YIL039W
+complex_20	PNO1
+complex_20	CDC7
+complex_20	YDR314C
+complex_20	
+complex_20	
+complex_20	
+complex_21	PRP28
+complex_21	APP2
+complex_21	YLR218C
+complex_21	SLK19
+complex_21	PCL10
+complex_21	RVS167
+complex_21	KIN2
+complex_21	SAE2
+complex_21	RVS161
+complex_21	BAR1
+complex_21	GYP5
+complex_21	NCP1
+complex_21	YBR108W
+complex_21	VPS15
+complex_21	HNT1
+complex_21	MEF2
+complex_21	YGR033C
+complex_21	
+complex_21	
+complex_21	
+complex_22	TOP1
+complex_22	ZAP1
+complex_22	YDR396W
+complex_22	YGL024W
+complex_22	YNL310C
+complex_22	YLR454W
+complex_22	IRA1
+complex_22	YKL037W
+complex_22	SML1
+complex_22	MID1
+complex_22	SHD7
+complex_22	APC9
+complex_22	MDM36
+complex_22	BEM3
+complex_22	SEC20
+complex_22	REV1
+complex_22	NUP42
+complex_22	
+complex_22	
+complex_22	
+complex_23	YRB2
+complex_23	MET6
+complex_23	HIS6
+complex_23	SPE3
+complex_23	YFR044C
+complex_23	YLF2
+complex_23	RAD14
+complex_23	HIS4
+complex_23	OYE2
+complex_23	ARO1
+complex_23	HRD1
+complex_23	SPE4
+complex_23	TIM11
+complex_23	GDH1
+complex_23	URA6
+complex_23	ALA1
+complex_23	SCP160
+complex_23	
+complex_23	
+complex_23	
+complex_24	COQ6
+complex_24	DEP1
+complex_24	RXT3
+complex_24	CTI6
+complex_24	YGR263C
+complex_24	SIN3
+complex_24	UME1
+complex_24	RXT2
+complex_24	PHO23
+complex_24	SDS3
+complex_24	EAF3
+complex_24	RCO1
+complex_24	ASH1
+complex_24	GRX5
+complex_24	RPD3
+complex_24	SAP30
+complex_24	
+complex_24	
+complex_24	
+complex_24	
+complex_25	PIL1
+complex_25	NOP13
+complex_25	LSP1
+complex_25	PRP16
+complex_25	PSK2
+complex_25	PKH1
+complex_25	YPL005W
+complex_25	CDC20
+complex_25	FOL2
+complex_25	YTA6
+complex_25	YMR086W
+complex_25	YPR115W
+complex_25	GZF3
+complex_25	RPL9B
+complex_25	YLR179C
+complex_25	FAB1
+complex_25	
+complex_25	
+complex_25	
+complex_25	
+complex_26	ATG14
+complex_26	NHA1
+complex_26	YNL119W
+complex_26	PET127
+complex_26	MES1
+complex_26	YKL050C
+complex_26	PHO91
+complex_26	PHO89
+complex_26	CAT8
+complex_26	MGA2
+complex_26	YLR247C
+complex_26	CCC2
+complex_26	ARC1
+complex_26	MCA1
+complex_26	HEK2
+complex_26	YLR363W-A
+complex_26	
+complex_26	
+complex_26	
+complex_26	
+complex_27	HHT2
+complex_27	SEN1
+complex_27	LEO1
+complex_27	PSH1
+complex_27	SPT16
+complex_27	YHR035W
+complex_27	CDC73
+complex_27	BRO1
+complex_27	PAF1
+complex_27	AYT1
+complex_27	YML107C
+complex_27	GLO4
+complex_27	RTF1
+complex_27	YMR041C
+complex_27	CTR9
+complex_27	POB3
+complex_27	
+complex_27	
+complex_27	
+complex_27	
+complex_28	CTF3
+complex_28	CTF19
+complex_28	MCM16
+complex_28	IML3
+complex_28	NKP1
+complex_28	PRP18
+complex_28	OKP1
+complex_28	NKP2
+complex_28	YNR062C
+complex_28	ARG5,6
+complex_28	AME1
+complex_28	MCM21
+complex_28	SET4
+complex_28	CHL4
+complex_28	MCM22
+complex_28	
+complex_28	
+complex_28	
+complex_28	
+complex_28	
+complex_29	YKL088W
+complex_29	VHS3
+complex_29	CHD1
+complex_29	HOT1
+complex_29	CKA1
+complex_29	ELF1
+complex_29	YLR387C
+complex_29	YNL149C
+complex_29	CKA2
+complex_29	RIM13
+complex_29	YLR407W
+complex_29	NRG1
+complex_29	CKB2
+complex_29	MSC3
+complex_29	CKB1
+complex_29	
+complex_29	
+complex_29	
+complex_29	
+complex_29	
+complex_30	HCR1
+complex_30	SUI1
+complex_30	TIF5
+complex_30	TIF35
+complex_30	YER030W
+complex_30	NIP1
+complex_30	PRT1
+complex_30	HEM12
+complex_30	ECM2
+complex_30	TIF34
+complex_30	YPL105C
+complex_30	KAP122
+complex_30	RPG1
+complex_30	ADE8
+complex_30	YOR052C
+complex_30	
+complex_30	
+complex_30	
+complex_30	
+complex_30	
+complex_31	YPL201C
+complex_31	CLG1
+complex_31	HRT2
+complex_31	TFP1
+complex_31	VMA13
+complex_31	VMA10
+complex_31	VMA2
+complex_31	VMA7
+complex_31	LAP3
+complex_31	CUE1
+complex_31	HAM1
+complex_31	XDJ1
+complex_31	GTR1
+complex_31	VMA8
+complex_32	YBR267W
+complex_32	WTM1
+complex_32	RIM11
+complex_32	TOS5
+complex_32	VIP1
+complex_32	KAP114
+complex_32	PRO3
+complex_32	RPS6A
+complex_32	YMR110C
+complex_32	UBC8
+complex_32	KCC4
+complex_32	NAP1
+complex_32	GIN4
+complex_32	HTZ1
+complex_33	SOK1
+complex_33	ZUO1
+complex_33	SGD1
+complex_33	YOR091W
+complex_33	YOR086C
+complex_33	LYS4
+complex_33	NEW1
+complex_33	YLR072W
+complex_33	YOR081C
+complex_33	SSZ1
+complex_33	HFM1
+complex_33	YEF3
+complex_33	FUN11
+complex_33	
+complex_34	RET3
+complex_34	LCB5
+complex_34	YLR051C
+complex_34	SEC27
+complex_34	YBR047W
+complex_34	PIP2
+complex_34	SEC21
+complex_34	RET2
+complex_34	SEC26
+complex_34	COP1
+complex_34	SEC28
+complex_34	SCS2
+complex_34	SEC2
+complex_34	
+complex_35	LEA1
+complex_35	RSE1
+complex_35	CWC21
+complex_35	PRP11
+complex_35	HSH49
+complex_35	CUS1
+complex_35	PRP9
+complex_35	PRP45
+complex_35	BUD31
+complex_35	PRP21
+complex_35	BUD13
+complex_35	HSH155
+complex_35	LOT6
+complex_35	
+complex_36	NUP60
+complex_36	STO1
+complex_36	KAP95
+complex_36	PCT1
+complex_36	NUP1
+complex_36	CBC2
+complex_36	SRP1
+complex_36	OGG1
+complex_36	ULP1
+complex_36	YRA2
+complex_36	RAD53
+complex_36	NUP2
+complex_36	YJR041C
+complex_36	
+complex_37	HHO1
+complex_37	GVP36
+complex_37	MFT1
+complex_37	GBP2
+complex_37	CPR7
+complex_37	YNL140C
+complex_37	RLR1
+complex_37	SUB2
+complex_37	HRB1
+complex_37	THP2
+complex_37	HPR1
+complex_37	RIS1
+complex_37	TEX1
+complex_37	
+complex_38	YOR227W
+complex_38	PUF3
+complex_38	SDS22
+complex_38	YPL137C
+complex_38	BNI4
+complex_38	YLR257W
+complex_38	BUD14
+complex_38	YFR003C
+complex_38	GLC7
+complex_38	PPZ1
+complex_38	SOL2
+complex_38	SOL1
+complex_38	GLC8
+complex_38	
+complex_39	KIC1
+complex_39	YDR348C
+complex_39	RFX1
+complex_39	PIK1
+complex_39	YNR014W
+complex_39	APG1
+complex_39	REG1
+complex_39	UBP11
+complex_39	ASK10
+complex_39	NTH1
+complex_39	BMH2
+complex_39	SOG2
+complex_39	
+complex_39	
+complex_40	YER004W
+complex_40	CDC26
+complex_40	CDC23
+complex_40	APC4
+complex_40	CDC16
+complex_40	SSP2
+complex_40	APC2
+complex_40	MND2
+complex_40	CDC27
+complex_40	DOC1
+complex_40	APC5
+complex_40	APC1
+complex_40	
+complex_40	
+complex_41	YGR054W
+complex_41	LSM6
+complex_41	LSM3
+complex_41	PAT1
+complex_41	LSM1
+complex_41	LSM7
+complex_41	LSM8
+complex_41	LSM5
+complex_41	LSM2
+complex_41	PRP24
+complex_41	KEM1
+complex_41	LSM4
+complex_41	
+complex_41	
+complex_42	LOC1
+complex_42	BUR2
+complex_42	BRX1
+complex_42	TSR1
+complex_42	NHP6A
+complex_42	YDR117C
+complex_42	BFR1
+complex_42	RIM1
+complex_42	PRK1
+complex_42	SGV1
+complex_42	SPB1
+complex_42	APN2
+complex_42	
+complex_42	
+complex_43	CDC9
+complex_43	POR1
+complex_43	MEP3
+complex_43	CAK1
+complex_43	CDC53
+complex_43	MET30
+complex_43	GRR1
+complex_43	YBR280C
+complex_43	RTT101
+complex_43	MOR1
+complex_43	CDC34
+complex_43	MMS1
+complex_43	
+complex_43	
+complex_44	DBP3
+complex_44	YDR381C-A
+complex_44	YOL008W
+complex_44	NHP2
+complex_44	FYV14
+complex_44	DSE4
+complex_44	KRR1
+complex_44	GAR1
+complex_44	NOP10
+complex_44	KRI1
+complex_44	YCR016W
+complex_44	
+complex_44	
+complex_44	
+complex_45	DPH2
+complex_45	TRX1
+complex_45	PGI1
+complex_45	EFT2
+complex_45	HGH1
+complex_45	YJL046W
+complex_45	YMR315W
+complex_45	EFT1
+complex_45	MNN1
+complex_45	KIF48
+complex_45	YJL062W-A
+complex_45	
+complex_45	
+complex_45	
+complex_46	POP7
+complex_46	POP4
+complex_46	POP5
+complex_46	SNM1
+complex_46	RPR2
+complex_46	RPP1
+complex_46	POP3
+complex_46	POP1
+complex_46	POP6
+complex_46	YLR145W
+complex_46	
+complex_46	
+complex_46	
+complex_46	
+complex_47	PPH21
+complex_47	ZDS2
+complex_47	YRR1
+complex_47	ZDS1
+complex_47	CDC55
+complex_47	PHR1
+complex_47	RRD2
+complex_47	TPD3
+complex_47	PPH22
+complex_47	FIR1
+complex_48	GAL80
+complex_48	ATP3
+complex_48	SGN1
+complex_48	CIK1
+complex_48	FYV3
+complex_48	YML002W
+complex_48	YGR250C
+complex_48	PMI40
+complex_48	ARG3
+complex_48	YOR1
+complex_49	GCD6
+complex_49	GCD1
+complex_49	GCD7
+complex_49	GCD11
+complex_49	MRF1
+complex_49	GCD2
+complex_49	ADE1
+complex_49	SUI2
+complex_49	GCN3
+complex_49	MRH4
+complex_50	ORC1
+complex_50	ORC2
+complex_50	SWE1
+complex_50	HAT2
+complex_50	YJR154W
+complex_50	ORC6
+complex_50	HAT1
+complex_50	ORC5
+complex_50	ORC3
+complex_50	ORC4
+complex_51	ERF2
+complex_51	SWD1
+complex_51	YHR029C
+complex_51	SPP1
+complex_51	SDC1
+complex_51	SET1
+complex_51	SWD3
+complex_51	SHG1
+complex_51	BRE2
+complex_51	YLL023C
+complex_52	IMG2
+complex_52	MRPL25
+complex_52	MRPL15
+complex_52	MRPL4
+complex_52	MRPL9
+complex_52	MRPL1
+complex_52	MRPL10
+complex_52	MRP20
+complex_52	MRPL3
+complex_52	MRPL40
+complex_53	UTP5
+complex_53	UTP15
+complex_53	NAN1
+complex_53	UTP8
+complex_53	UTP4
+complex_53	GFD2
+complex_53	UTP10
+complex_53	POL5
+complex_53	UTP9
+complex_53	
+complex_54	ATE1
+complex_54	SIC1
+complex_54	CKS1
+complex_54	CLB5
+complex_54	YLR187W
+complex_54	CLB4
+complex_54	CLB3
+complex_54	CDC28
+complex_54	CLB2
+complex_54	
+complex_55	YOR287C
+complex_55	PSP2
+complex_55	TIF1
+complex_55	CAF20
+complex_55	EAP1
+complex_55	CDC33
+complex_55	TIF4632
+complex_55	TIF4631
+complex_55	SLF1
+complex_55	
+complex_56	DRC1
+complex_56	HSP150
+complex_56	ERG11
+complex_56	YMR323W
+complex_56	TUB2
+complex_56	WAR1
+complex_56	ALD6
+complex_56	CYS4
+complex_56	CCT8
+complex_56	
+complex_57	CMD1
+complex_57	CNB1
+complex_57	CMK2
+complex_57	YGL242C
+complex_57	MYO5
+complex_57	CMP2
+complex_57	CMK1
+complex_57	CNA1
+complex_57	MYO3
+complex_57	
+complex_58	APL4
+complex_58	YFL034W
+complex_58	APL2
+complex_58	CST26
+complex_58	YFR043C
+complex_58	APS1
+complex_58	APM1
+complex_58	GAL10
+complex_58	APM2
+complex_58	
+complex_59	DUO1
+complex_59	DAM1
+complex_59	DAD1
+complex_59	HSK3
+complex_59	ASK1
+complex_59	SPC19
+complex_59	DAD4
+complex_59	NCA2
+complex_59	SPC34
+complex_59	
+complex_60	YAP1801
+complex_60	SRP40
+complex_60	RPS31
+complex_60	CWP2
+complex_60	PPN1
+complex_60	TFA1
+complex_60	DBP2
+complex_60	YAL053W
+complex_60	TFA2
+complex_60	
+complex_61	ARC40
+complex_61	ARC35
+complex_61	ARC18
+complex_61	ARP2
+complex_61	PAC1
+complex_61	ARP3
+complex_61	ARC19
+complex_61	TAP42
+complex_61	
+complex_61	
+complex_62	GPD1
+complex_62	PHO86
+complex_62	PDR5
+complex_62	YGR266W
+complex_62	WBP1
+complex_62	SSH1
+complex_62	PMT1
+complex_62	PMA1
+complex_62	
+complex_62	
+complex_63	RPL18A
+complex_63	MTR4
+complex_63	STE4
+complex_63	PSO2
+complex_63	TRF4
+complex_63	AIR2
+complex_63	TRF5
+complex_63	AIR1
+complex_64	POL2
+complex_64	MCM2
+complex_64	INM1
+complex_64	DPB4
+complex_64	DPB3
+complex_64	MBA1
+complex_64	DPB2
+complex_64	RPN4
+complex_65	SET3
+complex_65	SNT1
+complex_65	HST1
+complex_65	AKL1
+complex_65	SUM1
+complex_65	SIF2
+complex_65	HOS4
+complex_65	RFM1
+complex_66	YHR054C
+complex_66	RPM2
+complex_66	YLR091W
+complex_66	GDS1
+complex_66	YLL033W
+complex_66	YPR116W
+complex_66	PET130
+complex_66	YDR065W
+complex_67	KIN28
+complex_67	ESP1
+complex_67	CCL1
+complex_67	RAD3
+complex_67	SSL1
+complex_67	TFB3
+complex_67	TFB1
+complex_67	TFB4
+complex_68	COG5
+complex_68	DOR1
+complex_68	COD2
+complex_68	SEC34
+complex_68	COD3
+complex_68	COD1
+complex_68	COD5
+complex_68	SEC35
+complex_69	YJL192C
+complex_69	MSS1
+complex_69	YTM1
+complex_69	YGR067C
+complex_69	PDS5
+complex_69	YML059C
+complex_69	NOP7
+complex_69	STP3
+complex_70	GLE2
+complex_70	DBP9
+complex_70	THO1
+complex_70	YJL122W
+complex_70	RAD27
+complex_70	ARX1
+complex_70	PSE1
+complex_70	YGR081C
+complex_71	YGL140C
+complex_71	YOR262W
+complex_71	ACF2
+complex_71	SBA1
+complex_71	URA8
+complex_71	LSB1
+complex_71	SRO77
+complex_71	DTR1
+complex_72	SRP72
+complex_72	SEC65
+complex_72	LHP1
+complex_72	SRP68
+complex_72	SRP54
+complex_72	SRP14
+complex_72	YCR090C
+complex_72	SRP21
+complex_73	UTP21
+complex_73	DIP2
+complex_73	CST29
+complex_73	YGR223C
+complex_73	PWP2
+complex_73	UTP6
+complex_73	UTP18
+complex_73	YJL147C
+complex_74	VID28
+complex_74	VID24
+complex_74	DCR1
+complex_74	FYV10
+complex_74	YDL176W
+complex_74	RMD5
+complex_74	VID30
+complex_74	MOH2
+complex_75	ERP2
+complex_75	SSS1
+complex_75	YBL060W
+complex_75	PHB2
+complex_75	EMP24
+complex_75	KAR2
+complex_75	SCJ1
+complex_75	ERP1
+complex_76	SYF2
+complex_76	SEC6
+complex_76	SYF1
+complex_76	ISY1
+complex_76	NTC20
+complex_76	CEF1
+complex_76	CLF1
+complex_76	SNT309
+complex_77	HAA1
+complex_77	MKT1
+complex_77	STE20
+complex_77	DRS1
+complex_77	UBP1
+complex_77	YDR291W
+complex_77	ERB1
+complex_77	
+complex_78	YAR075W
+complex_78	IMD4
+complex_78	COX18
+complex_78	PDE2
+complex_78	IMD2
+complex_78	IMD1
+complex_78	IMD3
+complex_78	
+complex_79	RRP7
+complex_79	YGR251W
+complex_79	YNL176C
+complex_79	IFH1
+complex_79	UTP22
+complex_79	UBP10
+complex_79	DHR2
+complex_80	MIG1
+complex_80	DNA43
+complex_80	APP1
+complex_80	YOR172W
+complex_80	CST6
+complex_80	HMO1
+complex_80	SSA3
+complex_81	KTI12
+complex_81	ELP3
+complex_81	IKI3
+complex_81	YIL096C
+complex_81	ELP2
+complex_81	IKI1
+complex_81	ELP4
+complex_82	YHR131C
+complex_82	UBP2
+complex_82	YOR322C
+complex_82	YOR138C
+complex_82	ADE6
+complex_82	RSP5
+complex_82	BUL1
+complex_83	ACB1
+complex_83	NUP170
+complex_83	ADE13
+complex_83	FRE7
+complex_83	KNS1
+complex_83	BI2
+complex_83	STE2
+complex_84	YKL047W
+complex_84	ANB1
+complex_84	SMI1
+complex_84	GPD2
+complex_84	YGL068W
+complex_84	HYP2
+complex_84	MEF1
+complex_85	PEP4
+complex_85	IDS2
+complex_85	SIA1
+complex_85	CRP1
+complex_85	RTN1
+complex_85	PDR1
+complex_85	PRC1
+complex_86	YPL183C
+complex_86	YSC85
+complex_86	CUE5
+complex_86	YMR259C
+complex_86	TRM7
+complex_86	YSC84
+complex_86	CLB1
+complex_87	VPS17
+complex_87	MUK1
+complex_87	PEP8
+complex_87	VPS5
+complex_87	VPS35
+complex_87	YKL195W
+complex_87	VPS29
+complex_88	YML005W
+complex_88	SUP35
+complex_88	SUP45
+complex_88	VPS3
+complex_88	RPS10B
+complex_88	PLB3
+complex_88	SCM3
+complex_89	SNF12
+complex_89	YFL049W
+complex_89	SNF2
+complex_89	SWI1
+complex_89	SWI3
+complex_89	SNF5
+complex_89	SNF6
+complex_90	SNF4
+complex_90	GAL83
+complex_90	SIP1
+complex_90	SIP2
+complex_90	SNF1
+complex_90	PAK1
+complex_90	RAD30
+complex_91	ARL3
+complex_91	ECM31
+complex_91	PHO13
+complex_91	THP1
+complex_91	YIH1
+complex_91	TEF1
+complex_91	CDC123
+complex_92	SSE2
+complex_92	RRP12
+complex_92	ACO1
+complex_92	HPR5
+complex_92	NTH2
+complex_92	BAT2
+complex_92	HSP42
+complex_93	NOT3
+complex_93	CYB5
+complex_93	RPL40A
+complex_93	ETR1
+complex_93	VMA5
+complex_93	YPT1
+complex_93	VPS1
+complex_94	HPC2
+complex_94	HIR1
+complex_94	SFP1
+complex_94	HIR2
+complex_94	YIL121W
+complex_94	ASF1
+complex_94	HIR3
+complex_95	BUD4
+complex_95	PRS5
+complex_95	GIR2
+complex_95	CDC13
+complex_95	CDC15
+complex_95	YIL152W
+complex_95	GIR1
+complex_96	YDR415C
+complex_96	RAX2
+complex_96	SER1
+complex_96	IPL1
+complex_96	YER156C
+complex_96	CYS3
+complex_96	UBA1
+complex_97	EFD1
+complex_97	RFC4
+complex_97	RFC3
+complex_97	RFC2
+complex_97	RFC1
+complex_97	RFC5
+complex_97	
+complex_98	VPS25
+complex_98	VPS36
+complex_98	HCM1
+complex_98	YBR025C
+complex_98	SNF8
+complex_98	ADH7
+complex_98	
+complex_99	MRPL17
+complex_99	MRPL7
+complex_99	MRPL35
+complex_99	MRPL32
+complex_99	MRPL28
+complex_99	MRP7
+complex_99	
+complex_100	YBR139W
+complex_100	YKL069W
+complex_100	PIG2
+complex_100	LIF1
+complex_100	HCH1
+complex_100	HOR2
+complex_100	
+complex_101	CHS3
+complex_101	UPF3
+complex_101	MSL1
+complex_101	LYS14
+complex_101	SUR7
+complex_101	NMD2
+complex_101	
+complex_102	YNL086W
+complex_102	YGL079W
+complex_102	VAB2
+complex_102	YKL061W
+complex_102	YDR357C
+complex_102	YLR408C
+complex_102	
+complex_103	CVT9
+complex_103	APG17
+complex_103	THI11
+complex_103	CIS1
+complex_103	YPL166W
+complex_103	YBR197C
+complex_103	
+complex_104	YHR097C
+complex_104	MDH3
+complex_104	PFS1
+complex_104	YDR248C
+complex_104	YHL008C
+complex_104	CPR5
+complex_104	
+complex_105	PHO4
+complex_105	PRB1
+complex_105	YNL019C
+complex_105	GLN4
+complex_105	SOD2
+complex_105	PBI2
+complex_105	
+complex_106	YOR352W
+complex_106	GDH2
+complex_106	QRI2
+complex_106	MMS21
+complex_106	SMC5
+complex_106	YDR288W
+complex_106	
+complex_107	GSY2
+complex_107	GSY1
+complex_107	ADE5,7
+complex_107	GLG1
+complex_107	GLG2
+complex_107	DAP1
+complex_107	
+complex_108	IOC2
+complex_108	IOC3
+complex_108	IOC4
+complex_108	ISW1
+complex_108	YJL068C
+complex_108	ESC8
+complex_108	
+complex_109	ARR4
+complex_109	YHP1
+complex_109	FUN31
+complex_109	RMD7
+complex_109	TAT1
+complex_109	MDM39
+complex_109	
+complex_110	BRN1
+complex_110	SMC4
+complex_110	YCS4
+complex_110	SMC2
+complex_110	HIS2
+complex_110	YCG1
+complex_110	
+complex_111	YLR023C
+complex_111	BUD9
+complex_111	FAL1
+complex_111	TIF2
+complex_111	YDR239C
+complex_111	KRE30
+complex_112	NUP145
+complex_112	SEH1
+complex_112	NUP85
+complex_112	MEX67
+complex_112	NUP84
+complex_112	NUP120
+complex_113	RFA2
+complex_113	RFA3
+complex_113	PRO1
+complex_113	DNA2
+complex_113	HSP12
+complex_113	RFA1
+complex_114	YBL086C
+complex_114	ISA2
+complex_114	LYS20
+complex_114	RPL37B
+complex_114	GLO3
+complex_114	KEX1
+complex_115	SWI6
+complex_115	YKR077W
+complex_115	SWI4
+complex_115	MBP1
+complex_115	BUD2
+complex_115	WHI5
+complex_116	YJR011C
+complex_116	BTT1
+complex_116	CAF130
+complex_116	EGD1
+complex_116	PLC1
+complex_116	EGD2
+complex_117	TFC3
+complex_117	TFC8
+complex_117	TFC4
+complex_117	TFC7
+complex_117	TFC1
+complex_117	TFC6
+complex_118	SLN1
+complex_118	YDR018C
+complex_118	COX2
+complex_118	YDR374C
+complex_118	MMF1
+complex_118	ARF2
+complex_119	TID3
+complex_119	YDL073W
+complex_119	NUF2
+complex_119	SPC24
+complex_119	YBR028C
+complex_119	SPC25
+complex_120	SFL1
+complex_120	BIM1
+complex_120	HAP1
+complex_120	YOR220W
+complex_120	GTS1
+complex_120	BMH1
+complex_121	CDC37
+complex_121	SHS1
+complex_121	CDC3
+complex_121	CDC10
+complex_121	CDC11
+complex_121	CDC12
+complex_122	PAC10
+complex_122	GIM5
+complex_122	GIM3
+complex_122	PFD1
+complex_122	YKE2
+complex_122	GIM4
+complex_123	YBR137W
+complex_123	YOR164C
+complex_123	YOL111C
+complex_123	SGT2
+complex_123	YDR026C
+complex_123	NIP100
+complex_124	PMU1
+complex_124	YTA12
+complex_124	YGL039W
+complex_124	AVO2
+complex_124	YER064C
+complex_124	
+complex_125	YGR207C
+complex_125	BIO3
+complex_125	SOL4
+complex_125	NEJ1
+complex_125	ROD1
+complex_125	
+complex_126	YMR134W
+complex_126	YDR466W
+complex_126	BIK1
+complex_126	STB4
+complex_126	YER139C
+complex_126	
+complex_127	UFD4
+complex_127	DRS2
+complex_127	UBC5
+complex_127	UBC4
+complex_127	MOT2
+complex_128	BYE1
+complex_128	MLP2
+complex_128	UTP19
+complex_128	RIF1
+complex_128	TIF3
+complex_129	SIR3
+complex_129	SIR2
+complex_129	YLR278C
+complex_129	SIR4
+complex_129	GPG1
+complex_130	IBD2
+complex_130	YKL075C
+complex_130	DOT6
+complex_130	NST1
+complex_130	YOL159C-A
+complex_131	RCL1
+complex_131	BPL1
+complex_131	BMS1
+complex_131	RNT1
+complex_131	SMF3
+complex_132	PRP46
+complex_132	YLR132C
+complex_132	PRP19
+complex_132	MSS18
+complex_132	CWC22
+complex_133	XRS2
+complex_133	YBL044W
+complex_133	MRE11
+complex_133	RAD50
+complex_133	DMC1
+complex_134	PPR1
+complex_134	UBP7
+complex_134	YJL021C
+complex_134	SKT5
+complex_134	BBC1
+complex_135	CHK1
+complex_135	TPK1
+complex_135	BCY1
+complex_135	HSL1
+complex_135	TPK2
+complex_136	PTC3
+complex_136	PTC2
+complex_136	YDR071C
+complex_136	VPS34
+complex_136	PTC4
+complex_137	YEL043W
+complex_137	YFL054C
+complex_137	GIS4
+complex_137	MRP8
+complex_137	ELM1
+complex_138	SWP1
+complex_138	ACE2
+complex_138	YIL108W
+complex_138	YNL254C
+complex_138	FKH2
+complex_139	YGR068C
+complex_139	YPR061C
+complex_139	YHR138C
+complex_139	LYS12
+complex_139	OSH6
+complex_140	CTF4
+complex_140	YDR013W
+complex_140	YOL146W
+complex_140	YJL072C
+complex_140	YDR489W
+complex_141	NOG1
+complex_141	NOP15
+complex_141	NUG1
+complex_141	YSW1
+complex_141	NOG2
+complex_142	SIT4
+complex_142	PPZ2
+complex_142	SAP155
+complex_142	SDS24
+complex_142	HRT3
+complex_143	UTP14
+complex_143	YHL039W
+complex_143	YCR072C
+complex_143	GCN20
+complex_143	GCN1
+complex_144	ASE1
+complex_144	STM1
+complex_144	YPL150W
+complex_144	RPS25B
+complex_144	VTS1
+complex_145	YKL023W
+complex_145	SKI8
+complex_145	SKI3
+complex_145	ENT5
+complex_145	SKI2
+complex_146	PUS1
+complex_146	APL5
+complex_146	APS3
+complex_146	APM3
+complex_146	APL6
+complex_147	IDP1
+complex_147	DDR48
+complex_147	FCP1
+complex_147	YMR118C
+complex_147	YOL109W
+complex_148	VRP1
+complex_148	BZZ1
+complex_148	LAS17
+complex_148	ESR1
+complex_148	SLA1
+complex_149	YNL045W
+complex_149	CHS5
+complex_149	MAE1
+complex_149	YKR027W
+complex_149	YMR237W
+complex_150	YPR143W
+complex_150	YKL014C
+complex_150	SSF2
+complex_150	YKL082C
+complex_150	SSF1
+complex_151	YBR094W
+complex_151	DCP1
+complex_151	DCP2
+complex_151	DCP3
+complex_151	EDC2
+complex_152	DNF1
+complex_152	CDC60
+complex_152	ATP16
+complex_152	DHH1
+complex_152	GDH3
+complex_153	HOS3
+complex_153	RPL1A
+complex_153	PTK2
+complex_153	PSA1
+complex_153	CDC31
+complex_154	GDI1
+complex_154	MRS6
+complex_154	YPT6
+complex_154	VPS21
+complex_154	IDP3
+complex_155	CSM3
+complex_155	ERV2
+complex_155	ZPS1
+complex_155	MPM1
+complex_155	TOF1
+complex_156	YOR097C
+complex_156	UBA4
+complex_156	YGL245W
+complex_156	SLX4
+complex_156	QRI1
+complex_157	SFB2
+complex_157	SEC24
+complex_157	SEC23
+complex_157	GRH1
+complex_157	YDL099W
+complex_158	RRP9
+complex_158	GLK1
+complex_158	BUD21
+complex_158	NOP58
+complex_158	PRP4
+complex_159	ECM27
+complex_159	CAF4
+complex_159	ERG6
+complex_159	MTF1
+complex_159	PZF1
+complex_160	BFR2
+complex_160	HCA4
+complex_160	FUN14
+complex_160	KRE33
+complex_160	LCP5
+complex_161	PMR1
+complex_161	HXT7
+complex_161	PET9
+complex_161	ECM37
+complex_161	AAC3
+complex_162	SAS10
+complex_162	YJR119C
+complex_162	UGP1
+complex_162	MPP10
+complex_162	YIL091C
+complex_163	FIG4
+complex_163	OAF1
+complex_163	KRE5
+complex_163	VAC14
+complex_163	
+complex_164	TRI1
+complex_164	HIF1
+complex_164	SAP4
+complex_164	SPT2
+complex_164	
+complex_165	FUS3
+complex_165	FMS1
+complex_165	VPS75
+complex_165	REM50
+complex_165	
+complex_166	NFS1
+complex_166	YER048W-A
+complex_166	ACP1
+complex_166	FMC1
+complex_166	
+complex_167	BSP1
+complex_167	PTC7
+complex_167	SEC14
+complex_167	YKL091C
+complex_167	
+complex_168	PSR1
+complex_168	VHS2
+complex_168	PSR2
+complex_168	WHI2
+complex_168	
+complex_169	YER049W
+complex_169	RLM1
+complex_169	VAM6
+complex_169	YOR051C
+complex_169	
+complex_170	FUN19
+complex_170	YMR290W-A
+complex_170	YNL122C
+complex_170	KAP123
+complex_170	
+complex_171	NUP82
+complex_171	NUP159
+complex_171	NSP1
+complex_171	NUP133
+complex_171	
+complex_172	CCR4
+complex_172	POP2
+complex_172	CDC39
+complex_172	CAF40
+complex_172	
+complex_173	TRS33
+complex_173	TRS23
+complex_173	TRS31
+complex_173	TRS120
+complex_173	
+complex_174	SPS1
+complex_174	TPM1
+complex_174	PYC1
+complex_174	PYC2
+complex_174	
+complex_175	YJL084C
+complex_175	IST1
+complex_175	APL3
+complex_175	APL1
+complex_176	SMC3
+complex_176	SMC1
+complex_176	IRR1
+complex_176	MCD1
+complex_177	RAD10
+complex_177	YAL027W
+complex_177	RAD1
+complex_177	DPS1
+complex_178	GSC2
+complex_178	YML072C
+complex_178	RPL43B
+complex_178	CBR1
+complex_179	YPL141C
+complex_179	TRL1
+complex_179	SAG1
+complex_179	YJR124C
+complex_180	YIP3
+complex_180	RGP1
+complex_180	RIC1
+complex_180	SYG1
+complex_181	YKL100C
+complex_181	ALD3
+complex_181	YLR143W
+complex_181	ALD2
+complex_182	GIC1
+complex_182	YIL067C
+complex_182	FIG2
+complex_182	MRP13
+complex_183	CWC23
+complex_183	YNL224C
+complex_183	PRP43
+complex_183	YLR424W
+complex_184	YFR055W
+complex_184	BUD5
+complex_184	PHO11
+complex_184	PHO5
+complex_185	NDE2
+complex_185	PIG1
+complex_185	YJL118W
+complex_185	MBR1
+complex_186	CTF18
+complex_186	DCC1
+complex_186	CTF8
+complex_186	AQR1
+complex_187	RDH54
+complex_187	MNS1
+complex_187	SIS2
+complex_187	TRM2
+complex_188	YDR053W
+complex_188	ILV2
+complex_188	YAR062W
+complex_188	PEX19
+complex_189	ASF2
+complex_189	BUD23
+complex_189	REB1
+complex_189	ECM16
+complex_190	LYS9
+complex_190	ENP1
+complex_190	YAR1
+complex_190	LTV1
+complex_191	YBL071C
+complex_191	FCY21
+complex_191	SPB4
+complex_191	MTG1
+complex_192	PHO85
+complex_192	PCL6
+complex_192	YLR190W
+complex_192	PCL8
+complex_193	YEL023C
+complex_193	GUK1
+complex_193	URA1
+complex_193	YLR262C-A
+complex_194	HYS2
+complex_194	POL30
+complex_194	CDC2
+complex_194	POL32
+complex_195	SAC2
+complex_195	LUV1
+complex_195	VPS53
+complex_195	TOR1
+complex_196	MTW1
+complex_196	NSL1
+complex_196	NNF1
+complex_196	DSN1
+complex_197	TRM82
+complex_197	BNA5
+complex_197	HXK1
+complex_197	TRM8
+complex_198	FPR1
+complex_198	YIL161W
+complex_198	FAP1
+complex_198	MRP2
+complex_199	RNR4
+complex_199	RNR1
+complex_199	RNR2
+complex_199	RNR3
+complex_200	YCR079W
+complex_200	PEP3
+complex_200	PRO2
+complex_200	CIT2
+complex_201	CAM1
+complex_201	TEF4
+complex_201	YKL056C
+complex_201	ARO4
+complex_202	NAT1
+complex_202	NAT5
+complex_202	ARD1
+complex_202	RIM8
+complex_203	YBL111C
+complex_203	RPS24B
+complex_203	PDR10
+complex_203	UTH1
+complex_204	MIS1
+complex_204	RPP1B
+complex_204	ADE3
+complex_204	YIL137C
+complex_205	ISW2
+complex_205	YJL065C
+complex_205	ELA1
+complex_205	ITC1
+complex_206	YJL010C
+complex_206	BNR1
+complex_206	YJL162C
+complex_206	SIK1
+complex_207	TPS3
+complex_207	TPS1
+complex_207	TSL1
+complex_207	TPS2
+complex_208	SPO75
+complex_208	FMP22
+complex_208	YKR078W
+complex_208	PLM2
+complex_209	FOL3
+complex_209	PKC1
+complex_209	RAD25
+complex_209	TYR1
+complex_210	YGR012W
+complex_210	MCK1
+complex_210	PRD1
+complex_210	HUL4
+complex_211	YDR326C
+complex_211	RAI1
+complex_211	RTT103
+complex_211	RAT1
+complex_212	AVT1
+complex_212	MPC54
+complex_212	YEL041W
+complex_212	DOA4
+complex_213	PDS1
+complex_213	YPL009C
+complex_213	YNL227C
+complex_213	CBF5
+complex_214	TRM1
+complex_214	IMH1
+complex_214	DBP8
+complex_214	DOT1
+complex_215	PMT5
+complex_215	RUD3
+complex_215	CRC1
+complex_215	RUB1
+complex_216	YKU80
+complex_216	YGR052W
+complex_216	MUC1
+complex_216	YKU70
+complex_217	ULA1
+complex_217	TDH2
+complex_217	BUD7
+complex_217	RAD17
+complex_218	PLO2
+complex_218	HDA1
+complex_218	1-Oct
+complex_218	PLO1
+complex_219	CUE4
+complex_219	MUB1
+complex_219	RAD18
+complex_219	RAD6
+complex_220	ALD4
+complex_220	KAP104
+complex_220	YLR426W
+complex_220	TAF60
+complex_221	MRS1
+complex_221	SEO1
+complex_221	RPL42A
+complex_221	SPE2
+complex_222	RBL2
+complex_222	YDR332W
+complex_222	YJL107C
+complex_222	JSN1
+complex_223	YLL032C
+complex_223	YHR121W
+complex_223	YJL051W
+complex_223	RPL38
+complex_224	ROX1
+complex_224	TAF65
+complex_224	ESC1
+complex_224	TSM1
+complex_225	CAC2
+complex_225	MSI1
+complex_225	FET5
+complex_225	RLF2
+complex_226	PAD1
+complex_226	ECM30
+complex_226	YBL048W
+complex_226	UBP15
+complex_227	PUT3
+complex_227	YDR365C
+complex_227	RRP3
+complex_227	ENP2
+complex_228	YPL199C
+complex_228	SPC98
+complex_228	APD1
+complex_228	YKL215C
+complex_229	STP22
+complex_229	YGR206W
+complex_229	VPS28
+complex_229	SRN2
+complex_230	YDR412W
+complex_230	YBR187W
+complex_230	MRD1
+complex_230	NOP12
+complex_231	YER184C
+complex_231	KIP2
+complex_231	KEL2
+complex_231	KEL1
+complex_232	POL4
+complex_232	YGL157W
+complex_232	ROK1
+complex_232	
+complex_233	RNA15
+complex_233	CLP1
+complex_233	RNA14
+complex_233	
+complex_234	YJL200C
+complex_234	YGR093W
+complex_234	MRPL16
+complex_234	
+complex_235	EGT2
+complex_235	SRI1
+complex_235	SST2
+complex_235	
+complex_236	MAK3
+complex_236	MAK10
+complex_236	MAK31
+complex_236	
+complex_237	CTK3
+complex_237	CTK2
+complex_237	CTK1
+complex_237	
+complex_238	YRO2
+complex_238	DYN1
+complex_238	KEL3
+complex_238	
+complex_239	SSC1
+complex_239	MSS51
+complex_239	PYK2
+complex_240	SSD1
+complex_240	ZRG8
+complex_240	SAP190
+complex_241	BRF1
+complex_241	SPT15
+complex_241	YHR036W
+complex_242	MSM1
+complex_242	ERG10
+complex_242	LEU1
+complex_243	MRPL11
+complex_243	MRPL19
+complex_243	MRPL37
+complex_244	PTC1
+complex_244	NBP2
+complex_244	PBS2
+complex_245	TAH18
+complex_245	SES1
+complex_245	DRE2
+complex_246	NRD1
+complex_246	NAB3
+complex_246	GAT1
+complex_247	AI1
+complex_247	LTE1
+complex_247	YPR140W
+complex_248	YJR014W
+complex_248	YER007C-A
+complex_248	CIN5
+complex_249	DUS3
+complex_249	YIR035C
+complex_249	HIS7
+complex_250	UBP13
+complex_250	UBP9
+complex_250	YOL087C
+complex_251	SKO1
+complex_251	HHT1
+complex_251	VAC7
+complex_252	POL1
+complex_252	PRI1
+complex_252	POL12
+complex_253	YLR199C
+complex_253	YKL206C
+complex_253	PDC6
+complex_254	QCR2
+complex_254	OSH3
+complex_254	COR1
+complex_255	YLR089C
+complex_255	YPL247C
+complex_255	HSP60
+complex_256	YIL169C
+complex_256	SUE1
+complex_256	MRS2
+complex_257	SEC16
+complex_257	CYC8
+complex_257	UBP14
+complex_258	SPO72
+complex_258	MAS2
+complex_258	MAS1
+complex_259	URA2
+complex_259	CPA2
+complex_259	CPA1
+complex_260	PMT2
+complex_260	YCR043C
+complex_260	ANP1
+complex_261	YOR112W
+complex_261	VMA6
+complex_261	VPH1
+complex_262	RMD12
+complex_262	SSN2
+complex_262	SRB8
+complex_263	RML2
+complex_263	MRPL24
+complex_263	MRPL20
+complex_264	KGD1
+complex_264	STE5
+complex_264	KGD2
+complex_265	CEG1
+complex_265	YHR130C
+complex_265	CET1
+complex_266	DCS2
+complex_266	DCS1
+complex_266	YPL245W
+complex_267	PFK26
+complex_267	TRX2
+complex_267	YGR031W
+complex_268	SEC66
+complex_268	SEC72
+complex_268	SEC63
+complex_269	ABF1
+complex_269	SRL2
+complex_269	YHL009W-B
+complex_270	YPR114W
+complex_270	SEC5
+complex_270	YDR266C
+complex_271	SWH1
+complex_271	OSH2
+complex_271	OSH1
+complex_272	AMD1
+complex_272	RRB1
+complex_272	YJL070C
+complex_273	RNH35
+complex_273	YDR279W
+complex_273	YLR154C
+complex_274	MRP49
+complex_274	MRPL13
+complex_274	YML6
+complex_275	ATP12
+complex_275	ATP11
+complex_275	VID31
+complex_276	TRP3
+complex_276	STB3
+complex_276	TRP2
+complex_277	TYS1
+complex_277	MRPS8
+complex_277	YBL036C
+complex_278	YKR103W
+complex_278	PET122
+complex_278	YNL274C
+complex_279	FRS2
+complex_279	ILS1
+complex_279	FRS1
+complex_280	SCC4
+complex_280	MDJ1
+complex_280	SCC2
+complex_281	CCZ1
+complex_281	MON1
+complex_281	YAP1
+complex_282	CLU1
+complex_282	YNL234W
+complex_282	YJL144W
+complex_283	YAE1
+complex_283	YNL260C
+complex_283	RLI1
+complex_284	GSP1
+complex_284	SRM1
+complex_284	YNL247W
+complex_285	SPC97
+complex_285	TUB4
+complex_285	SPC72
+complex_286	MRT4
+complex_286	AHP1
+complex_286	SSB2
+complex_287	YML036W
+complex_287	YJL184W
+complex_287	KAE1
+complex_288	RRN7
+complex_288	RRN11
+complex_288	RRN6
+complex_289	YOR252W
+complex_289	YNL024C
+complex_289	MSF1
+complex_290	GLN3
+complex_290	MET4
+complex_290	URE2
+complex_291	HEM13
+complex_291	MNL1
+complex_291	PDI1
+complex_292	SNU23
+complex_292	PRP38
+complex_292	SPP381
+complex_293	YML131W
+complex_293	ECM3
+complex_293	UGO1
+complex_294	FAS1
+complex_294	YNL047C
+complex_294	FAS2
+complex_295	RTG2
+complex_295	YNL208W
+complex_295	MKS1
+complex_296	ASN2
+complex_296	STT3
+complex_296	URA7
+complex_297	YHR182W
+complex_297	IDH1
+complex_297	IDH2
+complex_298	INP54
+complex_298	CAP1
+complex_298	DFR1
+complex_299	CYC7
+complex_299	YPL144W
+complex_299	YLR021W
+complex_300	YGR071C
+complex_300	VID22
+complex_300	TBF1
+complex_301	ARO9
+complex_301	GND1
+complex_301	GND2
+complex_302	CUP9
+complex_302	NDC1
+complex_302	YPT11
+complex_303	STU2
+complex_303	TUB3
+complex_303	TUB1
+complex_304	YMR074C
+complex_304	URA3
+complex_304	FOL1
+complex_305	YGL046W
+complex_305	MSB1
+complex_305	YPL216W
+complex_306	UBC13
+complex_306	SIP5
+complex_306	MMS2
+complex_307	ADE17
+complex_307	SLX1
+complex_307	ADE16
+complex_308	PMC1
+complex_308	GRE3
+complex_308	PCH2
+complex_309	RDR1
+complex_309	NSA1
+complex_309	PMS1
+complex_310	JIP4
+complex_310	YOR289W
+complex_310	YDR474C
+complex_311	MLC2
+complex_311	MYO1
+complex_311	YDR199W
+complex_312	YOR365C
+complex_312	LGE1
+complex_312	BRE1
+complex_313	YPK1
+complex_313	TEC1
+complex_313	YPK2
+complex_314	TSR2
+complex_314	RPS26B
+complex_314	RIO2
+complex_315	NUP49
+complex_315	NUP57
+complex_315	NIC96
+complex_316	DAD2
+complex_316	YMR075C-A
+complex_316	DAD3
+complex_317	ATF2
+complex_317	YMR031C
+complex_317	YGR130C
+complex_318	YKR043C
+complex_318	ROM2
+complex_318	IPP1
+complex_319	YGR283C
+complex_319	SAN1
+complex_319	YMR310C
+complex_320	YCL047C
+complex_320	YKR022C
+complex_320	NAS2
+complex_321	USA1
+complex_321	YLR287C
+complex_321	RIM21
+complex_322	YHL029C
+complex_322	SPO69
+complex_322	YCR095C
+complex_323	TOA2
+complex_323	TOA1
+complex_323	YFR032C
+complex_324	ASC1
+complex_324	TRK1
+complex_324	LIP5
+complex_325	FYV9
+complex_325	PCL7
+complex_325	YGL050W
+complex_326	YLL029W
+complex_326	MET17
+complex_326	SIZ1
+complex_327	HAP2
+complex_327	HAP5
+complex_327	HAP3
+complex_328	CDC25
+complex_328	YBR225W
+complex_328	MDS3
+complex_329	PDH1
+complex_329	DSK2
+complex_329	LYP1
+complex_330	SIW14
+complex_330	YNL056W
+complex_330	OCA1
+complex_331	YLR022C
+complex_331	KSP1
+complex_331	RIA1
+complex_332	AUR1
+complex_332	YIL127C
+complex_332	ADO1
+complex_333	LSG1
+complex_333	FES1
+complex_333	LYS2
+complex_334	CCT4
+complex_334	CCT2
+complex_334	CCT6
+complex_335	URA5
+complex_335	TGL2
+complex_335	URA10
+complex_336	YDR111C
+complex_336	RAD5
+complex_336	RRP1
+complex_337	BET3
+complex_337	GYP6
+complex_337	TRS20
+complex_338	TKL1
+complex_338	ACS2
+complex_338	TKL2
+complex_339	SEC1
+complex_339	SEC31
+complex_339	SEC13
+complex_340	ICL1
+complex_340	SET2
+complex_340	TRP4
+complex_341	EKI1
+complex_341	YHR087W
+complex_341	SUC2
+complex_342	SLS1
+complex_342	URH1
+complex_342	MTF2
+complex_343	ADY3
+complex_343	PDB1
+complex_343	YJL131C
+complex_344	YLR345W
+complex_344	FBP26
+complex_344	STE13
+complex_345	PEA2
+complex_345	SPA2
+complex_345	BEM2
+complex_346	CDC6
+complex_346	HSF1
+complex_346	YLR419W
+complex_347	RTT106
+complex_347	WRS1
+complex_347	HXK2
+complex_348	YAP7
+complex_348	PGS1
+complex_348	SMK1
+complex_349	PRP22
+complex_349	KIP1
+complex_349	SOK2
+complex_350	MVD1
+complex_350	SGT1
+complex_350	YPL191C
+complex_351	GDB1
+complex_351	YFR017C
+complex_351	CPR3
+complex_352	YNR046W
+complex_352	YML014W
+complex_352	YOL124C
+complex_353	IPI3
+complex_353	IPI1
+complex_353	IPI2
+complex_354	YHR122W
+complex_354	YDR267C
+complex_354	MET18
+complex_355	STE50
+complex_355	STE11
+complex_355	
+complex_356	RAS2
+complex_356	RAS1
+complex_356	
+complex_357	NGR1
+complex_357	HYR1
+complex_357	
+complex_358	FCY1
+complex_358	YLL055W
+complex_358	
+complex_359	MMS4
+complex_359	MUS81
+complex_359	
+complex_360	SNX4
+complex_360	SNX41
+complex_360	
+complex_361	SDA1
+complex_361	CHA1
+complex_361	
+complex_362	YOR021C
+complex_362	ROT1
+complex_362	
+complex_363	YDR128W
+complex_363	YOR093C
+complex_363	
+complex_364	RAV2
+complex_364	RAV1
+complex_364	
+complex_365	APE2
+complex_365	YDL241W
+complex_365	
+complex_366	GTT3
+complex_366	MSB3
+complex_366	
+complex_367	MET12
+complex_367	MET13
+complex_368	SLD3
+complex_368	RIM4
+complex_369	LEU4
+complex_369	LEU9
+complex_370	SOD1
+complex_370	LYS7
+complex_371	GTT2
+complex_371	CDC21
+complex_372	UBR2
+complex_372	YDR051C
+complex_373	APM4
+complex_373	APS2
+complex_374	GEA1
+complex_374	UBP12
+complex_375	VPS13
+complex_375	MUM2
+complex_376	GCD14
+complex_376	GCD10
+complex_377	JIP1
+complex_377	YOL070C
+complex_378	SAP1
+complex_378	APC11
+complex_379	YBR194W
+complex_379	YPR152C
+complex_380	YMR098C
+complex_380	AEP1
+complex_381	YCL045C
+complex_381	YLR312C
+complex_382	MRS7
+complex_382	YGR277C
+complex_383	UBA2
+complex_383	AOS1
+complex_384	LIN1
+complex_384	YOR238W
+complex_385	YMR291W
+complex_385	DIN7
+complex_386	CSM1
+complex_386	LRS4
+complex_387	INO2
+complex_387	INO4
+complex_388	YPR118W
+complex_388	YJL217W
+complex_389	RAD23
+complex_389	PNG1
+complex_390	LSB3
+complex_390	YML011C
+complex_391	CLC1
+complex_391	CHC1
+complex_392	YDR079C-A
+complex_392	TFB2
+complex_393	YDR533C
+complex_393	HSP34
+complex_394	BEM4
+complex_394	SGE1
+complex_395	NAT3
+complex_395	MDM20
+complex_396	YCR102C
+complex_396	YNL134C
+complex_397	PEX7
+complex_397	YJR012C
+complex_398	YIR007W
+complex_398	SAH1
+complex_399	RCN1
+complex_399	RAD4
+complex_400	YDR157W
+complex_400	YKR049C
+complex_401	BIO2
+complex_401	YKR064W
+complex_402	SAS2
+complex_402	SAS4
+complex_403	CIN1
+complex_403	PAC2
+complex_404	MAD2
+complex_404	MAD1
+complex_405	YGL057C
+complex_405	GIP1
+complex_406	VPS60
+complex_406	VTA1
+complex_407	LAG2
+complex_407	TOM1
+complex_408	INH1
+complex_408	STF1
+complex_409	VPS4
+complex_409	YBL081W
+complex_410	HOG1
+complex_410	RCK2
+complex_411	YLR149C
+complex_411	VPS74
+complex_412	MSH6
+complex_412	MSH2
+complex_413	UTR2
+complex_413	GLO2
+complex_414	ROT2
+complex_414	YDR221W
+complex_415	YBR159W
+complex_415	YJL123C
+complex_416	PDC2
+complex_416	GFA1
+complex_417	KCS1
+complex_417	YMR196W
+complex_418	YDL173W
+complex_418	NAM2
+complex_419	PDR3
+complex_419	ARA1
+complex_420	YLR269C
+complex_420	YGR021W
+complex_421	YMR010W
+complex_421	KIN4
+complex_422	RGD1
+complex_422	FYV8
+complex_423	YNL050C
+complex_423	YLR194C
+complex_424	CDC43
+complex_424	RAM2
+complex_425	YGL220W
+complex_425	GRX3
+complex_426	SAM1
+complex_426	SAM2
+complex_427	RTG1
+complex_427	RTG3
+complex_428	PDR17
+complex_428	PSD2
+complex_429	MAK5
+complex_429	MET22
+complex_430	SNF7
+complex_430	VPS24
+complex_431	RPS9A
+complex_431	RPS9B
+complex_432	END3
+complex_432	PAN1
+complex_433	ATP2
+complex_433	ATP1
+complex_434	SGI1
+complex_434	CAR1
+complex_435	NET1
+complex_435	YPL110C
+complex_436	YGR043C
+complex_436	TAL1
+complex_437	PUF4
+complex_437	BNA1
+complex_438	SAC1
+complex_438	YPL099C
+complex_439	NMA2
+complex_439	NMA1
+complex_440	SPC105
+complex_440	KRE28
+complex_441	AAT2
+complex_441	FUN30
+complex_442	MDN1
+complex_442	TBS1
+complex_443	ATP14
+complex_443	AUT7
+complex_444	BUD32
+complex_444	GRX4
+complex_445	TIP1
+complex_445	UBP3
+complex_446	ATS1
+complex_446	KTI11
+complex_447	IWS1
+complex_447	SPT6
+complex_448	DIA4
+complex_448	PUS4
+complex_449	CAP2
+complex_449	YLR171W
+complex_450	HSE1
+complex_450	VPS27
+complex_451	MUD2
+complex_451	MSL5
+complex_452	IML2
+complex_452	YMR029C
+complex_453	AAP1'
+complex_453	YDL238C
+complex_454	ADE12
+complex_454	TUF1
+complex_455	LPD1
+complex_455	YMR31
+complex_456	LSC1
+complex_456	LSC2
+complex_457	ZPR1
+complex_457	TIR4
+complex_458	PHO80
+complex_458	PHO81
+complex_459	YGR237C
+complex_459	IMP2'
+complex_460	VAC17
+complex_460	LCD1
+complex_461	COX4
+complex_461	COX5A
+complex_462	TSA1
+complex_462	TSA2
+complex_463	BUL2
+complex_463	UPC2
+complex_464	MMS22
+complex_464	YMR187C
+complex_465	RTS3
+complex_465	SAP185
+complex_466	ECM38
+complex_466	CPR1
+complex_467	JIP5
+complex_467	PUF6
+complex_468	VTH1
+complex_468	YBR281C
+complex_469	YLR064W
+complex_469	PKR1
+complex_470	PGM2
+complex_470	PTC5
+complex_471	SEC7
+complex_471	PPX1
+complex_472	YAR010C
+complex_472	YPT10
+complex_473	PDA1
+complex_473	LAT1
+complex_474	TRR2
+complex_474	TRR1
+complex_475	YBR062C
+complex_475	ADH3
+complex_476	YOR315W
+complex_476	MCH1
+complex_477	SER3
+complex_477	SER33
+complex_478	BUD6
+complex_478	YOR304C-A
+complex_479	YPR117W
+complex_479	MPD2
+complex_480	DBP5
+complex_480	GFD1
+complex_481	YKR023W
+complex_481	CUE3
+complex_482	HSP26
+complex_482	YNL313C
+complex_483	PIB1
+complex_483	EMP70
+complex_484	RPL12A
+complex_484	RPS10A
+complex_485	YPL207W
+complex_485	CSR1
+complex_486	SNU13
+complex_486	YIL056W
+complex_487	PFK2
+complex_487	PFK1
+complex_488	TFS1
+complex_488	PET111
+complex_489	SHM2
+complex_489	FRDS1
+complex_490	BOP3
+complex_490	MCM1
+complex_491	YER078C
+complex_491	ADK1
+complex_492	SED5
+complex_492	SLY1
+complex_493	MAP1
+complex_493	YBR030W
+complex_494	THR4
+complex_494	ERG13
+complex_495	GSG1
+complex_495	YPR078C
+complex_496	AKR1
+complex_496	SAC3
+complex_497	YFL006W
+complex_497	BLM3
+complex_498	YNG1
+complex_498	MHT1
+complex_499	PAN3
+complex_499	PAN2
+complex_500	THS1
+complex_500	GYP7
+complex_501	YER067W
+complex_501	YGR228W
+complex_502	APN1
+complex_502	YPD1
+complex_503	YIP5
+complex_503	BCK1
+complex_504	YNR047W
+complex_504	YBR235W
+complex_505	SPP2
+complex_505	CUS2
+complex_506	FOX2
+complex_506	CYK3
+complex_507	ELC1
+complex_507	RAD7
+complex_508	MON2
+complex_508	DOP1
+complex_509	LIP2
+complex_509	GCV3
+complex_510	YIR003W
+complex_510	YER071C
+complex_511	VAC8
+complex_511	YNL168C
+complex_512	ILV5
+complex_512	ILV1
+complex_513	SRV2
+complex_513	CYR1
+complex_514	YJR110W
+complex_514	YPL208W
+complex_515	BIR1
+complex_515	SLI15
+complex_516	RPL23A
+complex_516	BCP1
+complex_517	YPL066W
+complex_517	TUS1
+complex_518	HFA1
+complex_518	ACC1
+complex_519	IRE1
+complex_519	LYS21
+complex_520	NFU1
+complex_520	ISA1
+complex_521	TRM5
+complex_521	NMR1
+complex_522	SNT2
+complex_522	XBP1
+complex_523	YGL082W
+complex_523	TDP1
+complex_524	HMT1
+complex_524	YEL016C
+complex_525	BDF2
+complex_525	BDF1
+complex_526	RPS0B
+complex_526	GLN1
+complex_527	NRG2
+complex_527	YKR015C
+complex_528	YGL164C
+complex_528	GSP2
+complex_529	YMR124W
+complex_529	ECM1
+complex_530	PER100
+complex_530	KEX2
+complex_531	CBS1
+complex_531	PIR1
+complex_532	DBP10
+complex_532	ESC4
+complex_533	BTN2
+complex_533	YMR144W
+complex_534	YMR289W
+complex_534	YLR057W
+complex_535	MRPL22
+complex_535	YGL232W
+complex_536	YNL035C
+complex_536	YDR287W
+complex_537	MLH1
+complex_537	MLH2
+complex_538	PWP1
+complex_538	EBP2
+complex_539	BUR6
+complex_539	NCB2
+complex_540	SSK1
+complex_540	SSK2
+complex_541	YAL061W
+complex_541	BDH1
+complex_542	YOL057W
+complex_542	BPH1
+complex_543	DYN2
+complex_543	PAC11
+complex_544	EDE1
+complex_544	SYP1
+complex_545	PUS2
+complex_545	COF1
+complex_546	RAD51
+complex_546	RAD52

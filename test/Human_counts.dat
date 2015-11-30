@@ -1,0 +1,4883 @@
+	NumberofTissue	NumberofFractions	TotalProtCounts
+RNF14	Expressed in all	4	4
+UBE2Q1	Expressed in all	0	0
+RNF13	Expressed in all	0	0
+C16orf13	Expressed in all	3	19
+UCHL5	Expressed in all	17	82
+FGFR1OP2	Expressed in all	0	0
+MZT2A	Expressed in all	3	5
+ATRX	Expressed in all	0	0
+PMM2	Expressed in all	21	151
+ASS1	Tissue enhanced	49	896
+NCBP1	Expressed in all	23	149
+NCBP2	Expressed in all	0	0
+RPL37	Expressed in all	1	2
+ZC3H14	Expressed in all	0	0
+DHX8	Expressed in all	0	0
+DHX9	Expressed in all	9	125
+TCOF1	Expressed in all	4	38
+NUP98	Expressed in all	0	0
+XPC	Expressed in all	0	0
+SLC12A2	Expressed in all	0	0
+NUP93	Expressed in all	0	0
+GOLIM4	Expressed in all	0	0
+OPA1	Expressed in all	0	0
+COL7A1	Tissue enriched	1	1
+MDP1	Expressed in all	2	4
+B2M	Expressed in all	12	51
+PSAP	Expressed in all	22	46
+RPRD2	Expressed in all	1	2
+ATP2A1	Tissue enriched	0	0
+ATP2A2	Expressed in all	0	0
+NOP2	Expressed in all	0	0
+ITGA5	Expressed in all	0	0
+SWAP70	Expressed in all	5	33
+NENF	Expressed in all	5	23
+FAM169A	Tissue enhanced	0	0
+COL4A6	Tissue enhanced	1	1
+COL4A1	Tissue enhanced	0	0
+HLCS	Expressed in all	3	9
+ITGAV	Expressed in all	0	0
+HIBCH	Expressed in all	6	26
+ITGAL	Expressed in all	6	11
+LRPAP1	Expressed in all	1	1
+GOLPH3L	Expressed in all	7	15
+SMAD1	Expressed in all	2	3
+AMMECR1L	Expressed in all	0	0
+TMPRSS11B	Tissue enriched	2	3
+IGF2R	Expressed in all	0	0
+TMEM9	Expressed in all	0	0
+CKS1B	Expressed in all	22	61
+ZC3H15	Expressed in all	2	6
+ERICH1	Expressed in all	0	0
+C14orf119	Expressed in all	1	2
+SPTLC1	Expressed in all	0	0
+TCEA2	Expressed in all	0	0
+TCEA1	Expressed in all	16	106
+COX4I1	Expressed in all	0	0
+ZC3H18	Expressed in all	1	3
+CCDC117	Expressed in all	1	3
+LEO1	Expressed in all	3	7
+ATP1A1	Expressed in all	0	0
+CRTAP	Expressed in all	3	4
+CBLB	Expressed in all	0	0
+CPEB4	Expressed in all	6	21
+OSGEP	Expressed in all	8	63
+TLN2	Tissue enhanced	1	1
+NSRP1	Expressed in all	0	0
+FRG1	Expressed in all	2	5
+IFT80	Expressed in all	1	3
+IFT88	Expressed in all	0	0
+SARDH	Group enriched	1	4
+SP1	Expressed in all	4	9
+SP3	Expressed in all	0	0
+ATG4B	Expressed in all	33	78
+ATG4A	Expressed in all	2	4
+THUMPD2	Expressed in all	0	0
+CFH	Tissue enhanced	0	0
+ANKFY1	Expressed in all	6	132
+MLLT4	Expressed in all	1	1
+CREBBP	Expressed in all	2	3
+PNN	Expressed in all	2	3
+SIX4	Tissue enhanced	0	0
+PSMB10	Expressed in all	5	12
+CNPY4	Expressed in all	5	9
+CNPY3	Expressed in all	0	0
+CNPY2	Expressed in all	14	109
+HMG20A	Expressed in all	0	0
+HMG20B	Expressed in all	1	1
+AAGAB	Expressed in all	0	0
+SLC7A6OS	Expressed in all	1	1
+TMEM179B	Expressed in all	0	0
+ABCE1	Expressed in all	14	32
+UQCRC2	Expressed in all	0	0
+XPNPEP1	Expressed in all	9	259
+GGCX	Expressed in all	0	0
+ADNP	Expressed in all	0	0
+KHDRBS1	Expressed in all	4	15
+GGCT	Expressed in all	47	434
+INF2	Expressed in all	0	0
+VPS37B	Expressed in all	0	0
+DPYSL5	Group enriched	0	0
+DPYSL2	Expressed in all	45	342
+BOP1	Expressed in all	0	0
+IGFBP7	Expressed in all	0	0
+SKP1	Expressed in all	70	523
+KDM3B	Expressed in all	4	12
+KDM3A	Expressed in all	0	0
+PPP6R3	Expressed in all	28	91
+APIP	Expressed in all	9	15
+EIF2B4	Expressed in all	3	12
+EIF2B5	Expressed in all	21	55
+EIF2B2	Expressed in all	2	4
+EIF2B3	Expressed in all	2	3
+EIF2B1	Expressed in all	20	233
+PRKAR2A	Expressed in all	24	43
+MAGT1	Expressed in all	0	0
+QPRT	Expressed in all	1	3
+IFT140	Expressed in all	0	0
+TMEM14C	Expressed in all	0	0
+NME2	Expressed in all	99	307
+TTC1	Expressed in all	14	41
+C9orf129	Expressed in all	1	2
+CLIC4	Expressed in all	13	107
+CLIC3	Group enriched	4	10
+SF1	Expressed in all	17	54
+API5	Expressed in all	14	85
+SUGP2	Expressed in all	0	0
+FAM32A	Expressed in all	1	2
+METTL1	Expressed in all	9	46
+ZMAT2	Expressed in all	0	0
+C19orf25	Expressed in all	0	0
+OGFR	Expressed in all	43	153
+CDC5L	Expressed in all	3	18
+RAC1	Expressed in all	10	79
+SBDS	Expressed in all	16	150
+CPLX2	Group enriched	0	0
+CPLX1	Tissue enriched	2	9
+AP2A1	Expressed in all	4	16
+AP2A2	Expressed in all	0	0
+PBX1	Expressed in all	0	0
+NSUN2	Expressed in all	115	1073
+NSUN5	Expressed in all	0	0
+NSUN7	Tissue enhanced	0	0
+NSUN6	Expressed in all	1	1
+TUBG1	Expressed in all	1	2
+FAM71F2	Tissue enriched	1	2
+TIMM44	Expressed in all	0	0
+RAD9A	Expressed in all	2	3
+ERGIC1	Expressed in all	0	0
+SRSF11	Expressed in all	2	13
+CPPED1	Expressed in all	19	63
+SPG21	Expressed in all	2	6
+CALM1	Expressed in all	67	337
+DLGAP1	Tissue enriched	0	0
+DLGAP4	Expressed in all	7	17
+MBNL1	Expressed in all	8	33
+SRSF10	Expressed in all	0	0
+BRD8	Expressed in all	0	0
+BRD4	Expressed in all	4	12
+BRD7	Expressed in all	1	2
+BRD2	Expressed in all	0	0
+BRD3	Expressed in all	1	2
+DNAJA2	Expressed in all	0	0
+DNAJA3	Expressed in all	0	0
+PTPN11	Expressed in all	24	187
+SETD1B	Expressed in all	0	0
+LYAR	Expressed in all	3	6
+MRPL24	Expressed in all	0	0
+C16orf70	Expressed in all	1	2
+MRPL22	Expressed in all	0	0
+C16orf78	Tissue enriched	0	0
+MRPL28	Expressed in all	0	0
+DMRTB1	Tissue enriched	0	0
+NDRG2	Expressed in all	0	0
+NDRG3	Expressed in all	4	9
+SRSF5	Expressed in all	1	1
+SRSF4	Expressed in all	2	4
+SRSF6	Expressed in all	0	0
+SRSF1	Expressed in all	12	69
+CHD1L	Expressed in all	2	3
+SRSF3	Expressed in all	6	12
+SRSF9	Expressed in all	0	0
+HOXA5	Tissue enhanced	0	0
+DNAJB12	Expressed in all	1	2
+DNAJB11	Expressed in all	0	0
+ENOSF1	Expressed in all	11	25
+CISD1	Expressed in all	0	0
+CLNS1A	Expressed in all	41	108
+NOSIP	Expressed in all	7	50
+VILL	Tissue enhanced	1	2
+LSM12	Expressed in all	0	0
+CAMKK1	Tissue enhanced	2	3
+MYO1G	Tissue enhanced	0	0
+MYO1E	Expressed in all	20	52
+MYO1C	Expressed in all	0	0
+MYO1B	Tissue enhanced	2	3
+GRN	Expressed in all	1	2
+CHMP6	Expressed in all	0	0
+BCR	Expressed in all	0	0
+CTPS2	Expressed in all	4	9
+LGALSL	Expressed in all	1	7
+SF3B5	Expressed in all	4	18
+NUBP2	Expressed in all	18	56
+PSMA4	Expressed in all	76	595
+NEMF	Expressed in all	2	5
+SRI	Expressed in all	4	31
+SUN1	Expressed in all	0	0
+SRM	Expressed in all	65	424
+SRR	Expressed in all	0	0
+SF3B3	Expressed in all	21	217
+LGALS3	Expressed in all	84	625
+LGALS1	Expressed in all	53	495
+LGALS7	Tissue enriched	0	0
+EIF2AK3	Expressed in all	0	0
+EIF2AK2	Expressed in all	15	29
+HN1	Expressed in all	46	295
+FAM136A	Expressed in all	9	36
+TRNT1	Expressed in all	14	88
+OCRL	Expressed in all	1	2
+PLAUR	Tissue enhanced	0	0
+KIAA1033	Expressed in all	0	0
+TIMM17B	Expressed in all	0	0
+TIMM17A	Expressed in all	0	0
+LPCAT1	Expressed in all	0	0
+PIGK	Expressed in all	1	2
+ILKAP	Expressed in all	1	2
+PIGU	Expressed in all	0	0
+TAX1BP3	Expressed in all	17	46
+INPPL1	Expressed in all	0	0
+TBC1D4	Expressed in all	0	0
+LNPEP	Expressed in all	0	0
+NAPRT1	Expressed in all	23	123
+MGST3	Expressed in all	0	0
+PUF60	Expressed in all	8	28
+ZFAND1	Expressed in all	4	7
+PPID	Expressed in all	8	108
+EIF1AX	Expressed in all	16	212
+SMAD4	Expressed in all	0	0
+ARHGAP24	Expressed in all	2	3
+DDIT4	Expressed in all	0	0
+NFKBIL1	Expressed in all	0	0
+SMAD2	Expressed in all	3	12
+DR1	Expressed in all	3	9
+ASF1A	Expressed in all	4	8
+ATP5C1	Expressed in all	0	0
+CHD3	Expressed in all	1	1
+CHD2	Expressed in all	1	1
+CHD4	Expressed in all	2	10
+CHD7	Expressed in all	0	0
+CHD6	Expressed in all	0	0
+CHD8	Expressed in all	1	1
+CAP1	Expressed in all	85	861
+CAP2	Tissue enhanced	1	2
+NPC2	Expressed in all	4	7
+NPC1	Expressed in all	0	0
+SKIV2L	Expressed in all	0	0
+TTC5	Expressed in all	3	6
+RAB3GAP2	Expressed in all	0	0
+PIKFYVE	Expressed in all	8	17
+DYNC1LI1	Expressed in all	5	16
+DYNC1LI2	Expressed in all	4	14
+EFHC1	Expressed in all	0	0
+CAPG	Expressed in all	21	239
+TPRKB	Expressed in all	10	43
+ABCG2	Tissue enhanced	1	2
+PLSCR1	Expressed in all	0	0
+MPI	Expressed in all	9	91
+CPT1A	Expressed in all	0	0
+CSNK2A1	Expressed in all	7	46
+SRBD1	Expressed in all	0	0
+GRPEL1	Expressed in all	0	0
+PLRG1	Expressed in all	0	0
+SGSM1	Tissue enhanced	1	1
+SF3B14	Expressed in all	3	7
+AKR1B10	Tissue enhanced	1	4
+FAHD1	Expressed in all	5	8
+ZNF592	Expressed in all	0	0
+FAM49A	Expressed in all	0	0
+FAM49B	Expressed in all	22	217
+GGA1	Expressed in all	5	11
+GGA3	Expressed in all	0	0
+GGA2	Expressed in all	5	8
+C15orf40	Expressed in all	1	1
+NOP14	Expressed in all	0	0
+FHOD1	Expressed in all	2	5
+ADH5	Expressed in all	39	459
+PRKACG	Tissue enriched	4	6
+PRKACA	Expressed in all	15	27
+PSMB9	Expressed in all	5	20
+PRKACB	Expressed in all	4	8
+PSMB7	Expressed in all	22	253
+PSMB6	Expressed in all	34	476
+PSMB5	Expressed in all	25	459
+PSMB3	Expressed in all	25	337
+PSMB2	Expressed in all	22	390
+PSMB1	Expressed in all	22	296
+PFKFB2	Expressed in all	7	28
+HDHD1	Expressed in all	8	27
+HDHD3	Expressed in all	5	8
+HDHD2	Expressed in all	13	31
+KLHDC9	Tissue enhanced	0	0
+CORO7	Expressed in all	17	155
+CRY2	Expressed in all	2	2
+C9orf142	Expressed in all	0	0
+GLTP	Expressed in all	3	13
+ACOT13	Expressed in all	6	15
+VPS13A	Expressed in all	0	0
+SH3KBP1	Expressed in all	7	24
+VPS13B	Expressed in all	2	2
+TXLNG	Expressed in all	2	6
+CRYM	Tissue enhanced	1	4
+TMEM165	Expressed in all	0	0
+PMVK	Expressed in all	7	35
+PLBD2	Expressed in all	0	0
+GNA13	Expressed in all	0	0
+GNA11	Expressed in all	1	4
+NOL9	Expressed in all	0	0
+PRKAR1A	Expressed in all	23	53
+PRKAR1B	Tissue enriched	2	4
+SAR1A	Expressed in all	28	120
+DBN1	Expressed in all	0	0
+SAR1B	Expressed in all	9	40
+ADD2	Group enriched	0	0
+OGDH	Expressed in all	0	0
+SIN3A	Expressed in all	2	3
+ADD1	Expressed in all	2	3
+CDC73	Expressed in all	3	6
+UPP1	Expressed in all	7	30
+LMBRD1	Expressed in all	1	2
+SRFBP1	Expressed in all	0	0
+BCAT2	Expressed in all	4	21
+BCAT1	Tissue enhanced	0	0
+MACROD1	Expressed in all	14	65
+AKAP5	Tissue enhanced	0	0
+DBNL	Expressed in all	40	184
+AKAP1	Expressed in all	0	0
+AKAP2	Expressed in all	0	0
+NPEPPS	Expressed in all	34	473
+EIF2D	Expressed in all	3	20
+AKAP8	Expressed in all	1	1
+AKAP9	Expressed in all	2	3
+EIF2A	Expressed in all	20	111
+PPIP5K1	Expressed in all	0	0
+PHPT1	Expressed in all	11	151
+SMC1A	Expressed in all	4	59
+NFU1	Expressed in all	1	5
+RRP1B	Expressed in all	0	0
+NOVA1	Tissue enhanced	0	0
+RAB7A	Expressed in all	7	23
+HSP90B1	Expressed in all	72	1296
+KRR1	Expressed in all	0	0
+PEG10	Tissue enhanced	0	0
+STRN	Expressed in all	0	0
+CETN2	Expressed in all	1	2
+PRPF39	Expressed in all	1	3
+TP53I3	Expressed in all	5	52
+CUX1	Expressed in all	0	0
+CUX2	Group enriched	1	2
+BRF2	Expressed in all	0	0
+DNAJC8	Expressed in all	16	105
+CSNK1A1	Expressed in all	1	1
+MB	Group enriched	5	13
+CAMSAP3	Tissue enhanced	0	0
+DNAJC6	Tissue enriched	0	0
+DNAJC7	Expressed in all	6	82
+DNAJC2	Expressed in all	4	16
+DNAJC3	Expressed in all	0	0
+GOSR2	Expressed in all	0	0
+GOSR1	Expressed in all	0	0
+CCDC97	Expressed in all	1	6
+RALBP1	Expressed in all	1	2
+RAP1B	Expressed in all	0	0
+RAP1A	Expressed in all	6	14
+PPP1R8	Expressed in all	10	32
+ZNF831	Tissue enhanced	0	0
+ZNF830	Expressed in all	1	5
+IPO11	Expressed in all	16	64
+LRIF1	Expressed in all	1	3
+FAM91A1	Expressed in all	0	0
+IPO13	Expressed in all	1	1
+ACAT1	Expressed in all	5	24
+ACAT2	Expressed in all	30	228
+LIMD2	Tissue enhanced	0	0
+LIMD1	Expressed in all	1	7
+MECP2	Expressed in all	0	0
+PET112	Expressed in all	2	6
+TBPL1	Tissue enriched	1	11
+LDLR	Expressed in all	0	0
+ZFYVE20	Expressed in all	0	0
+RBMXL2	Tissue enriched	2	4
+TRPV3	Tissue enhanced	0	0
+NUDT16L1	Expressed in all	15	71
+ZNF207	Expressed in all	12	53
+CHMP4A	Expressed in all	6	80
+CHMP4B	Expressed in all	4	44
+BAX	Expressed in all	8	19
+IARS	Expressed in all	135	950
+COBLL1	Expressed in all	0	0
+CDK19	Expressed in all	0	0
+PMPCA	Expressed in all	1	2
+CDK12	Expressed in all	0	0
+CDK13	Expressed in all	0	0
+CDK16	Expressed in all	2	3
+GPR124	Expressed in all	2	2
+ATP6V1B1	Tissue enhanced	10	33
+ATP6V1B2	Expressed in all	7	82
+KCNAB2	Expressed in all	3	6
+MTERFD1	Expressed in all	1	1
+ZC3H13	Expressed in all	0	0
+RPL15	Expressed in all	2	2
+TFG	Expressed in all	37	137
+TOMM34	Expressed in all	23	216
+NCL	Expressed in all	67	602
+PPP3CA	Expressed in all	3	10
+RPL11	Expressed in all	8	78
+RPL13	Expressed in all	0	0
+LRRC41	Expressed in all	2	3
+LRRC40	Expressed in all	0	0
+LRRC42	Expressed in all	0	0
+LRRC45	Expressed in all	0	0
+LRRC47	Expressed in all	9	87
+PPP2R1B	Expressed in all	22	62
+GUK1	Expressed in all	4	23
+CCDC159	Expressed in all	2	4
+MTCH2	Expressed in all	0	0
+ATP5J	Expressed in all	0	0
+NBN	Expressed in all	1	4
+FUBP3	Expressed in all	17	61
+FUBP1	Expressed in all	51	1121
+SAP30	Expressed in all	0	0
+GNAI1	Expressed in all	2	4
+ZFYVE21	Expressed in all	0	0
+MRPL45	Expressed in all	0	0
+PALM2	Tissue enhanced	1	5
+C1orf52	Expressed in all	3	12
+C1orf50	Expressed in all	7	31
+ATP6V0A1	Expressed in all	1	1
+ATP6V0A2	Expressed in all	0	0
+GPR98	Group enriched	4	4
+KRT77	Tissue enriched	2	3
+KRT76	Tissue enriched	7	8
+KRT72	Tissue enhanced	0	0
+KRT79	Tissue enriched	1	2
+KRT78	Tissue enriched	0	0
+ATP5A1	Expressed in all	1	1
+AAMP	Expressed in all	4	13
+PATL1	Expressed in all	1	2
+CARS	Expressed in all	19	128
+ENO1	Expressed in all	169	13161
+ENO2	Expressed in all	14	169
+ENO3	Tissue enriched	91	756
+LLGL2	Expressed in all	0	0
+ACOX1	Expressed in all	0	0
+NSMCE2	Expressed in all	0	0
+PNP	Expressed in all	33	482
+PFDN1	Expressed in all	9	59
+PTK2	Expressed in all	3	11
+PTK6	Tissue enhanced	1	2
+RABGAP1	Expressed in all	1	1
+PRKAA1	Expressed in all	1	2
+PFDN2	Expressed in all	36	145
+CYB5B	Expressed in all	0	0
+POMP	Expressed in all	6	15
+ARHGDIA	Expressed in all	66	613
+USH1C	Group enriched	2	3
+NANS	Expressed in all	26	207
+C3orf38	Expressed in all	0	0
+CES2	Expressed in all	0	0
+BDH2	Expressed in all	7	32
+DDX23	Expressed in all	0	0
+DDX21	Expressed in all	5	16
+DDX20	Tissue enriched	0	0
+DDX27	Expressed in all	0	0
+DDX24	Expressed in all	0	0
+SIRT6	Expressed in all	0	0
+DDX28	Expressed in all	0	0
+UNC13D	Expressed in all	2	2
+TSNAX	Expressed in all	23	82
+SAC3D1	Tissue enhanced	7	10
+DCTD	Expressed in all	9	48
+PCK1	Tissue enhanced	1	3
+NACA2	Tissue enriched	40	88
+C9orf169	Tissue enhanced	0	0
+BCLAF1	Expressed in all	0	0
+MARCKS	Expressed in all	0	0
+CCDC70	Tissue enriched	1	2
+TMEM109	Expressed in all	0	0
+SPEN	Expressed in all	5	6
+FKBP1A	Expressed in all	32	198
+STAT6	Expressed in all	4	6
+STOML2	Expressed in all	0	0
+TIMM8A	Expressed in all	0	0
+TRPT1	Expressed in all	1	2
+DAXX	Expressed in all	1	4
+CDC16	Expressed in all	0	0
+PDE4DIP	Group enriched	2	3
+RMI1	Expressed in all	0	0
+AHNAK	Expressed in all	33	1506
+MAP1B	Tissue enhanced	0	0
+PDCL2	Tissue enriched	1	3
+PDCL3	Expressed in all	8	44
+VGF	Tissue enriched	1	2
+MAP1S	Expressed in all	3	4
+FRMD7	Group enriched	1	2
+SNRPF	Expressed in all	2	5
+GNAS	Expressed in all	2	8
+PTCD3	Expressed in all	0	0
+DSCR3	Expressed in all	0	0
+PTCD1	Expressed in all	0	0
+HLTF	Expressed in all	2	7
+AGFG2	Tissue enriched	1	2
+AGFG1	Expressed in all	11	33
+DPF2	Expressed in all	0	0
+DPF1	Tissue enriched	0	0
+ASNA1	Expressed in all	5	30
+RPS12	Expressed in all	59	191
+RPL18A	Expressed in all	0	0
+KRT3	Tissue enriched	4	7
+KRT2	Tissue enriched	170	1094
+KRT1	Tissue enriched	187	2568
+KRT4	Tissue enriched	2	4
+VPS45	Expressed in all	0	0
+VPS41	Expressed in all	0	0
+RPL36A	Expressed in all	2	11
+NAA16	Expressed in all	0	0
+EPB41L3	Expressed in all	0	0
+EPB41L2	Expressed in all	2	7
+ACSS2	Expressed in all	7	22
+KIDINS220	Expressed in all	1	2
+NAA15	Expressed in all	9	91
+VPS4A	Expressed in all	1	2
+VPS4B	Expressed in all	5	18
+GMEB2	Expressed in all	0	0
+VHL	Expressed in all	2	3
+LRRN4	Tissue enriched	0	0
+BLMH	Expressed in all	15	247
+MOGS	Expressed in all	0	0
+MRPL37	Expressed in all	1	2
+GPRIN1	Tissue enhanced	0	0
+SPTBN2	Tissue enhanced	0	0
+SPTBN1	Expressed in all	6	170
+TFAP2A	Tissue enhanced	0	0
+TFAP2B	Group enriched	1	6
+GBE1	Expressed in all	18	299
+PCNA	Expressed in all	64	773
+SLC44A1	Expressed in all	0	0
+ZBTB7A	Expressed in all	0	0
+ZBTB7B	Expressed in all	0	0
+MSI2	Expressed in all	6	10
+PCNP	Expressed in all	34	214
+CRABP2	Tissue enriched	0	0
+RPA1	Expressed in all	24	169
+RPA3	Expressed in all	18	51
+COQ9	Expressed in all	0	0
+NDUFS6	Expressed in all	0	0
+NDUFS7	Expressed in all	0	0
+SLC9A3R1	Expressed in all	4	21
+ITCH	Expressed in all	2	4
+ZRANB2	Expressed in all	40	146
+THOC3	Expressed in all	3	18
+RREB1	Expressed in all	0	0
+PPT1	Expressed in all	0	0
+PPT2	Expressed in all	1	1
+INPP4A	Expressed in all	0	0
+SYPL1	Expressed in all	0	0
+SAFB	Expressed in all	2	17
+TMCO1	Expressed in all	0	0
+MGMT	Expressed in all	19	97
+H2AFV	Expressed in all	0	0
+H2AFY	Expressed in all	0	0
+RNF8	Expressed in all	0	0
+RFX5	Expressed in all	0	0
+RNF2	Expressed in all	0	0
+RFX6	Tissue enhanced	1	5
+PRSS1	Tissue enriched	27	51
+NCAPG2	Expressed in all	0	0
+RFX1	Expressed in all	2	5
+CLTA	Expressed in all	2	3
+CLTC	Expressed in all	46	366
+CLTB	Expressed in all	1	4
+RRAGA	Expressed in all	0	0
+NGLY1	Expressed in all	3	4
+ADRBK1	Expressed in all	2	10
+NMD3	Expressed in all	6	25
+HARS	Expressed in all	82	519
+EPM2A	Expressed in all	1	2
+FAM118B	Expressed in all	1	1
+RECQL	Expressed in all	2	8
+MAVS	Expressed in all	2	2
+MAP7D1	Expressed in all	0	0
+PRKRIR	Expressed in all	2	4
+ACTR8	Expressed in all	0	0
+ACTR6	Expressed in all	2	8
+ACTR5	Expressed in all	1	1
+UQCRC1	Expressed in all	1	1
+ACTR3	Expressed in all	9	81
+ACTR2	Expressed in all	7	23
+NUP88	Expressed in all	0	0
+WBSCR22	Expressed in all	9	24
+PDE3A	Tissue enhanced	4	7
+PDE3B	Tissue enhanced	1	2
+GNL3L	Expressed in all	0	0
+POLDIP3	Expressed in all	0	0
+RASA1	Expressed in all	4	16
+ALDH18A1	Expressed in all	0	0
+ACTN2	Group enriched	2	3
+PTPRS	Expressed in all	0	0
+ANKS1A	Expressed in all	0	0
+YTHDF3	Expressed in all	1	1
+RPL12	Expressed in all	63	281
+ADAM10	Expressed in all	0	0
+WDSUB1	Expressed in all	0	0
+CPNE8	Expressed in all	0	0
+SNRPB2	Expressed in all	8	31
+CPNE3	Expressed in all	44	297
+CPNE2	Expressed in all	10	22
+CPNE1	Expressed in all	89	504
+TRIT1	Expressed in all	2	2
+RBM10	Expressed in all	0	0
+PGRMC1	Expressed in all	0	0
+XRN2	Expressed in all	0	0
+RABEPK	Expressed in all	8	63
+SNRPB	Expressed in all	1	2
+SNRPC	Expressed in all	0	0
+SNRPA	Expressed in all	7	74
+SNRPE	Expressed in all	2	4
+KLC4	Expressed in all	2	3
+TECR	Expressed in all	0	0
+PRCC	Expressed in all	3	9
+IFT27	Expressed in all	6	24
+RPS3	Expressed in all	20	278
+LEMD3	Expressed in all	0	0
+QARS	Expressed in all	105	713
+TLR2	Tissue enhanced	1	2
+NAPG	Expressed in all	3	11
+ESPL1	Tissue enhanced	0	0
+NAPA	Expressed in all	4	43
+C3orf17	Expressed in all	3	4
+YAF2	Expressed in all	0	0
+LARP1	Expressed in all	8	19
+LARP4	Expressed in all	0	0
+LARP7	Expressed in all	1	1
+DDX49	Expressed in all	2	5
+DDX42	Expressed in all	6	33
+PTER	Expressed in all	6	29
+DDX47	Expressed in all	1	2
+DDX46	Expressed in all	8	37
+PTEN	Expressed in all	2	2
+ATMIN	Expressed in all	0	0
+ELAVL1	Expressed in all	21	132
+CDKN1B	Expressed in all	0	0
+UBE2D2	Expressed in all	29	111
+DPYSL4	Tissue enhanced	0	0
+UBE2D1	Expressed in all	23	73
+POFUT1	Expressed in all	5	9
+APOB	Group enriched	0	0
+APOO	Expressed in all	0	0
+NDUFV2	Expressed in all	0	0
+CCDC50	Expressed in all	1	3
+CCDC53	Expressed in all	0	0
+CCDC57	Expressed in all	1	2
+CCDC58	Expressed in all	14	54
+TMEM129	Expressed in all	1	2
+PAXIP1	Expressed in all	0	0
+NUFIP2	Expressed in all	2	8
+PREPL	Expressed in all	17	142
+SLC35B2	Expressed in all	2	4
+ZC3H7B	Expressed in all	0	0
+CNRIP1	Expressed in all	0	0
+FBXO38	Expressed in all	0	0
+MPG	Expressed in all	1	2
+SPAG17	Tissue enhanced	1	2
+PELP1	Expressed in all	1	2
+HINT1	Expressed in all	24	280
+HINT2	Expressed in all	3	9
+UNC79	Tissue enhanced	2	3
+CDC34	Expressed in all	3	8
+CDC37	Expressed in all	81	434
+ALAS1	Expressed in all	1	2
+S100A9	Expressed in all	5	18
+S100A8	Expressed in all	9	24
+BIRC6	Expressed in all	0	0
+S100A4	Expressed in all	14	151
+S100A7	Group enriched	0	0
+LONRF2	Tissue enhanced	0	0
+PGLS	Expressed in all	31	299
+SYNJ2BP	Expressed in all	0	0
+MORC3	Expressed in all	0	0
+TXNL4A	Expressed in all	0	0
+WDR1	Expressed in all	26	893
+DYNC1I2	Expressed in all	2	23
+SKA1	Tissue enhanced	0	0
+SKA3	Tissue enhanced	0	0
+ZNHIT6	Expressed in all	0	0
+MEF2D	Expressed in all	0	0
+LGALS3BP	Expressed in all	0	0
+SOX21	Tissue enhanced	0	0
+E2F4	Expressed in all	0	0
+E2F3	Expressed in all	0	0
+ZNFX1	Expressed in all	2	5
+HNRNPAB	Expressed in all	17	95
+ACBD3	Expressed in all	8	42
+PPP4C	Expressed in all	13	34
+EEF2	Expressed in all	204	5055
+PYCR1	Expressed in all	0	0
+TLN1	Expressed in all	17	388
+RPLP1	Expressed in all	88	302
+IL36G	Tissue enriched	0	0
+HPCAL1	Expressed in all	2	3
+SEC24D	Expressed in all	0	0
+SEC24A	Expressed in all	6	9
+SEC24C	Expressed in all	5	25
+SEC24B	Expressed in all	1	1
+KDM1A	Expressed in all	0	0
+CSMD3	Group enriched	1	2
+MRPL46	Expressed in all	0	0
+TRIP6	Expressed in all	3	15
+MRPL49	Expressed in all	0	0
+MRPL48	Expressed in all	0	0
+ARFGAP2	Expressed in all	0	0
+ARFGAP3	Expressed in all	0	0
+ARFGAP1	Expressed in all	1	2
+LAMB1	Expressed in all	1	1
+COPZ1	Expressed in all	6	16
+MPHOSPH8	Expressed in all	3	9
+U2AF1	Expressed in all	0	0
+U2AF2	Expressed in all	6	16
+MPHOSPH6	Expressed in all	2	4
+TGM3	Tissue enriched	0	0
+DHPS	Expressed in all	56	126
+CCDC6	Expressed in all	12	23
+COX7A2	Expressed in all	0	0
+CCDC9	Expressed in all	2	3
+TMEM14B	Expressed in all	0	0
+MGA	Expressed in all	0	0
+MTHFD2	Expressed in all	2	5
+MTHFD1	Expressed in all	65	1172
+TBP	Expressed in all	0	0
+GSS	Expressed in all	11	449
+NUDCD2	Expressed in all	16	70
+NUDCD3	Expressed in all	3	16
+NUDCD1	Expressed in all	10	31
+ADSS	Expressed in all	43	360
+GMNN	Expressed in all	0	0
+ADSL	Expressed in all	20	107
+SAMD4B	Expressed in all	0	0
+AS3MT	Tissue enriched	0	0
+SMC4	Expressed in all	7	43
+TIMMDC1	Expressed in all	0	0
+RPS27L	Expressed in all	0	0
+WAPAL	Expressed in all	0	0
+CYLD	Expressed in all	0	0
+STMN1	Expressed in all	25	418
+HN1L	Expressed in all	39	384
+NUDT10	Tissue enhanced	2	2
+NUDT14	Expressed in all	1	2
+NUDT15	Expressed in all	3	7
+ZW10	Expressed in all	2	3
+NUDT19	Expressed in all	0	0
+STX8	Expressed in all	0	0
+ACTL8	Tissue enriched	1	3
+STX7	Expressed in all	0	0
+RPS3A	Expressed in all	21	330
+SOS2	Expressed in all	0	0
+GSR	Expressed in all	16	187
+CLIC6	Tissue enhanced	1	1
+CLIC5	Tissue enhanced	5	11
+LGI1	Tissue enriched	0	0
+ECE1	Expressed in all	1	3
+MTMR12	Expressed in all	1	2
+DRG2	Expressed in all	16	57
+DRG1	Expressed in all	0	0
+CLIC1	Expressed in all	33	562
+AP1B1	Expressed in all	9	20
+LRRFIP1	Expressed in all	64	257
+RNF123	Expressed in all	1	3
+RABL2A	Expressed in all	2	8
+TXLNA	Expressed in all	11	65
+CDC42EP4	Expressed in all	8	17
+AHCY	Expressed in all	65	646
+ABI1	Expressed in all	0	0
+PTCHD3	Tissue enriched	0	0
+GPI	Expressed in all	48	1280
+PARG	Expressed in all	0	0
+ACADVL	Expressed in all	6	33
+RAB4A	Expressed in all	0	0
+KRT31	Group enriched	6	85
+KRT32	Tissue enriched	0	0
+CHN1	Tissue enriched	1	2
+KIF2A	Expressed in all	0	0
+KIF2C	Tissue enhanced	4	20
+CAV1	Tissue enhanced	0	0
+ATP6AP1	Expressed in all	0	0
+ATP6AP2	Expressed in all	0	0
+ENSA	Expressed in all	10	73
+CLINT1	Expressed in all	0	0
+BRCA1	Expressed in all	0	0
+AHRR	Tissue enriched	0	0
+ACOT8	Expressed in all	0	0
+ACOT9	Expressed in all	0	0
+ACOT1	Expressed in all	5	27
+ADCY8	Group enriched	0	0
+RBBP5	Expressed in all	4	9
+KIF22	Expressed in all	0	0
+DDI2	Expressed in all	8	41
+PTPLAD1	Expressed in all	0	0
+XRCC1	Expressed in all	1	1
+PITPNA	Expressed in all	30	147
+PDLIM1	Expressed in all	29	236
+TCP1	Expressed in all	143	2028
+TFRC	Expressed in all	8	28
+GSPT1	Expressed in all	46	509
+DGCR8	Expressed in all	0	0
+MIER1	Expressed in all	1	1
+RSL1D1	Expressed in all	6	15
+DDX60	Expressed in all	1	2
+LMNB2	Expressed in all	0	0
+MRPS28	Expressed in all	0	0
+MRPS26	Expressed in all	0	0
+MRPS27	Expressed in all	0	0
+MRPS25	Expressed in all	0	0
+MRPS22	Expressed in all	0	0
+MRPS23	Expressed in all	0	0
+MRPS21	Expressed in all	0	0
+PPP2R5D	Expressed in all	16	63
+PPP2R5E	Expressed in all	5	11
+PPP2R5A	Expressed in all	11	25
+PPP2R5B	Expressed in all	0	0
+LCMT1	Expressed in all	4	9
+YY1	Expressed in all	1	7
+YY2	Tissue enhanced	0	0
+PPCS	Expressed in all	7	49
+H2AFY2	Expressed in all	0	0
+NAMPT	Expressed in all	69	1268
+NDUFB11	Expressed in all	0	0
+ADCY10	Tissue enriched	1	2
+GSE1	Expressed in all	0	0
+OPTN	Expressed in all	2	4
+JMJD6	Expressed in all	39	243
+ZHX1	Expressed in all	0	0
+MCCC2	Expressed in all	1	1
+MCCC1	Expressed in all	0	0
+ACACA	Expressed in all	26	57
+ACACB	Tissue enriched	1	2
+APPL1	Expressed in all	1	3
+APPL2	Expressed in all	1	5
+ZDHHC2	Expressed in all	0	0
+MEMO1	Expressed in all	11	26
+TFAP4	Expressed in all	1	2
+UNC80	Tissue enhanced	1	1
+SARS2	Expressed in all	1	1
+HS3ST6	Tissue enriched	2	3
+CYFIP1	Expressed in all	0	0
+CYFIP2	Expressed in all	0	0
+HYI	Expressed in all	4	17
+TRIM24	Expressed in all	0	0
+THUMPD1	Expressed in all	10	38
+THUMPD3	Expressed in all	15	47
+KYNU	Tissue enhanced	66	1168
+CHORDC1	Expressed in all	24	185
+LHPP	Expressed in all	21	42
+NUP188	Expressed in all	1	2
+WDR36	Expressed in all	0	0
+COPG2	Expressed in all	0	0
+MTO1	Expressed in all	1	2
+ZNHIT2	Tissue enhanced	5	14
+GTPBP1	Expressed in all	0	0
+GTPBP3	Expressed in all	3	6
+BPNT1	Expressed in all	14	192
+MLKL	Expressed in all	7	35
+EIF4A1	Expressed in all	65	929
+TIPIN	Expressed in all	0	0
+BCL9	Expressed in all	0	0
+EPM2AIP1	Expressed in all	2	2
+POR	Expressed in all	1	2
+NPEPL1	Expressed in all	3	8
+TDRD7	Expressed in all	1	2
+OAS1	Expressed in all	0	0
+OAS3	Expressed in all	2	6
+RPP40	Expressed in all	1	1
+MTM1	Expressed in all	0	0
+CCIN	Tissue enriched	0	0
+NBPF1	Expressed in all	3	5
+SERPINB1	Expressed in all	42	484
+ANKK1	Tissue enhanced	0	0
+SERPINB3	Tissue enriched	15	135
+SERPINB2	Group enriched	0	0
+SERPINB5	Group enriched	29	542
+SERPINB4	Group enriched	6	20
+SERPINB6	Expressed in all	51	509
+PCGF5	Expressed in all	0	0
+MAGED2	Expressed in all	7	14
+ELP4	Expressed in all	5	20
+ELP3	Expressed in all	33	105
+ELP2	Expressed in all	38	99
+DES	Expressed in all	0	0
+TRIM55	Tissue enhanced	0	0
+DEK	Expressed in all	2	28
+SPRYD4	Expressed in all	2	5
+KLHDC4	Expressed in all	0	0
+CCDC84	Expressed in all	0	0
+UBAP1	Expressed in all	1	1
+ASXL2	Expressed in all	0	0
+HDDC2	Expressed in all	4	15
+HDDC3	Expressed in all	4	6
+VCL	Expressed in all	41	677
+SGTB	Tissue enhanced	0	0
+KLHL38	Group enriched	1	2
+SGTA	Expressed in all	30	123
+VCP	Expressed in all	69	1511
+PEX3	Expressed in all	0	0
+USP19	Expressed in all	9	29
+NRD1	Expressed in all	47	517
+PPP2R1A	Expressed in all	138	1574
+HIF1AN	Expressed in all	1	2
+UBXN4	Expressed in all	0	0
+NEB	Tissue enriched	1	1
+STIM1	Expressed in all	0	0
+ATP5I	Expressed in all	0	0
+ATP5H	Expressed in all	0	0
+ATP5O	Expressed in all	0	0
+ATP5L	Expressed in all	0	0
+ATP5B	Expressed in all	6	31
+GNAI2	Expressed in all	1	3
+GNAI3	Expressed in all	2	9
+ATP5D	Expressed in all	1	2
+MPZL1	Expressed in all	0	0
+HLA-C	Expressed in all	1	2
+HLA-A	Expressed in all	1	1
+PFDN5	Expressed in all	108	315
+PFDN4	Expressed in all	20	93
+PFDN6	Expressed in all	11	86
+MTHFS	Expressed in all	3	31
+TFPI	Expressed in all	1	1
+DTNA	Tissue enhanced	0	0
+CSNK1A1L	Tissue enriched	1	5
+UBXN7	Expressed in all	1	19
+TBC1D9B	Expressed in all	1	1
+GDA	Tissue enhanced	44	294
+RNH1	Expressed in all	89	583
+RPS13	Expressed in all	9	36
+RPS11	Expressed in all	6	34
+RPS10	Expressed in all	7	91
+RPS17	Expressed in all	16	89
+RPS15	Expressed in all	5	8
+RPS14	Expressed in all	14	63
+CLPP	Expressed in all	1	2
+RIPK1	Expressed in all	2	3
+DDOST	Expressed in all	0	0
+CLPB	Tissue enriched	1	1
+SPRR1B	Group enriched	0	0
+LAMA5	Expressed in all	0	0
+TSSC4	Expressed in all	0	0
+TSSC1	Expressed in all	1	5
+GLIPR2	Expressed in all	0	0
+RRAGC	Expressed in all	1	4
+TARS	Expressed in all	38	601
+HM13	Expressed in all	0	0
+RASA2	Expressed in all	1	1
+RASA3	Expressed in all	0	0
+ACTN1	Expressed in all	71	1098
+ACTN4	Expressed in all	33	466
+EZR	Expressed in all	43	476
+PTPRD	Tissue enhanced	4	9
+TUFM	Expressed in all	20	55
+HAUS4	Expressed in all	0	0
+DTWD1	Expressed in all	4	11
+IFT20	Expressed in all	0	0
+CPD	Expressed in all	0	0
+GAPVD1	Expressed in all	5	10
+RPL7L1	Expressed in all	1	2
+RNASEH1	Expressed in all	0	0
+ERGIC3	Expressed in all	0	0
+GPR150	Tissue enhanced	0	0
+ABLIM1	Expressed in all	3	8
+UBXN6	Expressed in all	0	0
+FAM172A	Expressed in all	0	0
+TAF1D	Expressed in all	0	0
+UBXN1	Expressed in all	15	140
+HMGN5	Expressed in all	15	106
+HMGN3	Expressed in all	0	0
+HMGN2	Expressed in all	4	13
+HMGN1	Expressed in all	3	13
+GSTZ1	Expressed in all	12	26
+RC3H1	Expressed in all	0	0
+ENGASE	Expressed in all	0	0
+CRIPT	Expressed in all	1	2
+IFIT5	Expressed in all	1	2
+IFIT3	Expressed in all	4	8
+IFIT1	Expressed in all	4	11
+EFTUD2	Expressed in all	12	137
+EFTUD1	Expressed in all	15	51
+ISG15	Expressed in all	33	225
+MAP1LC3B	Expressed in all	1	1
+GPS1	Expressed in all	24	58
+BRCC3	Expressed in all	7	10
+GDI2	Expressed in all	61	980
+GDI1	Expressed in all	81	777
+ERLIN1	Expressed in all	0	0
+ERLIN2	Expressed in all	0	0
+SPG20	Expressed in all	0	0
+KRT17	Tissue enhanced	3	5
+KRT16	Group enriched	25	74
+KRT14	Tissue enriched	30	129
+KRT13	Tissue enriched	13	37
+WDR33	Expressed in all	0	0
+KRT10	Tissue enriched	152	1485
+CRIP1	Expressed in all	24	166
+EIF4A2	Expressed in all	6	27
+GIGYF2	Expressed in all	0	0
+TLE3	Expressed in all	2	6
+PLP2	Expressed in all	1	2
+CRYZL1	Expressed in all	11	52
+TFPT	Expressed in all	0	0
+SEC23A	Expressed in all	3	7
+GLO1	Expressed in all	53	405
+MEPCE	Expressed in all	1	1
+CCBL1	Expressed in all	7	48
+CCBL2	Expressed in all	4	27
+COX5A	Expressed in all	1	3
+COX5B	Expressed in all	1	1
+CPSF7	Expressed in all	0	0
+CPSF6	Expressed in all	2	6
+CPSF3	Expressed in all	1	3
+CPSF2	Expressed in all	1	1
+CPSF1	Expressed in all	0	0
+NMT1	Expressed in all	15	32
+MAD1L1	Expressed in all	1	1
+TTC23L	Group enriched	3	5
+ACAA2	Expressed in all	3	17
+ACAA1	Expressed in all	2	2
+HTT	Expressed in all	1	1
+SIPA1L1	Expressed in all	2	2
+WHSC1	Expressed in all	0	0
+ARIH2	Expressed in all	33	83
+ARIH1	Expressed in all	9	39
+RNPC3	Expressed in all	0	0
+QKI	Expressed in all	3	3
+LRWD1	Tissue enriched	0	0
+PPFIA1	Expressed in all	0	0
+MBD3	Expressed in all	3	7
+MBD2	Expressed in all	1	1
+TRMT112	Expressed in all	35	143
+ZNF326	Expressed in all	0	0
+HEPACAM2	Tissue enhanced	0	0
+REXO2	Expressed in all	20	144
+SLC25A17	Expressed in all	0	0
+KIAA1429	Expressed in all	0	0
+SLC25A13	Expressed in all	1	1
+SLC25A12	Expressed in all	0	0
+SLC25A11	Expressed in all	0	0
+SLC25A10	Expressed in all	0	0
+LMCD1	Tissue enhanced	0	0
+MT-ND5	Expressed in all	0	0
+STAT3	Expressed in all	23	82
+CCDC12	Expressed in all	5	21
+NUP107	Expressed in all	0	0
+DNAJA1	Expressed in all	2	3
+ZNF644	Expressed in all	0	0
+SYNCRIP	Expressed in all	42	637
+RBM46	Tissue enriched	0	0
+VIM	Expressed in all	1	2
+PARN	Expressed in all	0	0
+FUS	Expressed in all	3	5
+GTPBP10	Expressed in all	0	0
+PI4KA	Expressed in all	0	0
+MYCBP	Expressed in all	3	4
+PDXP	Tissue enhanced	5	15
+COX6B1	Expressed in all	18	54
+COX6B2	Tissue enriched	2	3
+STAM	Expressed in all	1	8
+RAB11B	Expressed in all	22	48
+GCC2	Expressed in all	0	0
+GCC1	Expressed in all	1	2
+SMYD3	Expressed in all	1	5
+RTN3	Expressed in all	0	0
+MRFAP1	Expressed in all	4	7
+IRF3	Expressed in all	8	27
+CLK3	Expressed in all	0	0
+SNX27	Expressed in all	0	0
+SNX25	Expressed in all	0	0
+PIGT	Expressed in all	0	0
+MRPL21	Expressed in all	0	0
+MRPL20	Expressed in all	0	0
+SYVN1	Expressed in all	1	2
+MRPL23	Expressed in all	0	0
+DDX19A	Expressed in all	16	225
+DDX19B	Expressed in all	1	2
+MTOR	Expressed in all	0	0
+UNG	Expressed in all	1	1
+SNRNP70	Expressed in all	1	6
+NPTX1	Tissue enriched	0	0
+SLU7	Expressed in all	0	0
+NDRG1	Expressed in all	13	82
+FAM192A	Expressed in all	12	54
+ARAP3	Expressed in all	1	3
+ARAP1	Expressed in all	1	3
+BID	Expressed in all	7	35
+PARP1	Expressed in all	7	71
+SRSF7	Expressed in all	0	0
+RDX	Expressed in all	25	219
+CYBA	Expressed in all	0	0
+HMHA1	Expressed in all	0	0
+PRCP	Expressed in all	4	4
+PPM1A	Expressed in all	3	14
+MEAF6	Expressed in all	0	0
+SRSF2	Expressed in all	1	3
+NOTCH2	Expressed in all	1	4
+MCU	Expressed in all	0	0
+HSF1	Expressed in all	2	2
+CRLF3	Expressed in all	17	46
+NISCH	Expressed in all	1	1
+PRPF4B	Expressed in all	0	0
+C7orf50	Expressed in all	2	7
+SYT15	Tissue enhanced	0	0
+RAPH1	Expressed in all	1	1
+PARK7	Expressed in all	104	1844
+GUSB	Expressed in all	0	0
+KRTAP3-2	Tissue enriched	0	0
+MDM1	Expressed in all	0	0
+SNRPD3	Expressed in all	6	13
+SNRPD2	Expressed in all	9	29
+SNRPD1	Expressed in all	33	73
+SLTM	Expressed in all	0	0
+KPNA7	Group enriched	7	12
+KPNA6	Expressed in all	7	12
+KPNA5	Expressed in all	11	23
+KPNA4	Expressed in all	49	208
+KPNA3	Expressed in all	42	115
+KIN	Expressed in all	0	0
+KPNA1	Expressed in all	30	125
+PKP3	Tissue enhanced	2	3
+IFT46	Expressed in all	0	0
+UNC119B	Expressed in all	1	6
+CRK	Expressed in all	22	158
+PC	Expressed in all	1	7
+B4GALT1	Expressed in all	0	0
+MT-ND1	Expressed in all	0	0
+DHRS11	Group enriched	8	36
+TUBA3C	Tissue enriched	0	0
+SGOL2	Tissue enhanced	1	2
+ASPSCR1	Expressed in all	1	3
+LGMN	Expressed in all	3	3
+TNFRSF1A	Expressed in all	0	0
+PPP1R9B	Expressed in all	0	0
+L1CAM	Tissue enhanced	0	0
+GPD1L	Expressed in all	7	92
+C6orf211	Expressed in all	11	113
+SIGMAR1	Expressed in all	0	0
+EHMT1	Expressed in all	1	2
+EHMT2	Expressed in all	1	1
+HPRT1	Expressed in all	63	371
+PTPN6	Expressed in all	0	0
+FOSL2	Expressed in all	0	0
+NDUFA10	Expressed in all	0	0
+TMEM170A	Expressed in all	0	0
+IGBP1	Expressed in all	8	38
+CD63	Expressed in all	0	0
+NDUFA12	Expressed in all	0	0
+NDUFA13	Expressed in all	0	0
+TPD52L2	Expressed in all	30	320
+TERF2IP	Expressed in all	7	11
+ISOC2	Expressed in all	2	5
+ISOC1	Expressed in all	13	92
+WDR12	Expressed in all	9	72
+SRP68	Expressed in all	1	1
+GABPA	Expressed in all	0	0
+TIMM9	Expressed in all	0	0
+ZNF787	Expressed in all	8	18
+USP9X	Expressed in all	28	100
+WASL	Expressed in all	4	10
+BCL9L	Expressed in all	0	0
+UTRN	Expressed in all	2	3
+CGGBP1	Expressed in all	0	0
+ZFP42	Tissue enhanced	1	2
+PHGDH	Expressed in all	100	1186
+HSPA1L	Tissue enriched	230	2986
+MAD2L1BP	Expressed in all	0	0
+C10orf32	Expressed in all	1	2
+HSPB1	Expressed in all	132	531
+PKN1	Expressed in all	0	0
+PKN3	Expressed in all	0	0
+PKN2	Expressed in all	2	5
+HSPB8	Tissue enhanced	1	2
+IDH3B	Expressed in all	0	0
+INO80C	Expressed in all	0	0
+DIS3L2	Expressed in all	1	3
+UTP14A	Expressed in all	0	0
+PLOD3	Expressed in all	0	0
+ERBB2IP	Expressed in all	1	2
+PIGS	Expressed in all	0	0
+PTDSS2	Expressed in all	0	0
+HPCA	Tissue enriched	4	6
+PBXIP1	Expressed in all	0	0
+HTATIP2	Expressed in all	2	5
+LIG4	Expressed in all	0	0
+CSNK1D	Expressed in all	1	2
+CSNK1E	Expressed in all	0	0
+LIG1	Expressed in all	28	268
+IREB2	Expressed in all	3	8
+EHBP1L1	Expressed in all	1	2
+FNTA	Expressed in all	70	207
+FNTB	Expressed in all	12	23
+EVI5L	Expressed in all	1	4
+CRCP	Expressed in all	2	2
+KCTD15	Expressed in all	0	0
+ZKSCAN5	Expressed in all	0	0
+GLIS1	Tissue enhanced	2	3
+BCHE	Tissue enhanced	0	0
+DCP1A	Expressed in all	0	0
+TUBA1C	Expressed in all	0	0
+CHMP7	Expressed in all	8	48
+TUBA1A	Expressed in all	125	750
+AJAP1	Tissue enhanced	0	0
+CHMP5	Expressed in all	7	36
+TMEM189	Expressed in all	0	0
+TAF7	Expressed in all	0	0
+TAF6	Expressed in all	0	0
+TAF3	Expressed in all	0	0
+TAF2	Expressed in all	1	2
+TAF1	Expressed in all	0	0
+G6PD	Expressed in all	60	1139
+USP10	Expressed in all	7	22
+TAF9	Expressed in all	11	39
+ELMO2	Expressed in all	0	0
+DSCAML1	Tissue enhanced	1	2
+AGPS	Expressed in all	0	0
+ALAD	Expressed in all	4	9
+PDXK	Expressed in all	26	297
+CLTCL1	Tissue enhanced	0	0
+NPLOC4	Expressed in all	10	36
+SSBP3	Expressed in all	0	0
+PIK3C2A	Expressed in all	0	0
+AP2M1	Expressed in all	0	0
+NPM3	Expressed in all	0	0
+PDCD6	Expressed in all	29	209
+PDCD7	Expressed in all	0	0
+PDCD4	Expressed in all	33	179
+PDCD5	Expressed in all	16	196
+PRUNE	Expressed in all	0	0
+HDLBP	Expressed in all	12	88
+ERP44	Expressed in all	10	43
+ARFGEF1	Expressed in all	0	0
+VPS26A	Expressed in all	7	63
+VPS26B	Expressed in all	1	1
+SMU1	Expressed in all	0	0
+OXCT1	Tissue enhanced	9	27
+TXNDC17	Expressed in all	21	333
+CIC	Expressed in all	0	0
+KARS	Expressed in all	129	1026
+SSRP1	Expressed in all	3	8
+CIT	Tissue enhanced	0	0
+TSSK2	Tissue enriched	1	2
+TXNDC12	Expressed in all	4	18
+RNGTT	Expressed in all	0	0
+TATDN1	Expressed in all	1	17
+TATDN3	Expressed in all	5	21
+DAK	Expressed in all	66	683
+C1orf174	Expressed in all	4	8
+DAP	Expressed in all	10	63
+MTA1	Expressed in all	0	0
+MTA2	Expressed in all	1	1
+MTA3	Expressed in all	0	0
+LRP10	Expressed in all	0	0
+CUBN	Group enriched	12	19
+GAPDHS	Tissue enriched	4	7
+GPC1	Tissue enhanced	0	0
+GPC3	Tissue enriched	0	0
+TBCD	Expressed in all	20	214
+MTAP	Expressed in all	29	151
+BICD2	Expressed in all	0	0
+INSL5	Group enriched	0	0
+C2orf49	Expressed in all	2	8
+TBCC	Expressed in all	2	17
+AGL	Tissue enriched	19	118
+AGK	Expressed in all	0	0
+PDCD10	Expressed in all	5	9
+PDCD11	Expressed in all	1	1
+RAB11A	Expressed in all	20	104
+CRKL	Expressed in all	14	101
+PIK3CA	Expressed in all	6	12
+SLC28A1	Group enriched	3	5
+PIK3CG	Tissue enhanced	0	0
+TBCA	Expressed in all	22	255
+SCLY	Expressed in all	3	14
+DIMT1	Expressed in all	3	13
+TAGLN	Expressed in all	0	0
+PIK3C3	Expressed in all	0	0
+POGLUT1	Expressed in all	0	0
+MAX	Expressed in all	0	0
+PARP14	Expressed in all	0	0
+MAZ	Expressed in all	0	0
+ERI3	Expressed in all	2	5
+KTI12	Expressed in all	1	5
+TUBA1B	Expressed in all	73	190
+ACLY	Expressed in all	35	593
+SLC7A5	Expressed in all	0	0
+EVL	Expressed in all	0	0
+ALDH3A2	Expressed in all	0	0
+RPS25	Expressed in all	6	52
+ALDH3A1	Tissue enhanced	3	4
+MGST2	Expressed in all	0	0
+EDC3	Expressed in all	0	0
+EDC4	Expressed in all	0	0
+CSDE1	Expressed in all	44	263
+PAM16	Expressed in all	0	0
+GMDS	Expressed in all	33	156
+RASEF	Tissue enhanced	3	8
+MPV17	Expressed in all	0	0
+ANAPC1	Expressed in all	0	0
+ANAPC2	Expressed in all	0	0
+ANAPC5	Expressed in all	0	0
+ANAPC4	Expressed in all	0	0
+ANAPC7	Expressed in all	1	1
+RPS6KA1	Expressed in all	20	67
+RPS6KA2	Expressed in all	0	0
+RPS6KA3	Expressed in all	21	86
+RPS20	Expressed in all	9	56
+RPS6KA6	Tissue enhanced	0	0
+PSMD14	Expressed in all	42	113
+SQRDL	Expressed in all	0	0
+PSMD11	Expressed in all	90	501
+PSMD10	Expressed in all	12	38
+PSMD13	Expressed in all	78	313
+PSMD12	Expressed in all	89	246
+UTP20	Expressed in all	0	0
+MINPP1	Expressed in all	1	3
+METTL2B	Expressed in all	1	2
+GANAB	Expressed in all	93	659
+SMYD2	Expressed in all	10	52
+VAPB	Expressed in all	1	1
+VAPA	Expressed in all	5	22
+SLC7A2	Tissue enhanced	0	0
+TELO2	Expressed in all	1	1
+CTH	Tissue enhanced	56	290
+EXOSC10	Expressed in all	1	6
+ARF3	Expressed in all	11	18
+ARF1	Expressed in all	63	466
+ARF6	Expressed in all	10	93
+ARF5	Expressed in all	10	42
+ARF4	Expressed in all	15	85
+RGPD3	Tissue enhanced	0	0
+RGPD1	Group enriched	0	0
+MOB2	Expressed in all	1	2
+LOXHD1	Tissue enriched	0	0
+RAB11FIP5	Tissue enhanced	0	0
+MYL6B	Expressed in all	55	117
+RNASET2	Expressed in all	1	1
+ACTR10	Expressed in all	3	6
+HMGB3	Expressed in all	11	51
+EEF1A1	Expressed in all	197	2216
+EEF1A2	Tissue enhanced	3	10
+RAB2A	Expressed in all	3	4
+ARL15	Expressed in all	0	0
+GCHFR	Expressed in all	18	58
+RPL7A	Expressed in all	18	40
+ACTL7B	Tissue enriched	0	0
+ETNK1	Expressed in all	7	21
+DHRS7B	Expressed in all	0	0
+AP3B1	Expressed in all	2	13
+FKBP15	Expressed in all	1	4
+CD44	Expressed in all	12	30
+FPGT	Expressed in all	6	24
+FGFR1OP	Expressed in all	1	2
+VMA21	Expressed in all	0	0
+MAF1	Expressed in all	1	2
+CALR	Expressed in all	49	995
+ACTR1B	Expressed in all	4	10
+ACTR1A	Expressed in all	22	67
+WDR70	Expressed in all	1	1
+WDR73	Expressed in all	3	15
+WDR75	Expressed in all	0	0
+WDR74	Expressed in all	0	0
+WDR77	Expressed in all	74	249
+NTAN1	Expressed in all	1	2
+PPP2R3A	Tissue enhanced	0	0
+NQO2	Expressed in all	41	297
+NQO1	Tissue enhanced	45	489
+PRPF8	Expressed in all	4	36
+PRPF3	Expressed in all	1	2
+PRPF4	Expressed in all	14	123
+PRPF6	Expressed in all	2	7
+PCF11	Expressed in all	0	0
+RFC5	Expressed in all	4	7
+OGT	Expressed in all	4	13
+PIP4K2B	Expressed in all	0	0
+HMGA1	Expressed in all	3	10
+WDR11	Expressed in all	0	0
+ARRDC1	Expressed in all	0	0
+FAM45A	Expressed in all	2	4
+ELK1	Expressed in all	0	0
+PAK4	Expressed in all	2	8
+PAK1	Expressed in all	6	20
+PAK2	Expressed in all	17	167
+FAM122A	Expressed in all	6	13
+NSDHL	Expressed in all	2	3
+PPP2R5C	Expressed in all	0	0
+MYL1	Tissue enriched	5	7
+SUB1	Expressed in all	75	323
+DMBT1	Group enriched	0	0
+ARID2	Expressed in all	1	1
+NT5DC1	Expressed in all	32	285
+CALML3	Tissue enhanced	1	2
+STX12	Expressed in all	0	0
+CALML5	Group enriched	0	0
+PFN2	Expressed in all	1	1
+NUBP1	Expressed in all	2	3
+COX15	Expressed in all	0	0
+COX17	Expressed in all	4	15
+AIDA	Expressed in all	3	15
+PPA2	Expressed in all	18	64
+PPA1	Expressed in all	149	1362
+HEXB	Expressed in all	14	32
+WDR26	Expressed in all	1	3
+BET1	Expressed in all	0	0
+NUP62	Expressed in all	0	0
+TPM4	Expressed in all	105	897
+TPM2	Tissue enriched	35	390
+TPM1	Expressed in all	93	696
+ETF1	Expressed in all	17	414
+FAM21C	Expressed in all	0	0
+FAM21B	Expressed in all	0	0
+FAM21A	Expressed in all	4	11
+SIPA1	Expressed in all	0	0
+ETFA	Expressed in all	19	243
+ETFB	Expressed in all	7	86
+SH3RF1	Expressed in all	0	0
+YKT6	Expressed in all	5	10
+ANKLE2	Expressed in all	0	0
+PCIF1	Expressed in all	17	98
+RAB10	Expressed in all	14	37
+TJP2	Expressed in all	0	0
+SRP72	Expressed in all	1	3
+PPP1CA	Expressed in all	105	680
+RAB14	Expressed in all	27	131
+SRRM1	Expressed in all	1	1
+PPAT	Expressed in all	15	122
+BABAM1	Expressed in all	8	11
+SRRM2	Expressed in all	4	10
+DCXR	Expressed in all	2	18
+CHPF2	Expressed in all	0	0
+AGRN	Expressed in all	0	0
+NFYB	Expressed in all	0	0
+SELENBP1	Expressed in all	65	698
+SMARCA2	Expressed in all	0	0
+RABL5	Expressed in all	0	0
+SMARCA4	Expressed in all	7	37
+CCT6A	Expressed in all	159	2098
+PAF1	Expressed in all	3	17
+CCT6B	Tissue enriched	14	43
+RUFY1	Expressed in all	1	2
+RUFY2	Expressed in all	1	2
+NLE1	Expressed in all	12	78
+ZNF579	Expressed in all	0	0
+DPH2	Expressed in all	14	52
+DPH3	Expressed in all	2	3
+DPH5	Expressed in all	12	97
+AGR2	Tissue enhanced	13	40
+WIBG	Expressed in all	13	90
+CKB	Expressed in all	27	593
+CKM	Tissue enriched	3	5
+SLK	Expressed in all	42	376
+DCK	Expressed in all	8	13
+PAICS	Expressed in all	145	1169
+CUL5	Expressed in all	0	0
+CUL7	Expressed in all	0	0
+CUL1	Expressed in all	6	11
+CUL2	Expressed in all	9	13
+CUL3	Expressed in all	5	11
+TRIM28	Expressed in all	62	360
+PNKP	Expressed in all	0	0
+TRIM25	Expressed in all	12	65
+TRIM21	Expressed in all	1	6
+CREB1	Expressed in all	1	2
+TRIM23	Expressed in all	4	8
+SRP9	Expressed in all	10	58
+C21orf33	Expressed in all	16	51
+KAT8	Expressed in all	0	0
+VTA1	Expressed in all	8	25
+KAT5	Expressed in all	0	0
+ARCN1	Expressed in all	4	11
+KAT7	Expressed in all	0	0
+NSMAF	Expressed in all	1	4
+GBA	Expressed in all	0	0
+DNAJC21	Expressed in all	9	22
+DTD1	Expressed in all	8	27
+ARHGAP9	Expressed in all	2	3
+ARHGAP5	Expressed in all	0	0
+ARHGAP6	Tissue enhanced	2	4
+ARHGAP1	Expressed in all	3	10
+SETD1A	Expressed in all	1	3
+PPP6C	Expressed in all	3	3
+ZYX	Expressed in all	15	97
+ANXA11	Expressed in all	18	96
+ANXA13	Tissue enhanced	0	0
+HSPA4L	Tissue enriched	42	585
+MRPL4	Expressed in all	0	0
+MRPL2	Expressed in all	0	0
+MRPL3	Expressed in all	0	0
+MRPL1	Expressed in all	0	0
+MRPL9	Expressed in all	0	0
+RUVBL1	Expressed in all	48	169
+SLC3A2	Expressed in all	1	5
+EIF4EBP1	Expressed in all	28	191
+BAG2	Tissue enhanced	4	5
+BAG3	Expressed in all	13	80
+BAG1	Expressed in all	8	16
+BAG6	Expressed in all	4	6
+BAG5	Expressed in all	10	37
+CTDP1	Expressed in all	1	2
+RSBN1	Expressed in all	0	0
+EIF1AD	Expressed in all	9	31
+XIRP2	Group enriched	1	2
+PDHA2	Tissue enriched	0	0
+PDHA1	Expressed in all	5	17
+COL4A3BP	Expressed in all	6	8
+SAP18	Expressed in all	0	0
+ATXN10	Expressed in all	3	10
+RRP12	Expressed in all	2	6
+FSCN1	Expressed in all	48	1151
+MYL12A	Expressed in all	87	272
+CKMT2	Group enriched	3	7
+MRPS14	Expressed in all	0	0
+IDO2	Group enriched	2	5
+TMPO	Expressed in all	12	42
+MRPS10	Expressed in all	0	0
+LDHAL6B	Tissue enriched	26	68
+LDHAL6A	Tissue enriched	37	197
+SMCR8	Expressed in all	1	2
+NAP1L4	Expressed in all	9	116
+APMAP	Expressed in all	0	0
+CATSPERB	Tissue enhanced	5	6
+NAB1	Expressed in all	0	0
+KANK2	Expressed in all	0	0
+NAB2	Expressed in all	1	1
+TARSL2	Expressed in all	11	63
+CDK2AP1	Expressed in all	0	0
+UBR7	Expressed in all	13	55
+CIAPIN1	Expressed in all	18	136
+SMAD5	Expressed in all	0	0
+HSP90AB1	Expressed in all	129	2218
+PTP4A1	Expressed in all	5	8
+UBR5	Expressed in all	2	3
+PTP4A2	Expressed in all	4	8
+UBR4	Expressed in all	20	116
+SUZ12	Expressed in all	0	0
+MRPS9	Expressed in all	0	0
+MRPS7	Expressed in all	0	0
+IFI35	Expressed in all	8	27
+IFI30	Expressed in all	23	51
+PA2G4	Expressed in all	21	378
+ABHD4	Expressed in all	1	2
+TWF1	Expressed in all	28	208
+NKIRAS2	Expressed in all	0	0
+EIF4G3	Expressed in all	10	15
+EIF4G2	Expressed in all	9	52
+EIF4G1	Expressed in all	78	811
+FAT3	Tissue enhanced	3	5
+GRB2	Expressed in all	24	151
+HOXC9	Tissue enhanced	0	0
+HOXC8	Tissue enhanced	1	2
+SSU72	Expressed in all	8	25
+TERF2	Expressed in all	0	0
+SLC25A32	Expressed in all	0	0
+SSSCA1	Expressed in all	1	3
+LSM7	Expressed in all	5	9
+PTPN23	Expressed in all	2	6
+POLR2D	Expressed in all	0	0
+POLR2G	Expressed in all	1	2
+POLR2A	Expressed in all	4	7
+POLR2C	Expressed in all	4	9
+POLR2B	Expressed in all	3	5
+AKR7A2	Expressed in all	20	98
+POLR2I	Expressed in all	4	15
+POLR2H	Expressed in all	7	75
+TLK1	Expressed in all	0	0
+TLK2	Expressed in all	0	0
+FAM47A	Tissue enriched	0	0
+ASCC3	Expressed in all	0	0
+VPS72	Expressed in all	0	0
+GAMT	Group enriched	2	4
+VBP1	Expressed in all	55	210
+FAM120B	Expressed in all	0	0
+FAM120A	Expressed in all	5	13
+MAPK14	Expressed in all	19	106
+PEA15	Expressed in all	6	32
+MAPK12	Tissue enriched	0	0
+FZD1	Expressed in all	1	1
+C10orf76	Expressed in all	1	2
+AMFR	Expressed in all	0	0
+USO1	Expressed in all	12	105
+PLCD3	Expressed in all	0	0
+HIST1H1E	Tissue enriched	0	0
+TGFBRAP1	Expressed in all	0	0
+HIST1H1B	Tissue enhanced	0	0
+HIST1H1C	Expressed in all	6	22
+ANKZF1	Expressed in all	4	5
+TACC1	Expressed in all	0	0
+TACC3	Expressed in all	6	27
+NHP2	Expressed in all	2	2
+MRTO4	Expressed in all	1	6
+MKI67	Tissue enhanced	0	0
+MAP6D1	Group enriched	2	2
+CAB39	Expressed in all	23	210
+RPL3L	Group enriched	0	0
+ANKHD1	Expressed in all	0	0
+NUP43	Expressed in all	6	33
+CTU2	Expressed in all	3	6
+ADRM1	Expressed in all	28	184
+HSD11B1	Tissue enriched	1	1
+CHD1	Expressed in all	0	0
+ISYNA1	Expressed in all	0	0
+GTF2H3	Expressed in all	0	0
+GTF2H2	Expressed in all	0	0
+GTF2H1	Expressed in all	0	0
+GTF2H4	Expressed in all	0	0
+ALDH1B1	Expressed in all	0	0
+COX7A2L	Expressed in all	0	0
+RPL26L1	Expressed in all	3	30
+RPL38	Expressed in all	3	14
+RPL36	Expressed in all	1	2
+MRP63	Expressed in all	0	0
+RPL32	Expressed in all	9	24
+RPL30	Expressed in all	39	105
+RPL31	Expressed in all	15	81
+TARBP1	Expressed in all	0	0
+CACNG6	Group enriched	0	0
+ATF7	Expressed in all	0	0
+ATF1	Expressed in all	0	0
+ATF2	Expressed in all	0	0
+SMARCC2	Expressed in all	3	13
+SMARCC1	Expressed in all	5	18
+SUMO1	Expressed in all	1	5
+SUMO3	Expressed in all	0	0
+SUMO2	Expressed in all	26	112
+PSPC1	Expressed in all	2	11
+PPWD1	Expressed in all	0	0
+BLOC1S3	Expressed in all	0	0
+BLOC1S2	Expressed in all	1	2
+SLC38A5	Tissue enhanced	0	0
+CTNNAL1	Expressed in all	0	0
+SLC38A2	Expressed in all	0	0
+MDFIC	Expressed in all	0	0
+STK3	Expressed in all	1	2
+STK4	Expressed in all	0	0
+YBX1	Expressed in all	61	386
+MED10	Expressed in all	0	0
+TTC4	Expressed in all	42	99
+MIA3	Expressed in all	1	1
+TTC6	Group enriched	0	0
+STIP1	Expressed in all	58	1547
+MRPL15	Expressed in all	0	0
+MED11	Expressed in all	0	0
+RAB3GAP1	Expressed in all	2	7
+PEPD	Expressed in all	37	244
+TBC1D23	Expressed in all	1	1
+MED12	Expressed in all	0	0
+FUNDC1	Expressed in all	0	0
+SENP3	Expressed in all	0	0
+SAMM50	Expressed in all	0	0
+RNF40	Expressed in all	4	20
+C21orf59	Expressed in all	9	33
+ING3	Expressed in all	0	0
+WDFY4	Tissue enhanced	13	64
+WDFY3	Expressed in all	0	0
+WDFY1	Expressed in all	0	0
+GFPT1	Expressed in all	39	226
+ECHDC1	Expressed in all	5	10
+DAG1	Expressed in all	11	63
+ACP6	Expressed in all	8	14
+ACP1	Expressed in all	42	370
+ACP2	Expressed in all	0	0
+TSFM	Expressed in all	2	5
+SNIP1	Expressed in all	0	0
+SLC2A14	Tissue enriched	0	0
+ANKRD31	Tissue enriched	1	2
+ANKRD32	Expressed in all	3	4
+GLS	Expressed in all	0	0
+NCOA3	Expressed in all	1	2
+NCOA6	Expressed in all	1	2
+NCOA7	Expressed in all	2	5
+NCOA5	Expressed in all	0	0
+SPCS3	Expressed in all	0	0
+FAM194B	Tissue enhanced	0	0
+MECR	Expressed in all	1	2
+BSG	Expressed in all	0	0
+YTHDC2	Expressed in all	0	0
+P4HTM	Expressed in all	2	4
+RIF1	Expressed in all	4	55
+MED17	Expressed in all	0	0
+SLC27A6	Tissue enhanced	0	0
+SLC27A2	Group enriched	0	0
+ACPT	Tissue enhanced	1	2
+SEPT2	Expressed in all	0	0
+AK3	Expressed in all	0	0
+AK2	Expressed in all	33	379
+AK1	Expressed in all	23	349
+TBCB	Expressed in all	31	154
+AK4	Tissue enhanced	1	2
+MME	Tissue enhanced	0	0
+PPM1B	Expressed in all	0	0
+WRNIP1	Expressed in all	0	0
+CBLL1	Expressed in all	0	0
+ERH	Expressed in all	0	0
+NDNL2	Expressed in all	0	0
+RRP9	Expressed in all	0	0
+TRA2A	Expressed in all	0	0
+TRA2B	Expressed in all	0	0
+MDC1	Expressed in all	5	41
+BRMS1L	Expressed in all	0	0
+LACTB2	Expressed in all	19	106
+FRYL	Expressed in all	0	0
+IDI1	Expressed in all	24	230
+KDM1B	Expressed in all	0	0
+IMPDH1	Expressed in all	24	145
+IMPDH2	Expressed in all	132	1651
+NECAP1	Expressed in all	15	32
+DNTTIP1	Expressed in all	0	0
+UBLCP1	Expressed in all	12	39
+PELO	Expressed in all	0	0
+MTMR6	Expressed in all	1	3
+LAP3	Expressed in all	24	157
+MTMR1	Expressed in all	3	7
+TSC22D1	Expressed in all	3	11
+TSC22D3	Expressed in all	2	4
+UFC1	Expressed in all	11	55
+UBA52	Expressed in all	167	1647
+CD2BP2	Expressed in all	2	4
+MESDC2	Expressed in all	4	27
+EXOSC8	Expressed in all	1	1
+EXOSC9	Expressed in all	1	1
+EXOSC2	Expressed in all	16	39
+EXOSC3	Expressed in all	0	0
+EXOSC1	Expressed in all	1	2
+EXOSC6	Expressed in all	0	0
+EXOSC7	Expressed in all	4	8
+EXOSC4	Expressed in all	0	0
+EXOSC5	Expressed in all	1	1
+NCOR2	Expressed in all	0	0
+KPNA2	Expressed in all	79	843
+INCENP	Expressed in all	2	3
+UPF1	Expressed in all	8	54
+EIF1B	Expressed in all	8	62
+DEPDC7	Group enriched	0	0
+EEF1E1	Expressed in all	22	77
+SCYL2	Expressed in all	1	2
+SCYL1	Expressed in all	1	6
+STXBP1	Tissue enriched	0	0
+STXBP3	Expressed in all	0	0
+STXBP2	Expressed in all	14	99
+SKP2	Expressed in all	2	4
+IFI16	Expressed in all	3	12
+ENY2	Expressed in all	7	12
+CCZ1	Expressed in all	1	1
+HAS1	Tissue enhanced	0	0
+GPN1	Expressed in all	5	19
+HNRNPA3	Expressed in all	30	179
+HNRNPA0	Expressed in all	11	44
+HNRNPA1	Expressed in all	54	219
+RPN2	Expressed in all	0	0
+MIF	Expressed in all	46	356
+EXOC6	Expressed in all	0	0
+TES	Expressed in all	16	113
+IRS2	Expressed in all	2	3
+HEXA	Expressed in all	8	16
+CDK2	Expressed in all	12	66
+CDK4	Expressed in all	16	52
+CDK5	Expressed in all	14	95
+CDK7	Expressed in all	1	2
+CDK9	Expressed in all	1	1
+TIMM50	Expressed in all	0	0
+LIMS1	Expressed in all	1	1
+RBMX	Expressed in all	3	11
+HSPD1	Expressed in all	53	392
+NARFL	Expressed in all	3	11
+MTX2	Expressed in all	0	0
+MTX1	Expressed in all	0	0
+PRKCI	Expressed in all	16	41
+PRKCA	Expressed in all	2	3
+MGAT4B	Expressed in all	0	0
+SEC11C	Expressed in all	0	0
+PMF1	Expressed in all	0	0
+SCRIB	Expressed in all	2	5
+TYMP	Expressed in all	6	64
+WWP2	Expressed in all	1	2
+PPIL1	Expressed in all	10	40
+PPIL2	Expressed in all	0	0
+PPIL3	Expressed in all	12	60
+PPIL4	Expressed in all	1	1
+PPP1R7	Expressed in all	64	212
+PHLPP1	Expressed in all	1	1
+PPP1R2	Expressed in all	1	7
+CCDC94	Expressed in all	6	27
+CCDC93	Expressed in all	0	0
+SETDB1	Expressed in all	0	0
+CTSA	Expressed in all	5	12
+CTSB	Expressed in all	5	9
+CTSC	Expressed in all	7	14
+CTSD	Expressed in all	13	47
+RPL14	Expressed in all	13	71
+CTSZ	Expressed in all	4	9
+RPL17	Expressed in all	17	85
+RPL10	Expressed in all	0	0
+RPL18	Expressed in all	4	5
+NAA10	Expressed in all	16	78
+PRMT5	Expressed in all	105	630
+SORBS3	Expressed in all	7	23
+EMD	Expressed in all	0	0
+USP28	Expressed in all	1	3
+RBM7	Expressed in all	2	2
+AFF4	Expressed in all	0	0
+ALDH16A1	Expressed in all	36	107
+SAE1	Expressed in all	66	424
+KIAA0196	Expressed in all	0	0
+ERP29	Expressed in all	15	47
+PSMB8	Expressed in all	10	82
+PHKA1	Tissue enhanced	3	5
+PHKA2	Expressed in all	0	0
+UBA6	Expressed in all	32	247
+UBA5	Expressed in all	10	55
+UBA2	Expressed in all	42	510
+TRRAP	Expressed in all	0	0
+UBA1	Expressed in all	193	5854
+PWP2	Expressed in all	0	0
+PWP1	Expressed in all	4	14
+PHF20	Expressed in all	0	0
+PHF23	Expressed in all	0	0
+UBE2H	Expressed in all	6	13
+UBE2M	Expressed in all	33	317
+FAM162A	Expressed in all	0	0
+UBE2A	Expressed in all	11	35
+UBE2C	Tissue enhanced	19	79
+UBE2B	Expressed in all	4	14
+UBE2F	Expressed in all	0	0
+UBE2Z	Expressed in all	0	0
+IDH3G	Expressed in all	0	0
+UBE2S	Tissue enhanced	4	21
+TOP3A	Expressed in all	0	0
+ILK	Expressed in all	2	4
+STRAP	Expressed in all	105	728
+PNO1	Expressed in all	2	7
+ZNF318	Expressed in all	0	0
+RABEP1	Expressed in all	1	2
+MORF4L2	Expressed in all	1	1
+MORF4L1	Expressed in all	0	0
+NDUFA5	Expressed in all	0	0
+NDUFA2	Expressed in all	0	0
+NDUFA9	Expressed in all	0	0
+MAEA	Expressed in all	3	5
+TBL1XR1	Expressed in all	12	44
+GNS	Expressed in all	0	0
+EIF1	Expressed in all	5	31
+AIP	Expressed in all	12	91
+EIF6	Expressed in all	63	527
+OXR1	Expressed in all	1	2
+GNE	Expressed in all	3	14
+ANKRD16	Expressed in all	0	0
+ANKRD17	Expressed in all	0	0
+RPAP1	Expressed in all	1	1
+ANKRD11	Expressed in all	0	0
+NSF	Tissue enriched	2	9
+NT5C1A	Group enriched	0	0
+NT5C2	Expressed in all	39	228
+MEA1	Expressed in all	4	11
+SNRNP200	Expressed in all	9	59
+POGZ	Expressed in all	0	0
+GSTCD	Expressed in all	3	14
+TMOD3	Expressed in all	66	160
+SP100	Expressed in all	1	4
+NRCAM	Group enriched	0	0
+PI4K2A	Expressed in all	0	0
+HIBADH	Expressed in all	0	0
+NHLRC2	Expressed in all	25	124
+PAFAH1B1	Expressed in all	11	154
+CXorf56	Expressed in all	0	0
+LYZ	Expressed in all	0	0
+SEC23IP	Expressed in all	7	22
+CWC15	Expressed in all	2	4
+OTUD6B	Expressed in all	2	15
+NACC1	Expressed in all	3	15
+DDX5	Expressed in all	3	18
+DDX6	Expressed in all	6	20
+INADL	Expressed in all	1	1
+DDX1	Expressed in all	21	114
+MYO15B	Expressed in all	0	0
+NUP205	Expressed in all	0	0
+ZNF217	Expressed in all	0	0
+HLA-B	Expressed in all	0	0
+HLA-G	Tissue enhanced	0	0
+ARID4A	Expressed in all	0	0
+ARID4B	Expressed in all	0	0
+MMS19	Expressed in all	13	69
+TP53RK	Expressed in all	8	31
+CRYZ	Expressed in all	13	94
+HAUS8	Expressed in all	0	0
+HAUS6	Expressed in all	0	0
+HAUS7	Expressed in all	0	0
+MYD88	Expressed in all	0	0
+NACA	Expressed in all	92	488
+HIST1H2BA	Tissue enriched	9	25
+GATAD1	Expressed in all	0	0
+TNFAIP2	Expressed in all	0	0
+ECI2	Expressed in all	0	0
+ECI1	Expressed in all	5	17
+IPO8	Expressed in all	2	17
+IPO9	Expressed in all	17	49
+IPO7	Expressed in all	57	726
+IPO4	Expressed in all	46	252
+IPO5	Expressed in all	109	1610
+NRBP1	Expressed in all	7	10
+RTF1	Expressed in all	4	22
+DTX3L	Expressed in all	0	0
+SMCHD1	Expressed in all	0	0
+SDCBP	Expressed in all	0	0
+RAB8A	Expressed in all	10	37
+GABPB1	Expressed in all	0	0
+MARK2	Expressed in all	8	24
+PYGO2	Expressed in all	2	2
+PAQR3	Expressed in all	0	0
+MARK3	Expressed in all	4	7
+TOMM70A	Expressed in all	0	0
+FERMT1	Tissue enhanced	2	10
+CRNKL1	Expressed in all	0	0
+SIL1	Expressed in all	1	2
+WDR92	Expressed in all	0	0
+VAMP3	Expressed in all	0	0
+NXT1	Expressed in all	0	0
+DPM1	Expressed in all	0	0
+CSE1L	Expressed in all	42	718
+MARCKSL1	Expressed in all	6	24
+ACSL3	Expressed in all	4	12
+C5orf22	Expressed in all	5	15
+CMPK1	Expressed in all	23	187
+PLOD1	Expressed in all	1	1
+DNASE2	Expressed in all	4	9
+C9orf64	Expressed in all	10	44
+RAD21	Expressed in all	5	26
+ANLN	Tissue enhanced	3	4
+USP13	Expressed in all	8	55
+ALDH6A1	Group enriched	0	0
+USP11	Expressed in all	5	6
+USP16	Expressed in all	3	4
+USP14	Expressed in all	16	408
+USP15	Expressed in all	63	196
+SSBP1	Expressed in all	3	5
+INPP1	Expressed in all	10	59
+UNC45A	Expressed in all	7	66
+TAP1	Expressed in all	0	0
+VAMP2	Expressed in all	0	0
+UBAC2	Expressed in all	1	1
+PUS7	Expressed in all	47	178
+AMZ2	Expressed in all	0	0
+BOD1	Expressed in all	1	2
+SUPT5H	Expressed in all	12	101
+ARHGEF12	Expressed in all	1	2
+SF3A2	Expressed in all	0	0
+ARHGEF18	Expressed in all	0	0
+FXR1	Expressed in all	0	0
+DHX29	Expressed in all	2	9
+SGK3	Expressed in all	0	0
+SHCBP1	Tissue enhanced	3	17
+SBF1	Expressed in all	1	1
+KLC1	Expressed in all	15	52
+KLC2	Expressed in all	3	7
+BAZ2A	Expressed in all	0	0
+TPT1	Expressed in all	9	114
+CHCHD2	Expressed in all	8	23
+CHCHD3	Expressed in all	0	0
+CHCHD1	Expressed in all	0	0
+CHCHD6	Expressed in all	0	0
+CHCHD4	Expressed in all	0	0
+RFK	Expressed in all	4	10
+OVCA2	Expressed in all	18	97
+ZNF511	Expressed in all	0	0
+HNMT	Expressed in all	8	50
+DLG1	Expressed in all	0	0
+WDR18	Expressed in all	0	0
+PSIP1	Expressed in all	6	23
+MSRB2	Expressed in all	0	0
+TMX2	Expressed in all	0	0
+MYH10	Expressed in all	89	369
+MYH13	Tissue enhanced	0	0
+MAP4K3	Expressed in all	0	0
+SMG8	Expressed in all	0	0
+PEX19	Expressed in all	34	97
+MAP4K5	Expressed in all	0	0
+MAP4K4	Expressed in all	0	0
+HMBS	Tissue enriched	33	110
+GBF1	Expressed in all	0	0
+SCAF4	Expressed in all	0	0
+SCAF1	Expressed in all	0	0
+SCAF8	Expressed in all	0	0
+NAA38	Expressed in all	14	93
+RBM4	Expressed in all	2	2
+RBM3	Expressed in all	9	24
+CAT	Expressed in all	9	94
+AP1S1	Expressed in all	0	0
+AP1S2	Expressed in all	0	0
+NOC4L	Expressed in all	0	0
+NDE1	Expressed in all	5	12
+CAD	Expressed in all	0	0
+PGD	Expressed in all	24	376
+PDE1C	Tissue enhanced	0	0
+NUDC	Expressed in all	46	575
+DYM	Expressed in all	0	0
+POTEF	Tissue enhanced	4	11
+IVNS1ABP	Expressed in all	1	2
+PDCD2L	Expressed in all	3	3
+PDE12	Expressed in all	13	122
+DMXL2	Expressed in all	0	0
+CA9	Tissue enhanced	0	0
+DMXL1	Expressed in all	1	2
+CA2	Tissue enhanced	0	0
+ARMCX1	Expressed in all	0	0
+KRT33A	Group enriched	3	10
+FUT8	Expressed in all	0	0
+IFRD2	Expressed in all	0	0
+ATP5J2	Expressed in all	0	0
+DDX39B	Expressed in all	14	100
+DDX39A	Expressed in all	16	195
+DYNLT1	Expressed in all	0	0
+NIPBL	Expressed in all	2	7
+DYNLT3	Expressed in all	0	0
+CBFB	Expressed in all	16	85
+TOMM7	Expressed in all	0	0
+MDH1	Expressed in all	27	519
+GTF2F1	Expressed in all	3	7
+PAFAH1B3	Expressed in all	7	62
+PAFAH1B2	Expressed in all	18	71
+GTF2F2	Expressed in all	3	4
+SFN	Group enriched	92	945
+ACTB	Expressed in all	192	3483
+CRADD	Expressed in all	2	6
+ADAR	Expressed in all	0	0
+ADAL	Expressed in all	2	2
+SF3A1	Expressed in all	7	67
+SF3A3	Expressed in all	9	37
+MT1E	Expressed in all	53	173
+MT1G	Tissue enhanced	2	3
+MT1A	Tissue enhanced	32	101
+MT1B	Group enriched	2	4
+ZNF181	Expressed in all	1	2
+TFCP2L1	Tissue enhanced	0	0
+ZNF24	Expressed in all	0	0
+MRE11A	Expressed in all	1	5
+BLVRB	Expressed in all	42	456
+BLVRA	Expressed in all	13	157
+HS6ST2	Tissue enhanced	0	0
+PROSC	Expressed in all	4	43
+PTRHD1	Expressed in all	15	94
+UBL4A	Expressed in all	0	0
+TCERG1	Expressed in all	4	35
+CNBP	Expressed in all	81	595
+RNPEP	Expressed in all	35	626
+RNF113A	Expressed in all	7	16
+RANBP9	Expressed in all	4	5
+NAE1	Expressed in all	39	292
+RANBP6	Expressed in all	11	20
+RANBP1	Expressed in all	58	313
+RANBP3	Expressed in all	9	26
+RANBP2	Expressed in all	4	8
+TXN2	Expressed in all	3	5
+AGAP3	Expressed in all	0	0
+GDPD2	Group enriched	0	0
+BASP1	Tissue enhanced	87	879
+TBCEL	Expressed in all	1	2
+PUS1	Expressed in all	7	35
+OSGEPL1	Expressed in all	0	0
+UIMC1	Expressed in all	0	0
+PSAT1	Tissue enhanced	41	963
+HDGFRP2	Expressed in all	8	32
+HDGFRP3	Expressed in all	0	0
+NOP58	Expressed in all	0	0
+NOP56	Expressed in all	0	0
+YWHAH	Expressed in all	19	145
+SHPK	Expressed in all	1	3
+YWHAB	Expressed in all	145	1835
+YWHAE	Expressed in all	142	1342
+SSNA1	Expressed in all	6	12
+GLRX	Expressed in all	66	219
+VTN	Tissue enriched	0	0
+VAMP8	Expressed in all	0	0
+ROCK1	Expressed in all	7	25
+ROCK2	Expressed in all	14	68
+SLFN5	Expressed in all	1	3
+PODXL	Tissue enhanced	0	0
+CAPRIN1	Expressed in all	21	57
+CCNT1	Expressed in all	0	0
+CBFA2T2	Expressed in all	0	0
+IRF2BP2	Expressed in all	16	30
+IRF2BP1	Expressed in all	2	7
+VRK1	Expressed in all	2	10
+H3F3A	Expressed in all	3	5
+PDRG1	Expressed in all	2	5
+LRRC6	Tissue enhanced	1	2
+IRF2BPL	Expressed in all	5	12
+NR2C2	Expressed in all	0	0
+NR2C1	Expressed in all	0	0
+USP34	Expressed in all	1	5
+SHMT2	Expressed in all	12	104
+SHMT1	Expressed in all	21	115
+TPK1	Expressed in all	2	4
+FRA10AC1	Expressed in all	1	3
+RRP1	Expressed in all	0	0
+DOCK8	Expressed in all	1	3
+DOCK9	Expressed in all	0	0
+MRPL19	Expressed in all	0	0
+DOCK4	Expressed in all	0	0
+SAAL1	Expressed in all	6	15
+MAU2	Expressed in all	0	0
+HSPH1	Expressed in all	129	1937
+UCK1	Expressed in all	7	11
+JUP	Expressed in all	3	4
+FAM98C	Expressed in all	0	0
+FAM98B	Expressed in all	4	13
+FAM98A	Expressed in all	1	4
+PLCB3	Group enriched	19	87
+PLCB4	Tissue enhanced	0	0
+SEC13	Expressed in all	10	66
+TWF2	Expressed in all	16	69
+WARS	Expressed in all	77	769
+MSMO1	Expressed in all	0	0
+RPP30	Expressed in all	0	0
+FBXO2	Tissue enhanced	5	19
+FBXO3	Expressed in all	3	4
+FBXO7	Expressed in all	0	0
+C18orf25	Expressed in all	3	4
+NAV3	Tissue enhanced	0	0
+RUVBL2	Expressed in all	26	66
+LIG3	Expressed in all	0	0
+APEH	Expressed in all	38	446
+DBR1	Expressed in all	4	6
+DNAJC9	Expressed in all	17	72
+ATL3	Expressed in all	0	0
+ATL2	Expressed in all	0	0
+DNAJC5	Expressed in all	0	0
+PPIF	Expressed in all	9	31
+PPIE	Expressed in all	8	26
+PPIB	Expressed in all	14	106
+RNMTL1	Expressed in all	0	0
+SNTB2	Expressed in all	0	0
+SNTB1	Expressed in all	0	0
+KIAA0408	Tissue enhanced	2	4
+CORO1B	Expressed in all	16	90
+CORO1C	Expressed in all	18	72
+CORO1A	Expressed in all	0	0
+RING1	Expressed in all	0	0
+PIN4	Expressed in all	9	42
+DCPS	Expressed in all	14	66
+SMOX	Expressed in all	4	8
+WASF2	Expressed in all	4	4
+FAS	Expressed in all	0	0
+FAP	Tissue enhanced	1	2
+FAU	Expressed in all	4	34
+FAH	Expressed in all	5	22
+HNRNPA2B1	Expressed in all	66	1747
+TUBB1	Tissue enhanced	1	1
+LZIC	Expressed in all	17	73
+TSEN34	Expressed in all	0	0
+NCAPH2	Expressed in all	0	0
+PURB	Expressed in all	8	11
+PURA	Expressed in all	4	4
+CFDP1	Expressed in all	10	28
+C14orf142	Expressed in all	14	56
+HECTD3	Expressed in all	4	12
+HECTD1	Expressed in all	16	33
+MAN2B1	Expressed in all	4	6
+CCS	Expressed in all	9	28
+LZTFL1	Expressed in all	1	5
+ADAD1	Tissue enriched	1	2
+NXN	Expressed in all	1	2
+FLII	Expressed in all	39	126
+TDP2	Expressed in all	2	6
+PIP	Tissue enriched	1	1
+PIR	Expressed in all	29	177
+COG8	Expressed in all	1	2
+KCTD12	Expressed in all	0	0
+COG3	Expressed in all	0	0
+COG2	Expressed in all	0	0
+COG1	Expressed in all	0	0
+CHTOP	Expressed in all	0	0
+COG7	Expressed in all	0	0
+COG6	Expressed in all	0	0
+COG5	Expressed in all	0	0
+COG4	Expressed in all	1	1
+IGHMBP2	Expressed in all	0	0
+C12orf45	Expressed in all	0	0
+GSK3A	Expressed in all	8	21
+MSTO1	Expressed in all	11	41
+RHOT2	Expressed in all	0	0
+AKR1A1	Expressed in all	21	193
+EPSTI1	Expressed in all	0	0
+PCBP2	Expressed in all	62	612
+LTN1	Expressed in all	6	26
+FSD1	Tissue enhanced	0	0
+ZMYM3	Expressed in all	1	2
+PHAX	Expressed in all	8	16
+RBM26	Expressed in all	0	0
+RBM27	Expressed in all	2	2
+RBM25	Expressed in all	3	40
+RBM22	Expressed in all	2	6
+HECW1	Tissue enhanced	0	0
+RBM20	Tissue enhanced	1	2
+RBM28	Expressed in all	0	0
+EPHA2	Tissue enhanced	0	0
+PSMA3	Expressed in all	14	253
+PPP2R2D	Expressed in all	1	2
+MNAT1	Expressed in all	0	0
+ARL1	Expressed in all	1	2
+ARL3	Expressed in all	11	58
+ARL2	Expressed in all	13	23
+RRM2	Tissue enhanced	16	64
+RRM1	Expressed in all	86	715
+DERA	Expressed in all	8	22
+TSR1	Expressed in all	10	23
+TSR2	Expressed in all	0	0
+TF	Tissue enriched	6	30
+MYEOV2	Expressed in all	39	73
+TXNL1	Expressed in all	31	295
+SYNJ1	Expressed in all	0	0
+SART3	Expressed in all	6	50
+TMX1	Expressed in all	0	0
+TMX3	Expressed in all	0	0
+NAGK	Expressed in all	12	67
+SS18	Expressed in all	1	1
+SHKBP1	Expressed in all	0	0
+VDAC3	Expressed in all	0	0
+MFAP1	Expressed in all	0	0
+NDUFAB1	Expressed in all	1	2
+SLMAP	Expressed in all	0	0
+CDC42SE2	Expressed in all	0	0
+HEBP1	Expressed in all	19	131
+HEBP2	Expressed in all	3	21
+HBS1L	Expressed in all	7	15
+VAC14	Expressed in all	0	0
+NDUFB4	Expressed in all	0	0
+IWS1	Expressed in all	1	3
+APRT	Expressed in all	35	327
+RPS6KL1	Tissue enhanced	0	0
+C19orf53	Expressed in all	1	9
+C19orf52	Expressed in all	0	0
+C19orf54	Expressed in all	1	2
+PUM1	Expressed in all	3	7
+SFXN2	Tissue enhanced	0	0
+SFXN3	Expressed in all	0	0
+RAD1	Expressed in all	4	6
+SFXN1	Expressed in all	0	0
+LMO7	Expressed in all	17	65
+CCT8	Expressed in all	108	2105
+RWDD2B	Expressed in all	0	0
+CCT2	Expressed in all	166	2537
+CCT3	Expressed in all	125	1402
+CCT7	Expressed in all	189	2137
+CCT4	Expressed in all	166	1925
+CCT5	Expressed in all	137	1732
+NAALADL1	Tissue enhanced	0	0
+TIMM10	Expressed in all	0	0
+STAG1	Expressed in all	0	0
+SPOPL	Expressed in all	2	2
+SUGT1	Expressed in all	56	319
+GFM1	Expressed in all	2	18
+COL22A1	Tissue enhanced	3	7
+ZC3H4	Expressed in all	1	1
+USMG5	Expressed in all	0	0
+CROT	Expressed in all	0	0
+THOC2	Expressed in all	0	0
+SLC4A2	Expressed in all	0	0
+DCTN2	Expressed in all	39	102
+DCTN3	Expressed in all	1	2
+DCTN6	Expressed in all	0	0
+DCTN4	Expressed in all	6	15
+KCMF1	Expressed in all	0	0
+ASPH	Expressed in all	0	0
+ERC1	Expressed in all	2	6
+ERC2	Tissue enriched	1	1
+BROX	Expressed in all	13	116
+PREP	Expressed in all	27	126
+FAM96A	Expressed in all	3	6
+FAM96B	Expressed in all	7	18
+TAF4	Expressed in all	0	0
+SDF2	Expressed in all	0	0
+RNF25	Expressed in all	0	0
+UBE2V2	Expressed in all	11	46
+HBB	Tissue enriched	0	0
+CMBL	Expressed in all	67	887
+ARG1	Tissue enhanced	2	7
+PCID2	Expressed in all	10	32
+HMOX1	Expressed in all	1	2
+CTNNB1	Expressed in all	1	1
+MYOF	Expressed in all	0	0
+CNOT3	Expressed in all	0	0
+CNOT2	Expressed in all	0	0
+CNOT7	Expressed in all	0	0
+ITGB1	Expressed in all	1	2
+ITGB5	Expressed in all	0	0
+ITGB4	Expressed in all	0	0
+BUD31	Expressed in all	1	7
+YARS2	Expressed in all	0	0
+LCP1	Expressed in all	3	8
+PMPCB	Expressed in all	0	0
+USP39	Expressed in all	0	0
+TNIP1	Expressed in all	0	0
+RPP14	Expressed in all	0	0
+EAPP	Expressed in all	0	0
+ORAOV1	Expressed in all	1	1
+GNPDA2	Expressed in all	6	32
+GNPDA1	Expressed in all	24	136
+MAT1A	Tissue enriched	40	133
+UBE2G1	Expressed in all	4	15
+URGCP	Expressed in all	2	3
+LBR	Expressed in all	0	0
+RAN	Expressed in all	185	2141
+USP35	Expressed in all	1	2
+SLC12A4	Expressed in all	0	0
+SLC12A7	Expressed in all	0	0
+LBH	Expressed in all	0	0
+FGB	Tissue enriched	1	2
+ACIN1	Expressed in all	3	8
+ATP1B3	Expressed in all	0	0
+ATP1B1	Expressed in all	0	0
+PLD2	Expressed in all	0	0
+TSEN15	Expressed in all	1	2
+ALDH5A1	Expressed in all	2	3
+OSBP	Expressed in all	2	2
+SNX3	Expressed in all	8	49
+SNX2	Expressed in all	9	31
+SNX1	Expressed in all	9	46
+SNX6	Expressed in all	10	71
+RAB1B	Expressed in all	3	6
+SNX4	Expressed in all	0	0
+RPL27A	Expressed in all	0	0
+SNX8	Expressed in all	0	0
+CCDC126	Expressed in all	0	0
+CCDC124	Expressed in all	4	23
+TIMELESS	Expressed in all	12	28
+MGEA5	Expressed in all	56	367
+ITPK1	Expressed in all	2	4
+ORAI3	Expressed in all	0	0
+DLAT	Expressed in all	0	0
+C12orf29	Expressed in all	8	40
+C12orf23	Expressed in all	0	0
+RNASEH2A	Expressed in all	5	29
+CEP170	Expressed in all	0	0
+RNASEH2B	Expressed in all	10	65
+PDLIM5	Expressed in all	7	28
+DTYMK	Expressed in all	14	61
+RNF213	Expressed in all	0	0
+FABP5	Expressed in all	0	0
+FABP3	Group enriched	1	6
+GABRA5	Tissue enriched	3	11
+AKR1C1	Expressed in all	49	453
+AKR1C2	Tissue enhanced	3	7
+C1QBP	Expressed in all	49	314
+MED21	Expressed in all	0	0
+HNRNPL	Expressed in all	5	46
+MED23	Expressed in all	9	19
+ASL	Expressed in all	7	28
+UFM1	Expressed in all	21	97
+MED24	Expressed in all	1	1
+LAMP1	Expressed in all	2	2
+EP300	Expressed in all	0	0
+DUT	Expressed in all	103	797
+NAT10	Expressed in all	0	0
+HNRNPD	Expressed in all	48	327
+LENG1	Expressed in all	0	0
+SMEK2	Expressed in all	2	5
+SEPT9	Expressed in all	4	18
+C18orf8	Expressed in all	0	0
+ATP5F1	Expressed in all	0	0
+UQCR10	Expressed in all	0	0
+RPRD1A	Expressed in all	0	0
+STOM	Expressed in all	0	0
+CXorf38	Expressed in all	0	0
+RPRD1B	Expressed in all	17	58
+GABARAPL1	Expressed in all	2	6
+GABARAPL2	Expressed in all	0	0
+PRR3	Expressed in all	0	0
+ABCB7	Expressed in all	0	0
+ABCB6	Expressed in all	0	0
+MED18	Expressed in all	0	0
+ABCB8	Expressed in all	0	0
+PSME4	Expressed in all	11	208
+PSME2	Expressed in all	84	795
+PSME3	Expressed in all	138	790
+PSME1	Expressed in all	31	345
+SLC9A1	Expressed in all	0	0
+UBAP2L	Expressed in all	0	0
+TOPBP1	Expressed in all	0	0
+GOLGB1	Expressed in all	7	17
+ARFGEF2	Expressed in all	0	0
+MLEC	Expressed in all	0	0
+IST1	Expressed in all	1	1
+RPS2	Expressed in all	38	357
+SLC30A5	Expressed in all	0	0
+EML2	Expressed in all	8	55
+EML4	Expressed in all	4	5
+PHF3	Expressed in all	0	0
+ZYG11B	Expressed in all	1	2
+TAGLN2	Expressed in all	75	1146
+TAGLN3	Tissue enriched	1	2
+NARS2	Expressed in all	1	5
+NUPL1	Expressed in all	0	0
+GMPS	Expressed in all	73	1623
+CNN1	Tissue enhanced	0	0
+CNN3	Expressed in all	0	0
+CNN2	Expressed in all	7	32
+DHODH	Expressed in all	0	0
+NCAPH	Tissue enhanced	1	5
+SEL1L	Expressed in all	0	0
+PLCB1	Tissue enhanced	0	0
+CIAO1	Expressed in all	16	73
+NOP16	Expressed in all	2	3
+EIF5B	Expressed in all	12	79
+EIF5A	Expressed in all	103	1289
+MAML1	Expressed in all	0	0
+NONO	Expressed in all	6	49
+PARP4	Expressed in all	0	0
+TRPM8	Group enriched	1	2
+TUBB6	Expressed in all	1	1
+TUBB3	Tissue enhanced	2	4
+HERC2	Expressed in all	2	2
+APTX	Expressed in all	0	0
+SH3BGRL3	Expressed in all	24	172
+SH3BGRL2	Expressed in all	0	0
+C11orf68	Expressed in all	2	6
+TFDP1	Expressed in all	1	2
+EIF3C	Expressed in all	36	266
+C9orf16	Expressed in all	1	2
+MKNK1	Expressed in all	1	2
+BCAS2	Expressed in all	0	0
+BCAS3	Expressed in all	0	0
+BCAS1	Tissue enhanced	0	0
+CD81	Expressed in all	0	0
+BCL7C	Expressed in all	0	0
+BCL7B	Expressed in all	0	0
+ZBED1	Expressed in all	0	0
+SCP2	Expressed in all	0	0
+OSBP2	Tissue enhanced	2	4
+RRP7A	Expressed in all	0	0
+S100P	Tissue enhanced	28	112
+SSH3	Expressed in all	5	12
+MAP2	Tissue enriched	0	0
+MAP4	Expressed in all	68	351
+CAMLG	Expressed in all	0	0
+CHIT1	Group enriched	0	0
+APEX1	Expressed in all	27	337
+APEX2	Expressed in all	2	6
+RPL37A	Expressed in all	1	7
+ESRRA	Expressed in all	0	0
+PSMC3IP	Expressed in all	0	0
+MTPN	Expressed in all	29	171
+SRP54	Expressed in all	2	5
+DYNC1H1	Expressed in all	9	69
+THG1L	Expressed in all	7	22
+RFC4	Expressed in all	10	16
+TOM1L2	Expressed in all	1	4
+ZNF512B	Expressed in all	0	0
+AFG3L2	Expressed in all	0	0
+CASP14	Tissue enriched	2	8
+GSN	Expressed in all	5	28
+GNB2L1	Expressed in all	37	612
+ANKMY2	Expressed in all	2	5
+MYCBP2	Expressed in all	2	8
+PTBP2	Expressed in all	2	4
+PTBP1	Expressed in all	39	180
+NNT	Expressed in all	0	0
+HK1	Expressed in all	2	10
+ATP2B2	Tissue enhanced	0	0
+ATP2B4	Expressed in all	0	0
+FDPS	Expressed in all	37	363
+YWHAZ	Expressed in all	148	1815
+MTCH1	Expressed in all	0	0
+MSRA	Expressed in all	11	44
+SUPT4H1	Expressed in all	1	4
+CTNND1	Expressed in all	2	4
+PABPC1	Expressed in all	127	610
+MACF1	Expressed in all	4	17
+PABPC4	Expressed in all	25	54
+BCORL1	Expressed in all	3	3
+MAPKAPK3	Expressed in all	3	14
+MAPKAPK2	Expressed in all	3	6
+PDHX	Expressed in all	0	0
+GOLPH3	Expressed in all	3	15
+PIK3R2	Expressed in all	0	0
+PIK3R1	Expressed in all	0	0
+CTNNBL1	Expressed in all	2	9
+PDHB	Expressed in all	1	3
+PDIA5	Expressed in all	0	0
+TIAL1	Expressed in all	24	63
+HEXIM1	Expressed in all	53	120
+DENND5A	Expressed in all	0	0
+LRRC18	Group enriched	0	0
+LRRC15	Tissue enhanced	0	0
+FAM111B	Tissue enhanced	0	0
+IDE	Expressed in all	32	351
+CCDC101	Expressed in all	0	0
+FAHD2A	Expressed in all	5	35
+CCDC104	Expressed in all	3	5
+POLD1	Expressed in all	25	178
+POLD2	Expressed in all	18	59
+POLD3	Expressed in all	1	9
+PML	Expressed in all	0	0
+ARMCX3	Expressed in all	0	0
+REEP6	Tissue enhanced	0	0
+NUB1	Expressed in all	7	17
+ARL6IP5	Expressed in all	0	0
+ARL6IP4	Expressed in all	4	10
+ARL6IP1	Expressed in all	0	0
+NFKBIA	Expressed in all	1	2
+STAU2	Expressed in all	0	0
+DICER1	Expressed in all	2	2
+ID1	Expressed in all	0	0
+LRBA	Expressed in all	0	0
+HP1BP3	Expressed in all	0	0
+PDCD6IP	Expressed in all	41	572
+MSN	Expressed in all	60	637
+QSER1	Expressed in all	0	0
+SEC31A	Expressed in all	3	10
+ANKRD6	Expressed in all	1	1
+AHDC1	Expressed in all	2	2
+YME1L1	Expressed in all	0	0
+PEF1	Expressed in all	3	14
+SRA1	Expressed in all	21	91
+HNRNPA1L2	Expressed in all	62	630
+HCCS	Expressed in all	0	0
+ORC4	Expressed in all	0	0
+ORC5	Expressed in all	0	0
+ORC2	Expressed in all	1	4
+GTF2E2	Expressed in all	1	2
+RCC1	Expressed in all	4	29
+RCC2	Expressed in all	26	132
+C5orf51	Expressed in all	24	51
+DNM1L	Expressed in all	24	416
+FOLR1	Tissue enhanced	3	11
+PGM2L1	Tissue enriched	2	7
+LAPTM5	Expressed in all	1	2
+HSPA5	Expressed in all	196	2184
+DRAP1	Expressed in all	0	0
+ABCD1	Expressed in all	0	0
+ABCD3	Expressed in all	0	0
+TOM1	Expressed in all	5	9
+RRBP1	Expressed in all	0	0
+TRAPPC3	Expressed in all	2	6
+TRAPPC2	Expressed in all	0	0
+TRAPPC5	Expressed in all	3	4
+TRAPPC4	Expressed in all	10	24
+PRPH	Tissue enhanced	0	0
+BAK1	Expressed in all	0	0
+KIAA1279	Expressed in all	9	79
+TSNAXIP1	Group enriched	1	2
+ATPIF1	Expressed in all	1	3
+PSMG4	Expressed in all	21	41
+TBC1D10B	Expressed in all	0	0
+PSMG1	Expressed in all	19	78
+PSMG2	Expressed in all	12	54
+PSMG3	Expressed in all	24	75
+PPIH	Expressed in all	26	189
+GATAD2B	Expressed in all	2	5
+PPIA	Expressed in all	96	1291
+SERBP1	Expressed in all	30	238
+MRPL53	Expressed in all	1	2
+NUP133	Expressed in all	0	0
+LIN37	Expressed in all	0	0
+NDUFAF3	Expressed in all	0	0
+GDAP1	Expressed in all	0	0
+AP3D1	Expressed in all	3	19
+SULT1A1	Expressed in all	6	34
+SULT1A3	Expressed in all	15	89
+RBBP7	Expressed in all	48	335
+NOL8	Expressed in all	0	0
+CHTF18	Expressed in all	11	23
+C19orf10	Expressed in all	40	367
+CLPTM1	Expressed in all	0	0
+SRRT	Expressed in all	19	76
+CDC45	Tissue enhanced	0	0
+CDC42	Expressed in all	28	122
+UNK	Expressed in all	1	2
+NADSYN1	Expressed in all	4	19
+PDDC1	Expressed in all	0	0
+BIN1	Tissue enriched	4	13
+PIN1	Expressed in all	27	180
+DPYD	Expressed in all	3	8
+UBTF	Expressed in all	1	4
+YLPM1	Expressed in all	0	0
+CDCA5	Tissue enhanced	0	0
+GFAP	Tissue enriched	0	0
+VPS53	Expressed in all	0	0
+WASF1	Tissue enhanced	1	1
+VPS33A	Expressed in all	1	3
+PCK2	Group enriched	3	31
+PLEKHH3	Expressed in all	0	0
+RELA	Expressed in all	3	6
+HDGF	Expressed in all	102	1279
+ZMPSTE24	Expressed in all	0	0
+ATM	Expressed in all	0	0
+MRPL32	Expressed in all	0	0
+PTRH2	Expressed in all	0	0
+MRPL38	Expressed in all	0	0
+THOC1	Expressed in all	4	11
+THOC7	Expressed in all	0	0
+THOC6	Expressed in all	1	4
+THOC5	Expressed in all	0	0
+UNC93B1	Expressed in all	0	0
+SNN	Expressed in all	1	2
+MTRR	Expressed in all	12	51
+ATR	Expressed in all	2	9
+YWHAG	Expressed in all	103	562
+COPS8	Expressed in all	40	92
+RCCD1	Expressed in all	14	34
+FOXP4	Expressed in all	0	0
+MSL3	Expressed in all	0	0
+COPS2	Expressed in all	30	79
+COPS3	Expressed in all	43	115
+COPS6	Expressed in all	9	31
+NUP85	Expressed in all	2	3
+COPS4	Expressed in all	62	203
+COPS5	Expressed in all	3	6
+YTHDF1	Expressed in all	3	9
+ZNF598	Expressed in all	2	3
+MYCN	Tissue enhanced	0	0
+TKT	Expressed in all	62	2160
+NLN	Expressed in all	7	50
+NUDT9	Expressed in all	3	9
+DLD	Expressed in all	3	3
+NUDT1	Expressed in all	15	87
+NUDT2	Expressed in all	5	29
+NUDT3	Expressed in all	6	19
+NUDT4	Expressed in all	1	1
+NUDT5	Expressed in all	34	358
+PVR	Expressed in all	0	0
+NTHL1	Expressed in all	0	0
+LARS	Expressed in all	132	898
+MEF2A	Expressed in all	0	0
+DDRGK1	Expressed in all	0	0
+MSLN	Tissue enriched	0	0
+FBXL20	Expressed in all	1	2
+SSB	Expressed in all	45	774
+EPHX1	Expressed in all	0	0
+EPHX2	Expressed in all	2	3
+RPLP2	Expressed in all	132	662
+NSL1	Expressed in all	0	0
+RPLP0	Expressed in all	79	287
+TEX10	Expressed in all	0	0
+SLCO1B1	Tissue enriched	0	0
+ECD	Expressed in all	2	4
+THTPA	Expressed in all	6	16
+CIB1	Expressed in all	0	0
+THYN1	Expressed in all	8	17
+ARID3A	Tissue enhanced	0	0
+TRIO	Expressed in all	1	1
+UGDH	Expressed in all	35	338
+CELSR1	Tissue enhanced	3	4
+BBX	Expressed in all	0	0
+MRPL39	Expressed in all	0	0
+NEK6	Expressed in all	2	2
+CYP24A1	Tissue enhanced	1	3
+LRRC36	Tissue enhanced	2	3
+MFN1	Expressed in all	0	0
+PTPN2	Expressed in all	4	24
+NAA50	Expressed in all	7	57
+SVIL	Expressed in all	0	0
+KTN1	Expressed in all	11	27
+TCEB3	Expressed in all	1	9
+TCEB2	Expressed in all	63	197
+TCEB1	Expressed in all	41	133
+UBAP2	Expressed in all	0	0
+GALNS	Expressed in all	1	2
+U2SURP	Expressed in all	0	0
+TJAP1	Expressed in all	1	2
+SLC16A1	Expressed in all	1	1
+SLC16A6	Tissue enhanced	0	0
+ARHGAP35	Expressed in all	0	0
+MON1B	Expressed in all	0	0
+DYNLL1	Expressed in all	7	26
+DYNLL2	Expressed in all	0	0
+UQCRQ	Expressed in all	0	0
+RBM4B	Expressed in all	0	0
+UQCRH	Expressed in all	8	15
+UQCRB	Expressed in all	0	0
+CACNA1B	Group enriched	5	7
+LYPLA1	Expressed in all	17	61
+ATP6V0D1	Expressed in all	0	0
+TTN	Group enriched	5	14
+TTL	Expressed in all	4	8
+PHB2	Expressed in all	0	0
+COIL	Tissue enriched	2	6
+CARHSP1	Expressed in all	34	139
+RBM42	Expressed in all	5	21
+RBM45	Expressed in all	1	2
+PQBP1	Expressed in all	6	9
+UBFD1	Expressed in all	5	26
+OAT	Expressed in all	1	3
+C4orf27	Expressed in all	2	4
+ZFP91	Expressed in all	0	0
+RICTOR	Expressed in all	0	0
+PPM1G	Expressed in all	64	457
+PPM1F	Expressed in all	10	70
+ABCF3	Expressed in all	11	38
+ABCF2	Expressed in all	0	0
+ABCF1	Expressed in all	22	179
+NSMCE1	Expressed in all	0	0
+DALRD3	Expressed in all	1	6
+UPF3B	Expressed in all	1	5
+PRKAB2	Expressed in all	0	0
+PRKAB1	Expressed in all	0	0
+KPRP	Tissue enriched	2	5
+AHCYL1	Expressed in all	18	41
+GINS3	Expressed in all	7	44
+GINS1	Tissue enhanced	8	21
+BTF3	Expressed in all	70	466
+NNMT	Expressed in all	88	453
+UBE3C	Expressed in all	6	36
+RBM12B	Expressed in all	1	1
+ARRB2	Expressed in all	0	0
+ARRB1	Expressed in all	1	11
+CHCHD10	Expressed in all	0	0
+NEK9	Expressed in all	0	0
+ADI1	Expressed in all	13	82
+ZEB1	Expressed in all	0	0
+PSMA2	Expressed in all	64	724
+C9	Tissue enriched	1	2
+PSMA1	Expressed in all	25	587
+PSMA6	Expressed in all	49	854
+PSMA7	Expressed in all	37	413
+OBSL1	Expressed in all	0	0
+PSMA5	Expressed in all	43	716
+PSMA8	Tissue enriched	57	335
+DSG1	Tissue enriched	1	2
+CAPN2	Expressed in all	41	619
+SH3BP5L	Expressed in all	1	2
+CS	Expressed in all	3	44
+RPS6KA4	Expressed in all	1	1
+C9orf131	Tissue enriched	0	0
+AGPAT1	Expressed in all	0	0
+COL1A1	Expressed in all	1	1
+SET	Expressed in all	96	740
+VAT1	Expressed in all	13	63
+NUF2	Tissue enhanced	0	0
+SPAG6	Group enriched	0	0
+SPAG7	Expressed in all	19	53
+PRRC2A	Expressed in all	6	14
+AADAT	Tissue enhanced	11	14
+EPCAM	Tissue enhanced	0	0
+OSTF1	Expressed in all	10	55
+PPP1CB	Expressed in all	29	84
+PPP1CC	Expressed in all	1	5
+MPPED2	Tissue enhanced	0	0
+KLHL4	Tissue enhanced	0	0
+WBP2	Expressed in all	3	7
+COL6A3	Tissue enhanced	0	0
+RFXANK	Expressed in all	0	0
+KLK11	Tissue enhanced	16	32
+NDUFAF4	Expressed in all	0	0
+METTL2A	Expressed in all	9	24
+WIPF2	Expressed in all	5	13
+UBR1	Expressed in all	6	7
+NUCB1	Expressed in all	9	33
+HSDL2	Expressed in all	0	0
+NUCB2	Expressed in all	9	25
+PPP2CA	Expressed in all	102	460
+PPP2CB	Expressed in all	2	2
+CCNH	Expressed in all	1	2
+CCNK	Expressed in all	1	1
+PCM1	Expressed in all	0	0
+MT-CO2	Expressed in all	0	0
+NCKAP5	Tissue enhanced	0	0
+GSK3B	Expressed in all	5	20
+COPE	Expressed in all	2	6
+ABHD10	Expressed in all	0	0
+CRMP1	Tissue enhanced	3	8
+FN3K	Expressed in all	0	0
+MRPL10	Expressed in all	0	0
+MRPL11	Expressed in all	0	0
+MRPL12	Expressed in all	0	0
+MRPL13	Expressed in all	0	0
+MRPL14	Expressed in all	0	0
+C16orf62	Expressed in all	0	0
+MRPL16	Expressed in all	0	0
+MRPL17	Expressed in all	0	0
+ARPC3	Expressed in all	3	8
+ARPC2	Expressed in all	8	61
+ARPC5	Expressed in all	8	21
+ARPC4	Expressed in all	11	25
+TMPRSS12	Tissue enriched	1	2
+DCUN1D1	Tissue enriched	5	16
+DCUN1D5	Expressed in all	3	14
+ITPR1	Expressed in all	0	0
+AMPH	Tissue enriched	0	0
+C15orf60	Tissue enriched	1	2
+SNCG	Tissue enhanced	5	27
+AIFM3	Group enriched	3	5
+AIFM1	Expressed in all	0	0
+HBA1	Tissue enriched	3	8
+LMNA	Expressed in all	8	238
+NCOR1	Expressed in all	0	0
+AVEN	Expressed in all	0	0
+REPS1	Expressed in all	2	2
+GPN3	Expressed in all	0	0
+NFKB1	Expressed in all	1	2
+NFKB2	Expressed in all	0	0
+PM20D2	Expressed in all	10	67
+ATE1	Expressed in all	8	43
+DNPEP	Expressed in all	11	28
+CLPTM1L	Expressed in all	0	0
+PIAS1	Expressed in all	2	3
+PIAS4	Expressed in all	1	4
+FAM115A	Expressed in all	4	16
+HSPBP1	Expressed in all	42	242
+HADHB	Expressed in all	0	0
+HADHA	Expressed in all	0	0
+GSTP1	Expressed in all	0	0
+PHF6	Expressed in all	5	9
+PLXNB2	Expressed in all	0	0
+PGRMC2	Expressed in all	0	0
+ALDH9A1	Expressed in all	46	593
+KIAA1024	Group enriched	5	10
+LRRC57	Expressed in all	9	25
+TSEN54	Expressed in all	1	1
+LRRC59	Expressed in all	0	0
+DIS3	Expressed in all	2	6
+SDHA	Expressed in all	12	39
+BAP1	Expressed in all	1	3
+SDHB	Expressed in all	0	0
+ZCCHC13	Tissue enriched	0	0
+PSG11	Tissue enriched	1	2
+SATB2	Group enriched	0	0
+AP1M1	Expressed in all	3	8
+CYP3A43	Tissue enriched	1	2
+DLG5	Expressed in all	1	1
+SURF1	Expressed in all	0	0
+SRPK1	Expressed in all	0	0
+GRWD1	Expressed in all	9	11
+FAM114A2	Expressed in all	1	2
+MT-ATP6	Expressed in all	0	0
+IGF1R	Expressed in all	0	0
+FAM3C	Expressed in all	0	0
+PCBP1	Expressed in all	50	621
+PTGR1	Expressed in all	60	657
+OSBPL9	Expressed in all	7	18
+OSBPL2	Expressed in all	1	1
+STUB1	Expressed in all	11	109
+ARHGAP17	Expressed in all	8	16
+STARD7	Expressed in all	0	0
+ARHGAP18	Expressed in all	0	0
+ARHGAP19	Expressed in all	0	0
+CAPZB	Expressed in all	47	230
+SIRT1	Expressed in all	37	80
+IMPAD1	Expressed in all	0	0
+CHKA	Expressed in all	3	9
+SIRT5	Expressed in all	1	10
+CDH17	Group enriched	0	0
+AHSA1	Expressed in all	31	185
+MRI1	Expressed in all	5	38
+TOMM6	Expressed in all	0	0
+DST	Expressed in all	1	1
+DSP	Group enriched	9	20
+GLMN	Expressed in all	10	46
+PDAP1	Expressed in all	20	89
+GSTO1	Expressed in all	25	337
+TTC33	Expressed in all	0	0
+TTC37	Expressed in all	1	2
+TRUB1	Expressed in all	1	9
+TTC38	Expressed in all	18	152
+MTHFSD	Expressed in all	0	0
+TIPRL	Expressed in all	8	40
+DDTL	Expressed in all	17	96
+HMGB2	Expressed in all	11	62
+SETX	Expressed in all	1	1
+HMGB1	Expressed in all	10	112
+AUH	Expressed in all	1	2
+GSTT2B	Tissue enhanced	2	6
+CAPZA2	Expressed in all	11	35
+CAPZA1	Expressed in all	74	443
+GEMIN2	Expressed in all	1	1
+GTF2H2C	Expressed in all	0	0
+GEMIN4	Expressed in all	1	1
+GEMIN5	Expressed in all	20	100
+ME2	Expressed in all	4	13
+PBRM1	Expressed in all	0	0
+TRPC4AP	Expressed in all	1	1
+ATPAF2	Expressed in all	1	2
+LARP1B	Expressed in all	0	0
+PFN3	Group enriched	3	12
+C15orf57	Expressed in all	2	2
+LARS2	Expressed in all	2	9
+ERAL1	Expressed in all	0	0
+SHC1	Expressed in all	1	3
+DDX17	Expressed in all	6	8
+DDX18	Expressed in all	0	0
+GRIN3B	Tissue enhanced	0	0
+PSMC1	Expressed in all	96	549
+PSMC2	Expressed in all	78	546
+PSMC3	Expressed in all	100	597
+PSMC4	Expressed in all	96	470
+PSMC5	Expressed in all	79	368
+PSMC6	Expressed in all	100	446
+ARFIP1	Expressed in all	2	3
+ARFIP2	Expressed in all	1	3
+SH3GLB2	Expressed in all	0	0
+TRIP10	Expressed in all	31	213
+TRIP12	Expressed in all	1	1
+IFT172	Expressed in all	0	0
+FN3KRP	Expressed in all	9	68
+NCLN	Expressed in all	0	0
+DNAL1	Expressed in all	0	0
+LIN7A	Tissue enhanced	0	0
+GRHPR	Expressed in all	23	118
+EIF3H	Expressed in all	15	29
+EIF3I	Expressed in all	59	290
+EIF3J	Expressed in all	20	234
+EIF3K	Expressed in all	10	26
+EIF3L	Expressed in all	43	211
+EIF3M	Expressed in all	23	100
+EIF3A	Expressed in all	37	346
+EIF3B	Expressed in all	111	1053
+EIF3D	Expressed in all	11	66
+EIF3E	Expressed in all	6	26
+EIF3F	Expressed in all	41	128
+EIF3G	Expressed in all	69	290
+FGFBP3	Tissue enriched	0	0
+FADD	Expressed in all	9	47
+ARMC10	Expressed in all	0	0
+NOL11	Expressed in all	0	0
+CDKN2C	Expressed in all	7	23
+NTPCR	Expressed in all	3	7
+SMG6	Expressed in all	0	0
+CSTF2T	Expressed in all	0	0
+LARP4B	Expressed in all	0	0
+SMG1	Expressed in all	1	2
+SETD6	Expressed in all	3	6
+FAM73A	Expressed in all	1	3
+AP2B1	Expressed in all	7	12
+HSBP1	Expressed in all	13	31
+GTF2E1	Expressed in all	1	2
+GFER	Expressed in all	2	4
+PPP1R14B	Expressed in all	26	171
+PPP1R14C	Tissue enhanced	0	0
+UBP1	Expressed in all	0	0
+RALY	Expressed in all	0	0
+ALKBH8	Expressed in all	2	11
+ALKBH6	Expressed in all	0	0
+ALKBH4	Expressed in all	3	9
+ALKBH5	Expressed in all	5	6
+ALKBH2	Expressed in all	0	0
+ALKBH3	Expressed in all	0	0
+RALA	Expressed in all	1	1
+C8orf59	Expressed in all	0	0
+SCD	Expressed in all	0	0
+LSM3	Expressed in all	1	1
+TRMT6	Expressed in all	12	60
+DNAJB1	Expressed in all	11	62
+DNAJB4	Expressed in all	1	5
+AMDHD2	Expressed in all	6	10
+TRMT5	Expressed in all	5	51
+KDM6A	Expressed in all	0	0
+DIDO1	Expressed in all	4	16
+RAB21	Expressed in all	2	5
+SNW1	Expressed in all	7	29
+TBL1X	Expressed in all	5	9
+RNF149	Expressed in all	0	0
+SGSH	Expressed in all	0	0
+YRDC	Expressed in all	6	20
+GRSF1	Expressed in all	6	15
+MSH2	Expressed in all	20	73
+MSH3	Expressed in all	1	5
+MSH6	Expressed in all	11	38
+CALU	Expressed in all	11	73
+NFXL1	Expressed in all	0	0
+PACSIN3	Tissue enhanced	2	3
+PACSIN2	Expressed in all	12	36
+COPA	Expressed in all	3	14
+AGTPBP1	Expressed in all	0	0
+TOE1	Expressed in all	0	0
+RPL23A	Expressed in all	13	124
+TWISTNB	Expressed in all	0	0
+VTI1B	Expressed in all	0	0
+ATP6V1C2	Group enriched	0	0
+ATP6V1C1	Expressed in all	29	97
+NT5C	Expressed in all	10	75
+VPS37C	Expressed in all	0	0
+CDKN2AIP	Expressed in all	1	2
+ATF7IP	Expressed in all	1	4
+GPATCH1	Expressed in all	0	0
+OCIAD2	Expressed in all	0	0
+SAMD9	Tissue enhanced	2	4
+OCIAD1	Expressed in all	0	0
+TFIP11	Expressed in all	1	1
+LUC7L3	Expressed in all	0	0
+YTHDC1	Expressed in all	0	0
+ERLEC1	Expressed in all	0	0
+SH3GLB1	Expressed in all	0	0
+CHERP	Expressed in all	0	0
+NME7	Expressed in all	3	10
+TAOK1	Expressed in all	0	0
+HELQ	Expressed in all	0	0
+EPB41	Expressed in all	1	3
+GSKIP	Expressed in all	7	14
+MATR3	Expressed in all	3	25
+TEKT3	Tissue enhanced	0	0
+PNPLA6	Expressed in all	0	0
+KRT7	Tissue enhanced	1	2
+HOMEZ	Expressed in all	0	0
+KATNAL2	Tissue enhanced	11	19
+UBASH3B	Tissue enhanced	0	0
+SFPQ	Expressed in all	8	117
+SAFB2	Expressed in all	1	6
+ZNF259	Expressed in all	12	90
+KRT5	Group enriched	13	61
+SEC14L2	Tissue enhanced	0	0
+SEC14L5	Tissue enhanced	0	0
+RWDD1	Expressed in all	5	12
+PES1	Expressed in all	1	2
+UPF2	Expressed in all	2	2
+FLG2	Tissue enriched	0	0
+RBM8A	Expressed in all	12	103
+CASK	Expressed in all	0	0
+CAST	Expressed in all	119	768
+KRT6B	Tissue enriched	2	3
+GPR84	Tissue enhanced	0	0
+THRAP3	Expressed in all	1	2
+COMT	Expressed in all	3	8
+TPR	Expressed in all	20	166
+GLCE	Expressed in all	0	0
+ADAM28	Tissue enhanced	0	0
+GNAQ	Expressed in all	0	0
+IL18	Expressed in all	15	159
+GSTM1	Expressed in all	0	0
+GSTM3	Expressed in all	49	166
+IL16	Expressed in all	1	2
+PIP4K2C	Expressed in all	0	0
+KRT9	Tissue enhanced	167	1505
+TTF2	Expressed in all	0	0
+LTA4H	Expressed in all	36	539
+DAD1	Expressed in all	0	0
+RCHY1	Expressed in all	2	8
+CBR1	Expressed in all	52	736
+GDF5	Tissue enriched	2	2
+ANXA1	Expressed in all	59	1218
+ANXA3	Expressed in all	28	366
+ANXA5	Expressed in all	22	467
+ANXA4	Expressed in all	10	30
+ANXA7	Expressed in all	29	326
+ANXA6	Expressed in all	4	36
+ANXA8	Tissue enhanced	7	27
+MCM7	Expressed in all	58	389
+MCM6	Expressed in all	41	553
+MCM5	Expressed in all	22	102
+MCM4	Expressed in all	43	392
+MCM3	Expressed in all	47	491
+MCM2	Expressed in all	37	496
+DUSP12	Expressed in all	7	13
+SQSTM1	Expressed in all	4	6
+EPC2	Expressed in all	0	0
+HSPB11	Expressed in all	5	52
+M6PR	Expressed in all	0	0
+MRGBP	Tissue enriched	3	5
+PIBF1	Expressed in all	0	0
+AP4B1	Expressed in all	1	1
+KIFAP3	Expressed in all	0	0
+ZNF148	Expressed in all	0	0
+DSC2	Tissue enhanced	2	4
+DDX31	Expressed in all	0	0
+DSC1	Tissue enriched	0	0
+PYGB	Expressed in all	31	175
+PYGL	Expressed in all	45	699
+PFAS	Expressed in all	121	1357
+C20orf27	Expressed in all	3	14
+SOD1	Expressed in all	78	683
+RANGAP1	Expressed in all	10	80
+PMS2	Expressed in all	1	2
+SNRPA1	Expressed in all	16	42
+RHOA	Expressed in all	39	265
+INO80	Expressed in all	0	0
+EP400	Expressed in all	2	4
+SNX5	Expressed in all	4	16
+TAF13	Expressed in all	0	0
+MED12L	Tissue enhanced	0	0
+FAF2	Expressed in all	0	0
+PGM1	Expressed in all	53	1443
+ABCB11	Group enriched	0	0
+ABCB10	Expressed in all	0	0
+SBK1	Group enriched	2	6
+SLC25A40	Expressed in all	0	0
+SLC25A44	Expressed in all	0	0
+SLC25A46	Expressed in all	0	0
+CDC27	Expressed in all	2	6
+CDC26	Expressed in all	1	3
+TAF11	Expressed in all	0	0
+CDC23	Expressed in all	1	2
+CDC20	Tissue enhanced	0	0
+NUP153	Expressed in all	1	1
+FAM105B	Expressed in all	6	17
+FAM105A	Tissue enhanced	1	1
+TNC	Tissue enhanced	5	10
+SORCS3	Tissue enhanced	1	1
+CARS2	Expressed in all	0	0
+GPKOW	Expressed in all	8	18
+TNPO3	Expressed in all	20	78
+TNPO1	Expressed in all	59	773
+GCN1L1	Expressed in all	5	44
+MAPK3	Expressed in all	6	41
+MAPK1	Expressed in all	12	79
+MAPK8	Expressed in all	2	4
+MAPK9	Expressed in all	3	5
+DAZAP1	Expressed in all	39	183
+VWA3B	Group enriched	0	0
+METTL3	Expressed in all	4	11
+STAT5B	Expressed in all	2	4
+KCTD9	Expressed in all	1	1
+MED9	Expressed in all	0	0
+HCFC1	Expressed in all	10	29
+ZC3HC1	Expressed in all	3	15
+NRAS	Expressed in all	4	11
+PDZD11	Expressed in all	3	3
+PXK	Expressed in all	0	0
+FOXRED1	Expressed in all	0	0
+PXN	Expressed in all	14	34
+LIX1L	Expressed in all	0	0
+NCCRP1	Group enriched	0	0
+WBP11	Expressed in all	3	22
+PACS1	Expressed in all	0	0
+BRAP	Expressed in all	0	0
+RNF168	Expressed in all	0	0
+ZBTB43	Expressed in all	0	0
+ALOX15B	Tissue enhanced	0	0
+SMYD5	Expressed in all	3	8
+ANP32E	Expressed in all	33	330
+ANP32B	Expressed in all	24	113
+ANP32A	Expressed in all	68	439
+FDXR	Expressed in all	2	7
+GMEB1	Expressed in all	0	0
+ALMS1	Tissue enhanced	1	3
+MRPL55	Expressed in all	0	0
+MRPL50	Expressed in all	0	0
+MRPL51	Expressed in all	0	0
+MRPL52	Expressed in all	0	0
+THY1	Tissue enhanced	0	0
+TARDBP	Expressed in all	7	19
+UBE2R2	Expressed in all	2	12
+ZNF687	Expressed in all	0	0
+PFN1	Expressed in all	121	2964
+TNS3	Expressed in all	0	0
+TMEM140	Expressed in all	0	0
+MUC16	Tissue enhanced	3	6
+SYAP1	Expressed in all	17	106
+CTCF	Expressed in all	0	0
+MMP14	Expressed in all	0	0
+MYO18A	Group enriched	4	12
+TIMM23B	Expressed in all	0	0
+NF2	Expressed in all	2	8
+NF1	Expressed in all	0	0
+GPAA1	Expressed in all	0	0
+CDAN1	Expressed in all	0	0
+NCAPD3	Tissue enriched	2	8
+PPP1R10	Expressed in all	2	9
+C7orf26	Expressed in all	0	0
+ATXN2	Expressed in all	0	0
+ZNF428	Expressed in all	0	0
+EFHD2	Expressed in all	13	48
+SOAT1	Tissue enriched	0	0
+SRGAP2	Expressed in all	0	0
+EFHD1	Tissue enhanced	0	0
+NEDD8	Expressed in all	23	95
+NEDD9	Expressed in all	0	0
+NEDD1	Expressed in all	0	0
+SMC3	Expressed in all	13	76
+THOP1	Expressed in all	63	471
+SFR1	Expressed in all	1	1
+CPOX	Expressed in all	9	16
+GRIPAP1	Expressed in all	8	51
+LTF	Tissue enhanced	10	57
+LASP1	Expressed in all	6	89
+ALG13	Expressed in all	0	0
+OFD1	Expressed in all	0	0
+RIOK2	Expressed in all	0	0
+RIOK1	Expressed in all	0	0
+LTV1	Expressed in all	37	55
+MICALL1	Expressed in all	0	0
+PRDX4	Expressed in all	2	3
+BANF1	Expressed in all	23	70
+RBMS1	Expressed in all	0	0
+LMOD2	Group enriched	0	0
+DHX40	Expressed in all	0	0
+AHSG	Tissue enriched	22	48
+GYG1	Expressed in all	7	28
+SLFN11	Expressed in all	0	0
+TMEM214	Expressed in all	0	0
+VIL1	Group enriched	0	0
+TRIM3	Expressed in all	0	0
+NUTF2	Expressed in all	8	44
+DAB2	Expressed in all	3	6
+SYNJ2	Expressed in all	0	0
+HYOU1	Expressed in all	14	150
+KIAA1468	Expressed in all	0	0
+STK38L	Expressed in all	0	0
+EEFSEC	Expressed in all	8	32
+UBE2V1	Expressed in all	24	212
+TOR1AIP1	Expressed in all	0	0
+RAB5A	Expressed in all	4	4
+RAB5C	Expressed in all	1	7
+RAB5B	Expressed in all	3	6
+TIMM13	Expressed in all	1	1
+NHEJ1	Expressed in all	0	0
+KPTN	Expressed in all	2	5
+SCARB2	Expressed in all	0	0
+SNAP23	Expressed in all	1	2
+TMSB10	Expressed in all	3	22
+ERAP2	Expressed in all	0	0
+ERAP1	Expressed in all	2	7
+EIF2S3L	Expressed in all	37	376
+ANXA2	Expressed in all	61	3261
+PRR12	Expressed in all	0	0
+DDX59	Expressed in all	1	2
+DDX52	Expressed in all	1	1
+DENR	Expressed in all	6	22
+DDX50	Expressed in all	0	0
+DDX55	Expressed in all	0	0
+GATM	Expressed in all	0	0
+FAM129A	Expressed in all	0	0
+CDC42BPA	Expressed in all	3	7
+FAM129B	Expressed in all	22	119
+TXNRD2	Expressed in all	2	9
+COX6C	Expressed in all	0	0
+GATC	Expressed in all	0	0
+RNPS1	Expressed in all	4	11
+BUB3	Expressed in all	25	150
+UBE2E1	Expressed in all	6	12
+UBE2E3	Expressed in all	0	0
+UBE2E2	Expressed in all	0	0
+ADSSL1	Tissue enriched	4	20
+EGLN1	Expressed in all	7	27
+DNAH7	Tissue enhanced	0	0
+DNAH5	Tissue enhanced	0	0
+DNAH8	Tissue enriched	6	15
+MYBPC2	Tissue enriched	0	0
+HSD17B10	Expressed in all	21	73
+CCDC47	Expressed in all	0	0
+TPM3	Tissue enriched	68	300
+RFTN2	Tissue enhanced	2	2
+TRADD	Expressed in all	2	3
+TRPC4	Tissue enhanced	1	1
+COASY	Expressed in all	21	325
+TRIM33	Expressed in all	0	0
+FBXO22	Expressed in all	23	50
+USF1	Expressed in all	0	0
+FBXO28	Expressed in all	1	1
+UTP15	Expressed in all	0	0
+GNB1	Expressed in all	3	9
+C11orf84	Expressed in all	0	0
+FBXW2	Expressed in all	3	14
+C11orf83	Expressed in all	3	5
+FAM107B	Expressed in all	0	0
+MCMBP	Expressed in all	40	144
+SRXN1	Expressed in all	8	30
+GTF2A1	Expressed in all	5	9
+IQGAP1	Expressed in all	135	3313
+IQGAP3	Tissue enhanced	0	0
+NFATC2IP	Expressed in all	1	5
+SLIRP	Expressed in all	1	3
+NDUFS1	Expressed in all	0	0
+NDUFS2	Expressed in all	0	0
+SMNDC1	Expressed in all	5	11
+NDUFS3	Expressed in all	0	0
+RPE	Expressed in all	10	49
+NDUFS4	Expressed in all	0	0
+CAMSAP1	Expressed in all	0	0
+TUBA4A	Expressed in all	4	4
+CALD1	Expressed in all	2	23
+CCNB2	Tissue enhanced	0	0
+CCNB1	Expressed in all	1	2
+VPS18	Expressed in all	0	0
+VPS16	Expressed in all	0	0
+FPGS	Expressed in all	10	41
+FIBP	Expressed in all	0	0
+CSTF3	Expressed in all	3	8
+CSTF2	Expressed in all	19	86
+ILF3	Expressed in all	15	175
+ILF2	Expressed in all	21	193
+POU2F1	Expressed in all	4	8
+BPTF	Expressed in all	1	2
+C1orf122	Expressed in all	2	4
+C1orf123	Expressed in all	6	58
+FCHO2	Expressed in all	0	0
+SERPINC1	Tissue enriched	3	7
+TPD52	Expressed in all	23	181
+CLN6	Expressed in all	0	0
+AUP1	Expressed in all	0	0
+UBE2K	Expressed in all	17	134
+LIMA1	Expressed in all	0	0
+CHMP2A	Expressed in all	1	15
+PNPO	Expressed in all	21	117
+HRAS	Expressed in all	5	25
+MFF	Expressed in all	1	3
+C16orf80	Expressed in all	4	28
+JMJD1C	Expressed in all	3	6
+EHBP1	Expressed in all	5	9
+DDT	Expressed in all	11	31
+GPHN	Expressed in all	25	57
+RWDD4	Expressed in all	0	0
+BCS1L	Expressed in all	0	0
+GSTT1	Expressed in all	4	47
+ATP6V1G1	Expressed in all	8	28
+PHF2	Expressed in all	0	0
+LAMTOR2	Expressed in all	0	0
+LAMTOR3	Expressed in all	0	0
+STRN4	Expressed in all	0	0
+STRN3	Expressed in all	2	3
+SAMHD1	Expressed in all	5	10
+RPS26	Expressed in all	0	0
+RPS24	Expressed in all	7	25
+PCBD1	Expressed in all	13	45
+RPS23	Expressed in all	25	82
+RPS28	Expressed in all	38	149
+CHMP1A	Expressed in all	0	0
+UCHL1	Group enriched	0	0
+UCHL3	Expressed in all	16	140
+LRR1	Expressed in all	1	1
+NFYC	Expressed in all	1	2
+CHAF1A	Expressed in all	0	0
+NFYA	Expressed in all	1	2
+PREB	Expressed in all	1	2
+SARS	Expressed in all	16	371
+AIMP2	Expressed in all	52	214
+AIMP1	Expressed in all	63	272
+MDH2	Expressed in all	19	150
+ADPGK	Expressed in all	0	0
+DDX3X	Expressed in all	32	249
+SMARCA5	Expressed in all	2	3
+VPS33B	Expressed in all	5	22
+PDE6A	Tissue enhanced	0	0
+GPX4	Expressed in all	0	0
+PDE6D	Expressed in all	4	5
+NIF3L1	Expressed in all	8	64
+PPP6R1	Expressed in all	5	9
+TMBIM1	Expressed in all	0	0
+CASP6	Expressed in all	1	2
+CASP7	Expressed in all	7	17
+CASP4	Expressed in all	8	75
+FLNC	Tissue enhanced	4	11
+CASP2	Expressed in all	0	0
+CASP3	Expressed in all	7	21
+CASP1	Expressed in all	6	16
+CASP8	Expressed in all	2	3
+CASP9	Expressed in all	5	35
+LSG1	Expressed in all	0	0
+KCNN3	Tissue enhanced	2	3
+PICALM	Expressed in all	7	8
+WTAP	Expressed in all	0	0
+AKT1	Expressed in all	4	7
+AKT2	Expressed in all	3	6
+TTC9C	Expressed in all	7	26
+TRMT11	Expressed in all	1	1
+ANAPC16	Expressed in all	0	0
+ANAPC10	Expressed in all	0	0
+ANAPC13	Expressed in all	1	3
+SNRNP40	Expressed in all	0	0
+ENTPD4	Expressed in all	2	2
+TRMT1L	Expressed in all	4	8
+XIAP	Expressed in all	4	8
+SPC24	Tissue enhanced	2	3
+METAP1	Expressed in all	2	10
+MST1R	Tissue enhanced	0	0
+METAP2	Expressed in all	8	88
+PKIB	Tissue enhanced	0	0
+DCTN1	Expressed in all	6	17
+LANCL2	Expressed in all	2	14
+LANCL1	Expressed in all	28	165
+SRP14	Expressed in all	15	113
+SRP19	Expressed in all	3	3
+GNPNAT1	Expressed in all	30	203
+KIF3B	Expressed in all	0	0
+KIF3A	Expressed in all	0	0
+HADH	Expressed in all	7	27
+KNTC1	Expressed in all	0	0
+STAMBP	Expressed in all	8	37
+UFD1L	Expressed in all	2	10
+NIT1	Expressed in all	20	54
+HNRNPH1	Expressed in all	92	788
+HNRNPH3	Expressed in all	21	103
+HNRNPH2	Expressed in all	4	19
+FOXK2	Expressed in all	0	0
+MRPS35	Expressed in all	0	0
+MRPS34	Expressed in all	0	0
+MRPS31	Expressed in all	0	0
+MRPS30	Expressed in all	0	0
+HSPA12A	Tissue enhanced	0	0
+SAP30BP	Expressed in all	1	2
+UBE2N	Expressed in all	31	406
+KIAA2013	Expressed in all	0	0
+HNRNPUL2	Expressed in all	12	29
+HNRNPUL1	Expressed in all	1	1
+SPAST	Expressed in all	1	4
+PAIP2	Expressed in all	16	40
+PAIP1	Expressed in all	14	24
+MVP	Expressed in all	7	25
+CCDC22	Expressed in all	2	5
+CCDC25	Expressed in all	0	0
+DCAF15	Expressed in all	3	4
+LEPRE1	Expressed in all	4	7
+OSCP1	Tissue enhanced	1	1
+PAPSS1	Expressed in all	22	130
+TXN	Expressed in all	103	1041
+PAPSS2	Expressed in all	7	34
+ZWILCH	Tissue enhanced	0	0
+PRPF38A	Expressed in all	0	0
+PPP2R2A	Expressed in all	64	397
+G3BP1	Expressed in all	37	155
+G3BP2	Expressed in all	17	43
+APBB1	Expressed in all	0	0
+NOB1	Expressed in all	6	13
+TPMT	Expressed in all	8	26
+IRAK1	Expressed in all	0	0
+WDR6	Expressed in all	5	16
+WDR5	Expressed in all	1	2
+WDR4	Expressed in all	11	50
+WDR3	Expressed in all	0	0
+DIAPH1	Expressed in all	21	81
+DIAPH2	Expressed in all	0	0
+DIAPH3	Tissue enhanced	1	3
+SMARCD3	Expressed in all	0	0
+SMARCD2	Expressed in all	1	1
+SMARCD1	Expressed in all	0	0
+COX6A1	Expressed in all	0	0
+TXNDC9	Expressed in all	10	69
+TCF12	Expressed in all	2	3
+SUCLA2	Expressed in all	0	0
+RPS27A	Expressed in all	0	0
+UROS	Expressed in all	2	6
+KDM2A	Expressed in all	0	0
+UROD	Expressed in all	19	182
+NXF1	Expressed in all	2	6
+EPPK1	Tissue enhanced	4	47
+FAF1	Expressed in all	6	30
+DMAP1	Expressed in all	4	22
+IRGQ	Expressed in all	1	4
+PDLIM7	Expressed in all	3	9
+DPCD	Expressed in all	2	5
+PDLIM2	Expressed in all	9	23
+PDLIM3	Tissue enhanced	3	8
+CHRAC1	Expressed in all	9	28
+MARS	Expressed in all	136	993
+PGM2	Expressed in all	22	359
+PGM3	Expressed in all	34	153
+FTL	Expressed in all	22	39
+FTO	Expressed in all	33	178
+TUBGCP3	Expressed in all	2	3
+ZDHHC5	Expressed in all	0	0
+LDLRAP1	Expressed in all	0	0
+DCD	Tissue enriched	2	3
+CAPNS1	Expressed in all	29	132
+SMS	Expressed in all	116	1180
+NARS	Expressed in all	21	182
+POLE	Expressed in all	5	8
+TAF10	Expressed in all	4	6
+POLB	Expressed in all	0	0
+TAF15	Expressed in all	0	0
+FH	Expressed in all	37	438
+PSMD9	Expressed in all	7	55
+CDC123	Expressed in all	17	57
+POLL	Expressed in all	0	0
+NCSTN	Expressed in all	0	0
+SART1	Expressed in all	0	0
+DONSON	Expressed in all	0	0
+NDUFV3	Expressed in all	0	0
+NDUFV1	Expressed in all	0	0
+GGN	Tissue enriched	0	0
+GGH	Expressed in all	0	0
+LAMA1	Tissue enhanced	1	2
+PSMD6	Expressed in all	66	262
+TMED2	Expressed in all	0	0
+RAD23A	Expressed in all	34	249
+ATP6V1E1	Expressed in all	19	48
+C2CD2L	Expressed in all	1	2
+RBPMS	Expressed in all	2	2
+PRC1	Expressed in all	1	2
+DFFA	Expressed in all	33	182
+RPTOR	Expressed in all	1	2
+EPS15	Expressed in all	2	3
+MAB21L3	Tissue enhanced	1	1
+HOXD4	Tissue enhanced	0	0
+TOX4	Expressed in all	0	0
+PRMT3	Expressed in all	7	18
+DYNLRB1	Expressed in all	10	21
+HSD17B4	Expressed in all	2	2
+TRIM26	Expressed in all	0	0
+TRIM27	Expressed in all	0	0
+NUP155	Tissue enriched	2	2
+RTN4	Expressed in all	19	52
+KPNB1	Expressed in all	85	1421
+HGS	Expressed in all	2	19
+PRMT7	Expressed in all	1	3
+ABR	Expressed in all	0	0
+BAIAP2	Expressed in all	0	0
+RNF114	Expressed in all	12	56
+HUWE1	Expressed in all	52	678
+NUDT21	Expressed in all	3	9
+PEBP1	Expressed in all	70	574
+TEPP	Tissue enhanced	0	0
+SPIN1	Expressed in all	0	0
+TEP1	Expressed in all	1	1
+LPP	Expressed in all	13	76
+ILVBL	Expressed in all	0	0
+CNOT1	Expressed in all	1	2
+RNMT	Expressed in all	11	30
+DDAH2	Expressed in all	6	36
+EIF4A3	Expressed in all	12	142
+SHPRH	Expressed in all	0	0
+SPATA5L1	Expressed in all	0	0
+ARMC5	Expressed in all	0	0
+TNPO2	Expressed in all	4	17
+CSK	Expressed in all	6	48
+GALNT2	Expressed in all	0	0
+CCDC132	Expressed in all	2	3
+FAM103A1	Expressed in all	7	13
+ZBTB10	Expressed in all	0	0
+WIZ	Expressed in all	1	1
+NOXO1	Tissue enhanced	1	2
+RFC1	Expressed in all	0	0
+RFC3	Expressed in all	0	0
+RFC2	Expressed in all	10	20
+KIF15	Tissue enhanced	10	44
+CBX5	Expressed in all	0	0
+CBX4	Tissue enhanced	0	0
+CBX3	Expressed in all	60	283
+CBX1	Expressed in all	11	18
+SEC16A	Expressed in all	5	9
+PSEN1	Expressed in all	0	0
+MMGT1	Expressed in all	0	0
+PPP1R12A	Expressed in all	13	37
+SP140	Tissue enhanced	0	0
+RQCD1	Expressed in all	0	0
+RAB1A	Expressed in all	38	110
+CKS2	Expressed in all	11	29
+XRCC6	Expressed in all	38	649
+GAPDH	Expressed in all	111	4075
+IGF2BP1	Group enriched	1	1
+IGF2BP3	Tissue enhanced	20	68
+KIF1B	Expressed in all	4	7
+SHOC2	Expressed in all	3	7
+AATF	Expressed in all	1	1
+TPI1	Expressed in all	114	6642
+ERCC1	Expressed in all	0	0
+ERCC2	Expressed in all	0	0
+ERCC3	Expressed in all	0	0
+ERCC4	Expressed in all	1	1
+ERCC5	Expressed in all	0	0
+ERCC6	Expressed in all	1	1
+MRPS11	Expressed in all	0	0
+UBE2I	Expressed in all	11	43
+PFKP	Expressed in all	113	458
+PFKM	Group enriched	29	148
+PFKL	Expressed in all	36	158
+LSM4	Expressed in all	2	7
+LSM5	Expressed in all	0	0
+LSM6	Expressed in all	2	10
+LSM1	Expressed in all	2	7
+LSM2	Expressed in all	58	113
+ABHD14B	Expressed in all	11	65
+SEH1L	Expressed in all	2	4
+USP48	Expressed in all	0	0
+DCBLD2	Expressed in all	0	0
+DDX26B	Expressed in all	1	2
+SSR1	Expressed in all	0	0
+SSR3	Expressed in all	0	0
+SSR4	Expressed in all	0	0
+NCDN	Tissue enriched	0	0
+APOC3	Tissue enhanced	0	0
+RANBP10	Expressed in all	0	0
+MAGI2	Tissue enhanced	1	7
+LAS1L	Expressed in all	1	2
+SLC25A22	Tissue enhanced	0	0
+SLC25A20	Expressed in all	0	0
+SLC25A24	Expressed in all	0	0
+VPS35	Expressed in all	12	256
+SMUG1	Expressed in all	1	3
+SPTY2D1	Expressed in all	0	0
+ULK3	Expressed in all	2	4
+VPS36	Expressed in all	0	0
+VPS39	Expressed in all	0	0
+BST2	Expressed in all	0	0
+COPB1	Expressed in all	5	14
+COPB2	Expressed in all	4	6
+KDM4C	Expressed in all	0	0
+KDELC2	Expressed in all	1	2
+CARM1	Expressed in all	29	91
+PGK2	Tissue enriched	1	4
+PGK1	Expressed in all	103	1962
+RPUSD4	Expressed in all	0	0
+VWA5A	Expressed in all	6	11
+RPAP3	Expressed in all	5	15
+TOMM20	Expressed in all	0	0
+KCTD3	Expressed in all	0	0
+RPUSD2	Expressed in all	9	94
+OXA1L	Expressed in all	0	0
+SNX17	Expressed in all	14	91
+SNX15	Expressed in all	2	3
+KCTD5	Expressed in all	0	0
+SEC23B	Expressed in all	7	13
+SPCS1	Expressed in all	0	0
+TOMM22	Expressed in all	0	0
+SNX18	Expressed in all	0	0
+APOA1BP	Expressed in all	21	170
+TYW5	Expressed in all	1	2
+EBNA1BP2	Expressed in all	1	3
+TYW3	Expressed in all	1	2
+ARPC5L	Expressed in all	4	13
+CHURC1	Expressed in all	10	44
+TXNL4B	Expressed in all	4	9
+CDH15	Tissue enriched	0	0
+CREG1	Expressed in all	13	18
+ZBTB40	Expressed in all	0	0
+CYCS	Expressed in all	24	279
+GPD2	Expressed in all	0	0
+SON	Expressed in all	0	0
+GAK	Expressed in all	0	0
+C2orf76	Expressed in all	1	3
+MBP	Tissue enriched	0	0
+GAA	Expressed in all	2	4
+PTAR1	Expressed in all	1	3
+NRGN	Tissue enriched	2	4
+EIF4EBP2	Expressed in all	18	47
+RPA2	Expressed in all	10	34
+CYC1	Expressed in all	0	0
+PON2	Expressed in all	0	0
+COMMD10	Expressed in all	0	0
+HAGH	Expressed in all	4	7
+TFCP2	Expressed in all	0	0
+CKAP4	Expressed in all	0	0
+CKAP5	Expressed in all	2	27
+TCF20	Expressed in all	1	1
+SCO2	Expressed in all	0	0
+RBM15B	Expressed in all	0	0
+UGP2	Expressed in all	26	239
+ITSN1	Expressed in all	1	13
+NDST1	Expressed in all	1	2
+ITSN2	Expressed in all	1	2
+NME1	Expressed in all	137	930
+SCAMP2	Expressed in all	0	0
+SCAMP3	Expressed in all	0	0
+SCAMP1	Expressed in all	0	0
+LRSAM1	Expressed in all	3	8
+RPS16	Expressed in all	4	20
+FAM193A	Expressed in all	1	2
+SCOC	Expressed in all	7	12
+RPS6	Expressed in all	13	108
+RPS5	Expressed in all	55	162
+PPIP5K2	Expressed in all	1	1
+L3MBTL2	Expressed in all	0	0
+PCMT1	Expressed in all	40	273
+SLAIN2	Expressed in all	0	0
+VDAC2	Expressed in all	0	0
+FAM175B	Expressed in all	7	18
+ATG9A	Expressed in all	0	0
+ATG9B	Tissue enhanced	0	0
+ZFC3H1	Expressed in all	1	3
+YEATS4	Expressed in all	0	0
+STAG2	Expressed in all	2	4
+DSTN	Expressed in all	42	265
+C14orf166	Expressed in all	21	71
+KRT6A	Tissue enriched	19	81
+AP1G1	Expressed in all	2	4
+RPS19	Expressed in all	7	97
+NDUFAF2	Expressed in all	0	0
+EHD4	Expressed in all	4	10
+EHD3	Tissue enhanced	0	0
+EHD2	Tissue enhanced	0	0
+EHD1	Expressed in all	6	17
+GMFB	Expressed in all	4	20
+RPS18	Expressed in all	0	0
+GON4L	Expressed in all	0	0
+ABL1	Expressed in all	1	1
+ABL2	Expressed in all	2	3
+TMED4	Expressed in all	0	0
+HNRNPR	Expressed in all	17	63
+HNRNPU	Expressed in all	108	1859
+TMED9	Expressed in all	0	0
+HNRNPK	Expressed in all	129	1058
+FASN	Expressed in all	154	4283
+HNRNPM	Expressed in all	0	0
+SPTAN1	Expressed in all	18	263
+HNRNPC	Expressed in all	6	31
+SNX9	Expressed in all	0	0
+HNRNPF	Expressed in all	43	107
+SBNO1	Expressed in all	2	2
+EEF1B2	Expressed in all	88	442
+SUDS3	Expressed in all	0	0
+GLUD1	Expressed in all	0	0
+HSP90AA1	Expressed in all	128	2739
+TADA3	Expressed in all	0	0
+NDUFS8	Expressed in all	0	0
+CD55	Expressed in all	0	0
+CD59	Expressed in all	0	0
+HAX1	Expressed in all	0	0
+SLC25A3	Expressed in all	0	0
+C8orf76	Expressed in all	1	4
+RAB35	Expressed in all	1	3
+RAB31	Expressed in all	0	0
+NEDD4L	Expressed in all	9	16
+DOK1	Expressed in all	1	1
+PLS1	Tissue enhanced	10	37
+YPEL5	Expressed in all	1	4
+CLASP2	Expressed in all	0	0
+CLASP1	Expressed in all	0	0
+PDIA6	Expressed in all	36	314
+NLRX1	Expressed in all	1	1
+PDIA4	Expressed in all	9	257
+PDIA3	Expressed in all	18	405
+PDPK1	Expressed in all	0	0
+ARMC6	Expressed in all	5	50
+ARMC7	Expressed in all	0	0
+ARMC1	Expressed in all	1	2
+UCK2	Expressed in all	24	61
+AARS	Expressed in all	84	1871
+TTC21B	Expressed in all	0	0
+ACTL6A	Expressed in all	13	57
+EIF5	Expressed in all	14	161
+RANGRF	Expressed in all	4	9
+HSPA2	Tissue enhanced	226	2056
+KHSRP	Expressed in all	36	820
+HSPA6	Tissue enhanced	59	152
+HSPA4	Expressed in all	88	1921
+HRSP12	Group enriched	11	31
+HSPA9	Expressed in all	55	228
+HSPA8	Expressed in all	247	5754
+KIAA0907	Expressed in all	15	77
+HKDC1	Tissue enhanced	0	0
+STK25	Expressed in all	0	0
+SLC25A6	Expressed in all	0	0
+PRKAG1	Expressed in all	0	0
+CRBN	Expressed in all	2	6
+GC	Group enriched	3	9
+PTRH1	Expressed in all	1	1
+SLC25A4	Group enriched	0	0
+NUP54	Expressed in all	1	2
+TSTA3	Expressed in all	12	160
+P4HA1	Expressed in all	0	0
+CTBP1	Expressed in all	26	167
+CTBP2	Expressed in all	22	205
+RAD54L2	Expressed in all	0	0
+TSG101	Expressed in all	0	0
+HACL1	Expressed in all	0	0
+GTF3C3	Expressed in all	1	3
+GTF3C2	Expressed in all	0	0
+GTF3C1	Expressed in all	3	8
+GTF3C6	Expressed in all	0	0
+GTF3C5	Expressed in all	0	0
+GTF3C4	Expressed in all	6	42
+CD99L2	Expressed in all	0	0
+XPO1	Expressed in all	20	79
+XPO5	Expressed in all	18	72
+XPO4	Expressed in all	1	3
+XPO7	Expressed in all	35	205
+XPO6	Expressed in all	0	0
+TTK	Tissue enhanced	0	0
+MYPN	Group enriched	0	0
+GAR1	Expressed in all	2	3
+XPOT	Expressed in all	25	742
+ZFYVE19	Expressed in all	13	39
+EPS15L1	Expressed in all	1	10
+GART	Expressed in all	156	1659
+HPDL	Tissue enhanced	5	33
+GARS	Expressed in all	170	2700
+ATAD5	Tissue enhanced	0	0
+ATAD1	Expressed in all	0	0
+IBTK	Expressed in all	3	6
+TOP1	Expressed in all	0	0
+TCIRG1	Expressed in all	1	1
+GIT1	Expressed in all	0	0
+GIT2	Expressed in all	0	0
+FOXC2	Tissue enhanced	0	0
+ZFYVE16	Expressed in all	1	2
+MIOS	Expressed in all	1	2
+MRPL54	Expressed in all	0	0
+NUSAP1	Expressed in all	4	20
+VARS	Expressed in all	63	295
+TUBB2A	Tissue enriched	112	419
+VPS29	Expressed in all	9	72
+PRIM1	Expressed in all	12	25
+TUBB2B	Tissue enriched	4	4
+TTC27	Expressed in all	4	21
+ENOPH1	Expressed in all	10	126
+NFRKB	Expressed in all	0	0
+SRPK2	Expressed in all	0	0
+RNASEH2C	Expressed in all	8	40
+ADARB1	Expressed in all	0	0
+HAT1	Expressed in all	45	223
+CXXC1	Expressed in all	0	0
+CARKD	Expressed in all	7	19
+TUBB	Expressed in all	49	150
+EEA1	Expressed in all	12	220
+SMARCE1	Expressed in all	1	6
+HOMER1	Tissue enhanced	0	0
+FIP1L1	Expressed in all	0	0
+HOMER3	Expressed in all	0	0
+NOLC1	Expressed in all	7	25
+FXN	Expressed in all	0	0
+RPL29	Expressed in all	7	21
+PIK3CB	Expressed in all	0	0
+NAP1L1	Expressed in all	52	301
+CHID1	Expressed in all	0	0
+EWSR1	Expressed in all	1	3
+RPN1	Expressed in all	0	0
+QTRTD1	Expressed in all	9	75
+HDAC2	Expressed in all	11	18
+ARL2BP	Expressed in all	2	4
+ASB6	Expressed in all	3	6
+ASB7	Expressed in all	0	0
+ASB9	Tissue enhanced	6	31
+HDAC8	Expressed in all	4	7
+DPY30	Expressed in all	21	53
+CHM	Expressed in all	2	7
+RRS1	Expressed in all	0	0
+RINT1	Expressed in all	2	3
+TBL2	Tissue enriched	0	0
+TBL3	Expressed in all	0	0
+SH3BGRL	Expressed in all	8	90
+DBI	Expressed in all	41	234
+PGAM5	Expressed in all	0	0
+UQCRFS1	Expressed in all	0	0
+TAF5L	Expressed in all	0	0
+DBT	Expressed in all	0	0
+TMEM43	Expressed in all	0	0
+PGAM1	Expressed in all	47	803
+SERINC1	Expressed in all	0	0
+AKR1C4	Tissue enriched	1	3
+MED1	Expressed in all	0	0
+MED6	Expressed in all	0	0
+MED7	Expressed in all	0	0
+MED4	Expressed in all	0	0
+MED8	Expressed in all	0	0
+MNX1	Tissue enhanced	1	2
+SCAP	Expressed in all	0	0
+ZDHHC18	Expressed in all	0	0
+ZNF606	Expressed in all	0	0
+MLH1	Expressed in all	0	0
+POP7	Expressed in all	1	2
+CCDC90B	Expressed in all	0	0
+GCA	Expressed in all	0	0
+POP5	Expressed in all	0	0
+GPR116	Tissue enhanced	1	4
+IDH3A	Expressed in all	2	4
+STK32C	Expressed in all	5	15
+AZGP1	Tissue enhanced	1	1
+PPP5C	Expressed in all	12	94
+MBIP	Expressed in all	0	0
+MDN1	Expressed in all	0	0
+AMPD2	Expressed in all	10	31
+KIAA1143	Expressed in all	3	27
+PRPF40B	Expressed in all	0	0
+PRPF40A	Expressed in all	7	13
+RPS6KB2	Expressed in all	0	0
+LSM14A	Expressed in all	3	9
+SEPHS2	Expressed in all	1	1
+SEPHS1	Expressed in all	8	19
+C12orf10	Expressed in all	35	235
+RPS4X	Expressed in all	13	170
+ATXN2L	Expressed in all	2	2
+DLST	Expressed in all	0	0
+YOD1	Expressed in all	4	58
+ISY1	Expressed in all	1	1
+XAB2	Expressed in all	0	0
+TMC8	Tissue enhanced	0	0
+PRDX6	Expressed in all	144	3038
+PRDX5	Expressed in all	79	966
+IL1F10	Group enriched	1	2
+PRDX3	Expressed in all	0	0
+PRDX2	Expressed in all	154	1363
+PRDX1	Expressed in all	139	2007
+AP3S1	Expressed in all	0	0
+OTUB1	Expressed in all	69	372
+NPTN	Expressed in all	0	0
+SAP130	Expressed in all	1	1
+SNAPIN	Expressed in all	2	3
+VASP	Expressed in all	3	16
+PAPOLG	Expressed in all	0	0
+PAPOLA	Expressed in all	4	11
+LYPLAL1	Expressed in all	4	6
+KATNB1	Expressed in all	0	0
+TRIM56	Expressed in all	0	0
+DCAF8	Expressed in all	1	2
+LAMP2	Expressed in all	0	0
+ZFR	Expressed in all	1	4
+POLR3F	Expressed in all	3	5
+POLR3D	Expressed in all	0	0
+POLR3B	Expressed in all	0	0
+POLR3C	Expressed in all	7	30
+POLR3A	Expressed in all	1	2
+TXNDC5	Expressed in all	11	126
+POLR3H	Expressed in all	0	0
+JOSD2	Expressed in all	0	0
+DNMT1	Expressed in all	7	104
+ASRGL1	Tissue enhanced	2	6
+WDR61	Expressed in all	17	93
+WDR64	Tissue enriched	0	0
+HMGCL	Expressed in all	0	0
+SLC25A1	Expressed in all	0	0
+PRMT1	Expressed in all	98	429
+RPIA	Expressed in all	6	17
+KIF5A	Tissue enriched	11	29
+KIF5B	Expressed in all	36	186
+KIF5C	Tissue enhanced	2	4
+CCDC51	Expressed in all	0	0
+FOXJ3	Expressed in all	1	4
+CMIP	Expressed in all	0	0
+ACADM	Expressed in all	4	14
+IARS2	Expressed in all	6	30
+USP47	Expressed in all	20	57
+CANX	Expressed in all	0	0
+SMEK1	Expressed in all	13	60
+KCNK15	Tissue enhanced	1	2
+UMPS	Expressed in all	27	235
+SMAP1	Expressed in all	10	24
+CDK11B	Expressed in all	1	2
+FAM203B	Expressed in all	4	11
+NCAPD2	Expressed in all	5	21
+SCRN3	Expressed in all	0	0
+SCRN2	Expressed in all	13	38
+PPP1R11	Expressed in all	7	18
+ATOX1	Expressed in all	20	93
+ACAD9	Expressed in all	0	0
+USP8	Expressed in all	8	32
+RPS7	Expressed in all	31	220
+VDAC1	Expressed in all	0	0
+NSFL1C	Expressed in all	33	338
+RPS9	Expressed in all	11	127
+RPS8	Expressed in all	17	76
+DHX57	Expressed in all	0	0
+ARPP19	Expressed in all	5	22
+VPRBP	Expressed in all	1	2
+SLC6A15	Tissue enhanced	0	0
+GALT	Expressed in all	6	22
+HMGCS1	Expressed in all	10	63
+SORD	Group enriched	26	384
+GALE	Expressed in all	25	250
+GALM	Expressed in all	17	143
+NUP50	Expressed in all	7	29
+RPSA	Expressed in all	29	256
+CSNK2B	Expressed in all	4	15
+ALDH1A1	Expressed in all	0	0
+ALDH1A2	Tissue enhanced	0	0
+TMEM33	Expressed in all	0	0
+PCYOX1	Expressed in all	0	0
+RPL24	Expressed in all	0	0
+RPL27	Expressed in all	2	13
+RPL26	Expressed in all	1	4
+RPL21	Expressed in all	2	2
+RPL23	Expressed in all	17	40
+RPL22	Expressed in all	11	54
+ATG3	Expressed in all	22	82
+ATG7	Expressed in all	22	72
+EYA4	Tissue enhanced	0	0
+MRPS5	Expressed in all	0	0
+EYA3	Expressed in all	1	2
+SMARCB1	Expressed in all	0	0
+USE1	Expressed in all	0	0
+PIEZO1	Expressed in all	1	1
+MRPS2	Expressed in all	0	0
+KRTAP13-2	Group enriched	0	0
+HPD	Group enriched	0	0
+TPPP	Tissue enriched	0	0
+PLIN3	Expressed in all	70	864
+KDM4B	Expressed in all	2	2
+RBPJ	Expressed in all	0	0
+KDM4A	Expressed in all	0	0
+MED13	Expressed in all	0	0
+MED14	Expressed in all	0	0
+MED15	Expressed in all	1	2
+MED16	Expressed in all	0	0
+WDR55	Expressed in all	0	0
+RBP1	Tissue enhanced	0	0
+KRAS	Expressed in all	1	2
+ACYP1	Expressed in all	1	7
+EEF1G	Expressed in all	105	818
+ARPC1A	Expressed in all	7	31
+CHTF8	Expressed in all	0	0
+TTC9	Tissue enhanced	0	0
+ARPC1B	Expressed in all	4	15
+EEF1D	Expressed in all	37	171
+RPL9	Expressed in all	9	163
+RPL7	Expressed in all	9	75
+RPL5	Expressed in all	45	119
+FEN1	Expressed in all	32	288
+ACSL4	Expressed in all	8	41
+ADAM9	Expressed in all	0	0
+LUC7L	Expressed in all	0	0
+GPRC5A	Tissue enhanced	0	0
+CRIP2	Expressed in all	10	30
+RNF20	Expressed in all	4	28
+ERMAP	Expressed in all	0	0
+FLYWCH2	Expressed in all	23	114
+TPP2	Expressed in all	39	287
+INTS8	Expressed in all	0	0
+RCN2	Expressed in all	3	12
+RCN1	Expressed in all	29	230
+ACO1	Expressed in all	24	255
+RHOB	Expressed in all	4	7
+ACO2	Expressed in all	1	40
+ANKRD28	Expressed in all	0	0
+TMEM65	Expressed in all	0	0
+SMC5	Expressed in all	1	1
+PYROXD1	Expressed in all	6	31
+SMC6	Expressed in all	0	0
+OGFOD1	Expressed in all	18	164
+RPL8	Expressed in all	14	22
+OGFOD2	Expressed in all	5	19
+ZNF622	Expressed in all	5	21
+RPL4	Expressed in all	0	0
+APAF1	Expressed in all	2	8
+RPL3	Expressed in all	8	24
+ADA	Tissue enriched	12	71
+ADO	Expressed in all	5	11
+ADK	Expressed in all	25	325
+S100A6	Expressed in all	59	205
+BRE	Expressed in all	30	54
+AKR1C3	Expressed in all	48	279
+JUNB	Expressed in all	0	0
+JUND	Expressed in all	0	0
+HIST1H2AD	Tissue enhanced	0	0
+HIST1H2AA	Tissue enriched	1	13
+HIST1H2AB	Tissue enhanced	9	34
+PRPF19	Expressed in all	14	48
+WBSCR16	Expressed in all	0	0
+HIGD1A	Expressed in all	0	0
+PTPN1	Expressed in all	0	0
+HOOK3	Expressed in all	2	4
+HOOK1	Tissue enhanced	1	3
+ESD	Expressed in all	32	424
+TSC2	Expressed in all	0	0
+RSU1	Expressed in all	22	58
+EMG1	Expressed in all	3	8
+DKC1	Expressed in all	3	16
+SLC4A1AP	Expressed in all	11	29
+TBC1D10A	Expressed in all	0	0
+MOV10	Expressed in all	0	0
+MOCS3	Expressed in all	7	18
+TOMM40	Expressed in all	0	0
+CCDC87	Tissue enriched	0	0
+COMMD8	Expressed in all	0	0
+COMMD9	Expressed in all	7	13
+COMMD2	Expressed in all	0	0
+COMMD3	Expressed in all	1	1
+COMMD6	Expressed in all	1	3
+COMMD7	Expressed in all	1	1
+COMMD4	Expressed in all	15	25
+METTL13	Expressed in all	3	12
+METTL10	Expressed in all	1	2
+METTL16	Expressed in all	4	10
+METTL14	Expressed in all	1	2
+ZMYM2	Expressed in all	0	0
+NPR1	Tissue enhanced	0	0
+ZMYM4	Expressed in all	0	0
+CAMK2D	Expressed in all	0	0
+CAMK2G	Expressed in all	0	0
+CAMK2A	Group enriched	0	0
+CAMK2B	Group enriched	1	1
+UCKL1	Expressed in all	2	3
+ZSCAN18	Expressed in all	4	8
+RPL19	Expressed in all	4	8
+SLC30A9	Expressed in all	0	0
+PABPN1	Expressed in all	6	13
+CD1A	Tissue enhanced	2	2
+ANO6	Expressed in all	2	6
+POLR1A	Expressed in all	0	0
+POLR1B	Expressed in all	0	0
+POLR1C	Expressed in all	18	50
+POLR1D	Expressed in all	2	7
+POLR1E	Expressed in all	0	0
+HIP1R	Expressed in all	0	0
+DUS1L	Expressed in all	5	13
+ATP2C1	Expressed in all	0	0
+WDR44	Expressed in all	18	80
+WDR48	Expressed in all	3	7
+GTF2B	Expressed in all	7	21
+JAK3	Tissue enhanced	1	2
+NMRAL1	Expressed in all	4	9
+CHUK	Expressed in all	2	3
+PPARD	Expressed in all	0	0
+CSGALNACT1	Expressed in all	0	0
+POLR2E	Expressed in all	3	5
+MAGOHB	Expressed in all	13	143
+EML3	Expressed in all	3	4
+TFB2M	Expressed in all	0	0
+MORC2	Expressed in all	0	0
+PLXND1	Expressed in all	2	3
+ASH2L	Expressed in all	0	0
+PRKDC	Expressed in all	9	89
+RHOC	Expressed in all	18	42
+RECQL5	Expressed in all	0	0
+NR2F2	Tissue enhanced	0	0
+PBK	Tissue enhanced	29	112
+DDB2	Expressed in all	0	0
+DDB1	Expressed in all	94	666
+RIMS1	Tissue enhanced	0	0
+MCAM	Expressed in all	1	1
+MCAT	Expressed in all	0	0
+APOBEC3C	Expressed in all	0	0
+HSPE1	Expressed in all	14	85
+CTTN	Expressed in all	17	77
+NARG2	Expressed in all	0	0
+PLCG1	Expressed in all	10	44
+ZMYND8	Expressed in all	0	0
+EIF2S1	Expressed in all	21	233
+EIF2S3	Expressed in all	19	64
+EIF2S2	Expressed in all	7	25
+KLF5	Expressed in all	1	1
+HEATR6	Expressed in all	2	2
+HEATR2	Expressed in all	8	53
+HEATR3	Expressed in all	11	25
+HEATR1	Expressed in all	0	0
+ASCC2	Expressed in all	0	0
+PHF21A	Expressed in all	1	5
+MUSTN1	Tissue enriched	2	3
+VPS25	Expressed in all	4	12
+NUP35	Expressed in all	0	0
+NUP37	Expressed in all	6	27
+DDA1	Expressed in all	2	4
+SLC1A4	Expressed in all	0	0
+OSBPL1A	Expressed in all	0	0
+DCTPP1	Expressed in all	38	129
+GNL3	Expressed in all	0	0
+GNL1	Expressed in all	15	41
+RARS	Expressed in all	110	758
+CCNL1	Tissue enriched	0	0
+CCNL2	Expressed in all	0	0
+TPO	Tissue enriched	1	3
+PCYT2	Expressed in all	4	12
+NOMO1	Expressed in all	0	0
+BAZ1A	Expressed in all	2	14
+IMPA1	Expressed in all	10	74
+IMPA2	Expressed in all	28	108
+BAZ1B	Expressed in all	0	0
+OSBPL11	Expressed in all	0	0
+PTGES3	Expressed in all	96	942
+PTGES2	Expressed in all	0	0
+SLC2A1	Tissue enhanced	0	0
+ECHS1	Expressed in all	18	139
+SLC25A5	Expressed in all	0	0
+SLC1A5	Expressed in all	2	4
+CCAR1	Expressed in all	3	15
+MTDH	Expressed in all	0	0
+ATRIP	Expressed in all	1	3
+ENG	Expressed in all	0	0
+ZNF274	Expressed in all	0	0
+GTF2IRD2	Expressed in all	6	10
+AGMAT	Tissue enhanced	0	0
+HUS1	Expressed in all	13	23
+SNCA	Tissue enhanced	0	0
+TRNAU1AP	Expressed in all	0	0
+TMEM126A	Expressed in all	0	0
+TMEM126B	Expressed in all	0	0
+MOCOS	Tissue enhanced	15	114
+FAM81A	Tissue enhanced	3	9
+RCOR1	Expressed in all	0	0
+SLC24A5	Group enriched	0	0
+H1FX	Tissue enriched	0	0
+SUGP1	Expressed in all	0	0
+MRPS18B	Expressed in all	0	0
+CLU	Expressed in all	0	0
+SKIV2L2	Expressed in all	10	32
+TAF9B	Expressed in all	0	0
+SF3B4	Expressed in all	14	52
+PNPT1	Expressed in all	0	0
+VPS52	Expressed in all	0	0
+SF3B1	Expressed in all	8	40
+SF3B2	Expressed in all	6	37
+NSMCE4A	Expressed in all	0	0
+ELAC2	Expressed in all	16	182
+ADCK4	Expressed in all	0	0
+DNAJC17	Expressed in all	5	18
+DNAJC12	Tissue enhanced	6	10
+DNAJC13	Expressed in all	1	2
+DNAJC10	Expressed in all	0	0
+DNAJC11	Expressed in all	0	0
+EPRS	Expressed in all	178	2315
+DNAJC19	Expressed in all	0	0
+EDF1	Expressed in all	4	22
+SUPT16H	Expressed in all	4	17
+LMAN1	Expressed in all	0	0
+LMAN2	Expressed in all	0	0
+SCML2	Tissue enhanced	0	0
+FAM195A	Expressed in all	2	4
+ITPA	Expressed in all	29	141
+YWHAQ	Expressed in all	133	1386
+ADD3	Expressed in all	0	0
+ACTG2	Tissue enhanced	1	2
+PPP4R1	Expressed in all	7	17
+PPP4R2	Expressed in all	19	67
+ZNF518B	Expressed in all	1	2
+CWC27	Expressed in all	5	20
+CWC22	Expressed in all	0	0
+TMED10	Expressed in all	0	0
+MAP3K2	Expressed in all	1	2
+MAP3K3	Expressed in all	1	2
+PRPF31	Expressed in all	2	2
+MAP3K7	Expressed in all	0	0
+IER3IP1	Expressed in all	0	0
+NUP214	Expressed in all	3	13
+NUP210	Expressed in all	1	1
+IDH2	Expressed in all	1	9
+IDH1	Expressed in all	24	454
+SETD3	Expressed in all	6	18
+SETD7	Expressed in all	7	63
+PSRC1	Tissue enhanced	1	2
+THADA	Expressed in all	1	3
+PRSS21	Tissue enriched	0	0
+LXN	Expressed in all	4	10
+PYCR2	Expressed in all	0	0
+GLYR1	Expressed in all	0	0
+ECH1	Expressed in all	11	26
+RRM2B	Expressed in all	2	2
+GBP1	Expressed in all	12	49
+MAN2A1	Expressed in all	0	0
+NDUFB10	Expressed in all	0	0
+HERC1	Expressed in all	1	3
+TMEM236	Group enriched	0	0
+TOLLIP	Expressed in all	0	0
+RPS15A	Expressed in all	16	120
+TSKS	Tissue enriched	2	3
+SRPRB	Expressed in all	0	0
+KRT81	Tissue enhanced	5	94
+KRT83	Tissue enriched	1	3
+KRT86	Tissue enhanced	1	4
+DUS3L	Expressed in all	6	37
+WAC	Expressed in all	0	0
+FAIM	Expressed in all	5	13
+RAB9A	Expressed in all	0	0
+FARSB	Expressed in all	18	210
+FARSA	Expressed in all	17	109
+FIS1	Expressed in all	0	0
+STX18	Expressed in all	0	0
+ZMIZ1	Expressed in all	0	0
+URM1	Expressed in all	2	5
+C9orf78	Expressed in all	8	27
+CUTA	Expressed in all	43	113
+BPGM	Expressed in all	1	3
+CUTC	Expressed in all	12	30
+DPP8	Expressed in all	1	2
+DPP9	Expressed in all	5	60
+DPP3	Expressed in all	18	190
+DPP7	Expressed in all	0	0
+STK36	Expressed in all	0	0
+GLTSCR1	Expressed in all	0	0
+GLTSCR2	Expressed in all	0	0
+STK38	Expressed in all	3	5
+IK	Expressed in all	1	2
+PHF5A	Expressed in all	1	1
+MRPS16	Expressed in all	0	0
+HS1BP3	Expressed in all	8	40
+PRPF18	Expressed in all	1	1
+TRMT61A	Expressed in all	12	42
+WRAP53	Expressed in all	26	65
+DHX16	Expressed in all	1	14
+DHX15	Expressed in all	30	274
+ZFAND6	Expressed in all	10	38
+PITRM1	Expressed in all	0	0
+GOT2	Expressed in all	9	112
+GOT1	Expressed in all	28	348
+UBE2O	Expressed in all	28	122
+ZFAND5	Expressed in all	7	23
+QTRT1	Expressed in all	11	39
+BRAT1	Expressed in all	2	2
+CCDC86	Expressed in all	1	2
+CTR9	Expressed in all	1	3
+NECAP2	Expressed in all	13	36
+STMN2	Group enriched	3	11
+MRPL43	Expressed in all	0	0
+KAL1	Tissue enhanced	1	4
+UBE3B	Expressed in all	0	0
+UBE3A	Expressed in all	5	28
+MRPL40	Expressed in all	0	0
+MRPL47	Expressed in all	0	0
+TOP2B	Expressed in all	1	2
+TOP2A	Tissue enhanced	7	32
+SDAD1	Expressed in all	0	0
+MRPL44	Expressed in all	0	0
+SLC26A2	Group enriched	0	0
+GET4	Expressed in all	0	0
+TRIP4	Expressed in all	0	0
+GLOD4	Expressed in all	22	200
+SDC4	Expressed in all	2	10
+MAP2K2	Expressed in all	16	61
+SNF8	Expressed in all	1	2
+AMY1A	Group enriched	0	0
+TM9SF4	Expressed in all	0	0
+DIABLO	Expressed in all	4	15
+ZNF593	Expressed in all	1	2
+CWF19L1	Expressed in all	5	46
+NAA20	Expressed in all	0	0
+NAA25	Expressed in all	2	6
+RILP	Expressed in all	0	0
+DUSP3	Expressed in all	11	57
+LRRC8A	Expressed in all	0	0
+QDPR	Expressed in all	12	49
+RRAS	Expressed in all	5	8
+STX4	Expressed in all	1	1
+WDR54	Tissue enhanced	2	11
+TM9SF2	Expressed in all	0	0
+STX6	Expressed in all	0	0
+TBC1D13	Expressed in all	9	49
+XYLB	Tissue enhanced	4	31
+FBL	Expressed in all	0	0
+RPL35	Expressed in all	1	10
+NUMA1	Expressed in all	5	66
+HSPA1A	Expressed in all	238	4259
+IKBKAP	Expressed in all	55	214
+DGKQ	Expressed in all	0	0
+DGKI	Tissue enhanced	1	1
+DGKA	Expressed in all	0	0
+TMEM106B	Expressed in all	1	2
+CNP	Tissue enriched	1	1
+NEK7	Expressed in all	4	7
+NPM1	Expressed in all	66	360
+HSPA13	Expressed in all	2	3
+HSPA14	Expressed in all	1	4
+AKR1D1	Tissue enriched	1	2
+AHNAK2	Tissue enriched	0	0
+SCFD1	Expressed in all	0	0
+RALB	Expressed in all	0	0
+PPP3R1	Expressed in all	0	0
+MEN1	Expressed in all	0	0
+BYSL	Expressed in all	2	24
+RHBDD2	Expressed in all	0	0
+CDC42BPB	Expressed in all	1	1
+RPP38	Expressed in all	0	0
+CNDP2	Expressed in all	20	127
+STRBP	Expressed in all	0	0
+TTI1	Expressed in all	6	10
+MOCS2	Expressed in all	7	13
+GADD45GIP1	Expressed in all	0	0
+TXNRD1	Expressed in all	134	1335
+ACTA2	Expressed in all	186	2289
+QSOX2	Expressed in all	0	0
+PDS5A	Expressed in all	3	41
+PDS5B	Expressed in all	1	1
+TSTD1	Expressed in all	0	0
+TADA2B	Expressed in all	0	0
+PSMB4	Expressed in all	30	369
+NR2C2AP	Expressed in all	12	65
+RSBN1L	Expressed in all	1	2
+KCNQ5	Tissue enhanced	2	3
+HOXC10	Tissue enhanced	0	0
+BNIP1	Expressed in all	0	0
+RHEB	Expressed in all	6	15
+FLOT1	Expressed in all	0	0
+FLOT2	Expressed in all	0	0
+UAP1	Expressed in all	25	214
+OTUD5	Expressed in all	2	9
+OTUD3	Expressed in all	0	0
+AP3M1	Expressed in all	0	0
+AKAP12	Expressed in all	15	40
+AKAP11	Expressed in all	0	0
+COL2A1	Tissue enhanced	0	0
+CCDC8	Tissue enhanced	4	5
+HTRA2	Expressed in all	7	14
+SNX12	Expressed in all	16	102
+NASP	Expressed in all	104	1870
+C17orf85	Expressed in all	0	0
+TNKS1BP1	Expressed in all	0	0
+PCLO	Tissue enhanced	0	0
+MAP2K1	Expressed in all	30	272
+MAP2K6	Expressed in all	10	47
+LAPTM4A	Expressed in all	0	0
+MAP2K5	Expressed in all	0	0
+SPCS2	Expressed in all	0	0
+MAP2K4	Expressed in all	3	9
+EGFR	Tissue enhanced	0	0
+WDR82	Expressed in all	6	10
+UBAC1	Expressed in all	5	9
+AARSD1	Expressed in all	16	91
+ESYT1	Expressed in all	0	0
+ESYT2	Expressed in all	0	0
+PIP4K2A	Expressed in all	1	1
+QRICH1	Expressed in all	0	0
+EXOC2	Expressed in all	0	0
+EXOC3	Expressed in all	0	0
+EXOC1	Expressed in all	0	0
+EXOC7	Expressed in all	0	0
+EXOC4	Expressed in all	0	0
+EXOC5	Expressed in all	0	0
+EXOC8	Expressed in all	0	0
+BZW1	Expressed in all	39	159
+BZW2	Expressed in all	9	68
+CRAMP1L	Expressed in all	1	2
+USP25	Expressed in all	1	2
+SNAP91	Group enriched	0	0
+ARHGEF7	Expressed in all	3	3
+ARHGEF2	Expressed in all	3	8
+COTL1	Expressed in all	28	286
+ARHGEF1	Expressed in all	2	3
+CDH2	Tissue enhanced	0	0
+CDH4	Tissue enhanced	13	26
+UBE4B	Expressed in all	16	83
+CENPF	Tissue enhanced	1	1
+PDXDC1	Expressed in all	2	8
+MIF4GD	Expressed in all	0	0
+PLEKHA2	Expressed in all	5	16
+SEC63	Expressed in all	0	0
+DHX38	Expressed in all	7	45
+DHX30	Expressed in all	0	0
+DHX34	Expressed in all	0	0
+DHX36	Expressed in all	3	13
+DHX37	Expressed in all	0	0
+MTR	Expressed in all	5	57
+ECSIT	Expressed in all	0	0
+SUPT6H	Expressed in all	5	57
+RACGAP1	Expressed in all	1	2
+MYH9	Expressed in all	120	2720
+CADM4	Tissue enhanced	0	0
+CEP250	Expressed in all	4	7
+CELF2	Expressed in all	0	0
+CELF1	Expressed in all	5	12
+VCPIP1	Expressed in all	0	0
+UHRF2	Expressed in all	0	0
+CNNM3	Expressed in all	0	0
+PIP5K1A	Expressed in all	0	0
+MYO9B	Expressed in all	37	123
+ZBTB8OS	Expressed in all	4	23
+PHF14	Expressed in all	0	0
+POLA2	Expressed in all	7	40
+POLA1	Expressed in all	9	40
+SMN1	Expressed in all	0	0
+PHF10	Expressed in all	0	0
+TIA1	Expressed in all	15	47
+UBN1	Expressed in all	0	0
+RAVER1	Expressed in all	1	4
+PITHD1	Expressed in all	35	94
+NAA40	Expressed in all	0	0
+RB1	Expressed in all	0	0
+ZBTB2	Expressed in all	0	0
+MAT2A	Expressed in all	114	733
+ATAD3B	Expressed in all	0	0
+ATAD3A	Expressed in all	0	0
+MAT2B	Expressed in all	40	231
+CYP21A2	Tissue enriched	1	2
+WDR43	Expressed in all	0	0
+GNB2	Expressed in all	2	5
+ABCC1	Expressed in all	0	0
+CUL4A	Expressed in all	20	85
+CUL4B	Expressed in all	11	29
+BOLA1	Expressed in all	3	7
+NUDT16	Expressed in all	6	11
+BOLA2	Expressed in all	57	254
+IMMT	Expressed in all	0	0
+NDUFB9	Expressed in all	0	0
+NDUFB8	Expressed in all	0	0
+NDUFB7	Expressed in all	0	0
+NDUFB6	Expressed in all	0	0
+NDUFB5	Expressed in all	0	0
+WDR13	Expressed in all	0	0
+C12orf57	Expressed in all	5	23
+FAM50B	Expressed in all	0	0
+FAM50A	Expressed in all	4	16
+RBMS2	Expressed in all	0	0
+MAPRE1	Expressed in all	30	277
+MAPRE3	Expressed in all	0	0
+MAPRE2	Expressed in all	7	25
+AQP6	Tissue enriched	0	0
+TBC1D24	Expressed in all	1	1
+ANKRD49	Expressed in all	1	3
+NR1H4	Tissue enhanced	0	0
+GTF2I	Expressed in all	6	51
+MRRF	Expressed in all	1	2
+PHB	Expressed in all	0	0
+NR1H2	Expressed in all	0	0
+RNF214	Expressed in all	1	4
+MED29	Expressed in all	1	1
+MED28	Expressed in all	0	0
+MED22	Expressed in all	0	0
+MED25	Expressed in all	6	10
+MED27	Expressed in all	0	0
+CC2D1A	Expressed in all	4	9
+SEPT8	Expressed in all	0	0
+CC2D1B	Expressed in all	1	6
+SEPT5	Expressed in all	0	0
+SEPT7	Expressed in all	1	7
+SEPT6	Expressed in all	3	4
+FNBP1L	Expressed in all	0	0
+GK2	Tissue enriched	3	7
+TRIAP1	Expressed in all	0	0
+YARS	Expressed in all	24	451
+TROVE2	Expressed in all	14	59
+RBM33	Expressed in all	1	7
+MSR1	Tissue enhanced	1	2
+RBM39	Expressed in all	2	21
+PARP9	Expressed in all	0	0
+TOM1L1	Expressed in all	0	0
+EPN1	Expressed in all	1	1
+BCCIP	Expressed in all	53	437
+TSN	Expressed in all	42	226
+LAGE3	Expressed in all	14	46
+ACTC1	Tissue enriched	11	33
+DSN1	Expressed in all	0	0
+SH3GL1	Expressed in all	7	37
+SH3GL2	Tissue enriched	0	0
+SLC10A5	Tissue enhanced	0	0
+STAB2	Group enriched	1	2
+MPST	Expressed in all	19	125
+FHL3	Tissue enriched	3	4
+FHL1	Expressed in all	2	4
+TYRO3	Tissue enhanced	0	0
+FTH1	Expressed in all	44	115
+TSGA10	Tissue enhanced	0	0
+UGGT1	Expressed in all	2	3
+ALDH7A1	Expressed in all	37	434
+PAWR	Expressed in all	7	36
+RAD51D	Expressed in all	0	0
+TRMT2A	Expressed in all	1	3
+GATAD2A	Expressed in all	0	0
+HMGXB4	Expressed in all	0	0
+DIP2B	Expressed in all	2	9
+NIT2	Expressed in all	76	1109
+DCLRE1C	Expressed in all	1	3
+YES1	Expressed in all	0	0
+STAM2	Expressed in all	0	0
+ZCCHC8	Expressed in all	3	11
+ZCCHC6	Expressed in all	0	0
+MRPS36	Expressed in all	0	0
+ZNF131	Expressed in all	0	0
+TP53BP1	Expressed in all	6	75
+TP53BP2	Expressed in all	0	0
+IPPK	Expressed in all	0	0
+INA	Group enriched	0	0
+TRIP13	Tissue enhanced	14	116
+ADPRHL2	Expressed in all	5	62
+DARS	Expressed in all	47	281
+GLRX5	Expressed in all	2	6
+LYPLA2	Expressed in all	8	20
+GLRX2	Expressed in all	1	1
+GLRX3	Expressed in all	30	507
+ATP2B1	Expressed in all	0	0
+PIH1D1	Expressed in all	2	3
+SPG7	Expressed in all	1	1
+S100A11	Expressed in all	87	925
+S100A10	Expressed in all	16	130
+S100A13	Expressed in all	12	54
+S100A14	Tissue enhanced	0	0
+S100A16	Tissue enhanced	12	78
+C19orf43	Expressed in all	8	41
+CAPN7	Expressed in all	3	4
+CAPN1	Expressed in all	19	60
+SOD2	Expressed in all	9	92
+SPAG9	Expressed in all	30	133
+PRRC2C	Expressed in all	8	23
+PRRC2B	Expressed in all	1	1
+P4HB	Expressed in all	49	953
+SPAG5	Tissue enhanced	0	0
+RAE1	Expressed in all	8	14
+CAB39L	Expressed in all	0	0
+PTMA	Expressed in all	43	248
+KATNA1	Expressed in all	5	9
+HIRIP3	Expressed in all	0	0
+RP1	Tissue enhanced	1	1
+LRRD1	Tissue enriched	0	0
+ST13	Expressed in all	67	569
+CDV3	Expressed in all	33	204
+GCSH	Expressed in all	11	53
+CMAS	Expressed in all	0	0
+AKT1S1	Expressed in all	3	13
+DCHS2	Tissue enhanced	1	8
+SERPINB10	Tissue enriched	0	0
+SERPINB13	Tissue enriched	1	1
+SERPINB12	Group enriched	1	2
+PLEC	Expressed in all	2	6
+DDX54	Expressed in all	47	187
+FNBP1	Expressed in all	8	10
+APOOL	Expressed in all	0	0
+SYNE1	Expressed in all	2	5
+SYNE2	Expressed in all	0	0
+GOPC	Expressed in all	1	3
+ZCRB1	Expressed in all	0	0
+ZNF527	Expressed in all	1	3
+KIF21B	Tissue enhanced	1	3
+CSTF1	Expressed in all	1	2
+BCL11B	Tissue enhanced	0	0
+VPS11	Expressed in all	0	0
+TST	Expressed in all	1	10
+GCLM	Expressed in all	13	72
+UBQLN2	Expressed in all	16	49
+UBQLN1	Expressed in all	40	99
+GCLC	Expressed in all	22	141
+UBQLN4	Expressed in all	11	31
+OSMR	Expressed in all	0	0
+ULK4	Tissue enhanced	1	2
+TNN	Tissue enhanced	0	0
+TRAP1	Expressed in all	72	169
+PGP	Expressed in all	36	234
+GORAB	Expressed in all	1	2
+UBL5	Expressed in all	13	63
+UBL7	Expressed in all	10	23
+STK19	Expressed in all	0	0
+STK10	Expressed in all	3	6
+FKBP4	Expressed in all	33	615
+FKBP5	Expressed in all	11	194
+FKBP7	Expressed in all	0	0
+FKBP2	Expressed in all	18	56
+FKBP3	Expressed in all	8	67
+FKBP8	Expressed in all	1	1
+FKBP9	Expressed in all	4	10
+PPME1	Expressed in all	20	129
+GABARAP	Expressed in all	6	14
+MANF	Expressed in all	0	0
+SAMD1	Expressed in all	0	0
+SYMPK	Expressed in all	0	0
+SREK1	Expressed in all	1	5
+WIPI2	Expressed in all	0	0
+ERO1L	Tissue enriched	13	42
+ZNF638	Expressed in all	0	0
+TBCK	Expressed in all	0	0
+GRB10	Expressed in all	0	0
+GM2A	Expressed in all	0	0
+PRRC1	Expressed in all	1	2
+CSRP1	Expressed in all	36	515
+SNX30	Expressed in all	0	0
+ZNF281	Expressed in all	0	0
+TBCE	Expressed in all	31	178
+ATP6V1D	Expressed in all	2	10
+ATP6V1F	Expressed in all	4	17
+ATP6V1A	Expressed in all	70	433
+ATP6V1H	Expressed in all	7	14
+ARNTL	Expressed in all	1	2
+PANK3	Expressed in all	0	0
+PANK2	Expressed in all	0	0
+PANK4	Expressed in all	6	24
+KIF2B	Tissue enriched	1	2
+HEATR5A	Expressed in all	0	0
+HEATR5B	Expressed in all	0	0
+RAP1GDS1	Expressed in all	24	151
+MYBBP1A	Expressed in all	0	0
+GPX1	Expressed in all	2	5
+CBS	Tissue enhanced	40	419
+FLNA	Expressed in all	39	1213
+FLNB	Expressed in all	31	635
+LETM1	Expressed in all	0	0
+PRKCSH	Expressed in all	64	380
+STT3B	Expressed in all	0	0
+BRIX1	Expressed in all	0	0
+RBM12	Expressed in all	20	87
+RBBP9	Expressed in all	9	39
+RBM15	Expressed in all	0	0
+RBM14	Expressed in all	1	2
+PARVB	Expressed in all	0	0
+RBM19	Expressed in all	0	0
+RXRA	Expressed in all	0	0
+RXRB	Expressed in all	0	0
+MVD	Expressed in all	11	24
+GRAMD1B	Tissue enhanced	0	0
+MVK	Expressed in all	6	10
+ALB	Tissue enriched	144	765
+TUBGCP2	Expressed in all	0	0
+TUBGCP4	Expressed in all	1	1
+NBEAL2	Expressed in all	2	3
+MT2A	Expressed in all	11	42
+PSMD8	Expressed in all	33	75
+PSMD5	Expressed in all	86	379
+PSMD4	Expressed in all	88	267
+PSMD7	Expressed in all	99	372
+FLAD1	Expressed in all	21	80
+PSMD1	Expressed in all	103	684
+PSMD3	Expressed in all	113	664
+PSMD2	Expressed in all	102	1020
+TACO1	Expressed in all	1	1
+SCN8A	Group enriched	0	0
+KIAA1731	Expressed in all	0	0
+RRN3	Expressed in all	0	0
+MCFD2	Expressed in all	6	12
+COPS7B	Expressed in all	1	1
+COPS7A	Expressed in all	16	35
+NAF1	Expressed in all	0	0
+RABGGTB	Expressed in all	7	34
+KIF13B	Expressed in all	1	1
+RABGGTA	Expressed in all	11	93
+AASDHPPT	Expressed in all	20	53
+CCDC43	Expressed in all	2	5
+TGDS	Expressed in all	1	2
+UPRT	Expressed in all	2	2
+ZNF264	Expressed in all	1	5
+KCNU1	Tissue enriched	1	2
+NCKIPSD	Expressed in all	1	2
+ASNSD1	Expressed in all	1	2
+SCAND3	Tissue enriched	2	4
+CEP350	Expressed in all	0	0
+SARNP	Expressed in all	2	23
+ZC3H11A	Expressed in all	1	5
+IAH1	Expressed in all	4	15
+ARID1B	Expressed in all	0	0
+ARID1A	Expressed in all	0	0
+UBA3	Expressed in all	32	229
+YEATS2	Expressed in all	0	0
+CYB5R3	Expressed in all	0	0
+CYB5R1	Expressed in all	0	0
+RBBP6	Expressed in all	1	4
+RBBP4	Expressed in all	81	527
+BTF3L4	Expressed in all	38	125
+MCTS1	Expressed in all	7	38
+C19orf66	Expressed in all	2	12
+ZNF706	Expressed in all	1	6
+PPP2R4	Expressed in all	18	145
+FTSJ3	Expressed in all	0	0
+FTSJ1	Expressed in all	12	20
+C11orf54	Expressed in all	11	70
+NUCKS1	Expressed in all	71	520
+DAP3	Expressed in all	0	0
+EIF4H	Expressed in all	41	262
+EIF4E	Expressed in all	11	59
+EIF4B	Expressed in all	61	761
+CD97	Expressed in all	0	0
+GUF1	Expressed in all	0	0
+HDAC1	Expressed in all	0	0
+EFNB3	Tissue enhanced	1	2
+HDAC3	Expressed in all	0	0
+HDAC5	Expressed in all	1	2
+CIRBP	Expressed in all	11	44
+OXSR1	Expressed in all	11	38
+TNRC6B	Expressed in all	1	1
+NMI	Expressed in all	3	15
+CDT1	Tissue enriched	1	3
+TRAPPC10	Expressed in all	0	0
+CSTB	Group enriched	86	610
+GMPPA	Expressed in all	7	51
+GMPPB	Expressed in all	9	63
+SND1	Expressed in all	12	184
+KL	Tissue enriched	17	24
+RPL10A	Expressed in all	4	5
+RAD51	Tissue enhanced	0	0
+RAD50	Expressed in all	2	11
+RPL10L	Tissue enriched	0	0
+SRCAP	Expressed in all	1	9
+USP1	Expressed in all	0	0
+USP3	Expressed in all	0	0
+USP5	Expressed in all	48	773
+USP7	Expressed in all	23	221
+SOX3	Tissue enriched	0	0
+SOX1	Tissue enhanced	1	1
+RALGAPB	Expressed in all	0	0
+XRCC5	Expressed in all	40	589
+PHKB	Expressed in all	0	0
+PITPNB	Expressed in all	20	83
+INTS3	Expressed in all	0	0
+INTS1	Expressed in all	0	0
+INTS7	Expressed in all	0	0
+INTS5	Expressed in all	0	0
+INTS4	Expressed in all	1	1
+TPP1	Expressed in all	10	15
+INTS9	Expressed in all	0	0
+CTNNA1	Expressed in all	6	50
+CTNNA2	Group enriched	2	4
+YTHDF2	Expressed in all	3	6
+MYL6	Expressed in all	116	565
+STRADB	Expressed in all	1	2
+CERS2	Expressed in all	0	0
+MPP1	Expressed in all	2	6
+SPTB	Group enriched	3	9
+PRPSAP1	Expressed in all	12	86
+PRPSAP2	Expressed in all	11	52
+ETFDH	Expressed in all	1	2
+ATIC	Expressed in all	47	1027
+PSPH	Expressed in all	10	134
+IKBKG	Expressed in all	3	8
+SYNM	Tissue enhanced	2	3
+GSPT2	Expressed in all	4	9
+GORASP2	Expressed in all	22	135
+GORASP1	Expressed in all	2	5
+TSHR	Tissue enriched	2	3
+SUMF2	Expressed in all	3	6
+SDHAF2	Expressed in all	3	8
+SMARCAD1	Expressed in all	2	8
+SURF2	Expressed in all	9	46
+SURF4	Expressed in all	0	0
+GBP3	Expressed in all	2	3
+GBP2	Expressed in all	7	32
+ACSF3	Expressed in all	2	3
+ARV1	Expressed in all	0	0
+GALK1	Expressed in all	21	162
+GALK2	Expressed in all	5	81
+RPL6	Expressed in all	8	71
+POLE4	Expressed in all	7	64
+POLE3	Expressed in all	1	7
+SYN1	Tissue enriched	1	1
+CD9	Expressed in all	0	0
+STAT2	Expressed in all	0	0
+STAT1	Expressed in all	11	62
+CHRNB1	Expressed in all	1	2
+VCAN	Tissue enhanced	2	2
+RABIF	Expressed in all	1	2
+HTATSF1	Expressed in all	4	54
+AKR1B1	Tissue enriched	24	353
+BTAF1	Expressed in all	0	0
+CDA	Tissue enhanced	25	133
+ASNS	Expressed in all	79	1137
+MTMR2	Expressed in all	4	5
+MAP2K3	Expressed in all	1	1
+CACYBP	Expressed in all	38	283
+MAP2K7	Expressed in all	0	0
+AACS	Expressed in all	7	80
+TRAPPC6B	Expressed in all	2	2
+SOCS7	Tissue enriched	0	0
+ACY1	Group enriched	23	116
+SUCLG2	Expressed in all	5	18
+SUCLG1	Expressed in all	3	8
+MRPL42	Expressed in all	0	0
+ALDOA	Expressed in all	95	4614
+ALDOC	Expressed in all	34	172
+SMARCAL1	Expressed in all	1	2
+TRMT1	Expressed in all	51	233
+AQR	Expressed in all	3	5
+LAMTOR1	Expressed in all	0	0
+MRPL41	Expressed in all	0	0
+PHF1	Expressed in all	0	0
+ABCC2	Group enriched	0	0
+DNAH17	Tissue enhanced	3	3
+DNAH12	Group enriched	0	0
+TMOD2	Tissue enriched	0	0
+PSMF1	Expressed in all	2	3
+PPCDC	Expressed in all	1	3
+LCMT2	Expressed in all	2	4
+TALDO1	Expressed in all	44	737
+RYR2	Tissue enriched	1	4
+YIF1B	Expressed in all	0	0
+GOLGA1	Expressed in all	2	4
+GOLGA3	Expressed in all	1	1
+EP400NL	Expressed in all	0	0
+GIPC1	Expressed in all	5	43
+CSNK2A2	Expressed in all	7	26
+CIRH1A	Expressed in all	0	0
+CD2AP	Expressed in all	1	4
+ZZEF1	Expressed in all	2	11
+PTMS	Expressed in all	13	286
+CPS1	Group enriched	22	545
+KDM5C	Expressed in all	0	0
+YIF1A	Expressed in all	0	0
+LRPPRC	Expressed in all	13	123
+GLUL	Expressed in all	0	0
+LONP1	Expressed in all	7	14
+DNM1	Tissue enriched	1	1
+UBE2L3	Expressed in all	34	361
+DNM3	Tissue enhanced	0	0
+DNM2	Expressed in all	1	3
+ICT1	Expressed in all	0	0
+IFT122	Expressed in all	0	0
+NHP2L1	Expressed in all	3	12
+ORC3	Expressed in all	0	0
+GYS1	Expressed in all	46	210
+GYS2	Tissue enriched	1	1
+STK24	Expressed in all	13	34
+EVPL	Group enriched	0	0
+STT3A	Expressed in all	0	0
+RFXAP	Expressed in all	1	1
+RAD23B	Expressed in all	27	207
+MESDC1	Expressed in all	0	0
+C11orf73	Expressed in all	1	2
+ZFYVE27	Expressed in all	0	0
+SPATS2	Expressed in all	1	2
+NFIA	Expressed in all	0	0
+TCEAL3	Expressed in all	0	0
+SELO	Expressed in all	0	0
+TCEAL4	Expressed in all	6	12
+RGS10	Expressed in all	8	20
+UTP6	Expressed in all	0	0
+CLEC16A	Expressed in all	1	1
+MINA	Expressed in all	1	2
+ELF1	Expressed in all	1	3
+ELF2	Expressed in all	0	0
+PRPS2	Tissue enhanced	6	52
+CAND2	Group enriched	0	0
+CAND1	Expressed in all	38	446
+PRPS1	Expressed in all	16	221
+RPS21	Expressed in all	5	30
+TTLL12	Expressed in all	32	372
+GMPR2	Expressed in all	4	13
+LDHA	Expressed in all	104	2976
+LDHB	Expressed in all	95	1698
+ACAP2	Expressed in all	3	5
+CFL2	Expressed in all	25	142
+CFL1	Expressed in all	128	2043
+SPHKAP	Group enriched	2	3
+PLAA	Expressed in all	24	202
+RPS29	Expressed in all	4	6
+SERPINH1	Expressed in all	19	111
+OLA1	Expressed in all	41	309
+NFIC	Expressed in all	0	0
+CLIP1	Expressed in all	26	351
+PTRF	Expressed in all	0	0
+GSTK1	Expressed in all	0	0

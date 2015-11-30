@@ -1,0 +1,3459 @@
+HDO-ID	Term	OMIMID
+DOID:0050120	hemophagocytic lymphohistiocytosis	OMIM:267700
+DOID:0050120	hemophagocytic lymphohistiocytosis	OMIM:603552
+DOID:0050120	hemophagocytic lymphohistiocytosis	OMIM:603553
+DOID:0050120	hemophagocytic lymphohistiocytosis	OMIM:608898
+DOID:0050120	hemophagocytic lymphohistiocytosis	OMIM:613101
+DOID:0050125	dengue shock syndrome	OMIM:614371
+DOID:0050144	Kartagener syndrome	OMIM:244400
+DOID:0050156	idiopathic pulmonary fibrosis	OMIM:178500
+DOID:0050158	desquamative interstitial pneumonia	OMIM:263000
+DOID:0050328	congenital hypothyroidism	OMIM:218700
+DOID:0050328	congenital hypothyroidism	OMIM:225250
+DOID:0050328	congenital hypothyroidism	OMIM:274400
+DOID:0050328	congenital hypothyroidism	OMIM:274500
+DOID:0050328	congenital hypothyroidism	OMIM:274900
+DOID:0050328	congenital hypothyroidism	OMIM:275100
+DOID:0050328	congenital hypothyroidism	OMIM:275200
+DOID:0050328	congenital hypothyroidism	OMIM:607200
+DOID:0050328	congenital hypothyroidism	OMIM:609893
+DOID:0050328	congenital hypothyroidism	OMIM:614450
+DOID:0050331	LADD syndrome	OMIM:149730
+DOID:0050332	enlarged vestibular aqueduct	OMIM:600791
+DOID:0050335	bradyopsia	OMIM:608415
+DOID:0050387	nonpapillary renal cell carcinoma	OMIM:144700
+DOID:0050419	complement factor I deficiency	OMIM:610984
+DOID:0050424	familial adenomatous polyposis	OMIM:175100
+DOID:0050424	familial adenomatous polyposis	OMIM:608456
+DOID:0050425	restless legs syndrome	OMIM:102300
+DOID:0050425	restless legs syndrome	OMIM:608830
+DOID:0050425	restless legs syndrome	OMIM:610438
+DOID:0050425	restless legs syndrome	OMIM:610439
+DOID:0050425	restless legs syndrome	OMIM:611185
+DOID:0050425	restless legs syndrome	OMIM:611242
+DOID:0050425	restless legs syndrome	OMIM:612853
+DOID:0050425	restless legs syndrome	OMIM:615197
+DOID:0050427	xeroderma pigmentosum	OMIM:278700
+DOID:0050427	xeroderma pigmentosum	OMIM:278720
+DOID:0050427	xeroderma pigmentosum	OMIM:278730
+DOID:0050427	xeroderma pigmentosum	OMIM:278740
+DOID:0050427	xeroderma pigmentosum	OMIM:278750
+DOID:0050427	xeroderma pigmentosum	OMIM:278760
+DOID:0050427	xeroderma pigmentosum	OMIM:278780
+DOID:0050427	xeroderma pigmentosum	OMIM:610651
+DOID:0050428	nonepidermolytic palmoplantar keratoderma	OMIM:600962
+DOID:0050428	nonepidermolytic palmoplantar keratoderma	OMIM:613000
+DOID:0050428	nonepidermolytic palmoplantar keratoderma	OMIM:615735
+DOID:0050429	Hailey-Hailey disease	OMIM:169600
+DOID:0050430	multiple endocrine neoplasia type 2A	OMIM:171400
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIM:107970
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIM:600996
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIM:602086
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIM:602087
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIM:604400
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIM:604401
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIM:607450
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIM:609040
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIM:610193
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIM:610476
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIM:611528
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIM:615616
+DOID:0050432	Asperger syndrome	OMIM:300494
+DOID:0050432	Asperger syndrome	OMIM:300497
+DOID:0050432	Asperger syndrome	OMIM:608631
+DOID:0050432	Asperger syndrome	OMIM:608638
+DOID:0050432	Asperger syndrome	OMIM:608781
+DOID:0050432	Asperger syndrome	OMIM:609954
+DOID:0050433	fatal familial insomnia	OMIM:600072
+DOID:0050434	Andersen-Tawil syndrome	OMIM:170390
+DOID:0050436	mulibrey nanism	OMIM:253250
+DOID:0050437	Danon disease	OMIM:300257
+DOID:0050438	Frasier syndrome	OMIM:136680
+DOID:0050439	Usher syndrome	OMIM:276900
+DOID:0050439	Usher syndrome	OMIM:276901
+DOID:0050439	Usher syndrome	OMIM:276902
+DOID:0050439	Usher syndrome	OMIM:276904
+DOID:0050439	Usher syndrome	OMIM:601067
+DOID:0050439	Usher syndrome	OMIM:602083
+DOID:0050439	Usher syndrome	OMIM:602097
+DOID:0050439	Usher syndrome	OMIM:605472
+DOID:0050439	Usher syndrome	OMIM:606943
+DOID:0050439	Usher syndrome	OMIM:611383
+DOID:0050439	Usher syndrome	OMIM:612632
+DOID:0050439	Usher syndrome	OMIM:614504
+DOID:0050439	Usher syndrome	OMIM:614869
+DOID:0050439	Usher syndrome	OMIM:614990
+DOID:0050440	familial partial lipodystrophy	OMIM:151660
+DOID:0050440	familial partial lipodystrophy	OMIM:604367
+DOID:0050440	familial partial lipodystrophy	OMIM:608600
+DOID:0050440	familial partial lipodystrophy	OMIM:613877
+DOID:0050440	familial partial lipodystrophy	OMIM:615238
+DOID:0050441	mucosulfatidosis	OMIM:272200
+DOID:0050444	infantile refsum disease	OMIM:266510
+DOID:0050445	X-linked hypophosphatemia	OMIM:193100
+DOID:0050445	X-linked hypophosphatemia	OMIM:241520
+DOID:0050445	X-linked hypophosphatemia	OMIM:300554
+DOID:0050445	X-linked hypophosphatemia	OMIM:307800
+DOID:0050445	X-linked hypophosphatemia	OMIM:613312
+DOID:0050448	hereditary mucosal leukokeratosis	OMIM:193900
+DOID:0050448	hereditary mucosal leukokeratosis	OMIM:615785
+DOID:0050449	pachyonychia congenita	OMIM:167200
+DOID:0050449	pachyonychia congenita	OMIM:167210
+DOID:0050450	Gitelman syndrome	OMIM:263800
+DOID:0050451	Brugada syndrome	OMIM:601144
+DOID:0050451	Brugada syndrome	OMIM:611777
+DOID:0050451	Brugada syndrome	OMIM:611875
+DOID:0050451	Brugada syndrome	OMIM:611876
+DOID:0050451	Brugada syndrome	OMIM:612838
+DOID:0050451	Brugada syndrome	OMIM:613119
+DOID:0050451	Brugada syndrome	OMIM:613120
+DOID:0050451	Brugada syndrome	OMIM:613123
+DOID:0050452	mevalonic aciduria	OMIM:610377
+DOID:0050453	lissencephaly	OMIM:257320
+DOID:0050453	lissencephaly	OMIM:300067
+DOID:0050453	lissencephaly	OMIM:300215
+DOID:0050453	lissencephaly	OMIM:607432
+DOID:0050453	lissencephaly	OMIM:611603
+DOID:0050453	lissencephaly	OMIM:614019
+DOID:0050453	lissencephaly	OMIM:615191
+DOID:0050454	periventricular nodular heterotopia	OMIM:300049
+DOID:0050454	periventricular nodular heterotopia	OMIM:300537
+DOID:0050454	periventricular nodular heterotopia	OMIM:608097
+DOID:0050454	periventricular nodular heterotopia	OMIM:608098
+DOID:0050454	periventricular nodular heterotopia	OMIM:612881
+DOID:0050454	periventricular nodular heterotopia	OMIM:615544
+DOID:0050457	Sertoli cell-only syndrome	OMIM:305700
+DOID:0050457	Sertoli cell-only syndrome	OMIM:400042
+DOID:0050458	juvenile myelomonocytic leukemia	OMIM:607785
+DOID:0050460	Wolf-Hirschhorn syndrome	OMIM:194190
+DOID:0050461	aspartylglucosaminuria	OMIM:208400
+DOID:0050462	Antley-Bixler syndrome	OMIM:201750
+DOID:0050462	Antley-Bixler syndrome	OMIM:207410
+DOID:0050463	campomelic dysplasia	OMIM:114290
+DOID:0050464	Farber lipogranulomatosis	OMIM:228000
+DOID:0050465	Muir-Torre syndrome	OMIM:158320
+DOID:0050466	Loeys-Dietz syndrome	OMIM:608967
+DOID:0050466	Loeys-Dietz syndrome	OMIM:609192
+DOID:0050466	Loeys-Dietz syndrome	OMIM:610168
+DOID:0050466	Loeys-Dietz syndrome	OMIM:610380
+DOID:0050466	Loeys-Dietz syndrome	OMIM:613795
+DOID:0050466	Loeys-Dietz syndrome	OMIM:614816
+DOID:0050467	erythrokeratodermia variabilis	OMIM:133200
+DOID:0050468	yellow nail syndrome	OMIM:153300
+DOID:0050469	Costello syndrome	OMIM:218040
+DOID:0050470	Donohue Syndrome	OMIM:246200
+DOID:0050471	Carney complex	OMIM:160980
+DOID:0050471	Carney complex	OMIM:605244
+DOID:0050471	Carney complex	OMIM:608837
+DOID:0050472	monilethrix	OMIM:158000
+DOID:0050473	Alstrom syndrome	OMIM:203800
+DOID:0050474	Netherton syndrome	OMIM:256500
+DOID:0050475	Weill-Marchesani syndrome	OMIM:277600
+DOID:0050475	Weill-Marchesani syndrome	OMIM:608328
+DOID:0050475	Weill-Marchesani syndrome	OMIM:613195
+DOID:0050475	Weill-Marchesani syndrome	OMIM:614819
+DOID:0050476	Barth syndrome	OMIM:302060
+DOID:0050477	Liddle syndrome	OMIM:177200
+DOID:0050489	multinodular goiter	OMIM:138800
+DOID:0050489	multinodular goiter	OMIM:300273
+DOID:0050489	multinodular goiter	OMIM:606082
+DOID:0050524	maturity-onset diabetes of the young	OMIM:125850
+DOID:0050524	maturity-onset diabetes of the young	OMIM:125851
+DOID:0050524	maturity-onset diabetes of the young	OMIM:137920
+DOID:0050524	maturity-onset diabetes of the young	OMIM:600496
+DOID:0050524	maturity-onset diabetes of the young	OMIM:606391
+DOID:0050524	maturity-onset diabetes of the young	OMIM:606392
+DOID:0050524	maturity-onset diabetes of the young	OMIM:606394
+DOID:0050524	maturity-onset diabetes of the young	OMIM:609812
+DOID:0050524	maturity-onset diabetes of the young	OMIM:610508
+DOID:0050524	maturity-onset diabetes of the young	OMIM:612225
+DOID:0050524	maturity-onset diabetes of the young	OMIM:613370
+DOID:0050524	maturity-onset diabetes of the young	OMIM:613375
+DOID:0050526	Gamstorp-Wohlfart syndrome	OMIM:137200
+DOID:0050527	familial hypertriglyceridemia	OMIM:145750
+DOID:0050528	nonphotosensitive trichothiodystrophy	OMIM:234050
+DOID:0050529	adult spinal muscular atrophy	OMIM:271150
+DOID:0050530	intermediate spinal muscular atrophy	OMIM:253550
+DOID:0050534	congenital stationary night blindness	OMIM:163500
+DOID:0050534	congenital stationary night blindness	OMIM:257270
+DOID:0050534	congenital stationary night blindness	OMIM:300071
+DOID:0050534	congenital stationary night blindness	OMIM:310500
+DOID:0050534	congenital stationary night blindness	OMIM:610427
+DOID:0050534	congenital stationary night blindness	OMIM:610444
+DOID:0050534	congenital stationary night blindness	OMIM:610445
+DOID:0050534	congenital stationary night blindness	OMIM:613216
+DOID:0050535	exudative vitreoretinopathy	OMIM:133780
+DOID:0050535	exudative vitreoretinopathy	OMIM:305390
+DOID:0050535	exudative vitreoretinopathy	OMIM:601813
+DOID:0050535	exudative vitreoretinopathy	OMIM:605750
+DOID:0050535	exudative vitreoretinopathy	OMIM:613310
+DOID:0050536	SC phocomelia syndrome	OMIM:269000
+DOID:0050537	posterior polar cataract	OMIM:116600
+DOID:0050537	posterior polar cataract	OMIM:605387
+DOID:0050537	posterior polar cataract	OMIM:610623
+DOID:0050537	posterior polar cataract	OMIM:613763
+DOID:0050538	Charcot-Marie-Tooth disease type 1	OMIM:118200
+DOID:0050538	Charcot-Marie-Tooth disease type 1	OMIM:118220
+DOID:0050538	Charcot-Marie-Tooth disease type 1	OMIM:118300
+DOID:0050538	Charcot-Marie-Tooth disease type 1	OMIM:601098
+DOID:0050538	Charcot-Marie-Tooth disease type 1	OMIM:607678
+DOID:0050538	Charcot-Marie-Tooth disease type 1	OMIM:607734
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:118210
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:600882
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:601472
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:605588
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:605589
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:606071
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:606595
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:607677
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:607684
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:607731
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:607736
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:607831
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:608591
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:608673
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:609260
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:613287
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:614228
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:614436
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:615025
+DOID:0050539	Charcot-Marie-Tooth disease type 2	OMIM:615490
+DOID:0050540	Charcot-Marie-Tooth disease type 3	OMIM:145900
+DOID:0050541	Charcot-Marie-Tooth disease type 4	OMIM:145900
+DOID:0050541	Charcot-Marie-Tooth disease type 4	OMIM:214400
+DOID:0050541	Charcot-Marie-Tooth disease type 4	OMIM:601382
+DOID:0050541	Charcot-Marie-Tooth disease type 4	OMIM:601455
+DOID:0050541	Charcot-Marie-Tooth disease type 4	OMIM:601596
+DOID:0050541	Charcot-Marie-Tooth disease type 4	OMIM:604563
+DOID:0050541	Charcot-Marie-Tooth disease type 4	OMIM:605253
+DOID:0050541	Charcot-Marie-Tooth disease type 4	OMIM:607706
+DOID:0050541	Charcot-Marie-Tooth disease type 4	OMIM:609311
+DOID:0050541	Charcot-Marie-Tooth disease type 4	OMIM:611228
+DOID:0050541	Charcot-Marie-Tooth disease type 4	OMIM:614895
+DOID:0050541	Charcot-Marie-Tooth disease type 4	OMIM:615284
+DOID:0050542	Charcot-Marie-Tooth disease type X	OMIM:300905
+DOID:0050542	Charcot-Marie-Tooth disease type X	OMIM:302800
+DOID:0050542	Charcot-Marie-Tooth disease type X	OMIM:302801
+DOID:0050542	Charcot-Marie-Tooth disease type X	OMIM:302802
+DOID:0050542	Charcot-Marie-Tooth disease type X	OMIM:310490
+DOID:0050542	Charcot-Marie-Tooth disease type X	OMIM:311070
+DOID:0050543	Charcot-Marie-Tooth disease intermediate type	OMIM:606482
+DOID:0050543	Charcot-Marie-Tooth disease intermediate type	OMIM:606483
+DOID:0050543	Charcot-Marie-Tooth disease intermediate type	OMIM:607791
+DOID:0050543	Charcot-Marie-Tooth disease intermediate type	OMIM:608323
+DOID:0050543	Charcot-Marie-Tooth disease intermediate type	OMIM:608340
+DOID:0050543	Charcot-Marie-Tooth disease intermediate type	OMIM:613641
+DOID:0050543	Charcot-Marie-Tooth disease intermediate type	OMIM:614455
+DOID:0050543	Charcot-Marie-Tooth disease intermediate type	OMIM:615185
+DOID:0050543	Charcot-Marie-Tooth disease intermediate type	OMIM:615376
+DOID:0050544	hypermethioninemia	OMIM:613752
+DOID:0050544	hypermethioninemia	OMIM:614300
+DOID:0050545	visceral heterotaxy	OMIM:306955
+DOID:0050545	visceral heterotaxy	OMIM:605376
+DOID:0050545	visceral heterotaxy	OMIM:606325
+DOID:0050545	visceral heterotaxy	OMIM:613751
+DOID:0050545	visceral heterotaxy	OMIM:614779
+DOID:0050546	congenital adrenal insufficiency	OMIM:613743
+DOID:0050547	familial medullary thyroid carcinoma	OMIM:155240
+DOID:0050548	hereditary sensory neuropathy	OMIM:162400
+DOID:0050548	hereditary sensory neuropathy	OMIM:201300
+DOID:0050548	hereditary sensory neuropathy	OMIM:256800
+DOID:0050548	hereditary sensory neuropathy	OMIM:256860
+DOID:0050548	hereditary sensory neuropathy	OMIM:310470
+DOID:0050548	hereditary sensory neuropathy	OMIM:608088
+DOID:0050548	hereditary sensory neuropathy	OMIM:608654
+DOID:0050548	hereditary sensory neuropathy	OMIM:613115
+DOID:0050548	hereditary sensory neuropathy	OMIM:613640
+DOID:0050548	hereditary sensory neuropathy	OMIM:613708
+DOID:0050548	hereditary sensory neuropathy	OMIM:614116
+DOID:0050548	hereditary sensory neuropathy	OMIM:614213
+DOID:0050548	hereditary sensory neuropathy	OMIM:614653
+DOID:0050548	hereditary sensory neuropathy	OMIM:615548
+DOID:0050548	hereditary sensory neuropathy	OMIM:615632
+DOID:0050549	Saldino-Noonan syndrome	OMIM:263530
+DOID:0050552	Sugio-Kajii syndrome	OMIM:190351
+DOID:0050553	JMP syndrome	OMIM:613732
+DOID:0050554	X-linked sideroblastic anemia with ataxia	OMIM:301310
+DOID:0050556	infantile onset spinocerebellar ataxia	OMIM:271245
+DOID:0050557	congenital muscular dystrophy	OMIM:253900
+DOID:0050557	congenital muscular dystrophy	OMIM:254100
+DOID:0050557	congenital muscular dystrophy	OMIM:602541
+DOID:0050557	congenital muscular dystrophy	OMIM:602771
+DOID:0050557	congenital muscular dystrophy	OMIM:604801
+DOID:0050557	congenital muscular dystrophy	OMIM:606612
+DOID:0050557	congenital muscular dystrophy	OMIM:607855
+DOID:0050557	congenital muscular dystrophy	OMIM:608840
+DOID:0050557	congenital muscular dystrophy	OMIM:609456
+DOID:0050557	congenital muscular dystrophy	OMIM:613204
+DOID:0050557	congenital muscular dystrophy	OMIM:613205
+DOID:0050558	Ullrich congenital muscular dystrophy	OMIM:254090
+DOID:0050559	Fukuyama congenital muscular dystrophy	OMIM:253800
+DOID:0050560	Walker-Warburg syndrome	OMIM:236670
+DOID:0050560	Walker-Warburg syndrome	OMIM:253280
+DOID:0050561	Lennox-Gastaut syndrome	OMIM:606369
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:124900
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:600101
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:600652
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:600965
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:600994
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:601316
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:601317
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:601369
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:601412
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:601543
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:601544
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:601868
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:602459
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:603622
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:603964
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:604717
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:605192
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:605583
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:605594
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:606012
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:606282
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:606346
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:606451
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:606705
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:607017
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:607197
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:607453
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:607683
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:607841
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:608224
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:608372
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:608394
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:608641
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:608645
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:608652
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:609965
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:612431
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:612642
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:612643
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:612644
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:613074
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:613558
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:614152
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:614211
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:614314
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:615629
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:615649
+DOID:0050564	autosomal dominant nonsyndromic deafness	OMIM:615654
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:220290
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:600060
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:600316
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:600792
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:600971
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:600974
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:601071
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:601072
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:601386
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:601869
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:602092
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:603010
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:603098
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:603629
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:603678
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:603720
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:604060
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:605316
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:605428
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:605818
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:607039
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:607084
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:607101
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:607197
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:607239
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:607821
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:608219
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:608264
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:608265
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:608565
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:608653
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:609006
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:609439
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:609533
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:609646
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:609647
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:609706
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:609823
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:609941
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:609946
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:609952
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:610143
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:610153
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:610154
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:610212
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:610220
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:610248
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:610265
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:610419
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:611022
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:611451
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:612433
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:612645
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:612789
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:613079
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:613285
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:613307
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:613391
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:613392
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:613453
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:613557
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:613685
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:613718
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:613865
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:613916
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:614035
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:614414
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:614617
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:614861
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:614899
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:614934
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:614944
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:614945
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:615429
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:615540
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:615837
+DOID:0050565	autosomal recessive nonsyndromic deafness	OMIM:615974
+DOID:0050566	X-linked nonsyndromic deafness	OMIM:300030
+DOID:0050566	X-linked nonsyndromic deafness	OMIM:300066
+DOID:0050566	X-linked nonsyndromic deafness	OMIM:300614
+DOID:0050566	X-linked nonsyndromic deafness	OMIM:300914
+DOID:0050566	X-linked nonsyndromic deafness	OMIM:304400
+DOID:0050566	X-linked nonsyndromic deafness	OMIM:304500
+DOID:0050567	orofacial cleft	OMIM:119530
+DOID:0050567	orofacial cleft	OMIM:600625
+DOID:0050567	orofacial cleft	OMIM:600757
+DOID:0050567	orofacial cleft	OMIM:602966
+DOID:0050567	orofacial cleft	OMIM:608371
+DOID:0050567	orofacial cleft	OMIM:608864
+DOID:0050567	orofacial cleft	OMIM:608874
+DOID:0050567	orofacial cleft	OMIM:610361
+DOID:0050567	orofacial cleft	OMIM:612858
+DOID:0050567	orofacial cleft	OMIM:613705
+DOID:0050567	orofacial cleft	OMIM:613857
+DOID:0050567	orofacial cleft	OMIM:615892
+DOID:0050568	spondylocostal dysostosis	OMIM:122600
+DOID:0050568	spondylocostal dysostosis	OMIM:277300
+DOID:0050568	spondylocostal dysostosis	OMIM:608681
+DOID:0050568	spondylocostal dysostosis	OMIM:609813
+DOID:0050568	spondylocostal dysostosis	OMIM:613686
+DOID:0050569	Seckel syndrome	OMIM:210600
+DOID:0050569	Seckel syndrome	OMIM:606744
+DOID:0050569	Seckel syndrome	OMIM:608664
+DOID:0050569	Seckel syndrome	OMIM:613676
+DOID:0050569	Seckel syndrome	OMIM:613823
+DOID:0050569	Seckel syndrome	OMIM:614728
+DOID:0050569	Seckel syndrome	OMIM:614851
+DOID:0050569	Seckel syndrome	OMIM:615807
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:212065
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:601110
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:602579
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:603147
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:607143
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:607906
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:608093
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:608104
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:608540
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:608776
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:608799
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:609180
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:610768
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:612015
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:612379
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:612937
+DOID:0050570	congenital disorder of glycosylation type I	OMIM:613661
+DOID:0050571	congenital disorder of glycosylation type II	OMIM:212066
+DOID:0050571	congenital disorder of glycosylation type II	OMIM:266265
+DOID:0050571	congenital disorder of glycosylation type II	OMIM:603585
+DOID:0050571	congenital disorder of glycosylation type II	OMIM:606056
+DOID:0050571	congenital disorder of glycosylation type II	OMIM:607091
+DOID:0050571	congenital disorder of glycosylation type II	OMIM:608779
+DOID:0050571	congenital disorder of glycosylation type II	OMIM:611182
+DOID:0050571	congenital disorder of glycosylation type II	OMIM:611209
+DOID:0050571	congenital disorder of glycosylation type II	OMIM:613489
+DOID:0050571	congenital disorder of glycosylation type II	OMIM:613612
+DOID:0050572	cone-rod dystrophy	OMIM:120970
+DOID:0050572	cone-rod dystrophy	OMIM:300085
+DOID:0050572	cone-rod dystrophy	OMIM:300476
+DOID:0050572	cone-rod dystrophy	OMIM:304020
+DOID:0050572	cone-rod dystrophy	OMIM:600624
+DOID:0050572	cone-rod dystrophy	OMIM:600977
+DOID:0050572	cone-rod dystrophy	OMIM:601777
+DOID:0050572	cone-rod dystrophy	OMIM:602093
+DOID:0050572	cone-rod dystrophy	OMIM:603649
+DOID:0050572	cone-rod dystrophy	OMIM:604116
+DOID:0050572	cone-rod dystrophy	OMIM:605549
+DOID:0050572	cone-rod dystrophy	OMIM:607476
+DOID:0050572	cone-rod dystrophy	OMIM:608194
+DOID:0050572	cone-rod dystrophy	OMIM:610283
+DOID:0050572	cone-rod dystrophy	OMIM:610381
+DOID:0050572	cone-rod dystrophy	OMIM:612657
+DOID:0050572	cone-rod dystrophy	OMIM:612775
+DOID:0050572	cone-rod dystrophy	OMIM:613660
+DOID:0050572	cone-rod dystrophy	OMIM:614500
+DOID:0050572	cone-rod dystrophy	OMIM:615163
+DOID:0050572	cone-rod dystrophy	OMIM:615374
+DOID:0050572	cone-rod dystrophy	OMIM:615860
+DOID:0050572	cone-rod dystrophy	OMIM:615973
+DOID:0050574	L-2-hydroxyglutaric aciduria	OMIM:236792
+DOID:0050575	D-2-hydroxyglutaric aciduria	OMIM:600721
+DOID:0050575	D-2-hydroxyglutaric aciduria	OMIM:613657
+DOID:0050576	Senior-Loken syndrome	OMIM:266900
+DOID:0050576	Senior-Loken syndrome	OMIM:606995
+DOID:0050576	Senior-Loken syndrome	OMIM:606996
+DOID:0050576	Senior-Loken syndrome	OMIM:609254
+DOID:0050576	Senior-Loken syndrome	OMIM:610189
+DOID:0050576	Senior-Loken syndrome	OMIM:613615
+DOID:0050577	Sensenbrenner syndrome	OMIM:218330
+DOID:0050577	Sensenbrenner syndrome	OMIM:613610
+DOID:0050578	occult macular dystrophy	OMIM:613587
+DOID:0050579	glycogen storage disease XV	OMIM:613507
+DOID:0050580	hereditary lymphedema	OMIM:153100
+DOID:0050580	hereditary lymphedema	OMIM:153200
+DOID:0050580	hereditary lymphedema	OMIM:247440
+DOID:0050580	hereditary lymphedema	OMIM:611944
+DOID:0050580	hereditary lymphedema	OMIM:613480
+DOID:0050580	hereditary lymphedema	OMIM:615907
+DOID:0050581	brachydactyly	OMIM:112440
+DOID:0050581	brachydactyly	OMIM:112450
+DOID:0050581	brachydactyly	OMIM:112500
+DOID:0050581	brachydactyly	OMIM:112600
+DOID:0050581	brachydactyly	OMIM:112700
+DOID:0050581	brachydactyly	OMIM:112800
+DOID:0050581	brachydactyly	OMIM:112910
+DOID:0050581	brachydactyly	OMIM:113000
+DOID:0050581	brachydactyly	OMIM:113100
+DOID:0050581	brachydactyly	OMIM:113200
+DOID:0050581	brachydactyly	OMIM:113300
+DOID:0050581	brachydactyly	OMIM:301940
+DOID:0050581	brachydactyly	OMIM:607004
+DOID:0050581	brachydactyly	OMIM:611377
+DOID:0050581	brachydactyly	OMIM:613382
+DOID:0050581	brachydactyly	OMIM:615072
+DOID:0050582	distal hereditary motor neuropathy	OMIM:158590
+DOID:0050582	distal hereditary motor neuropathy	OMIM:600794
+DOID:0050582	distal hereditary motor neuropathy	OMIM:607641
+DOID:0050582	distal hereditary motor neuropathy	OMIM:608634
+DOID:0050582	distal hereditary motor neuropathy	OMIM:613376
+DOID:0050585	congenital generalized lipodystrophy	OMIM:269700
+DOID:0050585	congenital generalized lipodystrophy	OMIM:608594
+DOID:0050585	congenital generalized lipodystrophy	OMIM:612526
+DOID:0050585	congenital generalized lipodystrophy	OMIM:613327
+DOID:0050587	trichotillomania	OMIM:613229
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:613150
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:613151
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:613152
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:613153
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:613154
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:613155
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:613156
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:613818
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:614643
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:614830
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:615041
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:615181
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:615249
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:615287
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:615350
+DOID:0050588	muscular dystrophy-dystroglycanopathy	OMIM:615351
+DOID:0050589	inflammatory bowel disease	OMIM:266600
+DOID:0050589	inflammatory bowel disease	OMIM:601458
+DOID:0050589	inflammatory bowel disease	OMIM:604519
+DOID:0050589	inflammatory bowel disease	OMIM:605225
+DOID:0050589	inflammatory bowel disease	OMIM:606348
+DOID:0050589	inflammatory bowel disease	OMIM:606668
+DOID:0050589	inflammatory bowel disease	OMIM:606674
+DOID:0050589	inflammatory bowel disease	OMIM:606675
+DOID:0050589	inflammatory bowel disease	OMIM:608448
+DOID:0050589	inflammatory bowel disease	OMIM:611081
+DOID:0050589	inflammatory bowel disease	OMIM:612241
+DOID:0050589	inflammatory bowel disease	OMIM:612244
+DOID:0050589	inflammatory bowel disease	OMIM:612245
+DOID:0050589	inflammatory bowel disease	OMIM:612255
+DOID:0050589	inflammatory bowel disease	OMIM:612259
+DOID:0050589	inflammatory bowel disease	OMIM:612261
+DOID:0050589	inflammatory bowel disease	OMIM:612262
+DOID:0050589	inflammatory bowel disease	OMIM:612278
+DOID:0050589	inflammatory bowel disease	OMIM:612288
+DOID:0050589	inflammatory bowel disease	OMIM:612354
+DOID:0050589	inflammatory bowel disease	OMIM:612380
+DOID:0050589	inflammatory bowel disease	OMIM:612381
+DOID:0050589	inflammatory bowel disease	OMIM:612566
+DOID:0050589	inflammatory bowel disease	OMIM:612567
+DOID:0050589	inflammatory bowel disease	OMIM:612639
+DOID:0050589	inflammatory bowel disease	OMIM:612796
+DOID:0050589	inflammatory bowel disease	OMIM:613148
+DOID:0050590	severe congenital neutropenia	OMIM:202700
+DOID:0050590	severe congenital neutropenia	OMIM:300299
+DOID:0050590	severe congenital neutropenia	OMIM:610738
+DOID:0050590	severe congenital neutropenia	OMIM:612541
+DOID:0050590	severe congenital neutropenia	OMIM:613107
+DOID:0050590	severe congenital neutropenia	OMIM:615285
+DOID:0050591	tooth agenesis	OMIM:106600
+DOID:0050591	tooth agenesis	OMIM:150400
+DOID:0050591	tooth agenesis	OMIM:313500
+DOID:0050591	tooth agenesis	OMIM:602639
+DOID:0050591	tooth agenesis	OMIM:604625
+DOID:0050591	tooth agenesis	OMIM:610926
+DOID:0050591	tooth agenesis	OMIM:613097
+DOID:0050592	asphyxiating thoracic dystrophy	OMIM:208500
+DOID:0050592	asphyxiating thoracic dystrophy	OMIM:611263
+DOID:0050592	asphyxiating thoracic dystrophy	OMIM:613091
+DOID:0050592	asphyxiating thoracic dystrophy	OMIM:613819
+DOID:0050592	asphyxiating thoracic dystrophy	OMIM:614376
+DOID:0050593	primary congenital glaucoma	OMIM:613085
+DOID:0050593	primary congenital glaucoma	OMIM:613086
+DOID:0050594	glycogen storage disease IX	OMIM:261750
+DOID:0050594	glycogen storage disease IX	OMIM:306000
+DOID:0050594	glycogen storage disease IX	OMIM:613027
+DOID:0050597	intestinal schistosomiasis	OMIM:181460
+DOID:0050600	ABCD syndrome	OMIM:600501
+DOID:0050601	ADULT syndrome	OMIM:103285
+DOID:0050602	triple-A syndrome	OMIM:231550
+DOID:0050603	acheiropody	OMIM:200500
+DOID:0050604	acrocapitofemoral dysplasia	OMIM:607778
+DOID:0050605	acrodermatitis enteropathica	OMIM:201100
+DOID:0050606	acrokeratosis verruciformis	OMIM:101900
+DOID:0050628	advanced sleep phase syndrome	OMIM:604348
+DOID:0050628	advanced sleep phase syndrome	OMIM:615224
+DOID:0050629	Aicardi-Goutieres syndrome	OMIM:225750
+DOID:0050629	Aicardi-Goutieres syndrome	OMIM:610181
+DOID:0050629	Aicardi-Goutieres syndrome	OMIM:610329
+DOID:0050629	Aicardi-Goutieres syndrome	OMIM:610333
+DOID:0050629	Aicardi-Goutieres syndrome	OMIM:612952
+DOID:0050629	Aicardi-Goutieres syndrome	OMIM:615010
+DOID:0050629	Aicardi-Goutieres syndrome	OMIM:615846
+DOID:0050630	Aland Island eye disease	OMIM:300600
+DOID:0050631	Allan-Herndon-Dudley syndrome	OMIM:300523
+DOID:0050632	oculocutaneous albinism	OMIM:203100
+DOID:0050632	oculocutaneous albinism	OMIM:203200
+DOID:0050632	oculocutaneous albinism	OMIM:203290
+DOID:0050632	oculocutaneous albinism	OMIM:606574
+DOID:0050632	oculocutaneous albinism	OMIM:606952
+DOID:0050632	oculocutaneous albinism	OMIM:614473
+DOID:0050632	oculocutaneous albinism	OMIM:615312
+DOID:0050633	ocular albinism	OMIM:300500
+DOID:0050634	alopecia universalis	OMIM:203655
+DOID:0050635	alternating hemiplegia of childhood	OMIM:104290
+DOID:0050635	alternating hemiplegia of childhood	OMIM:614820
+DOID:0050636	familial visceral amyloidosis	OMIM:105200
+DOID:0050637	Finnish type amyloidosis	OMIM:105120
+DOID:0050638	transthyretin amyloidosis	OMIM:105210
+DOID:0050639	primary cutaneous amyloidosis	OMIM:105250
+DOID:0050639	primary cutaneous amyloidosis	OMIM:613955
+DOID:0050640	anauxetic dysplasia	OMIM:607095
+DOID:0050641	Rh deficiency syndrome	OMIM:268150
+DOID:0050642	hypochromic microcytic anemia	OMIM:206100
+DOID:0050642	hypochromic microcytic anemia	OMIM:615234
+DOID:0050643	anonychia congenita	OMIM:206800
+DOID:0050644	arterial calcification of infancy	OMIM:208000
+DOID:0050644	arterial calcification of infancy	OMIM:614473
+DOID:0050645	arterial tortuosity syndrome	OMIM:208050
+DOID:0050646	distal arthrogryposis	OMIM:108120
+DOID:0050646	distal arthrogryposis	OMIM:108145
+DOID:0050646	distal arthrogryposis	OMIM:108200
+DOID:0050646	distal arthrogryposis	OMIM:114300
+DOID:0050646	distal arthrogryposis	OMIM:121050
+DOID:0050646	distal arthrogryposis	OMIM:121070
+DOID:0050646	distal arthrogryposis	OMIM:158300
+DOID:0050646	distal arthrogryposis	OMIM:178110
+DOID:0050646	distal arthrogryposis	OMIM:187370
+DOID:0050646	distal arthrogryposis	OMIM:193700
+DOID:0050646	distal arthrogryposis	OMIM:601680
+DOID:0050646	distal arthrogryposis	OMIM:609128
+DOID:0050646	distal arthrogryposis	OMIM:614335
+DOID:0050646	distal arthrogryposis	OMIM:615065
+DOID:0050647	Arts syndrome	OMIM:301835
+DOID:0050648	atelosteogenesis	OMIM:108720
+DOID:0050648	atelosteogenesis	OMIM:108721
+DOID:0050648	atelosteogenesis	OMIM:256050
+DOID:0050649	atransferrinemia	OMIM:209300
+DOID:0050650	familial atrial fibrillation	OMIM:607554
+DOID:0050650	familial atrial fibrillation	OMIM:608583
+DOID:0050650	familial atrial fibrillation	OMIM:608988
+DOID:0050650	familial atrial fibrillation	OMIM:611493
+DOID:0050650	familial atrial fibrillation	OMIM:611494
+DOID:0050650	familial atrial fibrillation	OMIM:612201
+DOID:0050650	familial atrial fibrillation	OMIM:612240
+DOID:0050650	familial atrial fibrillation	OMIM:613055
+DOID:0050650	familial atrial fibrillation	OMIM:613980
+DOID:0050650	familial atrial fibrillation	OMIM:614022
+DOID:0050650	familial atrial fibrillation	OMIM:614049
+DOID:0050650	familial atrial fibrillation	OMIM:614050
+DOID:0050650	familial atrial fibrillation	OMIM:615377
+DOID:0050650	familial atrial fibrillation	OMIM:615378
+DOID:0050650	familial atrial fibrillation	OMIM:615770
+DOID:0050651	atrioventricular septal defect	OMIM:600309
+DOID:0050651	atrioventricular septal defect	OMIM:606215
+DOID:0050651	atrioventricular septal defect	OMIM:606217
+DOID:0050651	atrioventricular septal defect	OMIM:614430
+DOID:0050651	atrioventricular septal defect	OMIM:614474
+DOID:0050654	Baller-Gerold syndrome	OMIM:218600
+DOID:0050655	Bamforth-Lazarus syndrome	OMIM:241850
+DOID:0050656	pseudo-TORCH syndrome	OMIM:251290
+DOID:0050657	Bannayan-Riley-Ruvalcaba syndrome	OMIM:153480
+DOID:0050658	Bart-Pumphrey syndrome	OMIM:149200
+DOID:0050659	biotin-responsive basal ganglia disease	OMIM:607483
+DOID:0050660	Beare-Stevenson cutis gyrata syndrome	OMIM:123790
+DOID:0050661	vitelliform macular dystrophy	OMIM:153700
+DOID:0050661	vitelliform macular dystrophy	OMIM:153840
+DOID:0050661	vitelliform macular dystrophy	OMIM:608161
+DOID:0050661	vitelliform macular dystrophy	OMIM:616151
+DOID:0050661	vitelliform macular dystrophy	OMIM:616152
+DOID:0050662	bestrophinopathy	OMIM:611809
+DOID:0050663	Bethlem myopathy	OMIM:158810
+DOID:0050664	Bietti crystalline corneoretinal dystrophy	OMIM:210370
+DOID:0050674	congenital bile acid synthesis defect	OMIM:214950
+DOID:0050674	congenital bile acid synthesis defect	OMIM:235555
+DOID:0050674	congenital bile acid synthesis defect	OMIM:607765
+DOID:0050674	congenital bile acid synthesis defect	OMIM:613812
+DOID:0050675	Birk-Barel syndrome	OMIM:612292
+DOID:0050676	Birt-Hogg-Dube syndrome	OMIM:135150
+DOID:0050677	Bjornstad syndrome	OMIM:262000
+DOID:0050678	Blau syndrome	OMIM:186580
+DOID:0050679	blue cone monochromacy	OMIM:303700
+DOID:0050680	Boomerang dysplasia	OMIM:112310
+DOID:0050681	Borjeson-Forssman-Lehmann syndrome	OMIM:301900
+DOID:0050682	Athabaskan brainstem dysgenesis syndrome	OMIM:601536
+DOID:0050683	Bothnia retinal dystrophy	OMIM:607475
+DOID:0050684	Bowen-Conradi syndrome	OMIM:211180
+DOID:0050689	brachydactyly-syndactyly syndrome	OMIM:610713
+DOID:0050690	brachyolmia	OMIM:113500
+DOID:0050690	brachyolmia	OMIM:271530
+DOID:0050690	brachyolmia	OMIM:271630
+DOID:0050690	brachyolmia	OMIM:613678
+DOID:0050691	branchiooculofacial syndrome	OMIM:113620
+DOID:0050692	Brody myopathy	OMIM:601003
+DOID:0050693	Brooke-Spiegler syndrome	OMIM:605041
+DOID:0050694	Brown-Vialetto-Van Laere syndrome	OMIM:211530
+DOID:0050699	Dent disease	OMIM:300009
+DOID:0050699	Dent disease	OMIM:300555
+DOID:0050709	Ohtahara syndrome	OMIM:300088
+DOID:0050709	Ohtahara syndrome	OMIM:300607
+DOID:0050709	Ohtahara syndrome	OMIM:300672
+DOID:0050709	Ohtahara syndrome	OMIM:308350
+DOID:0050709	Ohtahara syndrome	OMIM:609304
+DOID:0050709	Ohtahara syndrome	OMIM:612164
+DOID:0050709	Ohtahara syndrome	OMIM:613402
+DOID:0050709	Ohtahara syndrome	OMIM:613477
+DOID:0050709	Ohtahara syndrome	OMIM:613720
+DOID:0050709	Ohtahara syndrome	OMIM:613721
+DOID:0050709	Ohtahara syndrome	OMIM:613722
+DOID:0050709	Ohtahara syndrome	OMIM:614558
+DOID:0050709	Ohtahara syndrome	OMIM:614959
+DOID:0050709	Ohtahara syndrome	OMIM:615006
+DOID:0050709	Ohtahara syndrome	OMIM:615338
+DOID:0050709	Ohtahara syndrome	OMIM:615473
+DOID:0050709	Ohtahara syndrome	OMIM:615476
+DOID:0050710	3-Methylcrotonyl-CoA carboxylase deficiency	OMIM:210200
+DOID:0050710	3-Methylcrotonyl-CoA carboxylase deficiency	OMIM:210210
+DOID:0050711	aceruloplasminemia	OMIM:604290
+DOID:0050712	AGAT deficiency	OMIM:612718
+DOID:0050713	fatal infantile encephalocardiomyopathy	OMIM:604377
+DOID:0050713	fatal infantile encephalocardiomyopathy	OMIM:615119
+DOID:0050715	methylmalonic aciduria and homocystinuria type cblC	OMIM:277400
+DOID:0050716	methylmalonic aciduria and homocystinuria type cblD	OMIM:277410
+DOID:0050717	methylmalonic aciduria and homocystinuria type cblF	OMIM:277380
+DOID:0050720	ornithine translocase deficiency	OMIM:238970
+DOID:0050722	PHGDH deficiency	OMIM:601815
+DOID:0050723	PSAT deficiency	OMIM:610992
+DOID:0050724	PSPH deficiency	OMIM:614023
+DOID:0050725	tyrosinemia type II	OMIM:276600
+DOID:0050726	tyrosinemia type I	OMIM:276700
+DOID:0050727	tyrosinemia type III	OMIM:276710
+DOID:0050729	neutral lipid storage disease	OMIM:275630
+DOID:0050730	coenzyme Q10 deficiency disease	OMIM:607426
+DOID:0050730	coenzyme Q10 deficiency disease	OMIM:612016
+DOID:0050730	coenzyme Q10 deficiency disease	OMIM:614650
+DOID:0050730	coenzyme Q10 deficiency disease	OMIM:614651
+DOID:0050730	coenzyme Q10 deficiency disease	OMIM:614652
+DOID:0050730	coenzyme Q10 deficiency disease	OMIM:614654
+DOID:0050734	congenital intrinsic factor deficiency	OMIM:261000
+DOID:0050740	Qazi Markouizos syndrome	OMIM:600096
+DOID:0050741	alcohol dependence	OMIM:103780
+DOID:0050742	nicotine dependence	OMIM:188890
+DOID:0050747	lymphoplasmacytic lymphoma	OMIM:153600
+DOID:0050747	lymphoplasmacytic lymphoma	OMIM:610430
+DOID:0050752	amyotrophic lateral sclerosis type 8	OMIM:608627
+DOID:0050757	deafness dystonia syndrome	OMIM:304700
+DOID:0050759	myotonic dystrophy type 2	OMIM:602668
+DOID:0050763	ARC syndrome	OMIM:208085
+DOID:0050763	ARC syndrome	OMIM:613404
+DOID:0050764	Armfield syndrome	OMIM:300261
+DOID:0050768	mitochondrial complex V (ATP synthase) deficiency, nuclear type 1	OMIM:604273
+DOID:0050769	N syndrome	OMIM:310465
+DOID:0050770	polycystic liver disease	OMIM:174050
+DOID:0050771	phaeochromocytoma	OMIM:171300
+DOID:0050773	paraganglioma	OMIM:116310
+DOID:0050773	paraganglioma	OMIM:168000
+DOID:0050773	paraganglioma	OMIM:601650
+DOID:0050773	paraganglioma	OMIM:605373
+DOID:0050773	paraganglioma	OMIM:614165
+DOID:0050774	rapadilino syndrome	OMIM:266280
+DOID:0050775	schneckenbecken dysplasia	OMIM:269250
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300046
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300047
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300062
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300114
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300115
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300143
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300210
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300271
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300324
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300355
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300372
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300387
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300428
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300433
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300436
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300454
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300498
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300504
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300505
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300518
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300551
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300558
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300577
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300659
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300716
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300802
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300803
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300844
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300848
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300849
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300850
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300851
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300852
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300912
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300919
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:300923
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:309530
+DOID:0050776	non-syndromic X-linked intellectual disability	OMIM:309549
+DOID:0050777	Joubert syndrome	OMIM:213300
+DOID:0050777	Joubert syndrome	OMIM:300804
+DOID:0050777	Joubert syndrome	OMIM:608091
+DOID:0050777	Joubert syndrome	OMIM:608629
+DOID:0050777	Joubert syndrome	OMIM:609583
+DOID:0050777	Joubert syndrome	OMIM:610188
+DOID:0050777	Joubert syndrome	OMIM:610688
+DOID:0050777	Joubert syndrome	OMIM:611560
+DOID:0050777	Joubert syndrome	OMIM:612285
+DOID:0050777	Joubert syndrome	OMIM:612291
+DOID:0050777	Joubert syndrome	OMIM:614173
+DOID:0050777	Joubert syndrome	OMIM:614424
+DOID:0050777	Joubert syndrome	OMIM:614464
+DOID:0050777	Joubert syndrome	OMIM:614465
+DOID:0050777	Joubert syndrome	OMIM:614615
+DOID:0050777	Joubert syndrome	OMIM:614815
+DOID:0050777	Joubert syndrome	OMIM:614970
+DOID:0050777	Joubert syndrome	OMIM:615636
+DOID:0050777	Joubert syndrome	OMIM:615665
+DOID:0050778	Meckel syndrome	OMIM:249000
+DOID:0050778	Meckel syndrome	OMIM:267010
+DOID:0050778	Meckel syndrome	OMIM:603194
+DOID:0050778	Meckel syndrome	OMIM:607361
+DOID:0050778	Meckel syndrome	OMIM:611134
+DOID:0050778	Meckel syndrome	OMIM:611561
+DOID:0050778	Meckel syndrome	OMIM:612284
+DOID:0050778	Meckel syndrome	OMIM:613885
+DOID:0050778	Meckel syndrome	OMIM:614175
+DOID:0050778	Meckel syndrome	OMIM:614209
+DOID:0050778	Meckel syndrome	OMIM:615397
+DOID:0050779	hydrolethalus syndrome	OMIM:236680
+DOID:0050779	hydrolethalus syndrome	OMIM:614120
+DOID:0050780	Opitz-GBBB syndrome	OMIM:145410
+DOID:0050780	Opitz-GBBB syndrome	OMIM:300000
+DOID:0050781	Ogden syndrome	OMIM:300013
+DOID:0050781	Ogden syndrome	OMIM:300855
+DOID:0050786	iridogoniodysgenesis syndrome	OMIM:137600
+DOID:0050786	iridogoniodysgenesis syndrome	OMIM:601631
+DOID:0050787	juvenile polyposis syndrome	OMIM:174900
+DOID:0050788	proximal symphalangism	OMIM:185800
+DOID:0050789	tarsal-carpal coalition syndrome	OMIM:186570
+DOID:0050790	fibular hypoplasia and complex brachydactyly	OMIM:228900
+DOID:0050791	persistent mullerian duct syndrome	OMIM:261550
+DOID:0050792	multiple cutaneous and mucosal venous malformations	OMIM:600195
+DOID:0050793	short QT syndrome	OMIM:609620
+DOID:0050793	short QT syndrome	OMIM:609621
+DOID:0050793	short QT syndrome	OMIM:609622
+DOID:0050794	multiple synostoses syndrome	OMIM:186500
+DOID:0050794	multiple synostoses syndrome	OMIM:610017
+DOID:0050794	multiple synostoses syndrome	OMIM:612961
+DOID:0050795	cone dystrophy	OMIM:180020
+DOID:0050795	cone dystrophy	OMIM:610024
+DOID:0050795	cone dystrophy	OMIM:610356
+DOID:0050795	cone dystrophy	OMIM:610478
+DOID:0050796	achalasia microcephaly syndrome	OMIM:200450
+DOID:0050797	peroxisomal acyl-CoA oxidase deficiency	OMIM:264470
+DOID:0050799	guanidinoacetate methyltransferase deficiency	OMIM:612736
+DOID:0050800	creatine transporter deficiency	OMIM:300352
+DOID:0050801	androgenic alopecia	OMIM:109200
+DOID:0050801	androgenic alopecia	OMIM:300710
+DOID:0050801	androgenic alopecia	OMIM:612421
+DOID:0050802	Ehlers-Danlos syndrome progeroid type	OMIM:615349
+DOID:0050807	Kahrizi syndrome	OMIM:612713
+DOID:0050809	mucopolysaccharidosis IX	OMIM:601492
+DOID:0050811	congenital adrenal hyperplasia	OMIM:201710
+DOID:0050811	congenital adrenal hyperplasia	OMIM:201810
+DOID:0050811	congenital adrenal hyperplasia	OMIM:201910
+DOID:0050811	congenital adrenal hyperplasia	OMIM:202010
+DOID:0050811	congenital adrenal hyperplasia	OMIM:202110
+DOID:0050812	spondyloepimetaphyseal dysplasia, Pakistani type	OMIM:612847
+DOID:0050813	spondyloepiphyseal dysplasia with congenital joint dislocations	OMIM:143095
+DOID:0050814	temtamy preaxial brachydactyly syndrome	OMIM:605282
+DOID:0050816	urofacial syndrome	OMIM:236730
+DOID:0050816	urofacial syndrome	OMIM:615112
+DOID:0050817	Stargardt disease	OMIM:248200
+DOID:0050817	Stargardt disease	OMIM:600110
+DOID:0050817	Stargardt disease	OMIM:603786
+DOID:0050818	transcobalamin II deficiency	OMIM:275350
+DOID:0050819	Matthew-Wood syndrome	OMIM:601186
+DOID:0050831	familial encephalopathy with neuroserpin inclusion bodies	OMIM:604218
+DOID:0050833	orotic aciduria	OMIM:258900
+DOID:0050834	CHARGE syndrome	OMIM:214800
+DOID:0050835	generalized dystonia	OMIM:128100
+DOID:0050848	obstructive sleep apnea	OMIM:107650
+DOID:0050857	Perrault syndrome	OMIM:233400
+DOID:0050857	Perrault syndrome	OMIM:614129
+DOID:0050857	Perrault syndrome	OMIM:614926
+DOID:0050857	Perrault syndrome	OMIM:615300
+DOID:0050858	Marshall-Smith syndrome	OMIM:602535
+DOID:0050867	Jensen syndrome	OMIM:311150
+DOID:0050877	pancreatic agenesis	OMIM:260370
+DOID:0050879	fragile X-associated tremor/ataxia syndrome	OMIM:300623
+DOID:0050880	Koolen de Vries syndrome	OMIM:610443
+DOID:0050881	inclusion body myopathy with Paget disease of bone and frontotemporal dementia	OMIM:167320
+DOID:0050881	inclusion body myopathy with Paget disease of bone and frontotemporal dementia	OMIM:615422
+DOID:0050881	inclusion body myopathy with Paget disease of bone and frontotemporal dementia	OMIM:615424
+DOID:0050882	spinocerebellar ataxia type 5	OMIM:600224
+DOID:0050883	infantile cerebellar-retinal degeneration	OMIM:614559
+DOID:0050884	triosephosphate isomerase deficiency	OMIM:190450
+DOID:0050884	triosephosphate isomerase deficiency	OMIM:615512
+DOID:0050885	IMAGe syndrome	OMIM:614732
+DOID:0050886	Troyer syndrome	OMIM:275900
+DOID:0050887	Townes-Brocks syndrome	OMIM:107480
+DOID:0050888	syndromic intellectual disability	OMIM:300486
+DOID:0050888	syndromic intellectual disability	OMIM:300860
+DOID:0050888	syndromic intellectual disability	OMIM:309583
+DOID:0050889	non-syndromic intellectual disability	OMIM:613192
+DOID:0050889	non-syndromic intellectual disability	OMIM:614202
+DOID:0050902	medulloblastoma	OMIM:155255
+DOID:0060009	MHC class I deficiency	OMIM:604571
+DOID:0060013	gamma chain deficiency	OMIM:300400
+DOID:0060020	reticular dysgenesis	OMIM:267500
+DOID:0060021	DNA ligase IV deficiency	OMIM:606593
+DOID:0060025	immunoglobulin alpha deficiency	OMIM:137100
+DOID:0060025	immunoglobulin alpha deficiency	OMIM:269650
+DOID:0060025	immunoglobulin alpha deficiency	OMIM:609529
+DOID:0060055	popliteal pterygium syndrome	OMIM:119500
+DOID:0060055	popliteal pterygium syndrome	OMIM:263650
+DOID:0060060	non-Hodgkin lymphoma	OMIM:605027
+DOID:0060062	familial juvenile hyperuricemic nephropathy	OMIM:162000
+DOID:0060062	familial juvenile hyperuricemic nephropathy	OMIM:613092
+DOID:0060062	familial juvenile hyperuricemic nephropathy	OMIM:614227
+DOID:0060063	X-linked sideroblastic anemia	OMIM:300751
+DOID:0060064	sideroblastic anemia with spinocerebellar ataxia	OMIM:310310
+DOID:0060065	pyridoxine-refractory autosomal recessive sideroblastic anemia	OMIM:205950
+DOID:0060066	pyridoxine-responsive sideroblastic anemia	OMIM:206000
+DOID:0060067	Pearson syndrome	OMIM:557000
+DOID:0060161	Kennedy's disease	OMIM:313200
+DOID:0060162	dentatorubral-pallidoluysian atrophy	OMIM:125370
+DOID:0060169	benign familial infantile epilepsy	OMIM:601764
+DOID:0060169	benign familial infantile epilepsy	OMIM:605751
+DOID:0060169	benign familial infantile epilepsy	OMIM:607745
+DOID:0060169	benign familial infantile epilepsy	OMIM:612627
+DOID:0060170	generalized epilepsy with febrile seizures plus	OMIM:604233
+DOID:0060170	generalized epilepsy with febrile seizures plus	OMIM:604403
+DOID:0060170	generalized epilepsy with febrile seizures plus	OMIM:609800
+DOID:0060170	generalized epilepsy with febrile seizures plus	OMIM:611277
+DOID:0060170	generalized epilepsy with febrile seizures plus	OMIM:612279
+DOID:0060170	generalized epilepsy with febrile seizures plus	OMIM:613828
+DOID:0060170	generalized epilepsy with febrile seizures plus	OMIM:613863
+DOID:0060171	Dravet Syndrome	OMIM:607208
+DOID:0060174	GABA aminotransferase deficiency	OMIM:613163
+DOID:0060178	familial hemiplegic migraine	OMIM:141500
+DOID:0060178	familial hemiplegic migraine	OMIM:300125
+DOID:0060178	familial hemiplegic migraine	OMIM:602481
+DOID:0060178	familial hemiplegic migraine	OMIM:607516
+DOID:0060178	familial hemiplegic migraine	OMIM:609634
+DOID:0060179	Renpenning syndrome	OMIM:309500
+DOID:0060180	colitis	OMIM:191390
+DOID:0060193	amyotrophic lateral sclerosis type 1	OMIM:105400
+DOID:0060194	amyotrophic lateral sclerosis type 2	OMIM:205100
+DOID:0060195	amyotrophic lateral sclerosis type 3	OMIM:606640
+DOID:0060196	amyotrophic lateral sclerosis type 4	OMIM:602433
+DOID:0060197	amyotrophic lateral sclerosis type 5	OMIM:602099
+DOID:0060198	amyotrophic lateral sclerosis type 6	OMIM:608030
+DOID:0060199	amyotrophic lateral sclerosis type 7	OMIM:608031
+DOID:0060200	amyotrophic lateral sclerosis type 9	OMIM:611895
+DOID:0060201	amyotrophic lateral sclerosis type 10	OMIM:612069
+DOID:0060202	amyotrophic lateral sclerosis type 11	OMIM:612577
+DOID:0060203	amyotrophic lateral sclerosis type 12	OMIM:613435
+DOID:0060204	amyotrophic lateral sclerosis type 13	OMIM:183090
+DOID:0060205	amyotrophic lateral sclerosis type 14	OMIM:613954
+DOID:0060206	amyotrophic lateral sclerosis type 15	OMIM:300857
+DOID:0060207	amyotrophic lateral sclerosis type 16	OMIM:614373
+DOID:0060208	amyotrophic lateral sclerosis type 17	OMIM:614696
+DOID:0060209	amyotrophic lateral sclerosis type 18	OMIM:614808
+DOID:0060210	amyotrophic lateral sclerosis type 19	OMIM:615515
+DOID:0060211	amyotrophic lateral sclerosis type 20	OMIM:615426
+DOID:0060212	amyotrophic lateral sclerosis type 21	OMIM:606070
+DOID:0060218	CREST syndrome	OMIM:181750
+DOID:0060221	Maffucci syndrome	OMIM:614569
+DOID:0060222	Scheie syndrome	OMIM:607016
+DOID:0060225	3MC syndrome	OMIM:248340
+DOID:0060225	3MC syndrome	OMIM:257920
+DOID:0060225	3MC syndrome	OMIM:265050
+DOID:0060226	acrofrontofacionasal dysostosis	OMIM:201180
+DOID:0060226	acrofrontofacionasal dysostosis	OMIM:239710
+DOID:0060227	Adams-Oliver syndrome	OMIM:100300
+DOID:0060227	Adams-Oliver syndrome	OMIM:614219
+DOID:0060227	Adams-Oliver syndrome	OMIM:614814
+DOID:0060227	Adams-Oliver syndrome	OMIM:615297
+DOID:0060228	intracranial berry aneurysm	OMIM:105800
+DOID:0060228	intracranial berry aneurysm	OMIM:300870
+DOID:0060228	intracranial berry aneurysm	OMIM:608542
+DOID:0060228	intracranial berry aneurysm	OMIM:609122
+DOID:0060228	intracranial berry aneurysm	OMIM:610213
+DOID:0060228	intracranial berry aneurysm	OMIM:611892
+DOID:0060228	intracranial berry aneurysm	OMIM:612161
+DOID:0060228	intracranial berry aneurysm	OMIM:612162
+DOID:0060228	intracranial berry aneurysm	OMIM:612586
+DOID:0060228	intracranial berry aneurysm	OMIM:612587
+DOID:0060228	intracranial berry aneurysm	OMIM:614252
+DOID:0060229	Baraitser-Winter syndrome	OMIM:243310
+DOID:0060229	Baraitser-Winter syndrome	OMIM:614583
+DOID:0060230	basal ganglia calcification	OMIM:114100
+DOID:0060230	basal ganglia calcification	OMIM:213600
+DOID:0060230	basal ganglia calcification	OMIM:606656
+DOID:0060230	basal ganglia calcification	OMIM:615007
+DOID:0060230	basal ganglia calcification	OMIM:615483
+DOID:0060231	Bruck syndrome	OMIM:259450
+DOID:0060231	Bruck syndrome	OMIM:609220
+DOID:0060232	branchiootic syndrome	OMIM:120502
+DOID:0060232	branchiootic syndrome	OMIM:602588
+DOID:0060232	branchiootic syndrome	OMIM:608389
+DOID:0060233	cardiofaciocutaneous syndrome	OMIM:115150
+DOID:0060233	cardiofaciocutaneous syndrome	OMIM:615278
+DOID:0060233	cardiofaciocutaneous syndrome	OMIM:615279
+DOID:0060233	cardiofaciocutaneous syndrome	OMIM:615280
+DOID:0060234	Carpenter syndrome	OMIM:201000
+DOID:0060234	Carpenter syndrome	OMIM:614976
+DOID:0060235	carnitine palmitoyltransferase II deficiency	OMIM:255110
+DOID:0060235	carnitine palmitoyltransferase II deficiency	OMIM:600649
+DOID:0060235	carnitine palmitoyltransferase II deficiency	OMIM:608836
+DOID:0060236	xanthinuria	OMIM:278300
+DOID:0060236	xanthinuria	OMIM:603592
+DOID:0060237	Warburg micro syndrome	OMIM:600118
+DOID:0060237	Warburg micro syndrome	OMIM:614222
+DOID:0060237	Warburg micro syndrome	OMIM:614225
+DOID:0060237	Warburg micro syndrome	OMIM:615663
+DOID:0060238	Van Maldergem syndrome	OMIM:601390
+DOID:0060238	Van Maldergem syndrome	OMIM:615546
+DOID:0060239	Van der Woude syndrome	OMIM:119300
+DOID:0060239	Van der Woude syndrome	OMIM:606713
+DOID:0060240	UV-sensitive syndrome	OMIM:600630
+DOID:0060240	UV-sensitive syndrome	OMIM:614621
+DOID:0060240	UV-sensitive syndrome	OMIM:614640
+DOID:0060241	3-M syndrome	OMIM:273750
+DOID:0060241	3-M syndrome	OMIM:612921
+DOID:0060241	3-M syndrome	OMIM:614205
+DOID:0060242	synpolydactyly	OMIM:186000
+DOID:0060242	synpolydactyly	OMIM:608180
+DOID:0060242	synpolydactyly	OMIM:610234
+DOID:0060243	stuttering	OMIM:184450
+DOID:0060243	stuttering	OMIM:609261
+DOID:0060243	stuttering	OMIM:614655
+DOID:0060243	stuttering	OMIM:614668
+DOID:0060244	specific language impairment	OMIM:606711
+DOID:0060244	specific language impairment	OMIM:606712
+DOID:0060244	specific language impairment	OMIM:612514
+DOID:0060244	specific language impairment	OMIM:615432
+DOID:0060244	specific language impairment	OMIM:617134
+DOID:0060245	Mast syndrome	OMIM:248900
+DOID:0060246	MASA syndrome	OMIM:303350
+DOID:0060247	Smith-McCort dysplasia	OMIM:607326
+DOID:0060247	Smith-McCort dysplasia	OMIM:615222
+DOID:0060248	Simpson-Golabi-Behmel syndrome	OMIM:300209
+DOID:0060248	Simpson-Golabi-Behmel syndrome	OMIM:312870
+DOID:0060250	idiopathic scoliosis	OMIM:181800
+DOID:0060250	idiopathic scoliosis	OMIM:607354
+DOID:0060250	idiopathic scoliosis	OMIM:608765
+DOID:0060250	idiopathic scoliosis	OMIM:612238
+DOID:0060250	idiopathic scoliosis	OMIM:612239
+DOID:0060251	sclerosteosis	OMIM:269500
+DOID:0060251	sclerosteosis	OMIM:614305
+DOID:0060252	sclerocornea	OMIM:181700
+DOID:0060253	scapuloperoneal myopathy	OMIM:181430
+DOID:0060253	scapuloperoneal myopathy	OMIM:300695
+DOID:0060254	Robinow syndrome	OMIM:180700
+DOID:0060254	Robinow syndrome	OMIM:300695
+DOID:0060255	rippling muscle disease	OMIM:600332
+DOID:0060255	rippling muscle disease	OMIM:606072
+DOID:0060256	Dowling-Degos disease	OMIM:179850
+DOID:0060256	Dowling-Degos disease	OMIM:615327
+DOID:0060256	Dowling-Degos disease	OMIM:615674
+DOID:0060256	Dowling-Degos disease	OMIM:615696
+DOID:0060257	dyschromatosis symmetrica hereditaria	OMIM:127400
+DOID:0060258	reticulate acropigmentation of Kitamura	OMIM:615537
+DOID:0060259	renal-hepatic-pancreatic dysplasia	OMIM:208540
+DOID:0060259	renal-hepatic-pancreatic dysplasia	OMIM:615415
+DOID:0060261	congenital ptosis	OMIM:178300
+DOID:0060261	congenital ptosis	OMIM:300245
+DOID:0060262	gallbladder disease	OMIM:609918
+DOID:0060262	gallbladder disease	OMIM:609919
+DOID:0060262	gallbladder disease	OMIM:611465
+DOID:0060263	porencephaly	OMIM:175780
+DOID:0060263	porencephaly	OMIM:614483
+DOID:0060265	pontocerebellar hypoplasia type 1A	OMIM:607596
+DOID:0060266	pontocerebellar hypoplasia type 1B	OMIM:614678
+DOID:0060267	pontocerebellar hypoplasia type 2A	OMIM:277470
+DOID:0060268	pontocerebellar hypoplasia type 2B	OMIM:612389
+DOID:0060269	pontocerebellar hypoplasia type 2C	OMIM:612390
+DOID:0060270	pontocerebellar hypoplasia type 2D	OMIM:613811
+DOID:0060271	pontocerebellar hypoplasia type 2E	OMIM:615851
+DOID:0060272	pontocerebellar hypoplasia type 3	OMIM:608027
+DOID:0060273	pontocerebellar hypoplasia type 4	OMIM:225753
+DOID:0060274	pontocerebellar hypoplasia type 5	OMIM:610204
+DOID:0060275	pontocerebellar hypoplasia type 6	OMIM:611523
+DOID:0060276	pontocerebellar hypoplasia type 7	OMIM:614969
+DOID:0060277	pontocerebellar hypoplasia type 8	OMIM:614961
+DOID:0060278	pontocerebellar hypoplasia type 9	OMIM:615809
+DOID:0060279	pontocerebellar hypoplasia type 10	OMIM:615803
+DOID:0060280	primary pigmented nodular adrenocortical disease	OMIM:610475
+DOID:0060280	primary pigmented nodular adrenocortical disease	OMIM:610489
+DOID:0060280	primary pigmented nodular adrenocortical disease	OMIM:614190
+DOID:0060280	primary pigmented nodular adrenocortical disease	OMIM:615830
+DOID:0060281	photosensitive epilepsy	OMIM:132100
+DOID:0060281	photosensitive epilepsy	OMIM:609572
+DOID:0060281	photosensitive epilepsy	OMIM:609573
+DOID:0060282	persistent hyperplastic primary vitreous	OMIM:221900
+DOID:0060282	persistent hyperplastic primary vitreous	OMIM:611308
+DOID:0060283	peeling skin syndrome	OMIM:270300
+DOID:0060283	peeling skin syndrome	OMIM:613088
+DOID:0060284	paroxysmal nocturnal hemoglobinuria	OMIM:300818
+DOID:0060284	paroxysmal nocturnal hemoglobinuria	OMIM:615399
+DOID:0060285	parietal foramina	OMIM:168500
+DOID:0060285	parietal foramina	OMIM:609566
+DOID:0060285	parietal foramina	OMIM:609597
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:300816
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:609060
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:610498
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:610505
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:610678
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:611719
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:613559
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:614096
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:614582
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:614702
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:614922
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:614924
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:614932
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:614946
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:614947
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:615395
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:615440
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:615578
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:615595
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:615917
+DOID:0060286	combined oxidative phosphorylation deficiency	OMIM:615918
+DOID:0060287	cornea plana	OMIM:121400
+DOID:0060287	cornea plana	OMIM:217300
+DOID:0060288	omodysplasia	OMIM:164745
+DOID:0060288	omodysplasia	OMIM:258315
+DOID:0060289	Ohdo syndrome	OMIM:249620
+DOID:0060289	Ohdo syndrome	OMIM:300895
+DOID:0060290	blepharophimosis-intellectual disability syndrome, SBBYS type	OMIM:603736
+DOID:0060291	oculodentodigital dysplasia	OMIM:164200
+DOID:0060291	oculodentodigital dysplasia	OMIM:257850
+DOID:0060292	X-linked chondrodysplasia punctata	OMIM:302950
+DOID:0060292	X-linked chondrodysplasia punctata	OMIM:302960
+DOID:0060293	autosomal dominant chondrodysplasia punctata	OMIM:118650
+DOID:0060293	autosomal dominant chondrodysplasia punctata	OMIM:118651
+DOID:0060293	autosomal dominant chondrodysplasia punctata	OMIM:602497
+DOID:0060294	cold-induced sweating syndrome	OMIM:242730
+DOID:0060294	cold-induced sweating syndrome	OMIM:610313
+DOID:0060295	complement component 2 deficiency	OMIM:217000
+DOID:0060296	congenital secretory chloride diarrhea 1	OMIM:214700
+DOID:0060297	complement component 4a deficiency	OMIM:614380
+DOID:0060298	complement component 4b deficiency	OMIM:614379
+DOID:0060299	complement component 6 deficiency	OMIM:612446
+DOID:0060300	complement component 7 deficiency	OMIM:610102
+DOID:0060301	type I complement component 8 deficiency	OMIM:613790
+DOID:0060302	type II complement component 8 deficiency	OMIM:613789
+DOID:0060303	complement component 9 deficiency	OMIM:613825
+DOID:0060304	dyschromatosis universalis hereditaria	OMIM:127500
+DOID:0060304	dyschromatosis universalis hereditaria	OMIM:612715
+DOID:0060304	dyschromatosis universalis hereditaria	OMIM:615402
+DOID:0060305	megalocornea	OMIM:249300
+DOID:0060305	megalocornea	OMIM:309300
+DOID:0060306	Meier-Gorlin syndrome	OMIM:224690
+DOID:0060306	Meier-Gorlin syndrome	OMIM:613800
+DOID:0060306	Meier-Gorlin syndrome	OMIM:613803
+DOID:0060306	Meier-Gorlin syndrome	OMIM:613804
+DOID:0060306	Meier-Gorlin syndrome	OMIM:613805
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:156200
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:612337
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:612580
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:612581
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:612621
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:613443
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:613970
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:614104
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:614113
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:614254
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:614255
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:614256
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:614257
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:614562
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:614563
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:614607
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:614608
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:614609
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:615009
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:615074
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:615075
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:615502
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:615761
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:615828
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:615834
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:615873
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	OMIM:615886
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:249500
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:607417
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:608443
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:611090
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:611091
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:611092
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:611093
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:611094
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:611095
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:611096
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:611097
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:6111107
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614020
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614208
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614249
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614286
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614329
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614333
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614339
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614340
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614341
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614342
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614343
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614344
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614345
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614346
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614347
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614499
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:614562
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:615493
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:615516
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:615541
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:615599
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:615637
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:615802
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:615817
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	OMIM:615942
+DOID:0060309	syndromic X-linked intellectual disability	OMIM:300055
+DOID:0060309	syndromic X-linked intellectual disability	OMIM:300218
+DOID:0060309	syndromic X-linked intellectual disability	OMIM:300220
+DOID:0060309	syndromic X-linked intellectual disability	OMIM:300238
+DOID:0060309	syndromic X-linked intellectual disability	OMIM:300676
+DOID:0060309	syndromic X-linked intellectual disability	OMIM:300709
+DOID:0060309	syndromic X-linked intellectual disability	OMIM:300858
+DOID:0060309	syndromic X-linked intellectual disability	OMIM:300886
+DOID:0060309	syndromic X-linked intellectual disability	OMIM:304340
+DOID:0060309	syndromic X-linked intellectual disability	OMIM:309545
+DOID:0060316	orofaciodigital syndrome type I	OMIM:311200
+DOID:0060318	acute promyelocytic leukemia	OMIM:612376
+DOID:0060327	omphalocele	OMIM:164750
+DOID:0060330	Rapp-Hodgkin syndrome	OMIM:129400
+DOID:0060331	mitochondrial complex V (ATP synthase) deficiency nuclear type 2	OMIM:614052
+DOID:0060332	mitochondrial complex V (ATP synthase) deficiency nuclear type 3	OMIM:614053
+DOID:0060333	mitochondrial complex V (ATP synthase) deficiency nuclear type 4	OMIM:615228
+DOID:0060334	transient neonatal diabetes mellitus	OMIM:601410
+DOID:0060334	transient neonatal diabetes mellitus	OMIM:610374
+DOID:0060334	transient neonatal diabetes mellitus	OMIM:610582
+DOID:0060335	autosomal dominant sideroblastic anemia	OMIM:182170
+DOID:0060337	CEDNIK syndrome	OMIM:609528
+DOID:0060339	chronic atrial and intestinal dysrhythmia	OMIM:616201
+DOID:0060341	agnathia-otocephaly complex	OMIM:202650
+DOID:0060342	acromelic frontonasal dysostosis	OMIM:603671
+DOID:0060346	Native American myopathy	OMIM:255995
+DOID:0060347	acrorenal syndrome	OMIM:102520
+DOID:0060347	acrorenal syndrome	OMIM:201310
+DOID:0080021	Schmid metaphyseal chondrodysplasia	OMIM:156500
+DOID:0080026	otospondylomegaepiphyseal dysplasia	OMIM:215150
+DOID:0080028	spondyloepimetaphyseal dysplasia, Strudwick type	OMIM:184250
+DOID:0080030	spondyloepimetaphyseal dysplasia, Missouri type	OMIM:602111
+DOID:0080033	craniometaphyseal dysplasia	OMIM:122860
+DOID:0080033	craniometaphyseal dysplasia	OMIM:123000
+DOID:0080033	craniometaphyseal dysplasia	OMIM:218300
+DOID:0080033	craniometaphyseal dysplasia	OMIM:218400
+DOID:0080033	craniometaphyseal dysplasia	OMIM:614099
+DOID:0080033	craniometaphyseal dysplasia	OMIM:614378
+DOID:0080046	Stickler syndrome	OMIM:108300
+DOID:0080046	Stickler syndrome	OMIM:184840
+DOID:0080046	Stickler syndrome	OMIM:604841
+DOID:0080047	pseudoachondroplasia	OMIM:177170
+DOID:0080050	acromesomelic dysplasia, Maroteaux type	OMIM:602875
+DOID:0080051	acromesomelic dysplasia, Hunter-Thompson type	OMIM:201250
+DOID:0080052	acromesomelic dysplasia, Grebe type	OMIM:200700
+DOID:0080053	Albright's hereditary osteodystrophy	OMIM:103580
+DOID:0080054	achondrogenesis type IA	OMIM:200600
+DOID:0080055	achondrogenesis type IB	OMIM:600972
+DOID:0080056	achondrogenesis type II	OMIM:200610
+DOID:0010003	sensorineural hearing loss	OMIM:304400
+DOID:0010016	multiple endocrine neoplasia type 2B	OMIM:162300
+DOID:0010017	multiple endocrine neoplasia type 1	OMIM:131100
+DOID:0010024	migraine with aura	OMIM:609179
+DOID:0010024	migraine with aura	OMIM:609670
+DOID:0010041	dysplastic nevus syndrome	OMIM:155600
+DOID:0010041	dysplastic nevus syndrome	OMIM:155601
+DOID:0010122	hyperpigmentation of eyelid	OMIM:145100
+DOID:0010126	keratoconus	OMIM:148300
+DOID:0010126	keratoconus	OMIM:608586
+DOID:0010126	keratoconus	OMIM:608932
+DOID:0010126	keratoconus	OMIM:609271
+DOID:0010126	keratoconus	OMIM:614622
+DOID:0010126	keratoconus	OMIM:614623
+DOID:0010126	keratoconus	OMIM:614628
+DOID:0010126	keratoconus	OMIM:614629
+DOID:0001024	leprosy	OMIM:246300
+DOID:0001024	leprosy	OMIM:607572
+DOID:0001024	leprosy	OMIM:609888
+DOID:0001024	leprosy	OMIM:610988
+DOID:0001024	leprosy	OMIM:613223
+DOID:0001024	leprosy	OMIM:613407
+DOID:0010241	thalassemia	OMIM:604131
+DOID:0010283	prostate cancer	OMIM:176807
+DOID:0010283	prostate cancer	OMIM:300147
+DOID:0010283	prostate cancer	OMIM:300704
+DOID:0010283	prostate cancer	OMIM:601518
+DOID:0010283	prostate cancer	OMIM:602759
+DOID:0010283	prostate cancer	OMIM:608656
+DOID:0010283	prostate cancer	OMIM:608658
+DOID:0010283	prostate cancer	OMIM:609299
+DOID:0010283	prostate cancer	OMIM:609558
+DOID:0010283	prostate cancer	OMIM:610321
+DOID:0010283	prostate cancer	OMIM:610997
+DOID:0010283	prostate cancer	OMIM:611100
+DOID:0010283	prostate cancer	OMIM:611868
+DOID:0010283	prostate cancer	OMIM:611928
+DOID:0010283	prostate cancer	OMIM:611955
+DOID:0010283	prostate cancer	OMIM:611958
+DOID:0010283	prostate cancer	OMIM:611959
+DOID:0010283	prostate cancer	OMIM:614761
+DOID:0010300	Raynaud disease	OMIM:179600
+DOID:0010383	amyotrophic neuralgia	OMIM:162100
+DOID:0001040	chronic lymphocytic leukemia	OMIM:109543
+DOID:0001040	chronic lymphocytic leukemia	OMIM:151400
+DOID:0001040	chronic lymphocytic leukemia	OMIM:609630
+DOID:0001040	chronic lymphocytic leukemia	OMIM:612557
+DOID:0001040	chronic lymphocytic leukemia	OMIM:612558
+DOID:0001040	chronic lymphocytic leukemia	OMIM:612559
+DOID:0010426	Klippel-Feil syndrome	OMIM:118100
+DOID:0010426	Klippel-Feil syndrome	OMIM:214300
+DOID:0010426	Klippel-Feil syndrome	OMIM:600156
+DOID:0010426	Klippel-Feil syndrome	OMIM:606874
+DOID:0010426	Klippel-Feil syndrome	OMIM:606875
+DOID:0010426	Klippel-Feil syndrome	OMIM:608462
+DOID:0010426	Klippel-Feil syndrome	OMIM:611644
+DOID:0010426	Klippel-Feil syndrome	OMIM:613702
+DOID:0010487	Hirschsprung's disease	OMIM:142623
+DOID:0010487	Hirschsprung's disease	OMIM:202550
+DOID:0010487	Hirschsprung's disease	OMIM:600155
+DOID:0010487	Hirschsprung's disease	OMIM:613711
+DOID:0010487	Hirschsprung's disease	OMIM:613712
+DOID:0010488	imperforate anus	OMIM:207500
+DOID:0010488	imperforate anus	OMIM:301800
+DOID:0010534	stomach cancer	OMIM:137215
+DOID:0010534	stomach cancer	OMIM:613659
+DOID:0001056	oculocerebrorenal syndrome	OMIM:309000
+DOID:0010581	metachromatic leukodystrophy	OMIM:249900
+DOID:0010581	metachromatic leukodystrophy	OMIM:250100
+DOID:0010582	Refsum disease	OMIM:266500
+DOID:0010582	Refsum disease	OMIM:266510
+DOID:0010584	retinitis pigmentosa	OMIM:120970
+DOID:0010584	retinitis pigmentosa	OMIM:180100
+DOID:0010584	retinitis pigmentosa	OMIM:180104
+DOID:0010584	retinitis pigmentosa	OMIM:180105
+DOID:0010584	retinitis pigmentosa	OMIM:180210
+DOID:0010584	retinitis pigmentosa	OMIM:268000
+DOID:0010584	retinitis pigmentosa	OMIM:268025
+DOID:0010584	retinitis pigmentosa	OMIM:268060
+DOID:0010584	retinitis pigmentosa	OMIM:300029
+DOID:0010584	retinitis pigmentosa	OMIM:300424
+DOID:0010584	retinitis pigmentosa	OMIM:300605
+DOID:0010584	retinitis pigmentosa	OMIM:312600
+DOID:0010584	retinitis pigmentosa	OMIM:312612
+DOID:0010584	retinitis pigmentosa	OMIM:400004
+DOID:0010584	retinitis pigmentosa	OMIM:600059
+DOID:0010584	retinitis pigmentosa	OMIM:600105
+DOID:0010584	retinitis pigmentosa	OMIM:600132
+DOID:0010584	retinitis pigmentosa	OMIM:600138
+DOID:0010584	retinitis pigmentosa	OMIM:600852
+DOID:0010584	retinitis pigmentosa	OMIM:601414
+DOID:0010584	retinitis pigmentosa	OMIM:601718
+DOID:0010584	retinitis pigmentosa	OMIM:602594
+DOID:0010584	retinitis pigmentosa	OMIM:602772
+DOID:0010584	retinitis pigmentosa	OMIM:603809
+DOID:0010584	retinitis pigmentosa	OMIM:606068
+DOID:0010584	retinitis pigmentosa	OMIM:607921
+DOID:0010584	retinitis pigmentosa	OMIM:608133
+DOID:0010584	retinitis pigmentosa	OMIM:608380
+DOID:0010584	retinitis pigmentosa	OMIM:609913
+DOID:0010584	retinitis pigmentosa	OMIM:609923
+DOID:0010584	retinitis pigmentosa	OMIM:610282
+DOID:0010584	retinitis pigmentosa	OMIM:610359
+DOID:0010584	retinitis pigmentosa	OMIM:610599
+DOID:0010584	retinitis pigmentosa	OMIM:611131
+DOID:0010584	retinitis pigmentosa	OMIM:612095
+DOID:0010584	retinitis pigmentosa	OMIM:612165
+DOID:0010584	retinitis pigmentosa	OMIM:612572
+DOID:0010584	retinitis pigmentosa	OMIM:612712
+DOID:0010584	retinitis pigmentosa	OMIM:612943
+DOID:0010584	retinitis pigmentosa	OMIM:613194
+DOID:0010584	retinitis pigmentosa	OMIM:613428
+DOID:0010584	retinitis pigmentosa	OMIM:613464
+DOID:0010584	retinitis pigmentosa	OMIM:613575
+DOID:0010584	retinitis pigmentosa	OMIM:613581
+DOID:0010584	retinitis pigmentosa	OMIM:613582
+DOID:0010584	retinitis pigmentosa	OMIM:613617
+DOID:0010584	retinitis pigmentosa	OMIM:613731
+DOID:0010584	retinitis pigmentosa	OMIM:613750
+DOID:0010584	retinitis pigmentosa	OMIM:613756
+DOID:0010584	retinitis pigmentosa	OMIM:613758
+DOID:0010584	retinitis pigmentosa	OMIM:613767
+DOID:0010584	retinitis pigmentosa	OMIM:613769
+DOID:0010584	retinitis pigmentosa	OMIM:613794
+DOID:0010584	retinitis pigmentosa	OMIM:613801
+DOID:0010584	retinitis pigmentosa	OMIM:613810
+DOID:0010584	retinitis pigmentosa	OMIM:613827
+DOID:0010584	retinitis pigmentosa	OMIM:613861
+DOID:0010584	retinitis pigmentosa	OMIM:613862
+DOID:0010584	retinitis pigmentosa	OMIM:613983
+DOID:0010584	retinitis pigmentosa	OMIM:614180
+DOID:0010584	retinitis pigmentosa	OMIM:614181
+DOID:0010584	retinitis pigmentosa	OMIM:614494
+DOID:0010584	retinitis pigmentosa	OMIM:615233
+DOID:0010584	retinitis pigmentosa	OMIM:615434
+DOID:0010584	retinitis pigmentosa	OMIM:615565
+DOID:0010584	retinitis pigmentosa	OMIM:615725
+DOID:0010584	retinitis pigmentosa	OMIM:615780
+DOID:0010584	retinitis pigmentosa	OMIM:615922
+DOID:0010587	Krabbe disease	OMIM:245200
+DOID:0010588	adrenoleukodystrophy	OMIM:202370
+DOID:0010588	adrenoleukodystrophy	OMIM:300100
+DOID:0010591	pre-eclampsia	OMIM:189800
+DOID:0010591	pre-eclampsia	OMIM:609402
+DOID:0010591	pre-eclampsia	OMIM:609403
+DOID:0010591	pre-eclampsia	OMIM:609404
+DOID:0010591	pre-eclampsia	OMIM:614592
+DOID:0001060	Hartnup disease	OMIM:234500
+DOID:0010604	lactose intolerance	OMIM:223100
+DOID:0010608	celiac disease	OMIM:212750
+DOID:0010608	celiac disease	OMIM:607202
+DOID:0010608	celiac disease	OMIM:609753
+DOID:0010608	celiac disease	OMIM:609754
+DOID:0010608	celiac disease	OMIM:609755
+DOID:0010608	celiac disease	OMIM:611598
+DOID:0010608	celiac disease	OMIM:612005
+DOID:0010608	celiac disease	OMIM:612006
+DOID:0010608	celiac disease	OMIM:612007
+DOID:0010608	celiac disease	OMIM:612008
+DOID:0010608	celiac disease	OMIM:612009
+DOID:0010608	celiac disease	OMIM:612011
+DOID:0010608	celiac disease	OMIM:612110
+DOID:0010609	rickets	OMIM:264700
+DOID:0010609	rickets	OMIM:277440
+DOID:0010609	rickets	OMIM:600081
+DOID:0010609	rickets	OMIM:600785
+DOID:0010611	protein-losing enteropathy	OMIM:226300
+DOID:0001062	Fanconi syndrome	OMIM:134600
+DOID:0001062	Fanconi syndrome	OMIM:613388
+DOID:0001062	Fanconi syndrome	OMIM:615605
+DOID:0010629	microphthalmia	OMIM:206900
+DOID:0010629	microphthalmia	OMIM:300166
+DOID:0010629	microphthalmia	OMIM:309801
+DOID:0010629	microphthalmia	OMIM:600165
+DOID:0010629	microphthalmia	OMIM:601186
+DOID:0010629	microphthalmia	OMIM:607932
+DOID:0010629	microphthalmia	OMIM:609549
+DOID:0010629	microphthalmia	OMIM:610093
+DOID:0010629	microphthalmia	OMIM:610125
+DOID:0010629	microphthalmia	OMIM:611038
+DOID:0010629	microphthalmia	OMIM:611040
+DOID:0010629	microphthalmia	OMIM:611897
+DOID:0010629	microphthalmia	OMIM:613094
+DOID:0010629	microphthalmia	OMIM:613704
+DOID:0010629	microphthalmia	OMIM:615972
+DOID:0010632	Wolfram syndrome	OMIM:222300
+DOID:0010632	Wolfram syndrome	OMIM:604928
+DOID:0001064	cystinosis	OMIM:219800
+DOID:0010652	Alzheimer's disease	OMIM:104300
+DOID:0010652	Alzheimer's disease	OMIM:104310
+DOID:0010652	Alzheimer's disease	OMIM:300756
+DOID:0010652	Alzheimer's disease	OMIM:502500
+DOID:0010652	Alzheimer's disease	OMIM:602096
+DOID:0010652	Alzheimer's disease	OMIM:604154
+DOID:0010652	Alzheimer's disease	OMIM:605526
+DOID:0010652	Alzheimer's disease	OMIM:606187
+DOID:0010652	Alzheimer's disease	OMIM:606889
+DOID:0010652	Alzheimer's disease	OMIM:607116
+DOID:0010652	Alzheimer's disease	OMIM:607822
+DOID:0010652	Alzheimer's disease	OMIM:608907
+DOID:0010652	Alzheimer's disease	OMIM:609636
+DOID:0010652	Alzheimer's disease	OMIM:609790
+DOID:0010652	Alzheimer's disease	OMIM:611073
+DOID:0010652	Alzheimer's disease	OMIM:611152
+DOID:0010652	Alzheimer's disease	OMIM:611154
+DOID:0010652	Alzheimer's disease	OMIM:611155
+DOID:0010652	Alzheimer's disease	OMIM:615080
+DOID:0010652	Alzheimer's disease	OMIM:615590
+DOID:0010652	Alzheimer's disease	OMIM:615711
+DOID:0001067	open-angle glaucoma	OMIM:137750
+DOID:0001067	open-angle glaucoma	OMIM:177700
+DOID:0001067	open-angle glaucoma	OMIM:601682
+DOID:0001067	open-angle glaucoma	OMIM:602429
+DOID:0001067	open-angle glaucoma	OMIM:603383
+DOID:0001067	open-angle glaucoma	OMIM:606689
+DOID:0001067	open-angle glaucoma	OMIM:608695
+DOID:0001067	open-angle glaucoma	OMIM:608696
+DOID:0001067	open-angle glaucoma	OMIM:609745
+DOID:0001067	open-angle glaucoma	OMIM:609887
+DOID:0001067	open-angle glaucoma	OMIM:610535
+DOID:0001067	open-angle glaucoma	OMIM:611274
+DOID:0001067	open-angle glaucoma	OMIM:611276
+DOID:0001067	open-angle glaucoma	OMIM:613100
+DOID:0001070	primary open angle glaucoma	OMIM:137760
+DOID:0010825	essential hypertension	OMIM:145500
+DOID:0010825	essential hypertension	OMIM:603918
+DOID:0010825	essential hypertension	OMIM:604329
+DOID:0010825	essential hypertension	OMIM:607329
+DOID:0010825	essential hypertension	OMIM:608742
+DOID:0010825	essential hypertension	OMIM:610261
+DOID:0010825	essential hypertension	OMIM:610262
+DOID:0010825	essential hypertension	OMIM:610948
+DOID:0010825	essential hypertension	OMIM:611014
+DOID:0010871	age related macular degeneration	OMIM:153800
+DOID:0010871	age related macular degeneration	OMIM:603075
+DOID:0010871	age related macular degeneration	OMIM:608895
+DOID:0010871	age related macular degeneration	OMIM:610149
+DOID:0010871	age related macular degeneration	OMIM:610698
+DOID:0010871	age related macular degeneration	OMIM:611378
+DOID:0010871	age related macular degeneration	OMIM:611488
+DOID:0010871	age related macular degeneration	OMIM:611953
+DOID:0010871	age related macular degeneration	OMIM:613757
+DOID:0010871	age related macular degeneration	OMIM:613761
+DOID:0010871	age related macular degeneration	OMIM:613778
+DOID:0010871	age related macular degeneration	OMIM:613784
+DOID:0010871	age related macular degeneration	OMIM:615439
+DOID:0010871	age related macular degeneration	OMIM:615489
+DOID:0010871	age related macular degeneration	OMIM:615591
+DOID:0010892	hypospadias	OMIM:146450
+DOID:0010892	hypospadias	OMIM:300633
+DOID:0010892	hypospadias	OMIM:300758
+DOID:0010892	hypospadias	OMIM:300856
+DOID:0010907	microcephaly	OMIM:251200
+DOID:0010907	microcephaly	OMIM:604321
+DOID:0010907	microcephaly	OMIM:604804
+DOID:0010907	microcephaly	OMIM:608393
+DOID:0010907	microcephaly	OMIM:608716
+DOID:0010907	microcephaly	OMIM:612703
+DOID:0010908	hydrocephalus	OMIM:123155
+DOID:0010908	hydrocephalus	OMIM:236600
+DOID:0010908	hydrocephalus	OMIM:236635
+DOID:0010908	hydrocephalus	OMIM:307000
+DOID:0010908	hydrocephalus	OMIM:615219
+DOID:0010915	Wernicke-Korsakoff syndrome	OMIM:277730
+DOID:0010923	sickle cell anemia	OMIM:603903
+DOID:0001094	attention deficit hyperactivity disorder	OMIM:143465
+DOID:0001094	attention deficit hyperactivity disorder	OMIM:608903
+DOID:0001094	attention deficit hyperactivity disorder	OMIM:608904
+DOID:0001094	attention deficit hyperactivity disorder	OMIM:608905
+DOID:0001094	attention deficit hyperactivity disorder	OMIM:608906
+DOID:0001094	attention deficit hyperactivity disorder	OMIM:612311
+DOID:0001094	attention deficit hyperactivity disorder	OMIM:612312
+DOID:0001094	attention deficit hyperactivity disorder	OMIM:613003
+DOID:0010970	spastic quadriplegia	OMIM:603513
+DOID:0010970	spastic quadriplegia	OMIM:612900
+DOID:0010983	Alport syndrome	OMIM:104200
+DOID:0010983	Alport syndrome	OMIM:203780
+DOID:0010983	Alport syndrome	OMIM:301050
+DOID:0001099	alpha thalassemia	OMIM:141750
+DOID:0001099	alpha thalassemia	OMIM:141800
+DOID:0001099	alpha thalassemia	OMIM:301040
+DOID:0001099	alpha thalassemia	OMIM:604131
+DOID:0001099	alpha thalassemia	OMIM:613978
+DOID:0010992	acute hemorrhagic leukoencephalitis	OMIM:606752
+DOID:0011042	Felty's syndrome	OMIM:134750
+DOID:0011044	gastroschisis	OMIM:230750
+DOID:0011054	urinary bladder cancer	OMIM:109800
+DOID:0011105	fundus albipunctatus	OMIM:136880
+DOID:0011119	Gilles de la Tourette syndrome	OMIM:137580
+DOID:0011156	anhidrosis	OMIM:206600
+DOID:0011164	band keratopathy	OMIM:217500
+DOID:0011193	syndactyly	OMIM:185900
+DOID:0011193	syndactyly	OMIM:186100
+DOID:0011193	syndactyly	OMIM:186200
+DOID:0011193	syndactyly	OMIM:186300
+DOID:0011198	DiGeorge syndrome	OMIM:188400
+DOID:0011199	hypoparathyroidism	OMIM:146200
+DOID:0011199	hypoparathyroidism	OMIM:307700
+DOID:0011202	primary hyperparathyroidism	OMIM:600166
+DOID:0011211	buphthalmos	OMIM:231300
+DOID:0001123	spondyloarthropathy	OMIM:106300
+DOID:0011252	microcytic anemia	OMIM:206200
+DOID:0011329	ainhum	OMIM:103400
+DOID:0011335	sarcoidosis	OMIM:181000
+DOID:0011335	sarcoidosis	OMIM:609464
+DOID:0011335	sarcoidosis	OMIM:612387
+DOID:0011335	sarcoidosis	OMIM:612388
+DOID:0011342	arcus senilis	OMIM:107800
+DOID:0011353	bladder diverticulum	OMIM:109820
+DOID:0011367	congenital aphakia	OMIM:610256
+DOID:0011383	cryptorchidism	OMIM:219050
+DOID:0011459	pseudotumor cerebri	OMIM:243200
+DOID:0011476	osteoporosis	OMIM:166710
+DOID:0001148	polydactyly	OMIM:174200
+DOID:0001148	polydactyly	OMIM:174500
+DOID:0001148	polydactyly	OMIM:174700
+DOID:0001148	polydactyly	OMIM:603596
+DOID:0011514	fissured tongue	OMIM:137400
+DOID:0011549	Adie syndrome	OMIM:103100
+DOID:0011555	Fuchs' endothelial dystrophy	OMIM:136800
+DOID:0011555	Fuchs' endothelial dystrophy	OMIM:610158
+DOID:0011555	Fuchs' endothelial dystrophy	OMIM:613267
+DOID:0011555	Fuchs' endothelial dystrophy	OMIM:613268
+DOID:0011555	Fuchs' endothelial dystrophy	OMIM:613269
+DOID:0011555	Fuchs' endothelial dystrophy	OMIM:613270
+DOID:0011555	Fuchs' endothelial dystrophy	OMIM:613271
+DOID:0011555	Fuchs' endothelial dystrophy	OMIM:615523
+DOID:0001156	chondrocalcinosis	OMIM:118600
+DOID:0001156	chondrocalcinosis	OMIM:118610
+DOID:0001156	chondrocalcinosis	OMIM:600668
+DOID:0011589	Riley-Day syndrome	OMIM:223900
+DOID:0011599	Frey Syndrome	OMIM:144100
+DOID:0011612	polycystic ovary syndrome	OMIM:184700
+DOID:0011633	thyroid hormone resistance syndrome	OMIM:188570
+DOID:0011633	thyroid hormone resistance syndrome	OMIM:274300
+DOID:0011634	myxedema	OMIM:255900
+DOID:0011661	blue color blindness	OMIM:190900
+DOID:0001171	hyperlipoproteinemia type V	OMIM:144650
+DOID:0011719	oculopharyngeal muscular dystrophy	OMIM:164300
+DOID:0001172	hyperlipoproteinemia type IV	OMIM:144600
+DOID:0011720	distal muscular dystrophy	OMIM:160300
+DOID:0011720	distal muscular dystrophy	OMIM:160500
+DOID:0011720	distal muscular dystrophy	OMIM:254130
+DOID:0011720	distal muscular dystrophy	OMIM:606768
+DOID:0011720	distal muscular dystrophy	OMIM:607569
+DOID:0011720	distal muscular dystrophy	OMIM:610099
+DOID:0011720	distal muscular dystrophy	OMIM:613318
+DOID:0011720	distal muscular dystrophy	OMIM:613319
+DOID:0011720	distal muscular dystrophy	OMIM:614065
+DOID:0011720	distal muscular dystrophy	OMIM:614321
+DOID:0011721	glycogen storage disease VII	OMIM:232800
+DOID:0011722	myotonic dystrophy type 1	OMIM:160900
+DOID:0011723	Duchenne muscular dystrophy	OMIM:310200
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:159000
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:159001
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:253600
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:253601
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:253700
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:254110
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:601287
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:601954
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:603511
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:604286
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:607155
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:607801
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:608099
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:608423
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:608807
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:609115
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:609308
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:611307
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:611588
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:613157
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:613158
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:613530
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:613723
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:613818
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:615325
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:615352
+DOID:0011724	limb-girdle muscular dystrophy	OMIM:615356
+DOID:0011725	Cornelia de Lange syndrome	OMIM:122470
+DOID:0011725	Cornelia de Lange syndrome	OMIM:300590
+DOID:0011725	Cornelia de Lange syndrome	OMIM:300882
+DOID:0011725	Cornelia de Lange syndrome	OMIM:610759
+DOID:0011725	Cornelia de Lange syndrome	OMIM:614701
+DOID:0011726	Emery-Dreifuss muscular dystrophy	OMIM:181350
+DOID:0011726	Emery-Dreifuss muscular dystrophy	OMIM:300696
+DOID:0011726	Emery-Dreifuss muscular dystrophy	OMIM:310300
+DOID:0011726	Emery-Dreifuss muscular dystrophy	OMIM:612998
+DOID:0011726	Emery-Dreifuss muscular dystrophy	OMIM:612999
+DOID:0011726	Emery-Dreifuss muscular dystrophy	OMIM:614302
+DOID:0011727	facioscapulohumeral muscular dystrophy	OMIM:158900
+DOID:0011782	astigmatism	OMIM:603047
+DOID:0011819	ureter cancer	OMIM:191600
+DOID:0011830	myopia	OMIM:160700
+DOID:0011830	myopia	OMIM:255500
+DOID:0011830	myopia	OMIM:300613
+DOID:0011830	myopia	OMIM:310460
+DOID:0011830	myopia	OMIM:603221
+DOID:0011830	myopia	OMIM:608367
+DOID:0011830	myopia	OMIM:608474
+DOID:0011830	myopia	OMIM:608908
+DOID:0011830	myopia	OMIM:609256
+DOID:0011830	myopia	OMIM:609257
+DOID:0011830	myopia	OMIM:609258
+DOID:0011830	myopia	OMIM:609259
+DOID:0011830	myopia	OMIM:609994
+DOID:0011830	myopia	OMIM:609995
+DOID:0011830	myopia	OMIM:610320
+DOID:0011830	myopia	OMIM:612554
+DOID:0011830	myopia	OMIM:612717
+DOID:0011830	myopia	OMIM:613959
+DOID:0011830	myopia	OMIM:614166
+DOID:0011830	myopia	OMIM:614167
+DOID:0011830	myopia	OMIM:615420
+DOID:0011830	myopia	OMIM:615431
+DOID:0011830	myopia	OMIM:615946
+DOID:0011836	clubfoot	OMIM:119800
+DOID:0001184	nephrotic syndrome	OMIM:256300
+DOID:0001184	nephrotic syndrome	OMIM:256370
+DOID:0001184	nephrotic syndrome	OMIM:600995
+DOID:0001184	nephrotic syndrome	OMIM:610725
+DOID:0001184	nephrotic syndrome	OMIM:614196
+DOID:0001184	nephrotic syndrome	OMIM:614199
+DOID:0001184	nephrotic syndrome	OMIM:615008
+DOID:0001184	nephrotic syndrome	OMIM:615244
+DOID:0001184	nephrotic syndrome	OMIM:615573
+DOID:0001184	nephrotic syndrome	OMIM:615861
+DOID:0011870	Pick's disease	OMIM:172700
+DOID:0011949	Creutzfeldt-Jakob disease	OMIM:123400
+DOID:0011975	coloboma of optic nerve	OMIM:120430
+DOID:0011983	Prader-Willi syndrome	OMIM:176270
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:115195
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:115196
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:115197
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:192600
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:600858
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:608751
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:608758
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:612098
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:612124
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:613243
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:613251
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:613255
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:613690
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:613765
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:613838
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:613873
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:613874
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:613875
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:613876
+DOID:0011984	hypertrophic cardiomyopathy	OMIM:614676
+DOID:0011996	spermatic cord torsion	OMIM:187400
+DOID:0001206	Rett syndrome	OMIM:312750
+DOID:0001206	Rett syndrome	OMIM:613454
+DOID:0012098	trigeminal neuralgia	OMIM:190400
+DOID:0012117	pulmonary alveolar microlithiasis	OMIM:265100
+DOID:0012118	pulmonary hemosiderosis	OMIM:178550
+DOID:0012118	pulmonary hemosiderosis	OMIM:235500
+DOID:0012120	pulmonary alveolar proteinosis	OMIM:265120
+DOID:0012120	pulmonary alveolar proteinosis	OMIM:300770
+DOID:0012120	pulmonary alveolar proteinosis	OMIM:610913
+DOID:0012120	pulmonary alveolar proteinosis	OMIM:610921
+DOID:0012120	pulmonary alveolar proteinosis	OMIM:614370
+DOID:0012129	bulimia nervosa	OMIM:607499
+DOID:0012129	bulimia nervosa	OMIM:610269
+DOID:0012132	Wegener's granulomatosis	OMIM:608710
+DOID:0012134	factor VIII deficiency	OMIM:134500
+DOID:0012169	carpal tunnel syndrome	OMIM:115430
+DOID:0012177	common variable immunodeficiency	OMIM:240500
+DOID:0012177	common variable immunodeficiency	OMIM:607594
+DOID:0012177	common variable immunodeficiency	OMIM:613493
+DOID:0012177	common variable immunodeficiency	OMIM:613494
+DOID:0012177	common variable immunodeficiency	OMIM:613495
+DOID:0012177	common variable immunodeficiency	OMIM:613496
+DOID:0012177	common variable immunodeficiency	OMIM:614699
+DOID:0012177	common variable immunodeficiency	OMIM:614700
+DOID:0012177	common variable immunodeficiency	OMIM:615559
+DOID:0012177	common variable immunodeficiency	OMIM:615577
+DOID:0012177	common variable immunodeficiency	OMIM:615767
+DOID:0012185	otosclerosis	OMIM:166800
+DOID:0012185	otosclerosis	OMIM:605727
+DOID:0012185	otosclerosis	OMIM:608244
+DOID:0012185	otosclerosis	OMIM:608484
+DOID:0012185	otosclerosis	OMIM:611571
+DOID:0012185	otosclerosis	OMIM:611572
+DOID:0012185	otosclerosis	OMIM:612096
+DOID:0012185	otosclerosis	OMIM:615589
+DOID:0012217	Lewy body dementia	OMIM:127750
+DOID:0012236	primary biliary cirrhosis	OMIM:109720
+DOID:0012236	primary biliary cirrhosis	OMIM:613007
+DOID:0012236	primary biliary cirrhosis	OMIM:613008
+DOID:0012236	primary biliary cirrhosis	OMIM:614220
+DOID:0012236	primary biliary cirrhosis	OMIM:614221
+DOID:0012241	beta thalassemia	OMIM:187550
+DOID:0012241	beta thalassemia	OMIM:603902
+DOID:0012241	beta thalassemia	OMIM:613985
+DOID:0012259	hemophilia B	OMIM:306900
+DOID:0012270	coloboma	OMIM:120200
+DOID:0012270	coloboma	OMIM:120300
+DOID:0012270	coloboma	OMIM:216820
+DOID:0012271	aniridia	OMIM:106210
+DOID:0012305	Bloch-Sulzberger syndrome	OMIM:308300
+DOID:0012306	vitiligo	OMIM:193200
+DOID:0012308	Dubin-Johnson syndrome	OMIM:237500
+DOID:0012309	urticaria pigmentosa	OMIM:154800
+DOID:0012347	osteogenesis imperfecta	OMIM:166200
+DOID:0012347	osteogenesis imperfecta	OMIM:166210
+DOID:0012347	osteogenesis imperfecta	OMIM:166220
+DOID:0012347	osteogenesis imperfecta	OMIM:166240
+DOID:0012347	osteogenesis imperfecta	OMIM:259420
+DOID:0012347	osteogenesis imperfecta	OMIM:259440
+DOID:0012347	osteogenesis imperfecta	OMIM:610682
+DOID:0012347	osteogenesis imperfecta	OMIM:610854
+DOID:0012347	osteogenesis imperfecta	OMIM:610915
+DOID:0012347	osteogenesis imperfecta	OMIM:610967
+DOID:0012347	osteogenesis imperfecta	OMIM:610968
+DOID:0012347	osteogenesis imperfecta	OMIM:613848
+DOID:0012347	osteogenesis imperfecta	OMIM:613849
+DOID:0012347	osteogenesis imperfecta	OMIM:613982
+DOID:0012347	osteogenesis imperfecta	OMIM:614856
+DOID:0012347	osteogenesis imperfecta	OMIM:615066
+DOID:0012347	osteogenesis imperfecta	OMIM:615220
+DOID:0012361	Graves' disease	OMIM:275000
+DOID:0012361	Graves' disease	OMIM:300351
+DOID:0012361	Graves' disease	OMIM:603388
+DOID:0012365	malaria	OMIM:609148
+DOID:0012365	malaria	OMIM:611162
+DOID:0012376	juvenile spinal muscular atrophy	OMIM:253400
+DOID:0012387	nephrogenic diabetes insipidus	OMIM:125800
+DOID:0012387	nephrogenic diabetes insipidus	OMIM:304800
+DOID:0012388	neurohypophyseal diabetes insipidus	OMIM:125700
+DOID:0012388	neurohypophyseal diabetes insipidus	OMIM:304900
+DOID:0012399	pathological gambling	OMIM:606349
+DOID:0012449	aplastic anemia	OMIM:609135
+DOID:0012531	von Willebrand's disease	OMIM:193400
+DOID:0012531	von Willebrand's disease	OMIM:277480
+DOID:0012531	von Willebrand's disease	OMIM:613554
+DOID:0012554	hemolytic-uremic syndrome	OMIM:235400
+DOID:0012554	hemolytic-uremic syndrome	OMIM:612922
+DOID:0012554	hemolytic-uremic syndrome	OMIM:612923
+DOID:0012554	hemolytic-uremic syndrome	OMIM:612924
+DOID:0012554	hemolytic-uremic syndrome	OMIM:612925
+DOID:0012554	hemolytic-uremic syndrome	OMIM:612926
+DOID:0012557	Duane retraction syndrome	OMIM:126800
+DOID:0012557	Duane retraction syndrome	OMIM:604356
+DOID:0012559	idiopathic juvenile osteoporosis	OMIM:259750
+DOID:0012580	Cri-Du-Chat syndrome	OMIM:123450
+DOID:0012583	velocardiofacial syndrome	OMIM:192430
+DOID:0012603	acute leukemia	OMIM:308960
+DOID:0012638	hypertrophic pyloric stenosis	OMIM:179010
+DOID:0012638	hypertrophic pyloric stenosis	OMIM:300711
+DOID:0012638	hypertrophic pyloric stenosis	OMIM:610260
+DOID:0012638	hypertrophic pyloric stenosis	OMIM:612017
+DOID:0012638	hypertrophic pyloric stenosis	OMIM:612525
+DOID:0012642	hiatus hernia	OMIM:142400
+DOID:0012661	tooth ankylosis	OMIM:157950
+DOID:0001270	hereditary hemorrhagic telangiectasia	OMIM:187300
+DOID:0001270	hereditary hemorrhagic telangiectasia	OMIM:600376
+DOID:0001270	hereditary hemorrhagic telangiectasia	OMIM:600655
+DOID:0001270	hereditary hemorrhagic telangiectasia	OMIM:601101
+DOID:0001270	hereditary hemorrhagic telangiectasia	OMIM:615506
+DOID:0012704	ataxia telangiectasia	OMIM:208900
+DOID:0012705	Friedreich ataxia	OMIM:229300
+DOID:0012705	Friedreich ataxia	OMIM:601992
+DOID:0012707	myoclonic cerebellar dyssynergia	OMIM:213400
+DOID:0012712	nephronophthisis	OMIM:256100
+DOID:0012712	nephronophthisis	OMIM:602088
+DOID:0012712	nephronophthisis	OMIM:604387
+DOID:0012712	nephronophthisis	OMIM:606966
+DOID:0012712	nephronophthisis	OMIM:611498
+DOID:0012712	nephronophthisis	OMIM:613159
+DOID:0012712	nephronophthisis	OMIM:613550
+DOID:0012712	nephronophthisis	OMIM:613820
+DOID:0012712	nephronophthisis	OMIM:613824
+DOID:0012712	nephronophthisis	OMIM:614377
+DOID:0012712	nephronophthisis	OMIM:614844
+DOID:0012712	nephronophthisis	OMIM:614845
+DOID:0012712	nephronophthisis	OMIM:615382
+DOID:0012712	nephronophthisis	OMIM:615862
+DOID:0012714	Ellis-Van Creveld syndrome	OMIM:225500
+DOID:0012716	newborn respiratory distress syndrome	OMIM:267450
+DOID:0012721	multiple epiphyseal dysplasia	OMIM:132400
+DOID:0012721	multiple epiphyseal dysplasia	OMIM:226900
+DOID:0012721	multiple epiphyseal dysplasia	OMIM:600204
+DOID:0012721	multiple epiphyseal dysplasia	OMIM:600959
+DOID:0012721	multiple epiphyseal dysplasia	OMIM:607078
+DOID:0012721	multiple epiphyseal dysplasia	OMIM:614135
+DOID:0012731	pars planitis	OMIM:606177
+DOID:0012783	migraine without aura	OMIM:607501
+DOID:0012798	mucopolysaccharidosis	OMIM:252700
+DOID:0012798	mucopolysaccharidosis	OMIM:607014
+DOID:0012799	mucopolysaccharidosis II	OMIM:309900
+DOID:0012800	mucopolysaccharidosis VI	OMIM:253200
+DOID:0012801	mucopolysaccharidosis III	OMIM:252900
+DOID:0012801	mucopolysaccharidosis III	OMIM:252920
+DOID:0012801	mucopolysaccharidosis III	OMIM:252930
+DOID:0012801	mucopolysaccharidosis III	OMIM:252940
+DOID:0012802	mucopolysaccharidosis I	OMIM:607014
+DOID:0012802	mucopolysaccharidosis I	OMIM:607015
+DOID:0012802	mucopolysaccharidosis I	OMIM:607016
+DOID:0012803	Sly syndrome	OMIM:253220
+DOID:0012804	mucopolysaccharidosis IV	OMIM:253000
+DOID:0012804	mucopolysaccharidosis IV	OMIM:253010
+DOID:0012842	Guillain-Barre syndrome	OMIM:139393
+DOID:0012849	autistic disorder	OMIM:209850
+DOID:0012849	autistic disorder	OMIM:300425
+DOID:0012849	autistic disorder	OMIM:300495
+DOID:0012849	autistic disorder	OMIM:300496
+DOID:0012849	autistic disorder	OMIM:300830
+DOID:0012849	autistic disorder	OMIM:300847
+DOID:0012849	autistic disorder	OMIM:300872
+DOID:0012849	autistic disorder	OMIM:606059
+DOID:0012849	autistic disorder	OMIM:607373
+DOID:0012849	autistic disorder	OMIM:608049
+DOID:0012849	autistic disorder	OMIM:608636
+DOID:0012849	autistic disorder	OMIM:609378
+DOID:0012849	autistic disorder	OMIM:610676
+DOID:0012849	autistic disorder	OMIM:610836
+DOID:0012849	autistic disorder	OMIM:610908
+DOID:0012849	autistic disorder	OMIM:611015
+DOID:0012849	autistic disorder	OMIM:611016
+DOID:0012849	autistic disorder	OMIM:611913
+DOID:0012849	autistic disorder	OMIM:612100
+DOID:0012849	autistic disorder	OMIM:613410
+DOID:0012849	autistic disorder	OMIM:613436
+DOID:0012849	autistic disorder	OMIM:615032
+DOID:0012849	autistic disorder	OMIM:615091
+DOID:0012858	Huntington's disease	OMIM:143100
+DOID:0012859	choreatic disease	OMIM:118700
+DOID:0012859	choreatic disease	OMIM:215450
+DOID:0012894	Sjogren's syndrome	OMIM:270150
+DOID:0012918	thromboangiitis obliterans	OMIM:211480
+DOID:0012929	endocardial fibroelastosis	OMIM:226000
+DOID:0012929	endocardial fibroelastosis	OMIM:305300
+DOID:0012930	dilated cardiomyopathy	OMIM:115200
+DOID:0012930	dilated cardiomyopathy	OMIM:300069
+DOID:0012930	dilated cardiomyopathy	OMIM:302045
+DOID:0012930	dilated cardiomyopathy	OMIM:600884
+DOID:0012930	dilated cardiomyopathy	OMIM:601154
+DOID:0012930	dilated cardiomyopathy	OMIM:601493
+DOID:0012930	dilated cardiomyopathy	OMIM:601494
+DOID:0012930	dilated cardiomyopathy	OMIM:604145
+DOID:0012930	dilated cardiomyopathy	OMIM:604288
+DOID:0012930	dilated cardiomyopathy	OMIM:604765
+DOID:0012930	dilated cardiomyopathy	OMIM:605362
+DOID:0012930	dilated cardiomyopathy	OMIM:605582
+DOID:0012930	dilated cardiomyopathy	OMIM:606685
+DOID:0012930	dilated cardiomyopathy	OMIM:607482
+DOID:0012930	dilated cardiomyopathy	OMIM:607487
+DOID:0012930	dilated cardiomyopathy	OMIM:608569
+DOID:0012930	dilated cardiomyopathy	OMIM:609909
+DOID:0012930	dilated cardiomyopathy	OMIM:609915
+DOID:0012930	dilated cardiomyopathy	OMIM:611407
+DOID:0012930	dilated cardiomyopathy	OMIM:611615
+DOID:0012930	dilated cardiomyopathy	OMIM:611878
+DOID:0012930	dilated cardiomyopathy	OMIM:611879
+DOID:0012930	dilated cardiomyopathy	OMIM:611880
+DOID:0012930	dilated cardiomyopathy	OMIM:612158
+DOID:0012930	dilated cardiomyopathy	OMIM:612877
+DOID:0012930	dilated cardiomyopathy	OMIM:613122
+DOID:0012930	dilated cardiomyopathy	OMIM:613172
+DOID:0012930	dilated cardiomyopathy	OMIM:613252
+DOID:0012930	dilated cardiomyopathy	OMIM:613286
+DOID:0012930	dilated cardiomyopathy	OMIM:613424
+DOID:0012930	dilated cardiomyopathy	OMIM:613426
+DOID:0012930	dilated cardiomyopathy	OMIM:613642
+DOID:0012930	dilated cardiomyopathy	OMIM:613694
+DOID:0012930	dilated cardiomyopathy	OMIM:613697
+DOID:0012930	dilated cardiomyopathy	OMIM:613740
+DOID:0012930	dilated cardiomyopathy	OMIM:613881
+DOID:0012930	dilated cardiomyopathy	OMIM:614672
+DOID:0012930	dilated cardiomyopathy	OMIM:615184
+DOID:0012930	dilated cardiomyopathy	OMIM:615235
+DOID:0012930	dilated cardiomyopathy	OMIM:615916
+DOID:0012934	Kearns-Sayre syndrome	OMIM:530000
+DOID:0012960	acrocephalosyndactylia	OMIM:101200
+DOID:0012961	Poland syndrome	OMIM:173800
+DOID:0012971	hereditary spherocytosis	OMIM:182900
+DOID:0012971	hereditary spherocytosis	OMIM:270970
+DOID:0012971	hereditary spherocytosis	OMIM:612653
+DOID:0012971	hereditary spherocytosis	OMIM:612690
+DOID:0013042	persistent fetal circulation syndrome	OMIM:265380
+DOID:0013096	Sneddon syndrome	OMIM:182410
+DOID:0013099	Moyamoya disease	OMIM:252350
+DOID:0013099	Moyamoya disease	OMIM:300845
+DOID:0013099	Moyamoya disease	OMIM:607151
+DOID:0013099	Moyamoya disease	OMIM:608796
+DOID:0013099	Moyamoya disease	OMIM:614042
+DOID:0013099	Moyamoya disease	OMIM:615750
+DOID:0001312	focal segmental glomerulosclerosis	OMIM:603278
+DOID:0001312	focal segmental glomerulosclerosis	OMIM:603965
+DOID:0001312	focal segmental glomerulosclerosis	OMIM:607832
+DOID:0001312	focal segmental glomerulosclerosis	OMIM:612551
+DOID:0001312	focal segmental glomerulosclerosis	OMIM:613237
+DOID:0001312	focal segmental glomerulosclerosis	OMIM:614131
+DOID:0013137	Werdnig-Hoffmann disease	OMIM:253300
+DOID:0013166	allergic bronchopulmonary aspergillosis	OMIM:103920
+DOID:0013223	uterine fibroid	OMIM:150699
+DOID:0001324	lung cancer	OMIM:211980
+DOID:0001324	lung cancer	OMIM:608935
+DOID:0001324	lung cancer	OMIM:612593
+DOID:0001324	lung cancer	OMIM:614210
+DOID:0013241	Behcet's disease	OMIM:109650
+DOID:0013269	hereditary coproporphyria	OMIM:121300
+DOID:0013270	erythropoietic protoporphyria	OMIM:177000
+DOID:0013270	erythropoietic protoporphyria	OMIM:300752
+DOID:0013271	cutaneous porphyria	OMIM:263700
+DOID:0013300	Scheuermann's disease	OMIM:181440
+DOID:0013317	hyperinsulinemic hypoglycemia	OMIM:256450
+DOID:0013317	hyperinsulinemic hypoglycemia	OMIM:601820
+DOID:0013317	hyperinsulinemic hypoglycemia	OMIM:602485
+DOID:0013317	hyperinsulinemic hypoglycemia	OMIM:606762
+DOID:0013317	hyperinsulinemic hypoglycemia	OMIM:609968
+DOID:0013317	hyperinsulinemic hypoglycemia	OMIM:609975
+DOID:0013317	hyperinsulinemic hypoglycemia	OMIM:610021
+DOID:0013357	chondromalacia patellae	OMIM:168900
+DOID:0013359	Ehlers-Danlos syndrome	OMIM:130070
+DOID:0013359	Ehlers-Danlos syndrome	OMIM:225400
+DOID:0013366	Stiff-Person syndrome	OMIM:184850
+DOID:0013372	alpha 1-antitrypsin deficiency	OMIM:613490
+DOID:0013374	fibrodysplasia ossificans progressiva	OMIM:135100
+DOID:0013375	temporal arteritis	OMIM:187360
+DOID:0013378	Kawasaki disease	OMIM:611775
+DOID:0001338	congenital dyserythropoietic anemia	OMIM:105600
+DOID:0001338	congenital dyserythropoietic anemia	OMIM:224100
+DOID:0001338	congenital dyserythropoietic anemia	OMIM:224120
+DOID:0001338	congenital dyserythropoietic anemia	OMIM:613673
+DOID:0001338	congenital dyserythropoietic anemia	OMIM:615631
+DOID:0013381	pernicious anemia	OMIM:170900
+DOID:0013382	megaloblastic anemia	OMIM:261100
+DOID:0013382	megaloblastic anemia	OMIM:613839
+DOID:0001339	Diamond-Blackfan anemia	OMIM:105650
+DOID:0001339	Diamond-Blackfan anemia	OMIM:606129
+DOID:0001339	Diamond-Blackfan anemia	OMIM:610629
+DOID:0001339	Diamond-Blackfan anemia	OMIM:612527
+DOID:0001339	Diamond-Blackfan anemia	OMIM:612528
+DOID:0001339	Diamond-Blackfan anemia	OMIM:612561
+DOID:0001339	Diamond-Blackfan anemia	OMIM:612562
+DOID:0001339	Diamond-Blackfan anemia	OMIM:612563
+DOID:0001339	Diamond-Blackfan anemia	OMIM:613308
+DOID:0001339	Diamond-Blackfan anemia	OMIM:613309
+DOID:0001339	Diamond-Blackfan anemia	OMIM:614900
+DOID:0001339	Diamond-Blackfan anemia	OMIM:615550
+DOID:0001339	Diamond-Blackfan anemia	OMIM:615909
+DOID:0013401	angioid streaks	OMIM:607140
+DOID:0013481	thanatophoric dysplasia	OMIM:187600
+DOID:0013481	thanatophoric dysplasia	OMIM:187601
+DOID:0013481	thanatophoric dysplasia	OMIM:273680
+DOID:0013482	Proteus syndrome	OMIM:176920
+DOID:0013501	Mobius syndrome	OMIM:157900
+DOID:0013515	tuberous sclerosis	OMIM:191100
+DOID:0013515	tuberous sclerosis	OMIM:613254
+DOID:0013533	osteopetrosis	OMIM:166600
+DOID:0013533	osteopetrosis	OMIM:259700
+DOID:0013533	osteopetrosis	OMIM:259710
+DOID:0013533	osteopetrosis	OMIM:259720
+DOID:0013533	osteopetrosis	OMIM:259730
+DOID:0013533	osteopetrosis	OMIM:607634
+DOID:0013533	osteopetrosis	OMIM:611490
+DOID:0013533	osteopetrosis	OMIM:611497
+DOID:0013533	osteopetrosis	OMIM:612301
+DOID:0013533	osteopetrosis	OMIM:615085
+DOID:0013543	hyperparathyroidism	OMIM:145000
+DOID:0013543	hyperparathyroidism	OMIM:145001
+DOID:0013543	hyperparathyroidism	OMIM:610071
+DOID:0013636	Fanconi's anemia	OMIM:227645
+DOID:0013636	Fanconi's anemia	OMIM:227646
+DOID:0013636	Fanconi's anemia	OMIM:227650
+DOID:0013636	Fanconi's anemia	OMIM:300514
+DOID:0013636	Fanconi's anemia	OMIM:600901
+DOID:0013636	Fanconi's anemia	OMIM:603467
+DOID:0013636	Fanconi's anemia	OMIM:605724
+DOID:0013636	Fanconi's anemia	OMIM:609053
+DOID:0013636	Fanconi's anemia	OMIM:609054
+DOID:0013636	Fanconi's anemia	OMIM:610832
+DOID:0013636	Fanconi's anemia	OMIM:613390
+DOID:0013636	Fanconi's anemia	OMIM:613951
+DOID:0013636	Fanconi's anemia	OMIM:614082
+DOID:0013636	Fanconi's anemia	OMIM:614083
+DOID:0013636	Fanconi's anemia	OMIM:614087
+DOID:0013636	Fanconi's anemia	OMIM:615272
+DOID:0013641	exfoliation syndrome	OMIM:177650
+DOID:0013714	anodontia	OMIM:206780
+DOID:0013724	scurvy	OMIM:240400
+DOID:0013774	Addison's disease	OMIM:103230
+DOID:0013774	Addison's disease	OMIM:240200
+DOID:0013777	epidermodysplasia verruciformis	OMIM:226400
+DOID:0013809	familial combined hyperlipidemia	OMIM:144250
+DOID:0013810	familial hypercholesterolemia	OMIM:143890
+DOID:0013810	familial hypercholesterolemia	OMIM:144400
+DOID:0013832	patent ductus arteriosus	OMIM:607411
+DOID:0001386	abetalipoproteinemia	OMIM:200100
+DOID:0001388	Tangier disease	OMIM:205400
+DOID:0013884	sick sinus syndrome	OMIM:163800
+DOID:0013884	sick sinus syndrome	OMIM:608567
+DOID:0013884	sick sinus syndrome	OMIM:614090
+DOID:0013909	red-green color blindness	OMIM:303800
+DOID:0001391	Norum disease	OMIM:245900
+DOID:0013911	achromatopsia	OMIM:216900
+DOID:0013911	achromatopsia	OMIM:262300
+DOID:0013911	achromatopsia	OMIM:610024
+DOID:0013911	achromatopsia	OMIM:613093
+DOID:0013911	achromatopsia	OMIM:613856
+DOID:0001392	pseudopapilledema	OMIM:177800
+DOID:0013922	eosinophilic esophagitis	OMIM:610247
+DOID:0013922	eosinophilic esophagitis	OMIM:613412
+DOID:0013941	benign paroxysmal positional nystagmus	OMIM:193007
+DOID:0013941	benign paroxysmal positional nystagmus	OMIM:613106
+DOID:0013994	cleidocranial dysplasia	OMIM:119600
+DOID:0013994	cleidocranial dysplasia	OMIM:216330
+DOID:0014004	thoracic aortic aneurysm	OMIM:132900
+DOID:0014004	thoracic aortic aneurysm	OMIM:607086
+DOID:0014004	thoracic aortic aneurysm	OMIM:607087
+DOID:0014004	thoracic aortic aneurysm	OMIM:611788
+DOID:0014004	thoracic aortic aneurysm	OMIM:613780
+DOID:0014004	thoracic aortic aneurysm	OMIM:615436
+DOID:0014080	glucocorticoid-remediable aldosteronism	OMIM:103900
+DOID:0014116	multiple symmetric lipomatosis	OMIM:151800
+DOID:0014118	familial lipoprotein lipase deficiency	OMIM:238600
+DOID:0001415	gyrate atrophy	OMIM:258870
+DOID:0014175	von Hippel-Lindau disease	OMIM:193300
+DOID:0014179	Bruton-type agammaglobulinemia	OMIM:300755
+DOID:0014213	hypophosphatasia	OMIM:146300
+DOID:0014213	hypophosphatasia	OMIM:241500
+DOID:0014213	hypophosphatasia	OMIM:241510
+DOID:0014218	dihydropyrimidine dehydrogenase deficiency	OMIM:274270
+DOID:0014219	renal tubular acidosis	OMIM:179830
+DOID:0014219	renal tubular acidosis	OMIM:267200
+DOID:0014219	renal tubular acidosis	OMIM:602722
+DOID:0014221	metabolic syndrome X	OMIM:605552
+DOID:0014227	azoospermia	OMIM:102530
+DOID:0014227	azoospermia	OMIM:108420
+DOID:0014227	azoospermia	OMIM:243060
+DOID:0014227	azoospermia	OMIM:258150
+DOID:0014227	azoospermia	OMIM:270960
+DOID:0014227	azoospermia	OMIM:309120
+DOID:0014227	azoospermia	OMIM:415000
+DOID:0014227	azoospermia	OMIM:606766
+DOID:0014227	azoospermia	OMIM:612997
+DOID:0014227	azoospermia	OMIM:613957
+DOID:0014227	azoospermia	OMIM:613958
+DOID:0014227	azoospermia	OMIM:614822
+DOID:0014227	azoospermia	OMIM:615081
+DOID:0014227	azoospermia	OMIM:615413
+DOID:0014227	azoospermia	OMIM:615841
+DOID:0014227	azoospermia	OMIM:615842
+DOID:0014250	Down syndrome	OMIM:190685
+DOID:0014261	fragile X syndrome	OMIM:300624
+DOID:0014264	benign neonatal seizures	OMIM:121200
+DOID:0014264	benign neonatal seizures	OMIM:121201
+DOID:0014264	benign neonatal seizures	OMIM:269720
+DOID:0014264	benign neonatal seizures	OMIM:615812
+DOID:0014283	primary hypertrophic osteoarthropathy	OMIM:259100
+DOID:0014289	Ebstein anomaly	OMIM:224700
+DOID:0014291	LEOPARD syndrome	OMIM:151100
+DOID:0014291	LEOPARD syndrome	OMIM:611554
+DOID:0014291	LEOPARD syndrome	OMIM:613707
+DOID:0014323	Marfan syndrome	OMIM:154700
+DOID:0014330	Parkinson's disease	OMIM:168600
+DOID:0014330	Parkinson's disease	OMIM:168601
+DOID:0014330	Parkinson's disease	OMIM:260300
+DOID:0014330	Parkinson's disease	OMIM:300557
+DOID:0014330	Parkinson's disease	OMIM:556500
+DOID:0014330	Parkinson's disease	OMIM:600116
+DOID:0014330	Parkinson's disease	OMIM:602404
+DOID:0014330	Parkinson's disease	OMIM:605543
+DOID:0014330	Parkinson's disease	OMIM:605909
+DOID:0014330	Parkinson's disease	OMIM:606324
+DOID:0014330	Parkinson's disease	OMIM:606693
+DOID:0014330	Parkinson's disease	OMIM:606852
+DOID:0014330	Parkinson's disease	OMIM:607060
+DOID:0014330	Parkinson's disease	OMIM:607688
+DOID:0014330	Parkinson's disease	OMIM:610297
+DOID:0014330	Parkinson's disease	OMIM:612953
+DOID:0014330	Parkinson's disease	OMIM:613164
+DOID:0014330	Parkinson's disease	OMIM:613643
+DOID:0014330	Parkinson's disease	OMIM:614203
+DOID:0014330	Parkinson's disease	OMIM:614251
+DOID:0014330	Parkinson's disease	OMIM:615528
+DOID:0014330	Parkinson's disease	OMIM:615530
+DOID:0014365	systemic primary carnitine deficiency disease	OMIM:212140
+DOID:0001440	Machado-Joseph disease	OMIM:109150
+DOID:0001441	spinocerebellar ataxia	OMIM:117210
+DOID:0001441	spinocerebellar ataxia	OMIM:164400
+DOID:0001441	spinocerebellar ataxia	OMIM:183086
+DOID:0001441	spinocerebellar ataxia	OMIM:603516
+DOID:0001441	spinocerebellar ataxia	OMIM:604326
+DOID:0001441	spinocerebellar ataxia	OMIM:604432
+DOID:0001441	spinocerebellar ataxia	OMIM:605259
+DOID:0001441	spinocerebellar ataxia	OMIM:605361
+DOID:0001441	spinocerebellar ataxia	OMIM:606002
+DOID:0001441	spinocerebellar ataxia	OMIM:606658
+DOID:0001441	spinocerebellar ataxia	OMIM:606937
+DOID:0001441	spinocerebellar ataxia	OMIM:607136
+DOID:0001441	spinocerebellar ataxia	OMIM:607250
+DOID:0001441	spinocerebellar ataxia	OMIM:608768
+DOID:0001441	spinocerebellar ataxia	OMIM:609307
+DOID:0001441	spinocerebellar ataxia	OMIM:610245
+DOID:0001441	spinocerebellar ataxia	OMIM:610246
+DOID:0001441	spinocerebellar ataxia	OMIM:610743
+DOID:0001441	spinocerebellar ataxia	OMIM:612016
+DOID:0014415	Legg-Calve-Perthes Disease	OMIM:150600
+DOID:0001442	Alpers syndrome	OMIM:203700
+DOID:0014448	46 XY gonadal dysgenesis	OMIM:154230
+DOID:0014448	46 XY gonadal dysgenesis	OMIM:233420
+DOID:0014448	46 XY gonadal dysgenesis	OMIM:300018
+DOID:0014448	46 XY gonadal dysgenesis	OMIM:400044
+DOID:0014448	46 XY gonadal dysgenesis	OMIM:612965
+DOID:0014448	46 XY gonadal dysgenesis	OMIM:613080
+DOID:0014448	46 XY gonadal dysgenesis	OMIM:613762
+DOID:0014448	46 XY gonadal dysgenesis	OMIM:614279
+DOID:0014450	46 XX gonadal dysgenesis	OMIM:233300
+DOID:0014450	46 XX gonadal dysgenesis	OMIM:278850
+DOID:0014450	46 XX gonadal dysgenesis	OMIM:300833
+DOID:0014450	46 XX gonadal dysgenesis	OMIM:400045
+DOID:0014450	46 XX gonadal dysgenesis	OMIM:614324
+DOID:0014451	hyperkalemic periodic paralysis	OMIM:170500
+DOID:0014452	hypokalemic periodic paralysis	OMIM:170400
+DOID:0014452	hypokalemic periodic paralysis	OMIM:613345
+DOID:0014498	lipoid proteinosis	OMIM:247100
+DOID:0014499	Fabry disease	OMIM:301500
+DOID:0014500	fucosidosis	OMIM:230000
+DOID:0014501	Sjogren-Larsson syndrome	OMIM:270200
+DOID:0014503	neuronal ceroid lipofuscinosis	OMIM:162350
+DOID:0014503	neuronal ceroid lipofuscinosis	OMIM:204200
+DOID:0014503	neuronal ceroid lipofuscinosis	OMIM:204300
+DOID:0014503	neuronal ceroid lipofuscinosis	OMIM:204500
+DOID:0014503	neuronal ceroid lipofuscinosis	OMIM:256730
+DOID:0014503	neuronal ceroid lipofuscinosis	OMIM:256731
+DOID:0014503	neuronal ceroid lipofuscinosis	OMIM:600143
+DOID:0014503	neuronal ceroid lipofuscinosis	OMIM:601780
+DOID:0014503	neuronal ceroid lipofuscinosis	OMIM:609055
+DOID:0014503	neuronal ceroid lipofuscinosis	OMIM:610003
+DOID:0014503	neuronal ceroid lipofuscinosis	OMIM:610127
+DOID:0014503	neuronal ceroid lipofuscinosis	OMIM:610951
+DOID:0014503	neuronal ceroid lipofuscinosis	OMIM:614706
+DOID:0014503	neuronal ceroid lipofuscinosis	OMIM:615362
+DOID:0014504	Niemann-Pick disease	OMIM:257200
+DOID:0014504	Niemann-Pick disease	OMIM:257220
+DOID:0014504	Niemann-Pick disease	OMIM:607616
+DOID:0014504	Niemann-Pick disease	OMIM:607625
+DOID:0014515	WAGR syndrome	OMIM:194072
+DOID:0001455	geographic tongue	OMIM:137400
+DOID:0014557	primary pulmonary hypertension	OMIM:178600
+DOID:0014557	primary pulmonary hypertension	OMIM:265400
+DOID:0014557	primary pulmonary hypertension	OMIM:615342
+DOID:0014557	primary pulmonary hypertension	OMIM:615343
+DOID:0014557	primary pulmonary hypertension	OMIM:615344
+DOID:0014669	acrodysostosis	OMIM:101800
+DOID:0014669	acrodysostosis	OMIM:614613
+DOID:0014670	hypertelorism, microtia, facial clefting syndrome	OMIM:239800
+DOID:0014671	multiple intestinal atresia	OMIM:243150
+DOID:0014679	VACTERL association	OMIM:192350
+DOID:0014679	VACTERL association	OMIM:276950
+DOID:0014681	Silver-Russell syndrome	OMIM:180860
+DOID:0014683	Binder syndrome	OMIM:155050
+DOID:0014686	Axenfeld-Rieger syndrome	OMIM:180500
+DOID:0014686	Axenfeld-Rieger syndrome	OMIM:601499
+DOID:0014686	Axenfeld-Rieger syndrome	OMIM:602482
+DOID:0014687	diastrophic dysplasia	OMIM:222600
+DOID:0014692	Smith-Lemli-Opitz syndrome	OMIM:270400
+DOID:0014693	Clouston syndrome	OMIM:129500
+DOID:0014694	Johanson-Blizzard syndrome	OMIM:243800
+DOID:0014695	galactokinase deficiency	OMIM:230200
+DOID:0014699	thrombocytopenia-absent radius syndrome	OMIM:274000
+DOID:0001470	major depressive disorder	OMIM:608520
+DOID:0001470	major depressive disorder	OMIM:608691
+DOID:0014701	propionic acidemia	OMIM:606054
+DOID:0014702	branchiootorenal syndrome	OMIM:113650
+DOID:0014702	branchiootorenal syndrome	OMIM:610896
+DOID:0014705	Pfeiffer syndrome	OMIM:101600
+DOID:0014711	FG syndrome	OMIM:300321
+DOID:0014711	FG syndrome	OMIM:300406
+DOID:0014711	FG syndrome	OMIM:300422
+DOID:0014711	FG syndrome	OMIM:300581
+DOID:0014711	FG syndrome	OMIM:305450
+DOID:0014717	centronuclear myopathy	OMIM:160150
+DOID:0014717	centronuclear myopathy	OMIM:255200
+DOID:0014717	centronuclear myopathy	OMIM:310400
+DOID:0014717	centronuclear myopathy	OMIM:614408
+DOID:0014717	centronuclear myopathy	OMIM:614807
+DOID:0014717	centronuclear myopathy	OMIM:615959
+DOID:0014720	type I Ehlers-Danlos syndrome	OMIM:130000
+DOID:0014723	beta-ketothiolase deficiency	OMIM:203750
+DOID:0014725	autosomal dominant microcephaly	OMIM:156580
+DOID:0014731	Weaver syndrome	OMIM:277590
+DOID:0014735	hereditary angioedema	OMIM:106100
+DOID:0014735	hereditary angioedema	OMIM:610618
+DOID:0014737	craniofrontonasal syndrome	OMIM:304110
+DOID:0001474	aggressive periodontitis	OMIM:170650
+DOID:0001474	aggressive periodontitis	OMIM:608526
+DOID:0014743	trichorhinophalangeal syndrome type I	OMIM:190350
+DOID:0014744	Partington syndrome	OMIM:309510
+DOID:0014744	Partington syndrome	OMIM:312780
+DOID:0014748	Sotos syndrome	OMIM:117550
+DOID:0014748	Sotos syndrome	OMIM:601451
+DOID:0014748	Sotos syndrome	OMIM:614753
+DOID:0014749	methylmalonic acidemia	OMIM:251100
+DOID:0014749	methylmalonic acidemia	OMIM:251110
+DOID:0014753	isovaleric acidemia	OMIM:243500
+DOID:0014755	argininosuccinic aciduria	OMIM:207900
+DOID:0014756	autosomal dominant type IV Ehlers-Danlos syndrome	OMIM:130050
+DOID:0014757	type III Ehlers-Danlos syndrome	OMIM:130020
+DOID:0014761	Greig cephalopolysyndactyly syndrome	OMIM:175700
+DOID:0014762	calcaneonavicular coalition	OMIM:186400
+DOID:0014764	Larsen syndrome	OMIM:150250
+DOID:0014766	renal agenesis	OMIM:191830
+DOID:0014768	Saethre-Chotzen syndrome	OMIM:101400
+DOID:0014773	cartilage-hair hypoplasia	OMIM:250250
+DOID:0014775	type VI Ehlers-Danlos syndrome	OMIM:225400
+DOID:0014775	type VI Ehlers-Danlos syndrome	OMIM:229200
+DOID:0014778	blepharophimosis, ptosis, and epicanthus inversus syndrome	OMIM:110100
+DOID:0014780	KBG syndrome	OMIM:148050
+DOID:0014784	olivopontocerebellar atrophy	OMIM:164400
+DOID:0014784	olivopontocerebellar atrophy	OMIM:164500
+DOID:0014784	olivopontocerebellar atrophy	OMIM:183090
+DOID:0014789	spondyloepiphyseal dysplasia congenita	OMIM:183900
+DOID:0014791	Leber congenital amaurosis	OMIM:204000
+DOID:0014791	Leber congenital amaurosis	OMIM:204100
+DOID:0014791	Leber congenital amaurosis	OMIM:604232
+DOID:0014791	Leber congenital amaurosis	OMIM:604393
+DOID:0014791	Leber congenital amaurosis	OMIM:604537
+DOID:0014791	Leber congenital amaurosis	OMIM:608553
+DOID:0014791	Leber congenital amaurosis	OMIM:610142
+DOID:0014791	Leber congenital amaurosis	OMIM:610612
+DOID:0014791	Leber congenital amaurosis	OMIM:611755
+DOID:0014791	Leber congenital amaurosis	OMIM:612712
+DOID:0014791	Leber congenital amaurosis	OMIM:613341
+DOID:0014791	Leber congenital amaurosis	OMIM:613826
+DOID:0014791	Leber congenital amaurosis	OMIM:613829
+DOID:0014791	Leber congenital amaurosis	OMIM:613835
+DOID:0014791	Leber congenital amaurosis	OMIM:613837
+DOID:0014791	Leber congenital amaurosis	OMIM:614186
+DOID:0014791	Leber congenital amaurosis	OMIM:615360
+DOID:0014793	hypohidrotic ectodermal dysplasia	OMIM:129490
+DOID:0014793	hypohidrotic ectodermal dysplasia	OMIM:224900
+DOID:0014793	hypohidrotic ectodermal dysplasia	OMIM:300291
+DOID:0014793	hypohidrotic ectodermal dysplasia	OMIM:305100
+DOID:0014796	Dubowitz Syndrome	OMIM:223370
+DOID:0014798	Blount's disease	OMIM:188700
+DOID:0014798	Blount's disease	OMIM:259200
+DOID:0001485	cystic fibrosis	OMIM:219700
+DOID:0001520	colon carcinoma	OMIM:114500
+DOID:0001540	parathyroid carcinoma	OMIM:608266
+DOID:0001572	normal pressure hydrocephalus	OMIM:236690
+DOID:0001588	thrombocytopenia	OMIM:188000
+DOID:0001588	thrombocytopenia	OMIM:273900
+DOID:0001588	thrombocytopenia	OMIM:300367
+DOID:0001588	thrombocytopenia	OMIM:313900
+DOID:0001588	thrombocytopenia	OMIM:612004
+DOID:0001595	endogenous depression	OMIM:608516
+DOID:0001612	breast cancer	OMIM:114480
+DOID:0001612	breast cancer	OMIM:600048
+DOID:0001612	breast cancer	OMIM:605365
+DOID:0001657	ventricular septal defect	OMIM:614429
+DOID:0001657	ventricular septal defect	OMIM:614431
+DOID:0001657	ventricular septal defect	OMIM:614432
+DOID:0001699	congenital ichthyosiform erythroderma	OMIM:242100
+DOID:0001700	X-linked ichthyosis	OMIM:308100
+DOID:0001702	ichthyosis vulgaris	OMIM:146700
+DOID:0001712	aortic valve stenosis	OMIM:109730
+DOID:0001712	aortic valve stenosis	OMIM:614823
+DOID:0001757	facial hemiatrophy	OMIM:141300
+DOID:0001761	Melkersson-Rosenthal syndrome	OMIM:155900
+DOID:0001790	malignant mesothelioma	OMIM:156240
+DOID:0001793	pancreatic cancer	OMIM:606856
+DOID:0001793	pancreatic cancer	OMIM:613347
+DOID:0001793	pancreatic cancer	OMIM:613348
+DOID:0001793	pancreatic cancer	OMIM:614320
+DOID:0001811	reflex sympathetic dystrophy	OMIM:604335
+DOID:0001827	idiopathic generalized epilepsy	OMIM:600669
+DOID:0001827	idiopathic generalized epilepsy	OMIM:604827
+DOID:0001827	idiopathic generalized epilepsy	OMIM:606972
+DOID:0001827	idiopathic generalized epilepsy	OMIM:607628
+DOID:0001827	idiopathic generalized epilepsy	OMIM:607682
+DOID:0001827	idiopathic generalized epilepsy	OMIM:608762
+DOID:0001827	idiopathic generalized epilepsy	OMIM:609750
+DOID:0001827	idiopathic generalized epilepsy	OMIM:611136
+DOID:0001827	idiopathic generalized epilepsy	OMIM:611934
+DOID:0001827	idiopathic generalized epilepsy	OMIM:612899
+DOID:0001827	idiopathic generalized epilepsy	OMIM:613060
+DOID:0001827	idiopathic generalized epilepsy	OMIM:614847
+DOID:0001837	diabetic ketoacidosis	OMIM:612227
+DOID:0001838	Menkes disease	OMIM:309400
+DOID:0001852	intrahepatic cholestasis	OMIM:147480
+DOID:0001852	intrahepatic cholestasis	OMIM:211600
+DOID:0001852	intrahepatic cholestasis	OMIM:243300
+DOID:0001852	intrahepatic cholestasis	OMIM:601847
+DOID:0001852	intrahepatic cholestasis	OMIM:602347
+DOID:0001852	intrahepatic cholestasis	OMIM:605479
+DOID:0001852	intrahepatic cholestasis	OMIM:614972
+DOID:0001852	intrahepatic cholestasis	OMIM:615878
+DOID:0001856	cherubism	OMIM:118400
+DOID:0001858	McCune Albright syndrome	OMIM:174800
+DOID:0001882	atrial heart septal defect	OMIM:108800
+DOID:0001882	atrial heart septal defect	OMIM:108900
+DOID:0001882	atrial heart septal defect	OMIM:607941
+DOID:0001882	atrial heart septal defect	OMIM:611363
+DOID:0001882	atrial heart septal defect	OMIM:612794
+DOID:0001882	atrial heart septal defect	OMIM:613087
+DOID:0001882	atrial heart septal defect	OMIM:614089
+DOID:0001882	atrial heart septal defect	OMIM:614433
+DOID:0001882	atrial heart septal defect	OMIM:614475
+DOID:0001909	melanoma	OMIM:155600
+DOID:0001919	Lesch-Nyhan syndrome	OMIM:300322
+DOID:0001924	hypogonadism	OMIM:146110
+DOID:0001925	Coffin-Siris syndrome	OMIM:135900
+DOID:0001926	Gaucher's disease	OMIM:230800
+DOID:0001926	Gaucher's disease	OMIM:230900
+DOID:0001926	Gaucher's disease	OMIM:231000
+DOID:0001926	Gaucher's disease	OMIM:608013
+DOID:0001926	Gaucher's disease	OMIM:610539
+DOID:0001928	Williams-Beuren syndrome	OMIM:194050
+DOID:0001929	supravalvular aortic stenosis	OMIM:185500
+DOID:0001929	supravalvular aortic stenosis	OMIM:194050
+DOID:0001930	Laurence-Moon syndrome	OMIM:245800
+DOID:0001932	Angelman syndrome	OMIM:105830
+DOID:0001933	Rubinstein-Taybi syndrome	OMIM:180849
+DOID:0001933	Rubinstein-Taybi syndrome	OMIM:610543
+DOID:0001933	Rubinstein-Taybi syndrome	OMIM:613684
+DOID:0001935	Bardet-Biedl syndrome	OMIM:209900
+DOID:0001949	cholecystitis	OMIM:600803
+DOID:0002012	Nezelof syndrome	OMIM:242700
+DOID:0002058	chronic mucocutaneous candidiasis	OMIM:212050
+DOID:0002058	chronic mucocutaneous candidiasis	OMIM:613108
+DOID:0000206	hereditary multiple exostoses	OMIM:133700
+DOID:0000206	hereditary multiple exostoses	OMIM:133701
+DOID:0000206	hereditary multiple exostoses	OMIM:600209
+DOID:0002106	Thomsen disease	OMIM:160800
+DOID:0002120	focal dermal hypoplasia	OMIM:305600
+DOID:0002129	atypical teratoid rhabdoid tumor	OMIM:609322
+DOID:0002154	nephroblastoma	OMIM:194070
+DOID:0002156	ovarian germ cell cancer	OMIM:603737
+DOID:0002187	amelogenesis imperfecta	OMIM:104500
+DOID:0002187	amelogenesis imperfecta	OMIM:104510
+DOID:0002187	amelogenesis imperfecta	OMIM:104530
+DOID:0002187	amelogenesis imperfecta	OMIM:130900
+DOID:0002187	amelogenesis imperfecta	OMIM:204650
+DOID:0002187	amelogenesis imperfecta	OMIM:204700
+DOID:0002187	amelogenesis imperfecta	OMIM:301200
+DOID:0002187	amelogenesis imperfecta	OMIM:301201
+DOID:0002187	amelogenesis imperfecta	OMIM:612529
+DOID:0002187	amelogenesis imperfecta	OMIM:613211
+DOID:0002187	amelogenesis imperfecta	OMIM:614832
+DOID:0002187	amelogenesis imperfecta	OMIM:615887
+DOID:0002211	factor XIII deficiency	OMIM:613225
+DOID:0002211	factor XIII deficiency	OMIM:613235
+DOID:0002216	factor V deficiency	OMIM:227400
+DOID:0002217	Bernard-Soulier syndrome	OMIM:153670
+DOID:0002217	Bernard-Soulier syndrome	OMIM:231200
+DOID:0002219	Glanzmann's thrombasthenia	OMIM:273800
+DOID:0002224	hemorrhagic thrombocythemia	OMIM:187950
+DOID:0002224	hemorrhagic thrombocythemia	OMIM:300331
+DOID:0002224	hemorrhagic thrombocythemia	OMIM:601977
+DOID:0002224	hemorrhagic thrombocythemia	OMIM:614521
+DOID:0002229	factor XI deficiency	OMIM:612416
+DOID:0002231	factor XII deficiency	OMIM:234000
+DOID:0002235	prothrombin deficiency	OMIM:613679
+DOID:0002236	congenital afibrinogenemia	OMIM:202400
+DOID:0002280	hidradenitis suppurativa	OMIM:142690
+DOID:0002280	hidradenitis suppurativa	OMIM:613736
+DOID:0002280	hidradenitis suppurativa	OMIM:613737
+DOID:0000230	lateral sclerosis	OMIM:611637
+DOID:0002339	Crouzon syndrome	OMIM:123500
+DOID:0002340	craniosynostosis	OMIM:123100
+DOID:0002340	craniosynostosis	OMIM:182212
+DOID:0002340	craniosynostosis	OMIM:600593
+DOID:0002340	craniosynostosis	OMIM:600775
+DOID:0002340	craniosynostosis	OMIM:604757
+DOID:0002340	craniosynostosis	OMIM:615314
+DOID:0002340	craniosynostosis	OMIM:615529
+DOID:0002352	hemochromatosis	OMIM:231100
+DOID:0002352	hemochromatosis	OMIM:235200
+DOID:0002352	hemochromatosis	OMIM:602390
+DOID:0002352	hemochromatosis	OMIM:604250
+DOID:0002352	hemochromatosis	OMIM:606069
+DOID:0002352	hemochromatosis	OMIM:613313
+DOID:0002373	hereditary elliptocytosis	OMIM:130600
+DOID:0002373	hereditary elliptocytosis	OMIM:225450
+DOID:0002373	hereditary elliptocytosis	OMIM:611804
+DOID:0002377	multiple sclerosis	OMIM:126200
+DOID:0002377	multiple sclerosis	OMIM:612594
+DOID:0002377	multiple sclerosis	OMIM:612595
+DOID:0002377	multiple sclerosis	OMIM:612596
+DOID:0002377	multiple sclerosis	OMIM:614810
+DOID:0002394	ovarian cancer	OMIM:167000
+DOID:0002394	ovarian cancer	OMIM:607893
+DOID:0002452	thrombophilia	OMIM:188050
+DOID:0002476	hereditary spastic paraplegia	OMIM:182600
+DOID:0002476	hereditary spastic paraplegia	OMIM:182601
+DOID:0002476	hereditary spastic paraplegia	OMIM:270685
+DOID:0002476	hereditary spastic paraplegia	OMIM:270700
+DOID:0002476	hereditary spastic paraplegia	OMIM:270750
+DOID:0002476	hereditary spastic paraplegia	OMIM:270800
+DOID:0002476	hereditary spastic paraplegia	OMIM:275900
+DOID:0002476	hereditary spastic paraplegia	OMIM:300266
+DOID:0002476	hereditary spastic paraplegia	OMIM:300750
+DOID:0002476	hereditary spastic paraplegia	OMIM:312920
+DOID:0002476	hereditary spastic paraplegia	OMIM:600146
+DOID:0002476	hereditary spastic paraplegia	OMIM:600363
+DOID:0002476	hereditary spastic paraplegia	OMIM:601162
+DOID:0002476	hereditary spastic paraplegia	OMIM:603563
+DOID:0002476	hereditary spastic paraplegia	OMIM:604187
+DOID:0002476	hereditary spastic paraplegia	OMIM:604360
+DOID:0002476	hereditary spastic paraplegia	OMIM:604805
+DOID:0002476	hereditary spastic paraplegia	OMIM:605229
+DOID:0002476	hereditary spastic paraplegia	OMIM:605280
+DOID:0002476	hereditary spastic paraplegia	OMIM:607152
+DOID:0002476	hereditary spastic paraplegia	OMIM:607259
+DOID:0002476	hereditary spastic paraplegia	OMIM:607584
+DOID:0002476	hereditary spastic paraplegia	OMIM:608220
+DOID:0002476	hereditary spastic paraplegia	OMIM:609041
+DOID:0002476	hereditary spastic paraplegia	OMIM:609195
+DOID:0002476	hereditary spastic paraplegia	OMIM:609340
+DOID:0002476	hereditary spastic paraplegia	OMIM:609727
+DOID:0002476	hereditary spastic paraplegia	OMIM:610244
+DOID:0002476	hereditary spastic paraplegia	OMIM:610250
+DOID:0002476	hereditary spastic paraplegia	OMIM:610357
+DOID:0002476	hereditary spastic paraplegia	OMIM:611225
+DOID:0002476	hereditary spastic paraplegia	OMIM:611252
+DOID:0002476	hereditary spastic paraplegia	OMIM:611945
+DOID:0002476	hereditary spastic paraplegia	OMIM:612020
+DOID:0002476	hereditary spastic paraplegia	OMIM:612319
+DOID:0002476	hereditary spastic paraplegia	OMIM:612335
+DOID:0002476	hereditary spastic paraplegia	OMIM:612539
+DOID:0002476	hereditary spastic paraplegia	OMIM:612936
+DOID:0002476	hereditary spastic paraplegia	OMIM:613096
+DOID:0002476	hereditary spastic paraplegia	OMIM:613162
+DOID:0002476	hereditary spastic paraplegia	OMIM:613206
+DOID:0002476	hereditary spastic paraplegia	OMIM:613364
+DOID:0002476	hereditary spastic paraplegia	OMIM:613647
+DOID:0002476	hereditary spastic paraplegia	OMIM:613744
+DOID:0002476	hereditary spastic paraplegia	OMIM:614066
+DOID:0002476	hereditary spastic paraplegia	OMIM:614067
+DOID:0002476	hereditary spastic paraplegia	OMIM:614409
+DOID:0002476	hereditary spastic paraplegia	OMIM:614898
+DOID:0002476	hereditary spastic paraplegia	OMIM:615030
+DOID:0002476	hereditary spastic paraplegia	OMIM:615031
+DOID:0002476	hereditary spastic paraplegia	OMIM:615033
+DOID:0002476	hereditary spastic paraplegia	OMIM:615035
+DOID:0002476	hereditary spastic paraplegia	OMIM:615043
+DOID:0002476	hereditary spastic paraplegia	OMIM:615625
+DOID:0002476	hereditary spastic paraplegia	OMIM:615658
+DOID:0002476	hereditary spastic paraplegia	OMIM:615683
+DOID:0002476	hereditary spastic paraplegia	OMIM:615685
+DOID:0002476	hereditary spastic paraplegia	OMIM:615686
+DOID:0002481	infantile epileptic encephalopathy	OMIM:300088
+DOID:0002481	infantile epileptic encephalopathy	OMIM:300607
+DOID:0002481	infantile epileptic encephalopathy	OMIM:300672
+DOID:0002481	infantile epileptic encephalopathy	OMIM:607208
+DOID:0002481	infantile epileptic encephalopathy	OMIM:609304
+DOID:0002481	infantile epileptic encephalopathy	OMIM:612164
+DOID:0002481	infantile epileptic encephalopathy	OMIM:613402
+DOID:0002481	infantile epileptic encephalopathy	OMIM:613477
+DOID:0002481	infantile epileptic encephalopathy	OMIM:613720
+DOID:0002481	infantile epileptic encephalopathy	OMIM:613721
+DOID:0002481	infantile epileptic encephalopathy	OMIM:613722
+DOID:0002508	Takayasu's arteritis	OMIM:207600
+DOID:0002512	nevoid basal cell carcinoma syndrome	OMIM:109400
+DOID:0002513	basal cell carcinoma	OMIM:605462
+DOID:0002513	basal cell carcinoma	OMIM:613058
+DOID:0002513	basal cell carcinoma	OMIM:613059
+DOID:0002513	basal cell carcinoma	OMIM:613061
+DOID:0002513	basal cell carcinoma	OMIM:613062
+DOID:0002513	basal cell carcinoma	OMIM:613063
+DOID:0002513	basal cell carcinoma	OMIM:614740
+DOID:0002538	Landau-Kleffner syndrome	OMIM:245570
+DOID:0002565	macular corneal dystrophy	OMIM:217800
+DOID:0002569	retinal drusen	OMIM:126700
+DOID:0002571	Langerhans-cell histiocytosis	OMIM:246400
+DOID:0002571	Langerhans-cell histiocytosis	OMIM:604856
+DOID:0002580	rhizomelic chondrodysplasia punctata	OMIM:215100
+DOID:0002580	rhizomelic chondrodysplasia punctata	OMIM:222765
+DOID:0002580	rhizomelic chondrodysplasia punctata	OMIM:600121
+DOID:0002581	chondrodysplasia punctata	OMIM:215105
+DOID:0002582	acatalasia	OMIM:614097
+DOID:0002583	agammaglobulinemia	OMIM:601495
+DOID:0002583	agammaglobulinemia	OMIM:612692
+DOID:0002583	agammaglobulinemia	OMIM:613500
+DOID:0002583	agammaglobulinemia	OMIM:613501
+DOID:0002583	agammaglobulinemia	OMIM:613502
+DOID:0002583	agammaglobulinemia	OMIM:613506
+DOID:0002583	agammaglobulinemia	OMIM:615214
+DOID:0002626	choroid plexus papilloma	OMIM:260500
+DOID:0002717	bloom syndrome	OMIM:210900
+DOID:0002729	dyskeratosis congenita	OMIM:127550
+DOID:0002729	dyskeratosis congenita	OMIM:224230
+DOID:0002729	dyskeratosis congenita	OMIM:305000
+DOID:0002729	dyskeratosis congenita	OMIM:613988
+DOID:0002729	dyskeratosis congenita	OMIM:613989
+DOID:0002729	dyskeratosis congenita	OMIM:613990
+DOID:0002729	dyskeratosis congenita	OMIM:615190
+DOID:0002732	Rothmund-Thomson syndrome	OMIM:268400
+DOID:0002734	keratosis follicularis	OMIM:124200
+DOID:0002736	Hajdu-Cheney syndrome	OMIM:102500
+DOID:0002738	pseudoxanthoma elasticum	OMIM:177850
+DOID:0002738	pseudoxanthoma elasticum	OMIM:264800
+DOID:0002739	Gilbert syndrome	OMIM:143500
+DOID:0002746	glycogen storage disease V	OMIM:232600
+DOID:0002748	glycogen storage disease III	OMIM:232400
+DOID:0002749	glycogen storage disease I	OMIM:232200
+DOID:0002749	glycogen storage disease I	OMIM:232220
+DOID:0002749	glycogen storage disease I	OMIM:232240
+DOID:0002750	glycogen storage disease IV	OMIM:232500
+DOID:0002752	glycogen storage disease II	OMIM:232300
+DOID:0002754	glycogen storage disease VI	OMIM:232700
+DOID:0002775	long bone adamantinoma	OMIM:102660
+DOID:0002785	Dandy-Walker syndrome	OMIM:220200
+DOID:0002841	asthma	OMIM:600807
+DOID:0002842	Jervell-Lange Nielsen syndrome	OMIM:220400
+DOID:0002842	Jervell-Lange Nielsen syndrome	OMIM:612347
+DOID:0002843	long QT syndrome	OMIM:170390
+DOID:0002843	long QT syndrome	OMIM:192500
+DOID:0002843	long QT syndrome	OMIM:601005
+DOID:0002843	long QT syndrome	OMIM:603830
+DOID:0002843	long QT syndrome	OMIM:611818
+DOID:0002843	long QT syndrome	OMIM:611819
+DOID:0002843	long QT syndrome	OMIM:611820
+DOID:0002843	long QT syndrome	OMIM:612955
+DOID:0002843	long QT syndrome	OMIM:613485
+DOID:0002843	long QT syndrome	OMIM:613688
+DOID:0002843	long QT syndrome	OMIM:613693
+DOID:0002843	long QT syndrome	OMIM:613695
+DOID:0002861	congenital nonspherocytic hemolytic anemia	OMIM:206300
+DOID:0002861	congenital nonspherocytic hemolytic anemia	OMIM:206400
+DOID:0002861	congenital nonspherocytic hemolytic anemia	OMIM:300908
+DOID:0002861	congenital nonspherocytic hemolytic anemia	OMIM:613470
+DOID:0002862	glucosephosphate dehydrogenase deficiency	OMIM:305900
+DOID:0002871	endometrial carcinoma	OMIM:608089
+DOID:0000288	endometriosis of uterus	OMIM:600458
+DOID:0002893	cervix carcinoma	OMIM:603956
+DOID:0002907	Goldenhar syndrome	OMIM:164210
+DOID:0002908	Treacher Collins syndrome	OMIM:154500
+DOID:0002908	Treacher Collins syndrome	OMIM:248390
+DOID:0002908	Treacher Collins syndrome	OMIM:613717
+DOID:0002926	Klippel-Trenaunay syndrome	OMIM:149000
+DOID:0002935	Chediak-Higashi syndrome	OMIM:214500
+DOID:0002951	motion sickness	OMIM:158280
+DOID:0002960	photosensitive trichothiodystrophy	OMIM:601675
+DOID:0002962	Cockayne syndrome	OMIM:133540
+DOID:0002962	Cockayne syndrome	OMIM:216400
+DOID:0002962	Cockayne syndrome	OMIM:216411
+DOID:0002977	primary hyperoxaluria	OMIM:260000
+DOID:0002977	primary hyperoxaluria	OMIM:613616
+DOID:0002986	IgA glomerulonephritis	OMIM:161950
+DOID:0002987	familial Mediterranean fever	OMIM:134610
+DOID:0002987	familial Mediterranean fever	OMIM:249100
+DOID:0002988	antiphospholipid syndrome	OMIM:107320
+DOID:0002998	testicular cancer	OMIM:273300
+DOID:0003012	Li-Fraumeni syndrome	OMIM:151623
+DOID:0003012	Li-Fraumeni syndrome	OMIM:609265
+DOID:0003012	Li-Fraumeni syndrome	OMIM:609266
+DOID:0003052	Balkan nephropathy	OMIM:124100
+DOID:0003070	malignant glioma	OMIM:137800
+DOID:0003070	malignant glioma	OMIM:607248
+DOID:0003070	malignant glioma	OMIM:613028
+DOID:0003070	malignant glioma	OMIM:613029
+DOID:0003070	malignant glioma	OMIM:613030
+DOID:0003070	malignant glioma	OMIM:613031
+DOID:0003070	malignant glioma	OMIM:613032
+DOID:0003070	malignant glioma	OMIM:613033
+DOID:0000310	MERRF syndrome	OMIM:545000
+DOID:0003132	porphyria cutanea tarda	OMIM:176090
+DOID:0003132	porphyria cutanea tarda	OMIM:176100
+DOID:0003133	acute porphyria	OMIM:612740
+DOID:0003138	acanthosis nigricans	OMIM:100600
+DOID:0003138	acanthosis nigricans	OMIM:200170
+DOID:0003144	cutis laxa	OMIM:123700
+DOID:0003144	cutis laxa	OMIM:219100
+DOID:0003144	cutis laxa	OMIM:219150
+DOID:0003144	cutis laxa	OMIM:219200
+DOID:0003144	cutis laxa	OMIM:612940
+DOID:0003144	cutis laxa	OMIM:613177
+DOID:0003144	cutis laxa	OMIM:614434
+DOID:0003144	cutis laxa	OMIM:614437
+DOID:0003144	cutis laxa	OMIM:614438
+DOID:0003191	nemaline myopathy	OMIM:161800
+DOID:0003191	nemaline myopathy	OMIM:256030
+DOID:0003191	nemaline myopathy	OMIM:605355
+DOID:0003191	nemaline myopathy	OMIM:609273
+DOID:0003191	nemaline myopathy	OMIM:609284
+DOID:0003191	nemaline myopathy	OMIM:609285
+DOID:0003191	nemaline myopathy	OMIM:610687
+DOID:0003191	nemaline myopathy	OMIM:615348
+DOID:0003191	nemaline myopathy	OMIM:615731
+DOID:0003204	neurilemmomatosis	OMIM:162091
+DOID:0003204	neurilemmomatosis	OMIM:615670
+DOID:0000321	tropical spastic paraparesis	OMIM:159580
+DOID:0003210	Pelizaeus-Merzbacher disease	OMIM:312080
+DOID:0003246	embryonal rhabdomyosarcoma	OMIM:268210
+DOID:0003261	Job's syndrome	OMIM:147060
+DOID:0003263	piebaldism	OMIM:172800
+DOID:0003265	chronic granulomatous disease	OMIM:138990
+DOID:0003265	chronic granulomatous disease	OMIM:233690
+DOID:0003265	chronic granulomatous disease	OMIM:233700
+DOID:0003265	chronic granulomatous disease	OMIM:233710
+DOID:0003265	chronic granulomatous disease	OMIM:306400
+DOID:0003265	chronic granulomatous disease	OMIM:613960
+DOID:0003301	gonadoblastoma	OMIM:424500
+DOID:0003302	chordoma	OMIM:215400
+DOID:0003310	atopic dermatitis	OMIM:603165
+DOID:0003310	atopic dermatitis	OMIM:605803
+DOID:0003310	atopic dermatitis	OMIM:605804
+DOID:0003310	atopic dermatitis	OMIM:605805
+DOID:0003310	atopic dermatitis	OMIM:605844
+DOID:0003310	atopic dermatitis	OMIM:605845
+DOID:0003310	atopic dermatitis	OMIM:613064
+DOID:0003310	atopic dermatitis	OMIM:613518
+DOID:0003310	atopic dermatitis	OMIM:613519
+DOID:0003315	lipoma	OMIM:151900
+DOID:0000332	amyotrophic lateral sclerosis	OMIM:105400
+DOID:0000332	amyotrophic lateral sclerosis	OMIM:205100
+DOID:0000332	amyotrophic lateral sclerosis	OMIM:602433
+DOID:0000332	amyotrophic lateral sclerosis	OMIM:608030
+DOID:0000332	amyotrophic lateral sclerosis	OMIM:611895
+DOID:0000332	amyotrophic lateral sclerosis	OMIM:612069
+DOID:0000332	amyotrophic lateral sclerosis	OMIM:612577
+DOID:0000332	amyotrophic lateral sclerosis	OMIM:613435
+DOID:0003320	Tay-Sachs disease	OMIM:272800
+DOID:0003322	gangliosidosis GM1	OMIM:230500
+DOID:0003322	gangliosidosis GM1	OMIM:230600
+DOID:0003322	gangliosidosis GM1	OMIM:230650
+DOID:0003323	Sandhoff disease	OMIM:268800
+DOID:0003343	mucolipidosis	OMIM:252650
+DOID:0003347	osteosarcoma	OMIM:259500
+DOID:0003369	peripheral primitive neuroectodermal tumor	OMIM:612219
+DOID:0003371	chondrosarcoma	OMIM:215300
+DOID:0003389	Papillon-Lefevre disease	OMIM:245000
+DOID:0003393	coronary artery disease	OMIM:300464
+DOID:0003393	coronary artery disease	OMIM:607339
+DOID:0003393	coronary artery disease	OMIM:608316
+DOID:0003393	coronary artery disease	OMIM:608318
+DOID:0003393	coronary artery disease	OMIM:608320
+DOID:0003393	coronary artery disease	OMIM:608901
+DOID:0003393	coronary artery disease	OMIM:610938
+DOID:0003393	coronary artery disease	OMIM:610947
+DOID:0003393	coronary artery disease	OMIM:611139
+DOID:0003393	coronary artery disease	OMIM:612030
+DOID:0003393	coronary artery disease	OMIM:614293
+DOID:0003393	coronary artery disease	OMIM:614466
+DOID:0003413	alpha-mannosidosis	OMIM:248500
+DOID:0003429	inclusion body myositis	OMIM:147421
+DOID:0003429	inclusion body myositis	OMIM:600737
+DOID:0003429	inclusion body myositis	OMIM:605637
+DOID:0003429	inclusion body myositis	OMIM:605820
+DOID:0003490	Noonan syndrome	OMIM:163950
+DOID:0003490	Noonan syndrome	OMIM:609942
+DOID:0003490	Noonan syndrome	OMIM:610733
+DOID:0003490	Noonan syndrome	OMIM:611553
+DOID:0003490	Noonan syndrome	OMIM:613224
+DOID:0003490	Noonan syndrome	OMIM:613706
+DOID:0000350	mastocytosis	OMIM:154800
+DOID:0003529	central core myopathy	OMIM:117000
+DOID:0003534	Lafora disease	OMIM:254780
+DOID:0003535	Unverricht-Lundborg syndrome	OMIM:254800
+DOID:0003590	gestational trophoblastic neoplasm	OMIM:231090
+DOID:0003613	Canavan disease	OMIM:271900
+DOID:0003614	Kallmann syndrome	OMIM:147950
+DOID:0003614	Kallmann syndrome	OMIM:244200
+DOID:0003614	Kallmann syndrome	OMIM:610628
+DOID:0003614	Kallmann syndrome	OMIM:612370
+DOID:0003614	Kallmann syndrome	OMIM:612702
+DOID:0003633	beta-mannosidosis	OMIM:248510
+DOID:0003635	congenital myasthenic syndrome	OMIM:254210
+DOID:0003635	congenital myasthenic syndrome	OMIM:254300
+DOID:0003635	congenital myasthenic syndrome	OMIM:601462
+DOID:0003635	congenital myasthenic syndrome	OMIM:605809
+DOID:0003635	congenital myasthenic syndrome	OMIM:608930
+DOID:0003635	congenital myasthenic syndrome	OMIM:608931
+DOID:0003635	congenital myasthenic syndrome	OMIM:614198
+DOID:0003649	pyruvate decarboxylase deficiency	OMIM:245348
+DOID:0003649	pyruvate decarboxylase deficiency	OMIM:245349
+DOID:0003649	pyruvate decarboxylase deficiency	OMIM:312170
+DOID:0003649	pyruvate decarboxylase deficiency	OMIM:608782
+DOID:0003649	pyruvate decarboxylase deficiency	OMIM:614111
+DOID:0003651	pyruvate carboxylase deficiency disease	OMIM:266150
+DOID:0003652	Leigh disease	OMIM:220111
+DOID:0003652	Leigh disease	OMIM:256000
+DOID:0003652	Leigh disease	OMIM:308930
+DOID:0003659	sialuria	OMIM:269921
+DOID:0003659	sialuria	OMIM:604369
+DOID:0003687	MELAS syndrome	OMIM:540000
+DOID:0003748	esophagus squamous cell carcinoma	OMIM:133239
+DOID:0003753	Hermansky-Pudlak syndrome	OMIM:203300
+DOID:0003753	Hermansky-Pudlak syndrome	OMIM:608233
+DOID:0003753	Hermansky-Pudlak syndrome	OMIM:614072
+DOID:0003753	Hermansky-Pudlak syndrome	OMIM:614073
+DOID:0003753	Hermansky-Pudlak syndrome	OMIM:614074
+DOID:0003753	Hermansky-Pudlak syndrome	OMIM:614075
+DOID:0003753	Hermansky-Pudlak syndrome	OMIM:614076
+DOID:0003753	Hermansky-Pudlak syndrome	OMIM:614077
+DOID:0003753	Hermansky-Pudlak syndrome	OMIM:614171
+DOID:0003755	antithrombin III deficiency	OMIM:613118
+DOID:0003762	cytochrome-c oxidase deficiency disease	OMIM:220110
+DOID:0003764	Denys-Drash syndrome	OMIM:194080
+DOID:0003783	Coffin-Lowry syndrome	OMIM:303600
+DOID:0003803	Crigler-Najjar syndrome	OMIM:218800
+DOID:0003805	porokeratosis	OMIM:175800
+DOID:0003827	congenital diaphragmatic hernia	OMIM:142340
+DOID:0003827	congenital diaphragmatic hernia	OMIM:222400
+DOID:0003827	congenital diaphragmatic hernia	OMIM:610187
+DOID:0000384	Wolff-Parkinson-White syndrome	OMIM:194200
+DOID:0003852	Peutz-Jeghers syndrome	OMIM:175200
+DOID:0003883	Lynch syndrome	OMIM:120435
+DOID:0003883	Lynch syndrome	OMIM:609310
+DOID:0003883	Lynch syndrome	OMIM:613244
+DOID:0003883	Lynch syndrome	OMIM:614331
+DOID:0003883	Lynch syndrome	OMIM:614337
+DOID:0003883	Lynch syndrome	OMIM:614350
+DOID:0003883	Lynch syndrome	OMIM:614385
+DOID:0003890	acute intermittent porphyria	OMIM:176000
+DOID:0003905	lung carcinoma	OMIM:612571
+DOID:0003911	progeria	OMIM:176670
+DOID:0003928	adiposis dolorosa	OMIM:103200
+DOID:0003948	adrenocortical carcinoma	OMIM:202300
+DOID:0003962	follicular thyroid carcinoma	OMIM:188470
+DOID:0003969	papillary thyroid carcinoma	OMIM:188550
+DOID:0000397	restrictive cardiomyopathy	OMIM:115210
+DOID:0000397	restrictive cardiomyopathy	OMIM:609578
+DOID:0000397	restrictive cardiomyopathy	OMIM:612422
+DOID:0000397	restrictive cardiomyopathy	OMIM:615248
+DOID:0003981	pantothenate kinase-associated neurodegeneration	OMIM:234200
+DOID:0004022	ureterocele	OMIM:191650
+DOID:0004028	angioma serpiginosum	OMIM:106050
+DOID:0004028	angioma serpiginosum	OMIM:600652
+DOID:0004051	alveolar rhabdomyosarcoma	OMIM:268220
+DOID:0004154	dentinogenesis imperfecta	OMIM:125490
+DOID:0004154	dentinogenesis imperfecta	OMIM:125500
+DOID:0004183	pseudopseudohypoparathyroidism	OMIM:612463
+DOID:0004184	pseudohypoparathyroidism	OMIM:603233
+DOID:0004184	pseudohypoparathyroidism	OMIM:612462
+DOID:0004239	alveolar soft part sarcoma	OMIM:606243
+DOID:0004249	Gerstmann-Straussler-Scheinker syndrome	OMIM:137440
+DOID:0004252	Alexander disease	OMIM:203450
+DOID:0004253	melorheostosis	OMIM:155950
+DOID:0004257	Caffey disease	OMIM:114000
+DOID:0004258	Weissenbacher-Zweymüller syndrome	OMIM:261800
+DOID:0004279	infundibulocystic basal cell carcinoma	OMIM:604451
+DOID:0004297	scimitar syndrome	OMIM:106700
+DOID:0004346	variegate porphyria	OMIM:176200
+DOID:0000437	myasthenia gravis	OMIM:254200
+DOID:0004400	dermatosis papulosa nigra	OMIM:125600
+DOID:0004423	sea-blue histiocyte syndrome	OMIM:269600
+DOID:0004428	dyslexia	OMIM:127700
+DOID:0004428	dyslexia	OMIM:300509
+DOID:0004428	dyslexia	OMIM:600202
+DOID:0004428	dyslexia	OMIM:604254
+DOID:0004428	dyslexia	OMIM:606616
+DOID:0004428	dyslexia	OMIM:606896
+DOID:0004428	dyslexia	OMIM:608995
+DOID:0004440	seminoma	OMIM:273300
+DOID:0004447	cystoid macular edema	OMIM:153880
+DOID:0000445	Bartter disease	OMIM:241200
+DOID:0000445	Bartter disease	OMIM:601678
+DOID:0000445	Bartter disease	OMIM:602522
+DOID:0000445	Bartter disease	OMIM:607364
+DOID:0000445	Bartter disease	OMIM:613090
+DOID:0004450	renal cell carcinoma	OMIM:300854
+DOID:0000446	hyperaldosteronism	OMIM:605635
+DOID:0000446	hyperaldosteronism	OMIM:613677
+DOID:0004465	papillary renal cell carcinoma	OMIM:605074
+DOID:0004480	achondroplasia	OMIM:100800
+DOID:0004481	allergic rhinitis	OMIM:607154
+DOID:0000452	pleomorphic adenoma	OMIM:181030
+DOID:0004534	Hallermann-Streiff syndrome	OMIM:234100
+DOID:0004535	hypotrichosis	OMIM:146520
+DOID:0004535	hypotrichosis	OMIM:146550
+DOID:0004535	hypotrichosis	OMIM:278150
+DOID:0004535	hypotrichosis	OMIM:601553
+DOID:0004535	hypotrichosis	OMIM:604379
+DOID:0004535	hypotrichosis	OMIM:605389
+DOID:0004535	hypotrichosis	OMIM:607903
+DOID:0004535	hypotrichosis	OMIM:612841
+DOID:0004535	hypotrichosis	OMIM:613981
+DOID:0004535	hypotrichosis	OMIM:614237
+DOID:0004535	hypotrichosis	OMIM:614238
+DOID:0004535	hypotrichosis	OMIM:615059
+DOID:0004535	hypotrichosis	OMIM:615885
+DOID:0004535	hypotrichosis	OMIM:615896
+DOID:0004586	familial meningioma	OMIM:607174
+DOID:0004603	epidermolytic hyperkeratosis	OMIM:113800
+DOID:0004621	holoprosencephaly	OMIM:142945
+DOID:0004621	holoprosencephaly	OMIM:142946
+DOID:0004621	holoprosencephaly	OMIM:157170
+DOID:0004621	holoprosencephaly	OMIM:236100
+DOID:0004621	holoprosencephaly	OMIM:605934
+DOID:0004621	holoprosencephaly	OMIM:609408
+DOID:0004621	holoprosencephaly	OMIM:609637
+DOID:0004621	holoprosencephaly	OMIM:610828
+DOID:0004621	holoprosencephaly	OMIM:610829
+DOID:0004621	holoprosencephaly	OMIM:614226
+DOID:0004624	Ollier disease	OMIM:166000
+DOID:0004644	epidermolysis bullosa simplex	OMIM:601001
+DOID:0004644	epidermolysis bullosa simplex	OMIM:615425
+DOID:0004647	trilateral retinoblastoma	OMIM:180200
+DOID:0004674	androgen insensitivity syndrome	OMIM:300068
+DOID:0004751	striatonigral degeneration	OMIM:271930
+DOID:0004751	striatonigral degeneration	OMIM:500003
+DOID:0004751	striatonigral degeneration	OMIM:609161
+DOID:0004752	multiple system atrophy	OMIM:146500
+DOID:0004769	pleuropulmonary blastoma	OMIM:601200
+DOID:0004795	Tay-Sachs disease AB variant	OMIM:272750
+DOID:0004810	cerebrotendinous xanthomatosis	OMIM:213700
+DOID:0004843	subependymal glioma	OMIM:600139
+DOID:0004890	juvenile myoclonic epilepsy	OMIM:254770
+DOID:0004890	juvenile myoclonic epilepsy	OMIM:607631
+DOID:0004890	juvenile myoclonic epilepsy	OMIM:608816
+DOID:0004890	juvenile myoclonic epilepsy	OMIM:611364
+DOID:0004890	juvenile myoclonic epilepsy	OMIM:614280
+DOID:0004905	pancreatic carcinoma	OMIM:260350
+DOID:0004971	myelofibrosis	OMIM:254450
+DOID:0004990	essential tremor	OMIM:190300
+DOID:0004990	essential tremor	OMIM:602134
+DOID:0004990	essential tremor	OMIM:611456
+DOID:0004990	essential tremor	OMIM:614782
+DOID:0004997	Camurati-Engelmann disease	OMIM:131300
+DOID:0004997	Camurati-Engelmann disease	OMIM:606631
+DOID:0004998	trichorhinophalangeal syndrome type II	OMIM:150230
+DOID:0005117	dermoid cyst of ovary	OMIM:166950
+DOID:0005204	fructose-1,6-bisphosphatase deficiency	OMIM:229700
+DOID:0005212	congenital disorder of glycosylation	OMIM:212065
+DOID:0005212	congenital disorder of glycosylation	OMIM:212066
+DOID:0000529	blepharospasm	OMIM:606798
+DOID:0005325	Roberts syndrome	OMIM:268300
+DOID:0005327	retinal detachment	OMIM:312530
+DOID:0005339	cyclic hematopoiesis	OMIM:162800
+DOID:0005362	focal epithelial hyperplasia	OMIM:229045
+DOID:0005363	myxoid liposarcoma	OMIM:613488
+DOID:0005374	pilomatrixoma	OMIM:132600
+DOID:0005394	prolactinoma	OMIM:600634
+DOID:0005408	Paget's disease of bone	OMIM:167250
+DOID:0005408	Paget's disease of bone	OMIM:602080
+DOID:0005408	Paget's disease of bone	OMIM:606263
+DOID:0005409	lung small cell carcinoma	OMIM:182280
+DOID:0005419	schizophrenia	OMIM:181500
+DOID:0005419	schizophrenia	OMIM:181510
+DOID:0005419	schizophrenia	OMIM:600511
+DOID:0005419	schizophrenia	OMIM:600850
+DOID:0005419	schizophrenia	OMIM:603013
+DOID:0005419	schizophrenia	OMIM:603175
+DOID:0005419	schizophrenia	OMIM:603176
+DOID:0005419	schizophrenia	OMIM:603206
+DOID:0005419	schizophrenia	OMIM:603342
+DOID:0005419	schizophrenia	OMIM:604906
+DOID:0005419	schizophrenia	OMIM:605419
+DOID:0005419	schizophrenia	OMIM:608078
+DOID:0005419	schizophrenia	OMIM:608543
+DOID:0005419	schizophrenia	OMIM:612361
+DOID:0005419	schizophrenia	OMIM:613025
+DOID:0005419	schizophrenia	OMIM:613950
+DOID:0005419	schizophrenia	OMIM:613959
+DOID:0005419	schizophrenia	OMIM:615232
+DOID:0005425	ovarian hyperstimulation syndrome	OMIM:608115
+DOID:0005426	premature ovarian failure	OMIM:300510
+DOID:0005426	premature ovarian failure	OMIM:300511
+DOID:0005426	premature ovarian failure	OMIM:300604
+DOID:0005426	premature ovarian failure	OMIM:311360
+DOID:0005426	premature ovarian failure	OMIM:608996
+DOID:0005426	premature ovarian failure	OMIM:611548
+DOID:0005426	premature ovarian failure	OMIM:612310
+DOID:0005426	premature ovarian failure	OMIM:612964
+DOID:0005426	premature ovarian failure	OMIM:615723
+DOID:0005426	premature ovarian failure	OMIM:615724
+DOID:0005453	pulmonary venoocclusive disease	OMIM:265450
+DOID:0005485	synovial sarcoma	OMIM:300813
+DOID:0005485	synovial sarcoma	OMIM:312820
+DOID:0005520	head and neck squamous cell carcinoma	OMIM:275355
+DOID:0005557	testicular germ cell cancer	OMIM:273300
+DOID:0005557	testicular germ cell cancer	OMIM:300228
+DOID:0005572	Beckwith-Wiedemann syndrome	OMIM:130650
+DOID:0000560	jaw-winking syndrome	OMIM:154600
+DOID:0005683	hereditary breast ovarian cancer	OMIM:604370
+DOID:0005683	hereditary breast ovarian cancer	OMIM:612555
+DOID:0005683	hereditary breast ovarian cancer	OMIM:613399
+DOID:0005683	hereditary breast ovarian cancer	OMIM:614291
+DOID:0005684	spondyloepimetaphyseal dysplasia, Sponastrime type	OMIM:271510
+DOID:0005688	Werner syndrome	OMIM:277700
+DOID:0005723	optic atrophy	OMIM:165300
+DOID:0005723	optic atrophy	OMIM:165500
+DOID:0005723	optic atrophy	OMIM:258500
+DOID:0005723	optic atrophy	OMIM:311050
+DOID:0005723	optic atrophy	OMIM:605293
+DOID:0005723	optic atrophy	OMIM:610708
+DOID:0005768	Nager acrofacial dysostosis	OMIM:154400
+DOID:0005810	adenosine deaminase deficiency	OMIM:102700
+DOID:0005812	MHC class II deficiency	OMIM:209920
+DOID:0005813	purine nucleoside phosphorylase deficiency	OMIM:613179
+DOID:0000583	hemolytic anemia	OMIM:266120
+DOID:0000583	hemolytic anemia	OMIM:612631
+DOID:0005844	myocardial infarction	OMIM:608446
+DOID:0005844	myocardial infarction	OMIM:608557
+DOID:0000585	nephrolithiasis	OMIM:167030
+DOID:0000594	panic disorder	OMIM:167870
+DOID:0000594	panic disorder	OMIM:607853
+DOID:0000594	panic disorder	OMIM:609985
+DOID:0000599	specific phobia	OMIM:608251
+DOID:0006039	uveal melanoma	OMIM:155720
+DOID:0006039	uveal melanoma	OMIM:606660
+DOID:0006039	uveal melanoma	OMIM:606661
+DOID:0000612	primary immunodeficiency disease	OMIM:242850
+DOID:0006126	anal canal carcinoma	OMIM:105580
+DOID:0006245	renal oncocytoma	OMIM:553000
+DOID:0006255	growth hormone secreting pituitary adenoma	OMIM:102200
+DOID:0000628	combined T cell and B cell immunodeficiency	OMIM:312863
+DOID:0000633	myositis	OMIM:160750
+DOID:0000635	acquired immunodeficiency syndrome	OMIM:609423
+DOID:0006364	migraine	OMIM:157300
+DOID:0006364	migraine	OMIM:613656
+DOID:0006406	double outlet right ventricle	OMIM:217095
+DOID:0006419	tetralogy of Fallot	OMIM:187500
+DOID:0006457	Cowden disease	OMIM:158350
+DOID:0006457	Cowden disease	OMIM:612359
+DOID:0006457	Cowden disease	OMIM:615106
+DOID:0006457	Cowden disease	OMIM:615107
+DOID:0006457	Cowden disease	OMIM:615109
+DOID:0006496	extraskeletal myxoid chondrosarcoma	OMIM:612237
+DOID:0006498	seborrheic keratosis	OMIM:182000
+DOID:0006543	acne	OMIM:604324
+DOID:0006612	leukocyte adhesion deficiency	OMIM:116920
+DOID:0006612	leukocyte adhesion deficiency	OMIM:266265
+DOID:0006612	leukocyte adhesion deficiency	OMIM:612840
+DOID:0006652	diffuse idiopathic skeletal hyperostosis	OMIM:106400
+DOID:0006678	tooth and nail syndrome	OMIM:189500
+DOID:0006682	spondylolisthesis	OMIM:184200
+DOID:0006683	Aarskog-Scott syndrome	OMIM:100050
+DOID:0006683	Aarskog-Scott syndrome	OMIM:305400
+DOID:0006686	Achard syndrome	OMIM:100700
+DOID:0006688	autoimmune lymphoproliferative syndrome	OMIM:601859
+DOID:0006688	autoimmune lymphoproliferative syndrome	OMIM:603909
+DOID:0006688	autoimmune lymphoproliferative syndrome	OMIM:607271
+DOID:0006688	autoimmune lymphoproliferative syndrome	OMIM:614470
+DOID:0006691	Aagenaes syndrome	OMIM:214900
+DOID:0006713	cerebrovascular disease	OMIM:601367
+DOID:0000674	cleft palate	OMIM:119540
+DOID:0000674	cleft palate	OMIM:119570
+DOID:0000676	juvenile rheumatoid arthritis	OMIM:604302
+DOID:0000678	progressive supranuclear palsy	OMIM:601104
+DOID:0000678	progressive supranuclear palsy	OMIM:609454
+DOID:0000678	progressive supranuclear palsy	OMIM:610898
+DOID:0000684	hepatocellular carcinoma	OMIM:114550
+DOID:0000699	mitochondrial myopathy	OMIM:251900
+DOID:0007004	ACTH-secreting pituitary adenoma	OMIM:219090
+DOID:0000701	dentin dysplasia	OMIM:125400
+DOID:0000701	dentin dysplasia	OMIM:125420
+DOID:0000705	leber hereditary optic neuropathy	OMIM:535000
+DOID:0007148	rheumatoid arthritis	OMIM:180300
+DOID:0007173	cloacogenic carcinoma	OMIM:105580
+DOID:0000718	autoimmune hemolytic anemia	OMIM:205700
+DOID:0007400	Nijmegen breakage syndrome	OMIM:251260
+DOID:0000743	dermatographia	OMIM:125635
+DOID:0000758	situs inversus	OMIM:270100
+DOID:0000768	retinoblastoma	OMIM:180200
+DOID:0000769	neuroblastoma	OMIM:256700
+DOID:0000769	neuroblastoma	OMIM:610317
+DOID:0000769	neuroblastoma	OMIM:613013
+DOID:0000769	neuroblastoma	OMIM:613014
+DOID:0000769	neuroblastoma	OMIM:613015
+DOID:0000769	neuroblastoma	OMIM:613016
+DOID:0007693	abdominal aortic aneurysm	OMIM:100070
+DOID:0007693	abdominal aortic aneurysm	OMIM:609782
+DOID:0007693	abdominal aortic aneurysm	OMIM:611891
+DOID:0007693	abdominal aortic aneurysm	OMIM:614375
+DOID:0007765	Coats disease	OMIM:300216
+DOID:0000799	varicose veins	OMIM:192200
+DOID:0007997	thyrotoxicosis	OMIM:275000
+DOID:0007998	hyperthyroidism	OMIM:603373
+DOID:0007998	hyperthyroidism	OMIM:609152
+DOID:0008158	complement component 5 deficiency	OMIM:609536
+DOID:0008161	thyroid hurthle cell carcinoma	OMIM:607464
+DOID:0000083	cataract	OMIM:115650
+DOID:0000083	cataract	OMIM:115660
+DOID:0000083	cataract	OMIM:115665
+DOID:0000083	cataract	OMIM:115700
+DOID:0000083	cataract	OMIM:115800
+DOID:0000083	cataract	OMIM:115900
+DOID:0000083	cataract	OMIM:116100
+DOID:0000083	cataract	OMIM:116200
+DOID:0000083	cataract	OMIM:116300
+DOID:0000083	cataract	OMIM:116400
+DOID:0000083	cataract	OMIM:116700
+DOID:0000083	cataract	OMIM:116800
+DOID:0000083	cataract	OMIM:212500
+DOID:0000083	cataract	OMIM:302200
+DOID:0000083	cataract	OMIM:600881
+DOID:0000083	cataract	OMIM:601202
+DOID:0000083	cataract	OMIM:601371
+DOID:0000083	cataract	OMIM:601547
+DOID:0000083	cataract	OMIM:601885
+DOID:0000083	cataract	OMIM:604219
+DOID:0000083	cataract	OMIM:604307
+DOID:0000083	cataract	OMIM:605728
+DOID:0000083	cataract	OMIM:605749
+DOID:0000083	cataract	OMIM:607304
+DOID:0000083	cataract	OMIM:609026
+DOID:0000083	cataract	OMIM:609376
+DOID:0000083	cataract	OMIM:609741
+DOID:0000083	cataract	OMIM:610019
+DOID:0000083	cataract	OMIM:610202
+DOID:0000083	cataract	OMIM:610425
+DOID:0000083	cataract	OMIM:611391
+DOID:0000083	cataract	OMIM:611544
+DOID:0000083	cataract	OMIM:611597
+DOID:0000083	cataract	OMIM:612968
+DOID:0000083	cataract	OMIM:613887
+DOID:0000083	cataract	OMIM:614422
+DOID:0000083	cataract	OMIM:614697
+DOID:0000083	cataract	OMIM:615188
+DOID:0000083	cataract	OMIM:615274
+DOID:0000083	cataract	OMIM:615277
+DOID:0008354	complement component 3 deficiency	OMIM:613779
+DOID:0008398	osteoarthritis	OMIM:140600
+DOID:0008398	osteoarthritis	OMIM:165720
+DOID:0008398	osteoarthritis	OMIM:607850
+DOID:0008398	osteoarthritis	OMIM:610839
+DOID:0008398	osteoarthritis	OMIM:612400
+DOID:0008398	osteoarthritis	OMIM:612401
+DOID:0000084	osteochondritis dissecans	OMIM:165800
+DOID:0008446	intussusception	OMIM:147710
+DOID:0008461	Aicardi syndrome	OMIM:304050
+DOID:0008498	hereditary night blindness	OMIM:258100
+DOID:0008498	hereditary night blindness	OMIM:613411
+DOID:0008534	gastroesophageal reflux disease	OMIM:109350
+DOID:0008538	reticulosarcoma	OMIM:267730
+DOID:0008545	malignant hyperthermia	OMIM:145600
+DOID:0008545	malignant hyperthermia	OMIM:154275
+DOID:0008545	malignant hyperthermia	OMIM:154576
+DOID:0008545	malignant hyperthermia	OMIM:600467
+DOID:0008545	malignant hyperthermia	OMIM:601887
+DOID:0008545	malignant hyperthermia	OMIM:601888
+DOID:0008552	chronic myeloid leukemia	OMIM:608232
+DOID:0000856	biotinidase deficiency	OMIM:253260
+DOID:0008567	Hodgkin's lymphoma	OMIM:236000
+DOID:0008567	Hodgkin's lymphoma	OMIM:300221
+DOID:0008567	Hodgkin's lymphoma	OMIM:400021
+DOID:0008577	ulcerative colitis	OMIM:266600
+DOID:0008584	Burkitt lymphoma	OMIM:113970
+DOID:0000859	holocarboxylase synthetase deficiency	OMIM:253270
+DOID:0008616	Peyronie's disease	OMIM:171000
+DOID:0008632	Kaposi's sarcoma	OMIM:148000
+DOID:0008691	mycosis fungoides	OMIM:254400
+DOID:0008712	neurofibromatosis	OMIM:101000
+DOID:0008712	neurofibromatosis	OMIM:162200
+DOID:0008712	neurofibromatosis	OMIM:162210
+DOID:0008712	neurofibromatosis	OMIM:162260
+DOID:0008712	neurofibromatosis	OMIM:162270
+DOID:0008757	gastric mucosal hypertrophy	OMIM:137280
+DOID:0008864	acute monocytic leukemia	OMIM:151380
+DOID:0008893	psoriasis	OMIM:177900
+DOID:0008893	psoriasis	OMIM:601454
+DOID:0008893	psoriasis	OMIM:602723
+DOID:0008893	psoriasis	OMIM:603935
+DOID:0008893	psoriasis	OMIM:604316
+DOID:0008893	psoriasis	OMIM:605364
+DOID:0008893	psoriasis	OMIM:605606
+DOID:0008893	psoriasis	OMIM:607857
+DOID:0008893	psoriasis	OMIM:610707
+DOID:0008893	psoriasis	OMIM:612410
+DOID:0008893	psoriasis	OMIM:612599
+DOID:0008893	psoriasis	OMIM:612950
+DOID:0008893	psoriasis	OMIM:614070
+DOID:0000891	progressive myoclonus epilepsy	OMIM:254900
+DOID:0000891	progressive myoclonus epilepsy	OMIM:310370
+DOID:0000891	progressive myoclonus epilepsy	OMIM:611726
+DOID:0000891	progressive myoclonus epilepsy	OMIM:612437
+DOID:0000891	progressive myoclonus epilepsy	OMIM:613832
+DOID:0000891	progressive myoclonus epilepsy	OMIM:614018
+DOID:0008923	skin melanoma	OMIM:155600
+DOID:0008923	skin melanoma	OMIM:608035
+DOID:0008923	skin melanoma	OMIM:609048
+DOID:0008923	skin melanoma	OMIM:612263
+DOID:0008923	skin melanoma	OMIM:613099
+DOID:0008923	skin melanoma	OMIM:613972
+DOID:0008923	skin melanoma	OMIM:614456
+DOID:0008923	skin melanoma	OMIM:615134
+DOID:0008923	skin melanoma	OMIM:615848
+DOID:0008924	autoimmune thrombocytopenic purpura	OMIM:188030
+DOID:0000893	Wilson disease	OMIM:277900
+DOID:0008970	subacute sclerosing panencephalitis	OMIM:260470
+DOID:0000898	polycystic kidney disease	OMIM:173900
+DOID:0000898	polycystic kidney disease	OMIM:263200
+DOID:0000898	polycystic kidney disease	OMIM:600666
+DOID:0000898	polycystic kidney disease	OMIM:613095
+DOID:0008986	narcolepsy	OMIM:161400
+DOID:0008986	narcolepsy	OMIM:605841
+DOID:0008986	narcolepsy	OMIM:609039
+DOID:0008986	narcolepsy	OMIM:612417
+DOID:0008986	narcolepsy	OMIM:612851
+DOID:0008986	narcolepsy	OMIM:614223
+DOID:0008986	narcolepsy	OMIM:614250
+DOID:0008997	polycythemia vera	OMIM:263300
+DOID:0009007	sudden infant death syndrome	OMIM:272120
+DOID:0000905	Zellweger syndrome	OMIM:214100
+DOID:0009074	systemic lupus erythematosus	OMIM:152700
+DOID:0009074	systemic lupus erythematosus	OMIM:300809
+DOID:0009074	systemic lupus erythematosus	OMIM:601744
+DOID:0009074	systemic lupus erythematosus	OMIM:605218
+DOID:0009074	systemic lupus erythematosus	OMIM:605480
+DOID:0009074	systemic lupus erythematosus	OMIM:608437
+DOID:0009074	systemic lupus erythematosus	OMIM:609903
+DOID:0009074	systemic lupus erythematosus	OMIM:609939
+DOID:0009074	systemic lupus erythematosus	OMIM:610065
+DOID:0009074	systemic lupus erythematosus	OMIM:610066
+DOID:0009074	systemic lupus erythematosus	OMIM:610927
+DOID:0009074	systemic lupus erythematosus	OMIM:612251
+DOID:0009074	systemic lupus erythematosus	OMIM:612253
+DOID:0009074	systemic lupus erythematosus	OMIM:612254
+DOID:0009074	systemic lupus erythematosus	OMIM:612378
+DOID:0009074	systemic lupus erythematosus	OMIM:613145
+DOID:0009074	systemic lupus erythematosus	OMIM:614420
+DOID:0009119	acute myeloid leukemia	OMIM:601626
+DOID:0009119	acute myeloid leukemia	OMIM:602439
+DOID:0009146	visceral leishmaniasis	OMIM:608207
+DOID:0009146	visceral leishmaniasis	OMIM:611381
+DOID:0009146	visceral leishmaniasis	OMIM:611382
+DOID:0009164	achalasia	OMIM:200400
+DOID:0009169	Wiskott-Aldrich syndrome	OMIM:277970
+DOID:0009169	Wiskott-Aldrich syndrome	OMIM:301000
+DOID:0009212	pityriasis rubra pilaris	OMIM:173200
+DOID:0009220	central sleep apnea	OMIM:107640
+DOID:0009220	central sleep apnea	OMIM:207720
+DOID:0009245	Alagille syndrome	OMIM:118450
+DOID:0009245	Alagille syndrome	OMIM:610205
+DOID:0009246	cerebral amyloid angiopathy	OMIM:105150
+DOID:0009246	cerebral amyloid angiopathy	OMIM:117300
+DOID:0009246	cerebral amyloid angiopathy	OMIM:176500
+DOID:0009246	cerebral amyloid angiopathy	OMIM:605714
+DOID:0009248	Pallister-Hall syndrome	OMIM:146510
+DOID:0009249	Beemer-Langer syndrome	OMIM:269860
+DOID:0009250	acrocallosal syndrome	OMIM:200990
+DOID:0009253	gastrointestinal stromal tumor	OMIM:606764
+DOID:0009255	frontotemporal dementia	OMIM:600274
+DOID:0009255	frontotemporal dementia	OMIM:600795
+DOID:0009256	colorectal cancer	OMIM:114500
+DOID:0009256	colorectal cancer	OMIM:608812
+DOID:0009256	colorectal cancer	OMIM:611469
+DOID:0009256	colorectal cancer	OMIM:612229
+DOID:0009256	colorectal cancer	OMIM:612230
+DOID:0009256	colorectal cancer	OMIM:612231
+DOID:0009256	colorectal cancer	OMIM:612232
+DOID:0009256	colorectal cancer	OMIM:612589
+DOID:0009256	colorectal cancer	OMIM:612590
+DOID:0009256	colorectal cancer	OMIM:612591
+DOID:0009256	colorectal cancer	OMIM:612592
+DOID:0009256	colorectal cancer	OMIM:615083
+DOID:0009258	Waardenburg's syndrome	OMIM:148820
+DOID:0009258	Waardenburg's syndrome	OMIM:193500
+DOID:0009258	Waardenburg's syndrome	OMIM:193510
+DOID:0009258	Waardenburg's syndrome	OMIM:277580
+DOID:0009258	Waardenburg's syndrome	OMIM:600193
+DOID:0009258	Waardenburg's syndrome	OMIM:606662
+DOID:0009258	Waardenburg's syndrome	OMIM:608890
+DOID:0009258	Waardenburg's syndrome	OMIM:611584
+DOID:0009258	Waardenburg's syndrome	OMIM:613265
+DOID:0009258	Waardenburg's syndrome	OMIM:613266
+DOID:0009261	nasopharynx carcinoma	OMIM:161550
+DOID:0009261	nasopharynx carcinoma	OMIM:607101
+DOID:0009263	homocystinuria	OMIM:236200
+DOID:0009263	homocystinuria	OMIM:236250
+DOID:0009266	cystinuria	OMIM:220100
+DOID:0009268	glycine encephalopathy	OMIM:605899
+DOID:0009269	maple syrup urine disease	OMIM:246900
+DOID:0009269	maple syrup urine disease	OMIM:248600
+DOID:0009269	maple syrup urine disease	OMIM:615135
+DOID:0009270	alkaptonuria	OMIM:203500
+DOID:0009271	ornithine carbamoyltransferase deficiency	OMIM:311250
+DOID:0009273	citrullinemia	OMIM:215700
+DOID:0009273	citrullinemia	OMIM:603471
+DOID:0009273	citrullinemia	OMIM:605814
+DOID:0009274	hyperlysinemia	OMIM:238700
+DOID:0009274	hyperlysinemia	OMIM:238710
+DOID:0009278	hyperargininemia	OMIM:207800
+DOID:0009280	carbamoyl phosphate synthetase I deficiency disease	OMIM:237300
+DOID:0009281	phenylketonuria	OMIM:261600
+DOID:0009352	type 2 diabetes mellitus	OMIM:125853
+DOID:0009352	type 2 diabetes mellitus	OMIM:601283
+DOID:0009352	type 2 diabetes mellitus	OMIM:601407
+DOID:0009352	type 2 diabetes mellitus	OMIM:603694
+DOID:0009352	type 2 diabetes mellitus	OMIM:608036
+DOID:0009406	hypopituitarism	OMIM:221750
+DOID:0009406	hypopituitarism	OMIM:262600
+DOID:0009406	hypopituitarism	OMIM:262700
+DOID:0009406	hypopituitarism	OMIM:613038
+DOID:0009406	hypopituitarism	OMIM:613986
+DOID:0009432	renal glycosuria	OMIM:233100
+DOID:0009467	nail-patella syndrome	OMIM:161200
+DOID:0009487	Meckel's diverticulum	OMIM:155140
+DOID:0009521	Laron syndrome	OMIM:262500
+DOID:0009538	multiple myeloma	OMIM:254500
+DOID:0009562	primary ciliary dyskinesia	OMIM:244400
+DOID:0009562	primary ciliary dyskinesia	OMIM:606763
+DOID:0009562	primary ciliary dyskinesia	OMIM:608644
+DOID:0009562	primary ciliary dyskinesia	OMIM:608646
+DOID:0009562	primary ciliary dyskinesia	OMIM:608647
+DOID:0009562	primary ciliary dyskinesia	OMIM:610852
+DOID:0009562	primary ciliary dyskinesia	OMIM:611884
+DOID:0009562	primary ciliary dyskinesia	OMIM:612274
+DOID:0009562	primary ciliary dyskinesia	OMIM:612444
+DOID:0009562	primary ciliary dyskinesia	OMIM:612518
+DOID:0009562	primary ciliary dyskinesia	OMIM:612649
+DOID:0009562	primary ciliary dyskinesia	OMIM:612650
+DOID:0009562	primary ciliary dyskinesia	OMIM:613193
+DOID:0009562	primary ciliary dyskinesia	OMIM:613807
+DOID:0009562	primary ciliary dyskinesia	OMIM:613808
+DOID:0009562	primary ciliary dyskinesia	OMIM:614017
+DOID:0009562	primary ciliary dyskinesia	OMIM:614679
+DOID:0009562	primary ciliary dyskinesia	OMIM:614874
+DOID:0009562	primary ciliary dyskinesia	OMIM:614935
+DOID:0009562	primary ciliary dyskinesia	OMIM:615067
+DOID:0009562	primary ciliary dyskinesia	OMIM:615294
+DOID:0009562	primary ciliary dyskinesia	OMIM:615444
+DOID:0009562	primary ciliary dyskinesia	OMIM:615451
+DOID:0009562	primary ciliary dyskinesia	OMIM:615481
+DOID:0009562	primary ciliary dyskinesia	OMIM:615482
+DOID:0009562	primary ciliary dyskinesia	OMIM:615500
+DOID:0009562	primary ciliary dyskinesia	OMIM:615504
+DOID:0009562	primary ciliary dyskinesia	OMIM:615505
+DOID:0009562	primary ciliary dyskinesia	OMIM:615872
+DOID:0009563	bronchiectasis	OMIM:211400
+DOID:0009563	bronchiectasis	OMIM:613021
+DOID:0009563	bronchiectasis	OMIM:613071
+DOID:0009574	choanal atresia	OMIM:608911
+DOID:0009620	vesicoureteral reflux	OMIM:193000
+DOID:0009620	vesicoureteral reflux	OMIM:314550
+DOID:0009620	vesicoureteral reflux	OMIM:610878
+DOID:0009620	vesicoureteral reflux	OMIM:613674
+DOID:0009620	vesicoureteral reflux	OMIM:614317
+DOID:0009620	vesicoureteral reflux	OMIM:614318
+DOID:0009620	vesicoureteral reflux	OMIM:614319
+DOID:0009620	vesicoureteral reflux	OMIM:614674
+DOID:0009620	vesicoureteral reflux	OMIM:615390
+DOID:0009620	vesicoureteral reflux	OMIM:615963
+DOID:0000963	episodic ataxia	OMIM:108500
+DOID:0000963	episodic ataxia	OMIM:160120
+DOID:0000963	episodic ataxia	OMIM:606552
+DOID:0000963	episodic ataxia	OMIM:606554
+DOID:0000963	episodic ataxia	OMIM:611907
+DOID:0000963	episodic ataxia	OMIM:612656
+DOID:0000963	episodic ataxia	OMIM:613855
+DOID:0009631	Pelger-Huet anomaly	OMIM:169400
+DOID:0009649	congenital nystagmus	OMIM:164100
+DOID:0009649	congenital nystagmus	OMIM:193003
+DOID:0009649	congenital nystagmus	OMIM:300589
+DOID:0009649	congenital nystagmus	OMIM:300814
+DOID:0009649	congenital nystagmus	OMIM:608345
+DOID:0009649	congenital nystagmus	OMIM:610700
+DOID:0009649	congenital nystagmus	OMIM:614826
+DOID:0009744	type 1 diabetes mellitus	OMIM:125852
+DOID:0009744	type 1 diabetes mellitus	OMIM:222100
+DOID:0009744	type 1 diabetes mellitus	OMIM:300136
+DOID:0009744	type 1 diabetes mellitus	OMIM:600318
+DOID:0009744	type 1 diabetes mellitus	OMIM:600319
+DOID:0009744	type 1 diabetes mellitus	OMIM:600320
+DOID:0009744	type 1 diabetes mellitus	OMIM:600321
+DOID:0009744	type 1 diabetes mellitus	OMIM:600883
+DOID:0009744	type 1 diabetes mellitus	OMIM:601208
+DOID:0009744	type 1 diabetes mellitus	OMIM:601318
+DOID:0009744	type 1 diabetes mellitus	OMIM:601388
+DOID:0009744	type 1 diabetes mellitus	OMIM:601666
+DOID:0009744	type 1 diabetes mellitus	OMIM:601941
+DOID:0009744	type 1 diabetes mellitus	OMIM:601942
+DOID:0009744	type 1 diabetes mellitus	OMIM:603266
+DOID:0009744	type 1 diabetes mellitus	OMIM:605598
+DOID:0009744	type 1 diabetes mellitus	OMIM:610155
+DOID:0009744	type 1 diabetes mellitus	OMIM:612520
+DOID:0009744	type 1 diabetes mellitus	OMIM:612521
+DOID:0009744	type 1 diabetes mellitus	OMIM:612522
+DOID:0009744	type 1 diabetes mellitus	OMIM:612622
+DOID:0009744	type 1 diabetes mellitus	OMIM:613006
+DOID:0000980	choroidal sclerosis	OMIM:215500
+DOID:0009808	Goodpasture syndrome	OMIM:233450
+DOID:0009821	choroideremia	OMIM:303100
+DOID:0009822	partial central choroid dystrophy	OMIM:613105
+DOID:0009827	radioulnar synostosis	OMIM:179300
+DOID:0009849	Meniere's disease	OMIM:156000
+DOID:0000986	alopecia areata	OMIM:104000
+DOID:0000986	alopecia areata	OMIM:610753
+DOID:0000987	alopecia	OMIM:109200
+DOID:0000987	alopecia	OMIM:300042
+DOID:0009870	galactosemia	OMIM:230350
+DOID:0009870	galactosemia	OMIM:230400
+DOID:0000988	mitral valve prolapse	OMIM:157700
+DOID:0000988	mitral valve prolapse	OMIM:607829
+DOID:0000988	mitral valve prolapse	OMIM:610840
+DOID:0009883	Becker muscular dystrophy	OMIM:300376
+DOID:0000990	congenital heart block	OMIM:234700
+DOID:0009952	acute lymphocytic leukemia	OMIM:247640
+DOID:0009952	acute lymphocytic leukemia	OMIM:613065
+DOID:0009952	acute lymphocytic leukemia	OMIM:613067
+DOID:0009952	acute lymphocytic leukemia	OMIM:615545
+DOID:0009955	hypoplastic left heart syndrome	OMIM:241550
+DOID:0009955	hypoplastic left heart syndrome	OMIM:614435
+DOID:0009970	obesity	OMIM:601665
+DOID:0004644	epidermolysis bullosa simplex	OMIM:131950
+DOID:0000630	genetic disease	OMIM:136140
+DOID:0000630	genetic disease	OMIM:147920
+DOID:0010907	microcephaly	OMIM:152950
+DOID:0000630	genetic disease	OMIM:153640
+DOID:0000630	genetic disease	OMIM:153650
+DOID:0000630	genetic disease	OMIM:155100
+DOID:0004479	pseudohypoaldosteronism	OMIM:177735
+DOID:0000620	blood protein disease	OMIM:194380
+DOID:0050700	cardiomyopathy	OMIM:212112
+DOID:0009252	amino acid metabolic disorder	OMIM:212138
+DOID:0004644	epidermolysis bullosa simplex	OMIM:226670
+DOID:0009252	amino acid metabolic disorder	OMIM:245340
+DOID:0000811	lipodystrophy	OMIM:248370
+DOID:0060091	cardiovascular organ benign neoplasm	OMIM:255960
+DOID:0010124	corneal disease	OMIM:269400
+DOID:0000037	skin disease	OMIM:275210
+DOID:0000037	skin disease	OMIM:278250
+DOID:0003878	intestinal pseudo-obstruction	OMIM:300048
+DOID:0080006	bone development disease	OMIM:300244
+DOID:0060309	syndromic X-linked intellectual disability	OMIM:300263
+DOID:0060309	syndromic X-linked intellectual disability	OMIM:300354
+DOID:0060309	syndromic X-linked intellectual disability	OMIM:300706
+DOID:0080006	bone development disease	OMIM:304120
+DOID:0080006	bone development disease	OMIM:305620
+DOID:0080006	bone development disease	OMIM:309350
+DOID:0080006	bone development disease	OMIM:311300
+DOID:0001682	congenital heart disease	OMIM:314400
+DOID:0010003	sensorineural hearing loss	OMIM:600208
+DOID:0000630	genetic disease	OMIM:601214
+DOID:0002460	anterior dislocation of lens	OMIM:601552
+DOID:0014400	capillary leak syndrome	OMIM:603284
+DOID:0000630	genetic disease	OMIM:605039
+DOID:0010763	hypertension	OMIM:605115
+DOID:0000630	genetic disease	OMIM:605249
+DOID:0001289	neurodegenerative disease	OMIM:606721
+DOID:0014667	disease of metabolism	OMIM:607748
+DOID:0050222	selective IgM deficiency disease	OMIM:608106
+DOID:0000863	nervous system disease	OMIM:608643
+DOID:0000811	lipodystrophy	OMIM:608709
+DOID:0007319	axonal neuropathy	OMIM:610100
+DOID:0010273	heart conduction disease	OMIM:610140
+DOID:0000440	neuromuscular disease	OMIM:610542
+DOID:0004644	epidermolysis bullosa simplex	OMIM:612138
+DOID:0003093	nervous system cancer	OMIM:613325
+DOID:0001441	spinocerebellar ataxia	OMIM:614153
+DOID:0004961	bone marrow disease	OMIM:614675
+DOID:0001891	optic nerve disease	OMIM:614800
+DOID:0005212	congenital disorder of glycosylation	OMIM:614921
+DOID:0001441	spinocerebellar ataxia	OMIM:615386
+DOID:0002352	hemochromatosis	OMIM:615517
+DOID:0001441	spinocerebellar ataxia	OMIM:615768
+DOID:0002481	infantile epileptic encephalopathy	OMIM:615859
+DOID:0002914	immune system disease	OMIM:615897
+DOID:0050758	metabolic acidosis	OMIM:616095
+DOID:0001588	thrombocytopenia	OMIM:616216
+DOID:0001441	spinocerebellar ataxia	OMIM:616291

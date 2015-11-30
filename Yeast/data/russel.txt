@@ -1,0 +1,1465 @@
+russel_U1 snRNP	LUC7
+russel_U1 snRNP	MUD1
+russel_U1 snRNP	NAM8
+russel_U1 snRNP	PRP39
+russel_U1 snRNP	PRP40
+russel_U1 snRNP	PRP42
+russel_U1 snRNP	SNP1
+russel_U1 snRNP	SNU56
+russel_U1 snRNP	SNU71
+russel_U1 snRNP	YHC1
+russel_20S core particle of the proteasome	PRE10
+russel_20S core particle of the proteasome	PRE2
+russel_20S core particle of the proteasome	PRE3
+russel_20S core particle of the proteasome	PRE6
+russel_20S core particle of the proteasome	PRE8
+russel_20S core particle of the proteasome	PUP3
+russel_20S core particle of the proteasome	SCL1
+russel_20S core particle of the proteasome	
+russel_Lsm2-Lsm8 complex	LSM2
+russel_Lsm2-Lsm8 complex	LSM4
+russel_Lsm2-Lsm8 complex	LSM6
+russel_Lsm2-Lsm8 complex	LSM7
+russel_Lsm2-Lsm8 complex	PAT1
+russel_Casein kinase II complex	CKA1
+russel_Casein kinase II complex	CKA2
+russel_Casein kinase II complex	CKB1
+russel_Casein kinase II complex	CKB2
+russel_Complex 5	DBP2
+russel_Complex 5	RPL2A
+russel_Complex 6	ECM5
+russel_Complex 6	PSD2
+russel_Complex 6	YFR006W
+russel_Complex 6	YOL054W
+russel_Complex 7	NSA1
+russel_Complex 7	RPF1
+russel_m-AAA protease complex	AFG3
+russel_m-AAA protease complex	PHB2
+russel_m-AAA protease complex	YTA12
+russel_Mitochondrial ribosomal small subunit	EHD3
+russel_Mitochondrial ribosomal small subunit	MRP1
+russel_Mitochondrial ribosomal small subunit	MRP13
+russel_Mitochondrial ribosomal small subunit	MRP17
+russel_Mitochondrial ribosomal small subunit	MRP21
+russel_Mitochondrial ribosomal small subunit	MRP4
+russel_Mitochondrial ribosomal small subunit	MRP51
+russel_Mitochondrial ribosomal small subunit	MRPS16
+russel_Mitochondrial ribosomal small subunit	MRPS17
+russel_Mitochondrial ribosomal small subunit	MRPS18
+russel_Mitochondrial ribosomal small subunit	MRPS28
+russel_Mitochondrial ribosomal small subunit	MRPS5
+russel_Mitochondrial ribosomal small subunit	MRPS8
+russel_Mitochondrial ribosomal small subunit	MRPS9
+russel_Mitochondrial ribosomal small subunit	NAM9
+russel_Mitochondrial ribosomal small subunit	PET123
+russel_Mitochondrial ribosomal small subunit	RSM10
+russel_Mitochondrial ribosomal small subunit	RSM19
+russel_Mitochondrial ribosomal small subunit	RSM22
+russel_Mitochondrial ribosomal small subunit	RSM23
+russel_Mitochondrial ribosomal small subunit	RSM25
+russel_Mitochondrial ribosomal small subunit	RSM27
+russel_Mitochondrial ribosomal small subunit	RSM7
+russel_Complex 10	MAE1
+russel_Complex 11	NOB1
+russel_Complex 12	MOT1
+russel_Trehalose-6-phosphate synthase/ phosphatase complex	GLN1
+russel_Trehalose-6-phosphate synthase/ phosphatase complex	MCM2
+russel_Trehalose-6-phosphate synthase/ phosphatase complex	MKS1
+russel_Trehalose-6-phosphate synthase/ phosphatase complex	TSC10
+russel_V0 vacuolar ATPase complex	EMI2
+russel_V0 vacuolar ATPase complex	VMA6
+russel_V0 vacuolar ATPase complex	VPH2
+russel_Complex 15	RPS25A
+russel_Complex 15	RRN3
+russel_Complex 16	PPH3
+russel_Complex 16	PSY2
+russel_Complex 16	YBL046W
+russel_Complex 17	BCP1
+russel_Complex 17	YPL208W
+russel_Complex 18	HCA4
+russel_Complex 19	IST2
+russel_Complex 20	LOC1
+russel_Complex 20	RPL9A
+russel_Complex 21	SHM1
+russel_Sin3 Histone deacetylase complex	CTI6
+russel_Sin3 Histone deacetylase complex	RPD3
+russel_Sin3 Histone deacetylase complex	RXT3
+russel_Sin3 Histone deacetylase complex	SAP30
+russel_Sin3 Histone deacetylase complex	SDS3
+russel_Sin3 Histone deacetylase complex	SIN3
+russel_Sin3 Histone deacetylase complex	UME1
+russel_Sin3 Histone deacetylase complex	YMR075W
+russel_Complex 23	EMG1
+russel_Complex 23	KRE33
+russel_Complex 23	KRR1
+russel_Complex 23	NOC4
+russel_Complex 23	NOP14
+russel_Complex 23	YGR145W
+russel_Complex 24	BUD20
+russel_DNA repair complex	MPH1
+russel_DNA repair complex	MSH6
+russel_DNA repair complex	RAD52
+russel_DNA repair complex	RFA1
+russel_Complex 26	MET18
+russel_Complex 26	RAD3
+russel_Complex 27	NOP14
+russel_Complex 27	UTP8
+russel_Gcn1/Gcn2/Gcn20 complex	GCN1
+russel_Gcn1/Gcn2/Gcn20 complex	GCN20
+russel_RNA polymerase I	RPA12
+russel_RNA polymerase I	RPA190
+russel_RNA polymerase I	RPA43
+russel_RNA polymerase I	RPA49
+russel_RNA polymerase I	RPC40
+russel_mRNA decapping complex	DCP1
+russel_mRNA decapping complex	DCP2
+russel_mRNA decapping complex	EDC3
+russel_Ribosome-associated complex   (RAC)	SCP160
+russel_Ribosome-associated complex   (RAC)	SSZ1
+russel_Ribosome-associated complex   (RAC)	ZUO1
+russel_U2 snRNP	CUS1
+russel_U2 snRNP	HSH155
+russel_U2 snRNP	HSH49
+russel_U2 snRNP	LEA1
+russel_U2 snRNP	MSL1
+russel_U2 snRNP	PRP11
+russel_U2 snRNP	PRP21
+russel_U2 snRNP	PRP9
+russel_U2 snRNP	RSE1
+russel_Scs2/Opi1 complex	SWH1
+russel_Sit4/Sap190 complex	SAP190
+russel_Complex  36	FUR1
+russel_Complex  36	SAR1
+russel_Complex  36	YDR341C
+russel_Complex  36	YNK1
+russel_RNA polymerase III complex	RET1
+russel_RNA polymerase III complex	RPC25
+russel_RNA polymerase III complex	RPC31
+russel_RNA polymerase III complex	RPC34
+russel_RNA polymerase III complex	RPC37
+russel_RNA polymerase III complex	RPC40
+russel_RNA polymerase III complex	RPC53
+russel_RNA polymerase III complex	RPC82
+russel_RNA polymerase III complex	RPO31
+russel_Complex 39	BUD20
+russel_Complex 39	IPI3
+russel_Complex 39	NOG1
+russel_Complex 39	NOG2
+russel_Complex 39	NSA2
+russel_Complex 39	NUG1
+russel_Complex 39	RIX1
+russel_Complex 39	RPF2
+russel_Complex 39	SDA1
+russel_Complex 39	YCR072C
+russel_Cyr1/Srv2 complex	CYR1
+russel_Cyr1/Srv2 complex	PHO81
+russel_Cyr1/Srv2 complex	SRV2
+russel_Complex 41	DBP8
+russel_Complex 41	ESF1
+russel_Complex 41	MVD1
+russel_Cytoskeleton-regulatory Lsb3/Las17 complex	LAS17
+russel_Cytoskeleton-regulatory Lsb3/Las17 complex	LSB3
+russel_Cytoskeleton-regulatory Lsb3/Las17 complex	SLA1
+russel_Nup82/Nsp1/Nup159 nuclear pore subcomplex	NSP1
+russel_Nup82/Nsp1/Nup159 nuclear pore subcomplex	NUP159
+russel_Nup82/Nsp1/Nup159 nuclear pore subcomplex	NUP82
+russel_Actin-associated motorproteins 1 complex	MYO2
+russel_Actin-associated motorproteins 1 complex	SHE4
+russel_Translation initiation factor eIF3 complex	FUN12
+russel_Translation initiation factor eIF3 complex	HCR1
+russel_Translation initiation factor eIF3 complex	NIP1
+russel_Translation initiation factor eIF3 complex	PRT1
+russel_Translation initiation factor eIF3 complex	RLI1
+russel_Translation initiation factor eIF3 complex	RPG1
+russel_Translation initiation factor eIF3 complex	TIF34
+russel_Translation initiation factor eIF3 complex	TIF35
+russel_Translation initiation factor eIF3 complex	TIF5
+russel_Clathrin	CHC1
+russel_Clathrin	CLC1
+russel_Complex 47	NAP1
+russel_Complex 47	NIS1
+russel_Complex 47	YOL070C
+russel_Complex 48	NOP8
+russel_Complex 48	URB1
+russel_Complex 48	URB2
+russel_Actin-associated motorproteins 2 complex	MLC1
+russel_Actin-associated motorproteins 2 complex	MYO4
+russel_Actin-associated motorproteins 2 complex	SHE2
+russel_Actin-associated motorproteins 2 complex	SHE3
+russel_Complex 50	LSG1
+russel_Complex 50	NMD3
+russel_Complex 50	REI1
+russel_Complex 51	GDB1
+russel_Complex 51	MIR1
+russel_Signal recognition complex	SEC65
+russel_Signal recognition complex	SRP14
+russel_Signal recognition complex	SRP54
+russel_Signal recognition complex	SRP68
+russel_Signal recognition complex	SRP72
+russel_Erv41/Erv46 complex	ERO1
+russel_Erv41/Erv46 complex	ERV41
+russel_Erv41/Erv46 complex	ERV46
+russel_Complex 55	LOC1
+russel_Complex 56	BRX1
+russel_Complex 56	ERB1
+russel_Complex 56	MAK21
+russel_Complex 56	NOC2
+russel_Complex 56	NOP4
+russel_Complex 56	PUF6
+russel_NuA4 Histone Acetyltransferase Complex	EPL1
+russel_NuA4 Histone Acetyltransferase Complex	ESA1
+russel_Complex 58	HRR25
+russel_Complex 58	LTV1
+russel_Complex 58	NOB1
+russel_Complex 58	RIO2
+russel_Complex 58	TSR1
+russel_V1 vacuolar ATPase complex	VMA13
+russel_V1 vacuolar ATPase complex	VMA4
+russel_V1 vacuolar ATPase complex	VMA5
+russel_V1 vacuolar ATPase complex	VMA7
+russel_V1 vacuolar ATPase complex	VMA8
+russel_Mitochondrial ribosomal large subunit	ATG26
+russel_Mitochondrial ribosomal large subunit	BUD3
+russel_Mitochondrial ribosomal large subunit	MRPL10
+russel_Mitochondrial ribosomal large subunit	MRPL16
+russel_Mitochondrial ribosomal large subunit	MRPL23
+russel_Mitochondrial ribosomal large subunit	MRPL4
+russel_Mitochondrial ribosomal large subunit	MRPL51
+russel_Arginine-specific carbamoyl-phosphate synthase complex	CPA2
+russel_Complex 62	CIC1
+russel_Complex 62	EBP2
+russel_Complex 62	IPI1
+russel_Complex 62	RPL31B
+russel_U4/U6.U5 tri-snRNP	PRP3
+russel_U4/U6.U5 tri-snRNP	PRP31
+russel_U4/U6.U5 tri-snRNP	PRP4
+russel_U4/U6.U5 tri-snRNP	PRP6
+russel_U4/U6.U5 tri-snRNP	SNU66
+russel_U4/U6.U5 tri-snRNP	SPP381
+russel_Complex 64	MTR4
+russel_Complex 64	NAB3
+russel_Complex 64	NRD1
+russel_Complex 64	SEN1
+russel_Complex 64	STO1
+russel_DNA repair complex	RAD16
+russel_Complex 66	MAE1
+russel_Complex 66	PRS3
+russel_Complex 66	TOM1
+russel_Pab1/eIF4G/eIF4E complex	CDC33
+russel_Pab1/eIF4G/eIF4E complex	SBP1
+russel_Pab1/eIF4G/eIF4E complex	TIF4631
+russel_Pab1/eIF4G/eIF4E complex	TIF4632
+russel_ISW1/IOC3 complex	IOC3
+russel_ISW1/IOC3 complex	ISW1
+russel_Pre-mRNA cleavage and polyadenylation factor IA	CLP1
+russel_Pre-mRNA cleavage and polyadenylation factor IA	PCF11
+russel_Pre-mRNA cleavage and polyadenylation factor IA	RNA14
+russel_Pre-mRNA cleavage and polyadenylation factor IA	RNA15
+russel_Small subunit  processome	NAN1
+russel_Small subunit  processome	UTP10
+russel_Small subunit  processome	UTP15
+russel_Small subunit  processome	UTP4
+russel_Small subunit  processome	UTP8
+russel_Small subunit  processome	UTP9
+russel_Complex 72	BZZ1
+russel_Complex 72	ECM25
+russel_RNA polymerase II complex	IWR1
+russel_RNA polymerase II complex	RPB11
+russel_RNA polymerase II complex	RPB2
+russel_RNA polymerase II complex	RPB3
+russel_RNA polymerase II complex	RPB4
+russel_RNA polymerase II complex	RPB7
+russel_RNA polymerase II complex	RPB9
+russel_RNA polymerase II complex	TFG1
+russel_RNA polymerase II complex	TFG2
+russel_mRNA guanylyl transferase complex	CEG1
+russel_mRNA guanylyl transferase complex	CET1
+russel_19/22S regulator	ECM29
+russel_19/22S regulator	RPN1
+russel_19/22S regulator	RPN10
+russel_19/22S regulator	RPN11
+russel_19/22S regulator	RPN12
+russel_19/22S regulator	RPN13
+russel_19/22S regulator	RPN5
+russel_19/22S regulator	RPN6
+russel_19/22S regulator	RPN7
+russel_19/22S regulator	RPN8
+russel_19/22S regulator	RPN9
+russel_19/22S regulator	RPT1
+russel_Complex 76	ACS2
+russel_Polyadenylation Factor I	CFT1
+russel_Polyadenylation Factor I	CFT2
+russel_Polyadenylation Factor I	FIP1
+russel_Polyadenylation Factor I	MPE1
+russel_Polyadenylation Factor I	PAP1
+russel_Polyadenylation Factor I	PFS2
+russel_Polyadenylation Factor I	PTA1
+russel_Polyadenylation Factor I	YSH1
+russel_Polyadenylation Factor I	YTH1
+russel_Ppz1 protein phosphate complex	PPZ1
+russel_Ppz1 protein phosphate complex	YKL088W
+russel_Protein phosphatase 1 complex	ADE16
+russel_Protein phosphatase 1 complex	GLC7
+russel_Protein phosphatase 1 complex	SOL2
+russel_Prp19-associated complex	CDC40
+russel_Prp19-associated complex	CEF1
+russel_Prp19-associated complex	CLF1
+russel_Prp19-associated complex	CWC2
+russel_Prp19-associated complex	CWC22
+russel_Prp19-associated complex	ECM2
+russel_Prp19-associated complex	PRP19
+russel_Prp19-associated complex	PRP45
+russel_Prp19-associated complex	PRP46
+russel_Prp19-associated complex	SYF1
+russel_SAGA complex	ADA2
+russel_SAGA complex	HFI1
+russel_SAGA complex	NGG1
+russel_SAGA complex	SGF29
+russel_SAGA complex	SGF73
+russel_SAGA complex	SPT20
+russel_SAGA complex	SPT3
+russel_SAGA complex	SPT7
+russel_SAGA complex	SPT8
+russel_Karyopherins complex	KAP95
+russel_Karyopherins complex	NUP2
+russel_Karyopherins complex	NUP60
+russel_Karyopherins complex	SRP1
+russel_Sit4/Sap185 protein phosphatase complex	CDC25
+russel_Sit4/Sap185 protein phosphatase complex	HRK1
+russel_Sit4/Sap185 protein phosphatase complex	MDS3
+russel_Sit4/Sap185 protein phosphatase complex	SAP185
+russel_Sit4/Sap185 protein phosphatase complex	SIT4
+russel_Nup84 sub-complex	NUP120
+russel_Nup84 sub-complex	NUP145
+russel_Nup84 sub-complex	NUP84
+russel_Nup84 sub-complex	NUP85
+russel_Nup84 sub-complex	SEC13
+russel_Nup84 sub-complex	SEH1
+russel_Translational release factor complex	SUP35
+russel_Translational release factor complex	SUP45
+russel_Pyruvate dehydrogenase	LAT1
+russel_Pyruvate dehydrogenase	PDA1
+russel_Pyruvate dehydrogenase	PDB1
+russel_Pyruvate dehydrogenase	PDX1
+russel_Complex 87	CDC55
+russel_Complex 87	IML1
+russel_Complex 88	GAA1
+russel_Complex 88	PGI1
+russel_Complex 89	ATG3
+russel_Complex 89	MTR10
+russel_Complex 90	MAM33
+russel_Complex 90	MRPS35
+russel_Complex 91	PSA1
+russel_COPI complex	COP1
+russel_COPI complex	RET2
+russel_COPI complex	RET3
+russel_COPI complex	SEC21
+russel_COPI complex	SEC26
+russel_COPI complex	SEC27
+russel_COPI complex	SEC28
+russel_Complex 93	UBP2
+russel_Complex 93	YOR138C
+russel_Complex 94	HMO1
+russel_Actin capping complex	CAP1
+russel_Actin capping complex	CAP2
+russel_Actin capping complex	YER071C
+russel_Actin capping complex	YIR003W
+russel_Gyp5/Gyl1 complex	DBP2
+russel_Gyp5/Gyl1 complex	GYL1
+russel_Complex 97	YDL033C
+russel_Complex 97	YGL039W
+russel_Complex 98	LHP1
+russel_Complex 98	SXM1
+russel_Complex 98	UTP30
+russel_Yeats nexin complex	SNX4
+russel_Yeats nexin complex	SNX41
+russel_Complex 101	DBP8
+russel_Complex 101	RPS16A
+russel_Complex 102	NPL3
+russel_Complex 102	NRP1
+russel_Complex 103	SGN1
+russel_Complex 104	VMA10
+russel_Complex 104	VMA2
+russel_Complex 105	HCA4
+russel_Complex 105	NRP1
+russel_Complex 106	VAC8
+russel_Complex 107	LSM12
+russel_Complex 107	PBP1
+russel_Complex 108	PEP4
+russel_Complex 108	RTN1
+russel_Complex 109	RPT3
+russel_Complex 109	TUB3
+russel_Complex 110	NAB6
+russel_Complex 110	NRP1
+russel_Mannan Polymerase II	ANP1
+russel_Mannan Polymerase II	HOC1
+russel_Mannan Polymerase II	MNN10
+russel_Mannan Polymerase II	MNN11
+russel_Mannan Polymerase II	MNN9
+russel_Complex 112	LYS9
+russel_Complex 112	YOR164C
+russel_SNARE complex	DSL1
+russel_SNARE complex	SEC39
+russel_SNARE complex	TIP20
+russel_SNARE complex	UFE1
+russel_SNARE complex	USE1
+russel_Golgi associated retrograde protein  complex	KAR2
+russel_Golgi associated retrograde protein  complex	VPS52
+russel_Golgi associated retrograde protein  complex	VPS53
+russel_Golgi associated retrograde protein  complex	VPS54
+russel_Complex 115	GLN4
+russel_Complex 115	SSL2
+russel_Complex 115	YOR352W
+russel_Complex 116	FUN19
+russel_Complex 116	RPS5
+russel_Complex 117	RPL24A
+russel_Complex 117	RPS0A
+russel_Complex 118	ACO1
+russel_Complex 118	FAA4
+russel_Complex 119	NAB6
+russel_Complex 119	PAB1
+russel_Exocyst complex	EXO84
+russel_Exocyst complex	SEC10
+russel_Exocyst complex	SEC3
+russel_Exocyst complex	SEC5
+russel_Exocyst complex	SEC6
+russel_Exocyst complex	SEC8
+russel_Complex 121	GON7
+russel_Complex 121	KAE1
+russel_Complex 121	YML036W
+russel_Complex 122	ACO1
+russel_Complex 122	MDH1
+russel_Complex 122	YHB1
+russel_Complex 123	PRO1
+russel_Complex 124	PDR5
+russel_Complex 124	USA1
+russel_Complex 125	RPL33A
+russel_Complex 125	RPL35B
+russel_Complex 126	FPR4
+russel_Complex 126	RIX7
+russel_Complex 126	RPL20A
+russel_Nucleotide excision repair factor 3 complex	SSL1
+russel_Nucleotide excision repair factor 3 complex	TFB1
+russel_Nucleotide excision repair factor 3 complex	TFB4
+russel_Complex 128	EBP2
+russel_Complex 128	YER139C
+russel_Complex 129	TEF4
+russel_Complex 130	ATP3
+russel_Complex 130	CDC37
+russel_Complex 131	IMP4
+russel_Complex 131	RPN2
+russel_Complex 132	TUB3
+russel_Complex 133	AEP1
+russel_Complex 133	HRP1
+russel_Complex 133	RPS9A
+russel_COP9 signalosome complex	CSI1
+russel_COP9 signalosome complex	CSN9
+russel_COP9 signalosome complex	PCI8
+russel_COP9 signalosome complex	RRI1
+russel_COP9 signalosome complex	RRI2
+russel_Complex 135	ILV1
+russel_Complex 135	PSA1
+russel_Complex 136	CSE1
+russel_Complex 136	SEC7
+russel_Act1/Sac6 complex	ACT1
+russel_Act1/Sac6 complex	SAC6
+russel_Complex 138	RPL31A
+russel_Complex 138	RPL33B
+russel_Complex 139	RLI1
+russel_Complex 140	ATG9
+russel_Complex 140	RPL18B
+russel_Complex 140	RPL7A
+russel_Complex 141	CAM1
+russel_Complex 141	HSL1
+russel_Complex 141	YDR314C
+russel_Ctf19 protein complex	CHL4
+russel_Ctf19 protein complex	CTF19
+russel_Ctf19 protein complex	CTF3
+russel_Ctf19 protein complex	MCM21
+russel_Ctf19 protein complex	MCM22
+russel_Ctf19 protein complex	OKP1
+russel_AP-2 complex	APL1
+russel_AP-2 complex	APM4
+russel_Complex 144	FAA4
+russel_Complex 144	YPL206C
+russel_Chaperonine containing T-complex TRiC	CCT2
+russel_Chaperonine containing T-complex TRiC	CCT7
+russel_Chaperonine containing T-complex TRiC	PLP2
+russel_Chaperonine containing T-complex TRiC	VID27
+russel_RNA polymerase II general trancription factor TFIID	TAF2
+russel_RNA polymerase II general trancription factor TFIID	TAF8
+russel_Complex 147	BBC1
+russel_Complex 147	YJL123C
+russel_PAN complex	PAN2
+russel_PAN complex	PAN3
+russel_Complex 150	ATG9
+russel_Complex 150	RPS6A
+russel_Complex 151	DIG1
+russel_Complex 151	NPL3
+russel_Complex 151	PEP1
+russel_Bre5/Ubp3 complex	BRE5
+russel_Bre5/Ubp3 complex	UBP3
+russel_Tid3 complex	NUF2
+russel_Tid3 complex	SPC24
+russel_Tid3 complex	SPC25
+russel_Tid3 complex	TID3
+russel_Complex 154	DPH2
+russel_Complex 154	EFT1
+russel_Complex 154	YIL103W
+russel_Complex 155	ATG11
+russel_Complex 155	ATG17
+russel_Complex 155	YPL166W
+russel_Complex 156	MET10
+russel_Complex 156	RPA135
+russel_Complex 157	ESF1
+russel_Complex 157	KRR1
+russel_Complex 157	MVD1
+russel_Complex 157	NOP6
+russel_Complex 157	RPL26B
+russel_Complex 157	YGR145W
+russel_Complex 158	AOS1
+russel_Complex 158	SPT4
+russel_Complex 159	CDC60
+russel_Complex 159	NAN1
+russel_Complex 159	UTP15
+russel_Complex 159	UTP4
+russel_Complex 160	RPL33B
+russel_Complex 160	RPP2B
+russel_Complex 160	RSA3
+russel_THO complex	HPR1
+russel_THO complex	HRB1
+russel_THO complex	MFT1
+russel_THO complex	RLR1
+russel_THO complex	SUB2
+russel_THO complex	TEX1
+russel_THO complex	THP2
+russel_Complex 162	RFC1
+russel_Complex 162	RFC2
+russel_Ccr4/Not protein complex	CAF40
+russel_Ccr4/Not protein complex	CCR4
+russel_Ccr4/Not protein complex	CDC39
+russel_Ccr4/Not protein complex	POP2
+russel_Complex 164	MIS1
+russel_Complex 164	PIM1
+russel_Complex 165	TUB3
+russel_Complex 166	CLU1
+russel_Complex 166	KAP104
+russel_Svg1/cyclin Bur2 protein complex	BUR2
+russel_Svg1/cyclin Bur2 protein complex	SGV1
+russel_Complex 168	PFK2
+russel_Complex 168	RPS10A
+russel_Complex 168	RPS22A
+russel_ Complex 169	ADE3
+russel_ Complex 169	CSE1
+russel_ Complex 169	TDH1
+russel_ Complex 169	TOM1
+russel_ Complex 169	YDR341C
+russel_Complex 170	HMG1
+russel_Complex 170	RAD51
+russel_Complex 170	RPL27B
+russel_Complex 171	GCN1
+russel_Complex 172	DED81
+russel_Complex 173	NAM9
+russel_Complex 174	YER036C
+russel_Complex 175	BRR2
+russel_Complex 175	CUS1
+russel_Complex 175	LEA1
+russel_Complex 175	PRP21
+russel_Complex 175	PRP3
+russel_Complex 175	PRP31
+russel_Complex 175	PRP4
+russel_Complex 175	PRP6
+russel_Complex 175	PRP8
+russel_Complex 175	PRP9
+russel_Complex 175	SMB1
+russel_Complex 175	SNU114
+russel_Complex 175	SNU23
+russel_Complex 175	SNU66
+russel_Complex 175	SPP381
+russel_Complex 176	RPL19A
+russel_Complex 176	RPS14A
+russel_Complex 176	RPS6B
+russel_Complex 177	RPL33B
+russel_Complex 177	RPS16B
+russel_Complex 177	RSA3
+russel_Complex 177	YOR1
+russel_Complex 178	BUD3
+russel_Complex 178	SEC1
+russel_Ku complex	YKU70
+russel_Ku complex	YKU80
+russel_Complex 180	RPN2
+russel_Complex 180	YOL098C
+russel_Rubiquitin -activating complex	UBA3
+russel_Rubiquitin -activating complex	ULA1
+russel_TRAPPII complex	BET3
+russel_TRAPPII complex	BET5
+russel_TRAPPII complex	GSG1
+russel_TRAPPII complex	KRE11
+russel_TRAPPII complex	TRS120
+russel_TRAPPII complex	TRS130
+russel_TRAPPII complex	TRS20
+russel_TRAPPII complex	TRS23
+russel_TRAPPII complex	TRS31
+russel_TRAPPII complex	TRS33
+russel_Complex 183	"ADE5,7
+russel_Complex 183	RPS5"
+russel_Kel1/Lte1 complex	BEM2
+russel_Kel1/Lte1 complex	KEL1
+russel_Kel1/Lte1 complex	LTE1
+russel_Complex 185	ALD6
+russel_Complex 185	PTC2
+russel_Complex 185	SHQ1
+russel_Complex 186	GLN1
+russel_Complex 186	HSP42
+russel_ Complex 187	BRR1
+russel_ Complex 187	HTA1
+russel_Origin of replication recognition complex	ORC1
+russel_Origin of replication recognition complex	ORC2
+russel_Origin of replication recognition complex	ORC3
+russel_Origin of replication recognition complex	ORC4
+russel_Origin of replication recognition complex	ORC5
+russel_Origin of replication recognition complex	ORC6
+russel_Complex 189	PRP43
+russel_Complex 189	YNL224C
+russel_INO80 protein complex	ARP5
+russel_INO80 protein complex	ARP8
+russel_INO80 protein complex	IES1
+russel_INO80 protein complex	IES3
+russel_INO80 protein complex	IES5
+russel_INO80 protein complex	INO80
+russel_INO80 protein complex	NHP10
+russel_Complex 191	MYO5
+russel_Complex 192	PTC4
+russel_Complex 192	YDR186C
+russel_Complex 193	ENO1
+russel_Complex 193	NAT1
+russel_Complex 194	YOR1
+russel_Set3 histone deacetylase protein complex	CPR1
+russel_Set3 histone deacetylase protein complex	HOS2
+russel_Set3 histone deacetylase protein complex	HOS4
+russel_Set3 histone deacetylase protein complex	SET3
+russel_Set3 histone deacetylase protein complex	SIF2
+russel_Set3 histone deacetylase protein complex	SNT1
+russel_Complex 196	RPL19A
+russel_Complex 196	RPL9A
+russel_Complex 197	ABF2
+russel_Complex 197	VPS1
+russel_Complex 198	EBP2
+russel_Complex 198	RPL23B
+russel_Complex 200	"DUR1,2
+russel_Complex 200	MRPL22
+russel_Complex 200	PRO1"
+russel_RNase MRP	POP1
+russel_RNase MRP	POP3
+russel_RNase MRP	POP4
+russel_RNase MRP	POP5
+russel_RNase MRP	POP8
+russel_RNase MRP	RPP1
+russel_Complex 202	SUI1
+russel_Complex 203	GBP2
+russel_Complex 203	THP2
+russel_Complex 204	HEM13
+russel_Complex 204	PSK1
+russel_Complex 204	VAS1
+russel_Complex 205	PEP4
+russel_Complex 205	YMR196W
+russel_Complex 206	MRP17
+russel_Complex 206	UBP10
+russel_Complex 207	AAR2
+russel_Complex 207	BUD31
+russel_Complex 207	LIN1
+russel_Complex 208	IDS2
+russel_Complex 208	PEP4
+russel_DNA polymearse alpha-primase complex	POL1
+russel_DNA polymearse alpha-primase complex	POL12
+russel_DNA polymearse alpha-primase complex	PRI1
+russel_DNA polymearse alpha-primase complex	PRI2
+russel_Complex 210	DBP9
+russel_Complex 210	SPA2
+russel_Complex 210	YMR310C
+russel_Complex 211	BUD21
+russel_Complex 211	RRP9
+russel_Complex 211	SIK1
+russel_Complex 212	TPI1
+russel_Complex 213	"ADE5,7
+russel_Complex 213	REB1
+russel_Complex 213	TOP1"
+russel_Complex 214	KTR3
+russel_Complex 214	RPL4A
+russel_Complex 215	ADE6
+russel_Complex 215	RSM23
+russel_Complex 216	PSE1
+russel_Complex 216	SLX9
+russel_Complex 216	SPA2
+russel_Complex 216	ULP1
+russel_Complex 217	ARO3
+russel_Complex 217	ILV5
+russel_C-terminal domain kinase I   complex	CTK1
+russel_C-terminal domain kinase I   complex	CTK2
+russel_C-terminal domain kinase I   complex	CTK3
+russel_Spindle pole body	PFK1
+russel_Spindle pole body	SPC72
+russel_Spindle pole body	SPC97
+russel_Spindle pole body	SPC98
+russel_Spindle pole body	TUB4
+russel_Complex 220	PSA1
+russel_Complex 220	YOL098C
+russel_Complex 221	IMD4
+russel_Complex 221	TDH1
+russel_Complex 222	END3
+russel_Complex 222	LSB3
+russel_Complex 222	SLA2
+russel_Complex 223	SEN54
+russel_Complex 223	TUF1
+russel_SWI-SNF global transcription activator complex	ARP9
+russel_SWI-SNF global transcription activator complex	SNF11
+russel_SWI-SNF global transcription activator complex	SNF12
+russel_SWI-SNF global transcription activator complex	SNF5
+russel_SWI-SNF global transcription activator complex	SNF6
+russel_SWI-SNF global transcription activator complex	SWI1
+russel_SWI-SNF global transcription activator complex	SWI3
+russel_Complex 225	YMR310C
+russel_Boi2/Bem1/Cdc24 complex	BOI2
+russel_Boi2/Bem1/Cdc24 complex	CDC24
+russel_Rai1/Rat1 complex	RAI1
+russel_Rai1/Rat1 complex	RAT1
+russel_Complex 228	IPP1
+russel_Complex 228	ROM2
+russel_Complex 228	YDL203C
+russel_Complex 229	EFT2
+russel_Complex 229	HGH1
+russel_Complex 230	ECM30
+russel_Complex 230	UBP15
+russel_Complex 231	MRPL36
+russel_Complex 231	PET56
+russel_DNA polymerase delta	CDC2
+russel_DNA polymerase delta	HYS2
+russel_Anthranilate synthase complex	SAM1
+russel_Anthranilate synthase complex	TRP2
+russel_Anthranilate synthase complex	TRP3
+russel_"SBF, SWI4-SWI6-dependent cell cycle box binding factor complex "	SWI4
+russel_"SBF, SWI4-SWI6-dependent cell cycle box binding factor complex "	SWI6
+russel_Pms1/Mlh1 mismatch DNA repair complex	MLH1
+russel_Pms1/Mlh1 mismatch DNA repair complex	PMS1
+russel_Complex 237	NRP1
+russel_Complex 238	DBP9
+russel_Complex 238	SPA2
+russel_Small subunit  processome	DIP2
+russel_Small subunit  processome	MRD1
+russel_Small subunit  processome	NAN1
+russel_Small subunit  processome	NOP58
+russel_Small subunit  processome	PNO1
+russel_Small subunit  processome	PWP2
+russel_Small subunit  processome	ROK1
+russel_Small subunit  processome	RRP9
+russel_Small subunit  processome	UTP10
+russel_Small subunit  processome	UTP13
+russel_Small subunit  processome	UTP15
+russel_Small subunit  processome	UTP18
+russel_Small subunit  processome	UTP21
+russel_Small subunit  processome	UTP22
+russel_Small subunit  processome	UTP4
+russel_Small subunit  processome	UTP6
+russel_Small subunit  processome	UTP7
+russel_Small subunit  processome	UTP8
+russel_Small subunit  processome	UTP9
+russel_Small subunit  processome	YLR003C
+russel_Complex 240	TIF4631
+russel_Complex 240	YAL036C
+russel_Complex 241	KEX2
+russel_Complex 241	SIL1
+russel_Complex 241	YBT1
+russel_Complex 242	ADH3
+russel_Complex 242	NAM7
+russel_Phosphoribosyl diphosphate  synthase complex	PRS1
+russel_Phosphoribosyl diphosphate  synthase complex	PRS3
+russel_Complex 244	YKR018C
+russel_Complex 245	DBP8
+russel_Complex 245	RPL15A
+russel_Complex 246	DHH1
+russel_Complex 246	SEC7
+russel_Complex 247	ARO1
+russel_Complex 247	SAM1
+russel_Protein phosphatase 2A complex	CDC55
+russel_Protein phosphatase 2A complex	RTS3
+russel_Protein phosphatase 2A complex	TPD3
+russel_Protein phosphatase 2A complex	ZDS1
+russel_Protein phosphatase 2A complex	ZDS2
+russel_Translation elongation factor EF1	CAM1
+russel_Translation elongation factor EF1	EFB1
+russel_Translation elongation factor EF1	TEF2
+russel_Complex 250	BMS1
+russel_Complex 250	MRD1
+russel_Complex 251	PDR16
+russel_Complex 252	RPL13A
+russel_Complex 252	RPL2A
+russel_Complex 253	YIL056W
+russel_Complex 254	ADE3
+russel_Complex 254	DPS1
+russel_Complex 254	SAR1
+russel_Complex 254	TDH1
+russel_Complex 254	YDR341C
+russel_Complex 254	YNK1
+russel_Complex 255	ROK1
+russel_Complex 255	RPS1B
+russel_Chromatin assembly complex	CAC2
+russel_Chromatin assembly complex	MSI1
+russel_Complex 257	MPM1
+russel_Complex 257	RPS25B
+russel_Complex 257	TOM40
+russel_Complex 257	YGR130C
+russel_Kap104/Hrp1 complex	HRP1
+russel_Kap104/Hrp1 complex	KAP104
+russel_Complex 259	FAS1
+russel_Complex 259	TRM3
+russel_Complex 260	DCS2
+russel_Complex 260	TFB3
+russel_Clathrin-associated protein AP-3 complex	APL5
+russel_Clathrin-associated protein AP-3 complex	APL6
+russel_Clathrin-associated protein AP-3 complex	APM3
+russel_Complex 263	AAR2
+russel_Complex 263	GCN2
+russel_Complex 263	SNU66
+russel_Complex 264	ADE6
+russel_Complex 264	PET123
+russel_Complex 265	FUN12
+russel_Complex 265	RPL12B
+russel_Complex 266	MRD1
+russel_Complex 266	UTP22
+russel_Complex 266	UTP7
+russel_Complex 266	YLR003C
+russel_Complex 267	IMD2
+russel_Complex 267	LYS2
+russel_Complex 267	SXM1
+russel_Complex 268	ADH1
+russel_Complex 268	PRC1
+russel_Complex 269	MEC1
+russel_Complex 269	VAC14
+russel_Complex 270	CLU1
+russel_Complex 270	URA7
+russel_alpha-Aminoadipate-semialdehyde dehydrogenase complex	LYS2
+russel_alpha-Aminoadipate-semialdehyde dehydrogenase complex	LYS5
+russel_Complex 272	ASC1
+russel_Complex 272	NAT1
+russel_Complex 273	FAP1
+russel_Complex 273	YIL161W
+russel_Complex 274	TCB3
+russel_Complex 275	PDC1
+russel_Complex 275	PTM1
+russel_Ste50/Ste11 complex	STE11
+russel_Ste50/Ste11 complex	STE50
+russel_Complex 278	YAL036C
+russel_Complex 279	GDB1
+russel_Complex 279	NUP192
+russel_Complex 280	PTC3
+russel_Complex 280	YDR071C
+russel_"Cytoplasmic mRNA processing body"	KRS1
+russel_"Cytoplasmic mRNA processing body"	LSM1
+russel_"Cytoplasmic mRNA processing body"	LSM5
+russel_"Cytoplasmic mRNA processing body"	PAT1
+russel_Complex 282	PFK1
+russel_Complex 282	PFK2
+russel_Complex 283	SSE2
+russel_Complex 283	YOR164C
+russel_Complex 284	CDC36
+russel_Complex 284	MRD1
+russel_Complex 284	RPS10B
+russel_Complex 285	ASC1
+russel_Complex 285	RPL27B
+russel_Complex 285	SKT5
+russel_Complex 286	DBP2
+russel_Translation initiation factor eIF2B complex	GCD1
+russel_Translation initiation factor eIF2B complex	GCD11
+russel_Translation initiation factor eIF2B complex	GCD2
+russel_Translation initiation factor eIF2B complex	GCD6
+russel_Translation initiation factor eIF2B complex	GCD7
+russel_Translation initiation factor eIF2B complex	GCN3
+russel_Complex 288	END3
+russel_Complex 288	RPC17
+russel_Complex 289	CHS1
+russel_Complex 289	ENO2
+russel_Complex 289	PGK1
+russel_Complex 290	ABZ1
+russel_Complex 290	MPA43
+russel_Complex 290	TSA1
+russel_Complex 291	RPL35A
+russel_Complex 291	RPS6B
+russel_Complex 291	URA7
+russel_Complex 292	SPO14
+russel_Complex 292	YGL036W
+russel_Golgi transport complex	COG1
+russel_Golgi transport complex	COG2
+russel_Golgi transport complex	COG3
+russel_Golgi transport complex	COG4
+russel_Golgi transport complex	COG5
+russel_Golgi transport complex	COG6
+russel_Golgi transport complex	COG7
+russel_Golgi transport complex	COG8
+russel_Golgi transport complex	IML1
+russel_Complex 294	FAP7
+russel_Complex 295	PRO1
+russel_Complex 295	XKS1
+russel_Histone acetyltransferase B complex	HAT1
+russel_Histone acetyltransferase B complex	HAT2
+russel_Histone acetyltransferase B complex	HHF2
+russel_Histone acetyltransferase B complex	HIF1
+russel_Complex 297	PGI1
+russel_Complex 297	SEC1
+russel_Complex 298	DPS1
+russel_Complex 298	ILV1
+russel_Complex 298	RPL18B
+russel_Complex 299	PAB1
+russel_Complex 299	YGR250C
+russel_"Ufd1/Npl4/Cdc48, ER ubiquitinated proteins degradation complex"	CDC48
+russel_"Ufd1/Npl4/Cdc48, ER ubiquitinated proteins degradation complex"	NPL4
+russel_"Ufd1/Npl4/Cdc48, ER ubiquitinated proteins degradation complex"	SHP1
+russel_"Ufd1/Npl4/Cdc48, ER ubiquitinated proteins degradation complex"	UFD1
+russel_"Ufd1/Npl4/Cdc48, ER ubiquitinated proteins degradation complex"	YDR049W
+russel_RAVE/Skp1 complex	SKP1
+russel_RAVE/Skp1 complex	YMR258C
+russel_Complex 302	MTF2
+russel_Complex 302	SLS1
+russel_2-oxoglutarate dehydrogenase complex	KGD1
+russel_2-oxoglutarate dehydrogenase complex	KGD2
+russel_2-oxoglutarate dehydrogenase complex	YMR31
+russel_Cytochrome bc1 complex	COR1
+russel_Cytochrome bc1 complex	QCR2
+russel_Methionyl- and glutamyl-tRNA synthetases complex	ARC1
+russel_Methionyl- and glutamyl-tRNA synthetases complex	GUS1
+russel_Methionyl- and glutamyl-tRNA synthetases complex	MES1
+russel_Complex 306	HUA2
+russel_Complex 306	YPL206C
+russel_Complex 307	NOP13
+russel_Complex 307	RLP7
+russel_Complex 308	ARO3
+russel_Complex 308	WTM1
+russel_Complex 310	TOP1
+russel_Complex 311	FUN19
+russel_Complex 311	KAP123
+russel_Complex 311	YPR174C
+russel_cAMP-dependent protein kinase complex	BCY1
+russel_cAMP-dependent protein kinase complex	TPK2
+russel_Complex 313	RPL18B
+russel_Complex 313	TUB3
+russel_Complex 314	ARO1
+russel_Complex 314	CCT8
+russel_AP-1 adaptor complex	APL2
+russel_AP-1 adaptor complex	APL4
+russel_AP-1 adaptor complex	APM1
+russel_AP-1 adaptor complex	APM2
+russel_AP-1 adaptor complex	APS1
+russel_Complex 316	FPR4
+russel_Complex 316	NOP13
+russel_Complex 316	PUF6
+russel_Complex 316	RIX7
+russel_Complex 317	KAR2
+russel_Complex 317	SCJ1
+russel_Complex 318	DOP1
+russel_Complex 318	MON2
+russel_Complex 319	GPI17
+russel_Complex 319	PTM1
+russel_Ribonucleoside-diphosphate reductase complex	RNR2
+russel_Ribonucleoside-diphosphate reductase complex	RNR4
+russel_Complex 321	ERG1
+russel_Complex 321	SEC2
+russel_Complex 322	FUR1
+russel_Complex 322	RVB2
+russel_Complex 322	SEC53
+russel_Complex 323	RPL38
+russel_Complex 323	YOL054W
+russel_Complex 324	HIR3
+russel_Complex 324	MAM33
+russel_Complex 324	RAD53
+russel_Complex 325	HEM13
+russel_Complex 325	TAF7
+russel_Exosome 3'-5' exoribonuclease complex	CSL4
+russel_Exosome 3'-5' exoribonuclease complex	DIS3
+russel_Exosome 3'-5' exoribonuclease complex	MTR3
+russel_Exosome 3'-5' exoribonuclease complex	RRP4
+russel_Exosome 3'-5' exoribonuclease complex	RRP40
+russel_Exosome 3'-5' exoribonuclease complex	RRP42
+russel_Exosome 3'-5' exoribonuclease complex	RRP43
+russel_Exosome 3'-5' exoribonuclease complex	RRP45
+russel_Exosome 3'-5' exoribonuclease complex	RRP46
+russel_Exosome 3'-5' exoribonuclease complex	RRP6
+russel_Exosome 3'-5' exoribonuclease complex	SKI6
+russel_Exosome 3'-5' exoribonuclease complex	SKI7
+russel_Complex 327	SEN54
+russel_Complex 327	VAC14
+russel_Complex 328	BUD2
+russel_Complex 328	PDR5
+russel_Complex 328	PET9
+russel_Complex 329	ERG1
+russel_Complex 330	FBP26
+russel_Complex 330	YLR345W
+russel_Complex 331	DBP8
+russel_Complex 331	ESF1
+russel_Complex 331	HCA4
+russel_Complex 331	MVD1
+russel_Complex 331	SIK1
+russel_Complex 332	GDH1
+russel_Complex 332	RPL14A
+russel_Septin complex	BUD4
+russel_Septin complex	CDC10
+russel_Septin complex	CDC11
+russel_Septin complex	CDC12
+russel_Septin complex	CDC3
+russel_Septin complex	SHS1
+russel_Complex 334	WRS1
+russel_Complex 334	YMR315W
+russel_AMP-dependent protein kinase complex	GAL83
+russel_AMP-dependent protein kinase complex	REG1
+russel_AMP-dependent protein kinase complex	SIP1
+russel_AMP-dependent protein kinase complex	SNF1
+russel_AMP-dependent protein kinase complex	SNF4
+russel_Complex 336	AHA1
+russel_Complex 336	UFD4
+russel_Complex 337	SPT15
+russel_Complex 337	TAF1
+russel_Complex 337	TAF11
+russel_Complex 337	TAF12
+russel_Complex 337	TAF3
+russel_Complex 337	TAF4
+russel_Complex 337	TAF9
+russel_Complex 338	HUA2
+russel_Complex 338	YAL048C
+russel_Complex 339	ACT1
+russel_Complex 339	MGS1
+russel_Coatomer COPII complex	SEC13
+russel_Coatomer COPII complex	SEC16
+russel_Coatomer COPII complex	SEC23
+russel_Coatomer COPII complex	SEC24
+russel_Coatomer COPII complex	SFB2
+russel_Complex 341	NUC1
+russel_Complex 341	YKR079C
+russel_Complex 341	YMR099C
+russel_Cohesin complex	SMC1
+russel_Cohesin complex	SMC3
+russel_Cyclin-dependent protein kinase complex	CDC28
+russel_Cyclin-dependent protein kinase complex	CKS1
+russel_Cyclin-dependent protein kinase complex	CLN2
+russel_Cyclin-dependent protein kinase complex	CYS4
+russel_Cyclin-dependent protein kinase complex	SIC1
+russel_Complex 344	SSE1
+russel_Complex 344	TDH2
+russel_Complex 345	AHA1
+russel_Complex 345	ARO1
+russel_Complex 346	SEC2
+russel_Serine palmitoyltransferase  complex	LCB1
+russel_Serine palmitoyltransferase  complex	LCB2
+russel_Complex 348	ECM5
+russel_Complex 348	IML1
+russel_Complex 348	PSD2
+russel_Complex 349	MET6
+russel_Complex 349	TKL1
+russel_Sec62/Sec63 complex	SEC62
+russel_Sec62/Sec63 complex	SEC63
+russel_Sec62/Sec63 complex	SEC66
+russel_Sec62/Sec63 complex	SEC72
+russel_Complex 351	CDC47
+russel_Complex 351	ERG26
+russel_Complex 352	SAM1
+russel_Complex 352	SAM2
+russel_Bro1/Snf7 complex	BRO1
+russel_Bro1/Snf7 complex	SNF7
+russel_Complex 354	DIP2
+russel_Complex 354	ENP1
+russel_Complex 354	KRE33
+russel_Complex 354	KRR1
+russel_Complex 354	NOC4
+russel_Complex 354	NOP14
+russel_Complex 354	ROK1
+russel_Complex 354	UTP22
+russel_Complex 354	UTP6
+russel_Complex 354	UTP7
+russel_Complex 354	YGR145W
+russel_Complex  355	MKT1
+russel_Complex  355	RPL13A
+russel_Complex  355	VID24
+russel_Rtg2/Mks1 complex	MKS1
+russel_Rtg2/Mks1 complex	RTG2
+russel_Complex 357	CRM1
+russel_Complex 358	SSK2
+russel_Complex 359	MRS6
+russel_Complex 359	PYK2
+russel_Complex 360	TKL1
+russel_Complex 360	TSA1
+russel_Complex 361	RPS0A
+russel_Complex 361	RPS9B
+russel_Complex 362	PMR1
+russel_Complex 362	RVB2
+russel_Complex 362	SEC53
+russel_Mitochondrial ribosomal large subunit	IMG1
+russel_Mitochondrial ribosomal large subunit	MHR1
+russel_Mitochondrial ribosomal large subunit	MRP49
+russel_Mitochondrial ribosomal large subunit	MRPL35
+russel_Mitochondrial ribosomal large subunit	MRPL8
+russel_Mitochondrial ribosomal large subunit	MRPL9
+russel_Mitochondrial ribosomal large subunit	YML6
+russel_SKI complex	SKI2
+russel_SKI complex	SKI3
+russel_SKI complex	SKI8
+russel_Rvs161/Rvs167 complex	RVS161
+russel_Rvs161/Rvs167 complex	RVS167
+russel_Complex 366	ALD6
+russel_Complex 366	GSH1
+russel_Complex 366	IDH2
+russel_Complex 366	NEW1
+russel_Complex 367	BAT1
+russel_Complex 367	BAT2
+russel_Complex 368	KRI1
+russel_Complex 368	RPS11B
+russel_Complex 369	FUN19
+russel_Complex 369	RPS1B
+russel_"Anaphase-promoting complex, cyclosome"	APC1
+russel_"Anaphase-promoting complex, cyclosome"	APC2
+russel_"Anaphase-promoting complex, cyclosome"	APC4
+russel_"Anaphase-promoting complex, cyclosome"	APC5
+russel_"Anaphase-promoting complex, cyclosome"	APC9
+russel_"Anaphase-promoting complex, cyclosome"	CDC16
+russel_"Anaphase-promoting complex, cyclosome"	CDC23
+russel_"Anaphase-promoting complex, cyclosome"	CDC27
+russel_Complex 371	NOP15
+russel_Complex 372	CIN1
+russel_Complex 372	YBL104C
+russel_Complex 373	NFS1
+russel_Complex 373	TDH3
+russel_Complex 373	YER048W-A
+russel_"COMPASS, histone H3 methyltransferase protein complex"	BRE2
+russel_"COMPASS, histone H3 methyltransferase protein complex"	SDC1
+russel_"COMPASS, histone H3 methyltransferase protein complex"	SET1
+russel_"COMPASS, histone H3 methyltransferase protein complex"	SPP1
+russel_"COMPASS, histone H3 methyltransferase protein complex"	SWD1
+russel_"COMPASS, histone H3 methyltransferase protein complex"	SWD3
+russel_Complex 375	PST2
+russel_Complex 375	YBR052C
+russel_Complex 376	MDN1
+russel_Complex 376	NMD5
+russel_Complex 376	TUB2
+russel_Complex 377	BOI1
+russel_Complex 377	PAB1
+russel_Complex 378	ARR4
+russel_Complex 378	CDC6
+russel_Complex 379	CYM1
+russel_Complex 379	MSS51
+russel_Retromer subcomplex	VPS29
+russel_Retromer subcomplex	VPS35
+russel_Retromer subcomplex	VPS5
+russel_GPI transamidase complex	GAA1
+russel_GPI transamidase complex	GPI8
+russel_Complex 382	STM1
+russel_Complex 382	YIL056W
+russel_Complex 383	RPL33B
+russel_Complex 383	RPL43A
+russel_Complex 384	IDH2
+russel_Complex 384	LYS12
+russel_Complex 385	DCS2
+russel_Complex 385	TFB3
+russel_Complex 386	RPL1A
+russel_Complex 386	TCB3
+russel_Complex 387	"ADE5,7
+russel_Complex 387	PDR5"
+russel_Pab1/Pan2/Pan3 complex	PAB1
+russel_Pab1/Pan2/Pan3 complex	PAN2
+russel_Complex 389	TDH2
+russel_Complex 389	WRS1
+russel_Complex 390	HIR3
+russel_Complex 390	RAD53
+russel_Complex 391	ARO1
+russel_Complex 391	RAD51
+russel_Complex 391	YHB1
+russel_Ric1/Rgp1 complex	RGP1
+russel_Ric1/Rgp1 complex	RIC1
+russel_Complex 393	VIP1
+russel_Complex 393	YGR017W
+russel_Complex 394	DBP9
+russel_Complex 394	MAK21
+russel_Complex 394	MAK5
+russel_Complex 394	NOP4
+russel_Complex 394	RLP7
+russel_Complex 394	RSA3
+russel_Complex 394	YTM1
+russel_Complex 395	PSK1
+russel_Complex 395	TAF7
+russel_Complex 396	RPL8A
+russel_Complex 396	YER036C
+russel_Complex 397	KTR3
+russel_Complex 397	SVF1
+russel_Complex 397	YPR118W
+russel_Complex 398	MET12
+russel_Complex 398	MET13
+russel_Complex 399	EDE1
+russel_Complex 399	SYP1
+russel_Heteromeric p24 complex 1	EMP24
+russel_Heteromeric p24 complex 1	ERP1
+russel_Heteromeric p24 complex 1	ERP2
+russel_Heteromeric p24 complex 1	ERV25
+russel_Complex 401	BUD7
+russel_Complex 401	CHS5
+russel_Complex 401	CHS6
+russel_Complex 401	YMR237W
+russel_MIND kinetochore complex	AME1
+russel_MIND kinetochore complex	DSN1
+russel_MIND kinetochore complex	MTW1
+russel_Complex 403	HIR2
+russel_Far  complex	FAR8
+russel_Far  complex	RPL14B
+russel_Signal recognition particle receptor	SRP101
+russel_Signal recognition particle receptor	SRP102
+russel_Complex 406	NOP13
+russel_TFIIIC complex	TFC1
+russel_TFIIIC complex	TFC3
+russel_TFIIIC complex	TFC4
+russel_TFIIIC complex	TFC6
+russel_TFIIIC complex	TFC7
+russel_TFIIIC complex	TFC8
+russel_Complex 408	IST2
+russel_Complex 409	ARX1
+russel_Complex 409	FPR4
+russel_Complex 409	MRT4
+russel_Complex 409	NIP7
+russel_Complex 409	NOG1
+russel_Complex 409	NOG2
+russel_Complex 409	NOP2
+russel_Complex 409	NSA2
+russel_Complex 409	NUG1
+russel_Complex 409	RPF2
+russel_Complex 409	SDA1
+russel_Complex 409	TIF6
+russel_Complex 410	RPL18B
+russel_Complex 410	RPL36B
+russel_Complex 411	CSN12
+russel_Complex 412	BUD2
+russel_Complex 412	PTM1
+russel_Gim complexes	GIM3
+russel_Gim complexes	PAC10
+russel_Gim complexes	YKE2
+russel_Complex 414	PUS7
+russel_Complex 414	TAN1
+russel_Complex 415	"DOA4
+russel_Complex 415	DUR1,2"
+russel_Complex 416	ECM5
+russel_Complex 416	NMD5
+russel_Complex 417	CIN1
+russel_Complex 417	RPL43A
+russel_Complex 418	CWC23
+russel_Complex 418	YLR424W
+russel_Complex 419	PRS3
+russel_Complex 419	URA7
+russel_DNA polymerase epsilon complex	DPB2
+russel_DNA polymerase epsilon complex	DPB4
+russel_DNA polymerase epsilon complex	POL2
+russel_HAP subcomplex of elongator  complex	ELP2
+russel_HAP subcomplex of elongator  complex	ELP3
+russel_HAP subcomplex of elongator  complex	ELP4
+russel_HAP subcomplex of elongator  complex	IKI1
+russel_HAP subcomplex of elongator  complex	IKI3
+russel_Complex 422	MTR10
+russel_Complex 422	NMD5
+russel_Complex 422	USA1
+russel_ARP2/3 complex	ARC15
+russel_ARP2/3 complex	ARC18
+russel_ARP2/3 complex	ARC19
+russel_ARP2/3 complex	ARC35
+russel_ARP2/3 complex	ARC40
+russel_ARP2/3 complex	ARP2
+russel_ARP2/3 complex	ARP3
+russel_Trichostatin A-sensitive class II histone deacetylase complex	HDA1
+russel_Trichostatin A-sensitive class II histone deacetylase complex	HDA2
+russel_Trichostatin A-sensitive class II histone deacetylase complex	HDA3
+russel_Trichostatin A-sensitive class II histone deacetylase complex	PRO2
+russel_Complex 425	SBP1
+russel_Complex 426	RPL30
+russel_Complex 426	YNK1
+russel_Complex 427	PEP12
+russel_Complex 427	SEC17
+russel_Complex 427	VTI1
+russel_Complex 427	YKT6
+russel_"RSC, abundant chromatin remodeling complex "	ARP7
+russel_"RSC, abundant chromatin remodeling complex "	NPL6
+russel_"RSC, abundant chromatin remodeling complex "	RSC1
+russel_"RSC, abundant chromatin remodeling complex "	RSC2
+russel_"RSC, abundant chromatin remodeling complex "	RSC3
+russel_"RSC, abundant chromatin remodeling complex "	RSC4
+russel_"RSC, abundant chromatin remodeling complex "	RSC58
+russel_"RSC, abundant chromatin remodeling complex "	RSC6
+russel_"RSC, abundant chromatin remodeling complex "	RSC8
+russel_"RSC, abundant chromatin remodeling complex "	RSC9
+russel_"RSC, abundant chromatin remodeling complex "	SFH1
+russel_"RSC, abundant chromatin remodeling complex "	STH1
+russel_38S HOPS complex	PEP3
+russel_38S HOPS complex	PEP5
+russel_38S HOPS complex	VAM6
+russel_38S HOPS complex	VPS16
+russel_38S HOPS complex	VPS33
+russel_38S HOPS complex	VPS41
+russel_38S HOPS complex	VPS8
+russel_Complex 430	YER007C-A
+russel_Complex 430	YJR014W
+russel_Complex 431	RLI1
+russel_Complex 431	RPS7A
+russel_Complex 432	RPL27B
+russel_Complex 432	YPL009C
+russel_Complex 433	CYS4
+russel_Complex 433	NIS1
+russel_Complex 433	SSC1
+russel_Complex 433	YOL070C
+russel_ Complex 434	ARR4
+russel_ Complex 434	DED81
+russel_ Complex 434	ILS1
+russel_Complex 435	CHD1
+russel_Complex 435	SSA4
+russel_Complex 436	BRR1
+russel_Complex 437	BMH2
+russel_Complex 437	NTH1
+russel_Complex 438	LYS9
+russel_Complex 438	YNR046W
+russel_Complex 438	YOL124C
+russel_Complex 439	REB1
+russel_Complex 439	YIL056W
+russel_Complex 440	BRX1
+russel_Complex 440	CIC1
+russel_Complex 440	MAK21
+russel_Complex 440	NOC2
+russel_Complex 440	NOP4
+russel_Complex 440	SPB4
+russel_Complex 440	YTM1
+russel_Vps34 PtdIns 3 kinase complex II	VPS15
+russel_Vps34 PtdIns 3 kinase complex II	VPS30
+russel_Vps34 PtdIns 3 kinase complex II	VPS34
+russel_Vps34 PtdIns 3 kinase complex II	VPS38
+russel_Complex 442	DOS2
+russel_Complex 442	KRE2
+russel_Complex 443	CCT5
+russel_Complex 443	VID27
+russel_Complex 444	MSS51
+russel_Complex 444	SSC1
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	CSE2
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	GAL11
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	MED1
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	MED11
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	MED6
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	MED7
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	MED8
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	NUT1
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	NUT2
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	PGD1
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	RGR1
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	SIN4
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	SRB2
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	SRB4
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	SRB5
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	SRB6
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	SRB7
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	SRB8
+russel_"Mediator complex, SRB subcomplex of RNA polymerase II"	SSN2
+russel_Complex 446	ARO1
+russel_Complex 446	PFK1
+russel_Complex 446	RPS0A
+russel_Complex 447	IMP3
+russel_Complex 447	YLR003C
+russel_Complex 448	RPL30
+russel_Complex 448	YOR1
+russel_Complex 450	AMS1
+russel_Complex 451	GLT1
+russel_Complex 451	RPL10
+russel_Complex 451	RPS5
+russel_Complex  452	MRP8
+russel_Complex  452	PIL1
+russel_Complex  452	YLR287C
+russel_Complex 453	GIN4
+russel_Complex 453	KCC4
+russel_Complex 454	TEF4
+russel_Complex 454	YBR025C
+russel_Frs1/Frs2  phenylalanyl-tRNA synthetase complex	FRS1
+russel_Frs1/Frs2  phenylalanyl-tRNA synthetase complex	FRS2
+russel_Complex 456	"ADE5,7
+russel_Complex 456	RPS3"
+russel_Complex 458	ILV5
+russel_Complex 458	TDH1
+russel_RNA polymerase II general trancription factor TFIID	TAF1
+russel_RNA polymerase II general trancription factor TFIID	TAF11
+russel_RNA polymerase II general trancription factor TFIID	TAF3
+russel_RNA polymerase II general trancription factor TFIID	TAF4
+russel_RNA polymerase II general trancription factor TFIID	TAF5
+russel_Complex 460	CYS3
+russel_Complex 460	RNA1
+russel_Complex 461	CCT5
+russel_Complex 461	TUF1
+russel_Oligosaccharyl-transferase complex	OST1
+russel_Oligosaccharyl-transferase complex	STT3
+russel_Oligosaccharyl-transferase complex	SWP1
+russel_Oligosaccharyl-transferase complex	WBP1
+russel_Processing peptidase complex	MAS1
+russel_Processing peptidase complex	MAS2
+russel_F0/F1 ATP synthase	ATP1
+russel_F0/F1 ATP synthase	ATP3
+russel_Compex 465	GSH1
+russel_Compex 465	GSP2
+russel_Compex 465	NEW1
+russel_Complex 466	MKT1
+russel_Complex 467	TBF1
+russel_Complex 467	TOR1
+russel_Complex 467	VID22
+russel_Complex 468	BMS1
+russel_Complex 468	BUD21
+russel_Complex 468	ESF1
+russel_Complex 468	MVD1
+russel_Complex 468	NOP6
+russel_Complex 469	RPL26B
+russel_Complex 469	RSA3
+russel_Complex 469	YOR1
+russel_Ctf18/Rfc2/Rfc3/Rfc4/Rfc5 complex	ELG1
+russel_Ctf18/Rfc2/Rfc3/Rfc4/Rfc5 complex	RFC1
+russel_Ctf18/Rfc2/Rfc3/Rfc4/Rfc5 complex	RFC3
+russel_Ctf18/Rfc2/Rfc3/Rfc4/Rfc5 complex	RFC4
+russel_Ctf18/Rfc2/Rfc3/Rfc4/Rfc5 complex	RFC5
+russel_Complex 471	RPL27B
+russel_Complex 471	SKT5
+russel_Complex 472	DBP10
+russel_Complex 472	DBP9
+russel_Complex 472	NOP13
+russel_Complex 472	NOP4
+russel_Complex 472	PUF6
+russel_Complex 473	SRO7
+russel_Complex 473	YDR314C
+russel_Complex 474	HTA1
+russel_Complex 474	TOS4
+russel_Complex 475	RPS25B
+russel_Vps27/Hse1 protein complex	HSE1
+russel_Vps27/Hse1 protein complex	VPS27
+russel_Complex 477	UFD4
+russel_eIF4A	TIF1
+russel_eIF4A	TIF2
+russel_Complex 479	GFA1
+russel_Complex 479	MSN5
+russel_Complex 479	NUM1
+russel_Complex 480	SSE1
+russel_Complex 480	YHB1
+russel_Complex 481	DRS2
+russel_Complex 481	PDR5
+russel_Complex 482	ERG1
+russel_Complex 482	TEF4
+russel_Complex 483	DIG1
+russel_Complex 483	SAP190
+russel_Complex 484	GDI1
+russel_Complex 484	YPT31
+russel_Complex 484	YPT52
+russel_Complex 485	BUD2
+russel_Complex 485	CCP1
+russel_Complex 485	MRP8
+russel_Complex 486	EFT1
+russel_Complex 486	YOL098C
+russel_Complex 487	CDC47
+russel_Complex 487	MYO5
+russel_Complex 488	YBR025C
+russel_Complex 488	YGL039W
+russel_Complex 489	GCN2
+russel_Complex 489	LTV1
+russel_Complex 489	RPM2
+russel_Complex  490	OCA1
+russel_Complex  490	SIW14
+russel_Complex  490	YCR095C
+russel_Complex  490	YHL029C
+russel_Complex 491	SHM1
+russel_Complex 491	YPL009C
