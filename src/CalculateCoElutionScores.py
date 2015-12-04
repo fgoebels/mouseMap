@@ -17,6 +17,14 @@ from sklearn.cross_validation import train_test_split, cross_val_predict
 from sklearn.preprocessing import label_binarize
 from sklearn.ensemble import RandomForestClassifier
 import matplotlib.pyplot as plt
+import inspect
+import os
+
+subfldr = os.path.realpath(os.path.abspath(os.path.join(os.path.split(inspect.getfile( inspect.currentframe() ))[0],"TCSS")))
+sys.path.append(subfldr)
+
+from main import load_semantic_similarity, calculate_semantic_similarity
+#from ontology import GOGraph
 
 class ElutionData():
 	def __init__(self, elutionProfileF):
@@ -135,6 +143,23 @@ def normalize_fracs(arr, norm_rows=True, norm_cols=True):
         arr = arr_norm(arr, 1)
     return arr
 
+class GOSim(object):
+
+	def __init__(self, onto_F, gene_anno_F):
+		self.name = ["Sim_CC", "Sim_BP", "Sim_MF"]
+		self.objs = load_semantic_similarity(onto_F, gene_anno_F, "C:2.4,P:3.5,F:3.3", "")
+
+	def getScores(self, a, b, elutionData):
+		return (a,b)
+
+	def calculateScore(self, a, b):
+		out = []
+		domain_def = {'C':'Cellular Component', 'P':'Biological Process', 'F':'Molecular Function'}
+		for domain in domain_def:
+			score = self.objs[domain]._semantic_similarity(a, b)[0]
+			if score is None: score = 0
+			out.append(score)
+		return out
 
 class Apex(object):
 	def __init__(self):
@@ -324,8 +349,8 @@ class CalculateCoElutionScores():
 		self.scores = {}
 		self.header = ["ProtA","ProtB"]
 		self.oneDscores = [Poisson(), Pearson(), Wcc(), Apex(), Jaccard(), Euclidiean()]
-		self.twoDscores = [Euclidiean(), Pearson(), Apex(), Jaccard()] 
-#		self.twoDscores = [Poisson(), Pearson(), Wcc(), Apex(), Jaccard(), Euclidiean(), Herdin(), MatrixNorms()]
+#		self.twoDscores = [Euclidiean(), Pearson(), Apex(), Jaccard()] 
+		self.twoDscores = [Pearson(), Wcc(), Apex(), Jaccard(), Euclidiean(), Herdin(), MatrixNorms()]
 		
 
 	def getAllPairs(self):
@@ -348,8 +373,7 @@ class CalculateCoElutionScores():
 		if scores == "": scores = self.twoDscores
 		print scores
 		allprots = self.getAllPairs()
-		self.calculateAllScores(scores, allprots)
-		
+		self.calculateAllScores(scores, allprots)		
 
 	def calculate1DScores(self, PPIs):
 		self.calculateAllScores(self.oneDscores, PPIs)
