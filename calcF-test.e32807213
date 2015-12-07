@@ -1,0 +1,16 @@
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src/CalculateCoElutionScores.py:135: RuntimeWarning: invalid value encountered in true_divide
+  return np.asarray(np.nan_to_num(mat / np.sum(mat, axis)))
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src/CalculateCoElutionScores.py:135: RuntimeWarning: invalid value encountered in true_divide
+  return np.asarray(np.nan_to_num(mat / np.sum(mat, axis)))
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src/CalculateCoElutionScores.py:135: RuntimeWarning: invalid value encountered in true_divide
+  return np.asarray(np.nan_to_num(mat / np.sum(mat, axis)))
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src/CalculateCoElutionScores.py:135: RuntimeWarning: invalid value encountered in true_divide
+  return np.asarray(np.nan_to_num(mat / np.sum(mat, axis)))
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src/CalculateCoElutionScores.py:135: RuntimeWarning: invalid value encountered in true_divide
+  return np.asarray(np.nan_to_num(mat / np.sum(mat, axis)))
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src/CalculateCoElutionScores.py:135: RuntimeWarning: invalid value encountered in true_divide
+  return np.asarray(np.nan_to_num(mat / np.sum(mat, axis)))
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src/CalculateCoElutionScores.py:135: RuntimeWarning: invalid value encountered in true_divide
+  return np.asarray(np.nan_to_num(mat / np.sum(mat, axis)))
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src/CalculateCoElutionScores.py:135: RuntimeWarning: invalid value encountered in true_divide
+  return np.asarray(np.nan_to_num(mat / np.sum(mat, axis)))

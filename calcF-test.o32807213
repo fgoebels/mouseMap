@@ -1,0 +1,61 @@
+----------------------------------------
+Begin PBS Prologue Mon Dec  7 14:35:16 EST 2015 1449516916
+Job ID:		32807213.gpc-sched-ib0
+Username:	fgoebels
+Group:		gbader
+Nodes:		gpc-f109n001-ib0
+End PBS Prologue Mon Dec  7 14:35:17 EST 2015 1449516917
+----------------------------------------
+Calculating score Pearson
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src
+Pearson
+[<CalculateCoElutionScores.Pearson instance at 0x7fffd6f5bc20>]
+Calculating score wcc
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src
+wcc
+[<CalculateCoElutionScores.Wcc instance at 0x7fffd6f5bc68>]
+Calculating score apex
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src
+apex
+[<CalculateCoElutionScores.Apex object at 0x7fffd4a43710>]
+Calculating score Jaccard
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src
+Jaccard
+[<CalculateCoElutionScores.Jaccard instance at 0x7fffd6f5bcb0>]
+Calculating score Euclidiean
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src
+Euclidiean
+[<CalculateCoElutionScores.Euclidiean instance at 0x7fffd6f5ccf8>]
+Calculating score Herdin
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src
+Herdin
+[<CalculateCoElutionScores.Herdin instance at 0x7fffd6f5bd40>]
+Calculating score MatrixNorms
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src
+MatrixNorms
+[<CalculateCoElutionScores.MatrixNorms instance at 0x7fffd6f5cdd0>]
+Calculating score GOSim
+/bg01/homescinet/g/gbader/fgoebels/mouseMap/src
+GOSim
+loading data.............
+processing data..........(takes time)
+working with Cellular Component ontology.....
+working with Biological Process ontology.....
+working with Molecular Function ontology.....
+[<CalculateCoElutionScores.GOSim object at 0x7fffd4a43790>]
+----------------------------------------
+Begin PBS Epilogue Mon Dec  7 14:39:29 EST 2015 1449517169
+Job ID:		32807213.gpc-sched-ib0
+Username:	fgoebels
+Group:		gbader
+Job Name:	calcF-test
+Session:	11345
+Limits:		neednodes=1:ppn=8,nodes=1:ppn=8,walltime=00:20:00
+Resources:	cput=00:03:40,mem=265892kb,vmem=815852kb,walltime=00:04:08
+Queue:		debug
+Account:		
+Nodes:	gpc-f109n001-ib0
+Killing leftovers...
+
+End PBS Epilogue Mon Dec  7 14:39:30 EST 2015 1449517170
+----------------------------------------
