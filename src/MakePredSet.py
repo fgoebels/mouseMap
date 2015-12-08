@@ -31,6 +31,7 @@ def main():
 
 	for species in out:
 		outFH = open("%s.%s.topred.txt" % (outPrefix, species) , "w")
+		print >> outFH, "ProtA\tProtB"
 		print >> outFH, "\n".join(out[species])
 		outFH.close()
 

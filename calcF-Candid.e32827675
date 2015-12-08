@@ -1,0 +1,73 @@
+Traceback (most recent call last):
+  File "src/CalculateScores.py", line 44, in <module>
+    main()
+  File "src/CalculateScores.py", line 9, in main
+    (elutionF, ontoF, gene_ass_F, ppiF, scores, outF) = sys.argv[1:]
+ValueError: need more than 5 values to unpack
+src/Calcscores.sh: line 8: .Pearson.txt: Read-only file system
+rm: cannot remove `.Pearson.tmp.txt': No such file or directory
+Traceback (most recent call last):
+  File "src/CalculateScores.py", line 44, in <module>
+    main()
+  File "src/CalculateScores.py", line 9, in main
+    (elutionF, ontoF, gene_ass_F, ppiF, scores, outF) = sys.argv[1:]
+ValueError: need more than 5 values to unpack
+src/Calcscores.sh: line 8: .wcc.txt: Read-only file system
+rm: cannot remove `.wcc.tmp.txt': No such file or directory
+Traceback (most recent call last):
+  File "src/CalculateScores.py", line 44, in <module>
+    main()
+  File "src/CalculateScores.py", line 9, in main
+    (elutionF, ontoF, gene_ass_F, ppiF, scores, outF) = sys.argv[1:]
+ValueError: need more than 5 values to unpack
+src/Calcscores.sh: line 8: .apex.txt: Read-only file system
+rm: cannot remove `.apex.tmp.txt': No such file or directory
+Traceback (most recent call last):
+  File "src/CalculateScores.py", line 44, in <module>
+    main()
+  File "src/CalculateScores.py", line 9, in main
+    (elutionF, ontoF, gene_ass_F, ppiF, scores, outF) = sys.argv[1:]
+ValueError: need more than 5 values to unpack
+src/Calcscores.sh: line 8: .Jaccard.txt: Read-only file system
+rm: cannot remove `.Jaccard.tmp.txt': No such file or directory
+Traceback (most recent call last):
+  File "src/CalculateScores.py", line 44, in <module>
+    main()
+  File "src/CalculateScores.py", line 9, in main
+    (elutionF, ontoF, gene_ass_F, ppiF, scores, outF) = sys.argv[1:]
+ValueError: need more than 5 values to unpack
+src/Calcscores.sh: line 8: .Euclidiean.txt: Read-only file system
+rm: cannot remove `.Euclidiean.tmp.txt': No such file or directory
+Traceback (most recent call last):
+  File "src/CalculateScores.py", line 44, in <module>
+    main()
+  File "src/CalculateScores.py", line 9, in main
+    (elutionF, ontoF, gene_ass_F, ppiF, scores, outF) = sys.argv[1:]
+ValueError: need more than 5 values to unpack
+src/Calcscores.sh: line 8: .Herdin.txt: Read-only file system
+rm: cannot remove `.Herdin.tmp.txt': No such file or directory
+Traceback (most recent call last):
+  File "src/CalculateScores.py", line 44, in <module>
+    main()
+  File "src/CalculateScores.py", line 9, in main
+    (elutionF, ontoF, gene_ass_F, ppiF, scores, outF) = sys.argv[1:]
+ValueError: need more than 5 values to unpack
+src/Calcscores.sh: line 8: .MatrixNorms.txt: Read-only file system
+rm: cannot remove `.MatrixNorms.tmp.txt': No such file or directory
+Traceback (most recent call last):
+  File "src/CalculateScores.py", line 44, in <module>
+    main()
+  File "src/CalculateScores.py", line 9, in main
+    (elutionF, ontoF, gene_ass_F, ppiF, scores, outF) = sys.argv[1:]
+ValueError: need more than 5 values to unpack
+src/Calcscores.sh: line 8: .GOSim.txt: Read-only file system
+rm: cannot remove `.GOSim.tmp.txt': No such file or directory
+src/Calcscores.sh: line 12: .scores.txt: Read-only file system
+rm: cannot remove `.Pearson.txt': No such file or directory
+rm: cannot remove `.wcc.txt': No such file or directory
+rm: cannot remove `.apex.txt': No such file or directory
+rm: cannot remove `.Jaccard.txt': No such file or directory
+rm: cannot remove `.Euclidiean.txt': No such file or directory
+rm: cannot remove `.Herdin.txt': No such file or directory
+rm: cannot remove `.MatrixNorms.txt': No such file or directory
+rm: cannot remove `.GOSim.txt': No such file or directory

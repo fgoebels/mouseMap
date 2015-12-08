@@ -1,0 +1,32 @@
+----------------------------------------
+Begin PBS Prologue Tue Dec  8 15:25:53 EST 2015 1449606353
+Job ID:		32827683.gpc-sched-ib0
+Username:	fgoebels
+Group:		gbader
+Nodes:		gpc-f121n080-ib0
+End PBS Prologue Tue Dec  8 15:25:55 EST 2015 1449606355
+----------------------------------------
+Calculating score Pearson
+Calculating score wcc
+Calculating score apex
+Calculating score Jaccard
+Calculating score Euclidiean
+Calculating score Herdin
+Calculating score MatrixNorms
+Calculating score GOSim
+----------------------------------------
+Begin PBS Epilogue Tue Dec  8 15:26:58 EST 2015 1449606418
+Job ID:		32827683.gpc-sched-ib0
+Username:	fgoebels
+Group:		gbader
+Job Name:	calcF-Candid
+Session:	24447
+Limits:		neednodes=1:ppn=8,nodes=1:ppn=8,walltime=24:00:00
+Resources:	cput=00:00:11,mem=44700kb,vmem=353284kb,walltime=00:01:00
+Queue:		batch_ib
+Account:		
+Nodes:	gpc-f121n080-ib0
+Killing leftovers...
+
+End PBS Epilogue Tue Dec  8 15:26:59 EST 2015 1449606419
+----------------------------------------
