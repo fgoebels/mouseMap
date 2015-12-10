@@ -344,13 +344,13 @@ class MatrixNorms:
 		return out
 
 class CalculateCoElutionScores():
-	def __init__(self, elutionData):
+	def __init__(self, elutionData=""):
 		self.elutionData = elutionData
 		self.scores = {}
 		self.header = ["ProtA","ProtB"]
 		self.oneDscores = [Poisson(), Pearson(), Wcc(), Apex(), Jaccard(), Euclidiean()]
 #		self.twoDscores = [Euclidiean(), Pearson(), Apex(), Jaccard()] 
-		self.twoDscores = [Pearson(), Wcc(), Apex(), Jaccard(), Euclidiean(), Herdin(), MatrixNorms()]
+		self.twoDscores = [Pearson(), Wcc(), Apex(), Jaccard(), Euclidiean(), Herdin(), MatrixNorms(), GOSim("src/TCSS/gene_ontology.obo.txt", "Yeast/data/gene_association.tab")]
 		
 
 	def getAllPairs(self):
@@ -400,6 +400,19 @@ class CalculateCoElutionScores():
 			out += "\n%s\t%s\t%s" % (protA, protB, "\t".join(map(str,self.scores[(protA, protB, label)])))
 			if labels: out += "\t" + label
 		return out
+	
+	def toArffData(self):
+		out = ["@RELATION COFrac"]
+		for colname in self.header[2:]:
+			out.append("@Attribute %s NUMERIC" % (colname))
+		out.append("@ATTRIBUTE class {positive, negative}")
+		out.append("@Data")
+		for idA, idB, label in self.scores:
+			tmp = ",".join(map(str,self.scores[(idA, idB, label)]))
+			tmp += ",%s" % (label)
+			out.append(tmp)
+		return "\n".join(out)
+		
 
 	def toSklearnData(self):
 		data = []
@@ -407,6 +420,7 @@ class CalculateCoElutionScores():
 		for idA, idB, label in self.scores:
 			if label == "positive": targets.append(1)
 			if label == "negative": targets.append(0)
+			if label == "?": targets.append("?")
 			data.append(self.scores[(idA, idB, label)])
 		return np.array(data), np.array(targets)
 
@@ -434,6 +448,39 @@ class RandomForest:
 	def predict(self, toPred):
 		return self.rfc.predict_proba(toPred)
 
+def loadScoreData(scoreF, refF):
+	dataRef, headerRef = readTable(refF)
+	dataScores, headerScores = readTable(scoreF)
+	tolearn = CalculateCoElutionScores()
+	topred = CalculateCoElutionScores()
+	tolearn.header = headerScores
+	topred.header = headerScores
+	for edge in dataScores:
+		label = "?"
+		scores = dataScores[edge]
+		protA, protB = edge
+		if edge in dataRef:
+			label = dataRef[edge][0]
+			tolearn.scores[(protA, protB, label)] = scores
+		else:
+			topred.scores[(protA, protB, label)] = scores
+	return tolearn, topred
+	
+def readTable(tabelF):
+	data = {}
+	header = {}
+	tabelFH = open(tabelF)
+	header = tabelFH.readline()
+	header = header.rstrip()
+	header = header.split("\t")
+	for line in tabelFH:
+		line = line.rstrip()
+		line = np.array(line.split("\t"))
+		key = tuple(sorted(line[:2]))
+		data[key] = line[2:]
+	tabelFH.close()
+	return data, header
+
 def loadEData(elutionProfileF):
 	elutionData = ElutionData(elutionProfileF)
 	scoreCalc = CalculateCoElutionScores(elutionData)
@@ -444,11 +491,7 @@ def loadData(goldstandardF, elutionProfileF):
 	elutionData, scoreCalc = loadEData(elutionProfileF)
 	return reference, elutionData, scoreCalc
 
-def trainML(reference, scoreCalc, type="2D"):
-	if type == "2D":
-		scoreCalc.calculate2DScores(reference)
-	else:
-		scoreCalc.calculate1DScores(reference)
+def trainML(scoreCalc):
 	data, targets = scoreCalc.toSklearnData()
 	clf = RandomForest(data, targets)
 	return clf

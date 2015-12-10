@@ -6,25 +6,10 @@ import sys
 import os, math, copy, inspect
 
 def main():
-	(elutionF, ontoF, gene_ass_F, ppiF, scores, outF) = sys.argv[1:]
-	print  os.path.realpath(os.path.abspath(os.path.split(inspect.getfile( inspect.currentframe() ))[0]))
-	scores = scores.split("-")
+	(elutionF, ontoF, gene_ass_F, ppiF, outF) = sys.argv[1:]
 	
 	elutionData, toPred = calcS.loadEData(elutionF)
-	thisScores = []
-	twoDscores = toPred.twoDscores
-	for score in scores:
-		print score
-		if score == "MatrixNorms":
-			thisScores.append(calcS.MatrixNorms())
-			continue
-		if score == "GOSim":
-			thisScores.append(calcS.GOSim(ontoF, gene_ass_F))
-			continue
-		for twoDscore in twoDscores:
-			if score == twoDscore.name: thisScores.append(twoDscore)
-
-	print thisScores
+	
 	toPredPPIs = []
 	ppiFH = open(ppiF)
 	for line in ppiFH:
@@ -32,7 +17,7 @@ def main():
 		protA, protB = line.split("\t")
 		toPredPPIs.append((protA, protB, "?"))
 
-	toPred.calculateAllScores(thisScores, toPredPPIs)
+	toPred.calculate2DScores(toPredPPIs)
 	out = toPred.toTable(False)
 
 	outFH = open(outF, "w")

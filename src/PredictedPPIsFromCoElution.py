@@ -6,7 +6,7 @@ import sys
 import os, math, copy
 
 def main():
-	(elutionF, refF, geneNameF, outF) = sys.argv[1:]
+	(scoreF, refF, elutionF, geneNameF, outF) = sys.argv[1:]
 	
 	geneNameFH = open(geneNameF)
 	geneName= {}
@@ -19,14 +19,22 @@ def main():
 		species[ida] = spec
 		species[idb] = spec 
 	geneNameFH.close()
-	reference, elutionData, scoreCalc = calcS.loadData(refF, elutionF)
-	reference, elutionData, toPred = calcS.loadData(refF, elutionF)
-#	toPred = copy.copy(scoreCalc)
-	rfc =  calcS.trainML(reference, scoreCalc)
 
-	toPred.calculateAllPairs()
-	data, targets = toPred.toSklearnData()
+	toLearn, toPred = calcS.loadScoreData(scoreF, refF)
+	
+	rfc =  calcS.trainML(toLearn)
+
+	ref, eluD, calc = calcS.loadData(refF, elutionF)
+	
+	calc.calculate2DScores(ref)
+	outFH = open(outF + ".arff", "w")
+	outFH.write(calc.toArffData())
+	outFH.close()
 	print "Calculated scores"
+	
+	
+	data, targets = toPred.toSklearnData()
+	dataL, targetsL = toLearn.toSklearnData()
 	preds = rfc.predict(data)
 	prots = []
 	for protA, protB, label in toPred.scores:
@@ -35,10 +43,6 @@ def main():
 	outFH = open(outF, "w")
 	for i in range(len(preds)):
 		protA, protB = prots[i]
-		if protA not in species or protB not in species: continue
-		if species[protA] != species[protB]: continue
-		geneA = ""
-		geneB = ""
 		if protA in geneName: geneA = ",".join(geneName[protA])
 		if protB in geneName: geneB = ",".join(geneName[protB])
 		spec = species[protA]
