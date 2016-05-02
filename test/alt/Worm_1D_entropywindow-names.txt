@@ -1,0 +1,11 @@
+Bead_IEX_1	test/alt/Worm_1D_entropy_40_Bead_IEX_1.dat
+Bead_IEX_2	test/alt/Worm_1D_entropy_40_Bead_IEX_2.dat
+Bead_IEX_3	test/alt/Worm_1D_entropy_40_Bead_IEX_3.dat
+Bead_IEX_4	test/alt/Worm_1D_entropy_40_Bead_IEX_4.dat
+Bead_IEX_5	test/alt/Worm_1D_entropy_40_Bead_IEX_5.dat
+Bead_IEX_6	test/alt/Worm_1D_entropy_40_Bead_IEX_6.dat
+Bead_IEX_7	test/alt/Worm_1D_entropy_40_Bead_IEX_7.dat
+Bead_IEX_8	test/alt/Worm_1D_entropy_40_Bead_IEX_8.dat
+HCW_1	test/alt/Worm_1D_entropy_40_HCW_1.dat
+HCW_2	test/alt/Worm_1D_entropy_40_HCW_2.dat
+HCW_3	test/alt/Worm_1D_entropy_40_HCW_3.dat

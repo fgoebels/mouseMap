@@ -1,0 +1,8 @@
+Category	Counts
+GeneName	2200
+HumanOrthologIDs	1738
+wAnno	1571
+Disease	565
+Complex	992
+SNP	1124
+Enriched_GO_terms	206

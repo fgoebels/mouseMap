@@ -94,7 +94,7 @@ def readData(dataF, keyColNumbers, valueRowNumbers, primKeyMap = "", header = Tr
 	for line in dataFH:
 		line = line.rstrip()
 		lineSplit = np.array(line.split("\t"))
-		if len(lineSplit)<2: continue
+#		if len(lineSplit)<2: continue
 		key = tuple(lineSplit[keyColNumbers])
 		primkey = tuple([key[0]])
 		if primKeyMap != "" and primkey in primKeyMap:

@@ -1,0 +1,11 @@
+data/WORM/Ce_ms2_metazoan/Ce_Bead_IEX_1.prot_count_uniqpeps2_FDR0010
+data/WORM/Ce_ms2_metazoan/Ce_Bead_IEX_2.prot_count_uniqpeps2_FDR0010
+data/WORM/Ce_ms2_metazoan/Ce_Bead_IEX_3.prot_count_uniqpeps2_FDR0010
+data/WORM/Ce_ms2_metazoan/Ce_Bead_IEX_4.prot_count_uniqpeps2_FDR0010
+data/WORM/Ce_ms2_metazoan/Ce_Bead_IEX_5.prot_count_uniqpeps2_FDR0010
+data/WORM/Ce_ms2_metazoan/Ce_Bead_IEX_6.prot_count_uniqpeps2_FDR0010
+data/WORM/Ce_ms2_metazoan/Ce_Bead_IEX_7.prot_count_uniqpeps2_FDR0010
+data/WORM/Ce_ms2_metazoan/Ce_Bead_IEX_8.prot_count_uniqpeps2_FDR0010
+data/WORM/Ce_ms2_metazoan/Ce_HCW_1.prot_count_uniqpeps2_FDR0010
+data/WORM/Ce_ms2_metazoan/Ce_HCW_2.prot_count_uniqpeps2_FDR0010
+data/WORM/Ce_ms2_metazoan/Ce_HCW_3.prot_count_uniqpeps2_FDR0010

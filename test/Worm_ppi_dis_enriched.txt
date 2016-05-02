@@ -1,0 +1,9 @@
+	DOID	Counts	OMIM_counts	Pval
+All sites	NA	NA	2200	0.0
+Disease (root)	DOID:0000004	457	837	0.000000
+disease of mental health	DOID:0000150	146	164	0.152068
+disease of metabolism	DOID:0014667	91	110	0.619249
+nervous system disease	DOID:0000863	82	149	0.000000
+cancer	DOID:0000162	72	124	0.051559
+neurodegenerative disease	DOID:0001289	29	34	0.074259
+cardiovascular system disease	DOID:0001287	27	32	0.003340

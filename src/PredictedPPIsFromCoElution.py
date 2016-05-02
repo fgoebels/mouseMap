@@ -23,8 +23,10 @@ def main():
 	toLearn, toPred = calcS.loadScoreData(scoreF, refF)
 	
 	rfc =  calcS.trainML(toLearn)
-
+	print rfc.getValScores()
+	
 	ref, eluD, calc = calcS.loadData(refF, elutionF)
+	
 	
 	calc.calculate2DScores(ref)
 	outFH = open(outF + ".arff", "w")
@@ -32,6 +34,8 @@ def main():
 	outFH.close()
 	print "Calculated scores"
 	
+	rfc2 =  calcS.trainML(calc)
+	print rfc2.getValScores()
 	
 	data, targets = toPred.toSklearnData()
 	dataL, targetsL = toLearn.toSklearnData()

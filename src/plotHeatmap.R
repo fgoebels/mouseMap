@@ -9,5 +9,5 @@ dataTable = read.table(args[1], row.names=1, header=T, check.names=F)
 tmp = t(t(dataTable))
 
 pdf(args[3])
-heatmap.2(tmp, dendrogram="none", col=my_palette, margins =c(2,2), trace="none", density.info="none", Colv = "NA", Rowv = "NA", main = args[2], xlab="Remove IEX frac from left", ylab="Remove IEX frac from right")
+heatmap.2(tmp, dendrogram="none", col=my_palette, margins =c(2,2), trace="none", density.info="none", Colv = "NA", Rowv = "NA", main = "", xlab=args[2], ylab="Experiments")
 dev.off()

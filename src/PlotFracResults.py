@@ -94,10 +94,6 @@ def getIntFromFrac(numFrac):
 	return int(math.floor(numFrac[0]-1)*48) + numFrac[1] - 1
 
 
-def getIntFrom2DFrac(frac):
-	if frac = (1,1): return 0
-	if frac = (5,48): return 
-
 def eval(outDir, results, evalScores):
 	for (rowNum, name) in evalScores:
 		resultEval, maxVal = getVals(results, rowNum,  float)

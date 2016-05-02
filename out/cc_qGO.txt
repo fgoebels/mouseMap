@@ -1,0 +1,8 @@
+GO:0005829	cytosol
+GO:0005856	cytoskeleton
+GO:0005840	ribosome
+GO:0005764	lysosome
+GO:0005783	endoplasmic_reticulum
+GO:0005794	Golgi_apparatus
+GO:0005634	nucleus
+GO:0005730	nucleolus

@@ -1,0 +1,586 @@
+Name	DOID	Counts
+All sites	NA	2200
+Disease (root)	DOID:0000004	457	837	0.000000
+disease of anatomical entity	DOID:0000007	182	319	0.000000
+disease of mental health	DOID:0000150	146	164	0.152068
+disease of metabolism	DOID:0014667	91	110	0.619249
+developmental disorder of mental health	DOID:0060037	89	97	0.316683
+nervous system disease	DOID:0000863	82	149	0.000000
+inherited metabolic disorder	DOID:0000655	82	93	0.955030
+autism spectrum disorder	DOID:0060041	75	76	1.000000
+autistic disorder	DOID:0012849	75	76	1.000000
+pervasive developmental disorder	DOID:0060040	75	77	0.955030
+disease of cellular proliferation	DOID:0014566	74	134	0.043259
+cancer	DOID:0000162	72	124	0.051559
+organ system cancer	DOID:0050686	69	121	0.031738
+cognitive disorder	DOID:0001561	65	66	0.724329
+psychotic disorder	DOID:0002468	65	66	0.756117
+schizophrenia	DOID:0005419	65	66	0.756117
+genetic disease	DOID:0000630	58	84	0.000000
+central nervous system disease	DOID:0000331	49	68	0.000012
+monogenic disease	DOID:0050177	45	65	0.000000
+autosomal genetic disease	DOID:0050739	40	59	0.000000
+musculoskeletal system disease	DOID:0000017	33	52	0.000000
+neurodegenerative disease	DOID:0001289	29	34	0.074259
+cardiovascular system disease	DOID:0001287	27	32	0.003340
+amino acid metabolic disorder	DOID:0009252	26	28	0.021166
+immune system disease	DOID:0002914	25	44	0.007436
+mitochondrial metabolism disease	DOID:0000700	25	26	0.668418
+gastrointestinal system cancer	DOID:0003119	24	30	0.568595
+sensory system disease	DOID:0050155	23	58	0.000000
+hematopoietic system disease	DOID:0000074	23	42	0.681700
+autosomal dominant disease	DOID:0050736	22	31	0.004274
+autosomal recessive disease	DOID:0050737	21	27	0.000011
+anemia	DOID:0002355	21	40	1.000000
+brain disease	DOID:0000936	20	27	0.023721
+specific developmental disorder	DOID:0060038	20	20	0.082908
+reproductive organ cancer	DOID:0000193	20	30	1.000000
+eye and adnexa disease	DOID:0001492	20	54	0.000000
+eye disease	DOID:0005614	20	54	0.000000
+colon carcinoma	DOID:0001520	19	19	1.000000
+colorectal cancer	DOID:0009256	19	21	0.867310
+intestinal cancer	DOID:0010155	19	21	0.867310
+large intestine cancer	DOID:0005672	19	21	0.867310
+intellectual disability	DOID:0001059	19	19	0.196626
+colon cancer	DOID:0000219	19	19	1.000000
+neuropathy	DOID:0000870	18	23	0.313001
+carbohydrate metabolic disorder	DOID:0002978	18	20	0.986943
+bone disease	DOID:0080001	18	27	0.000077
+connective tissue disease	DOID:0000065	18	27	0.000048
+aplastic anemia	DOID:0012449	17	36	0.568595
+lung cancer	DOID:0001324	16	16	0.920965
+congenital hypoplastic anemia	DOID:0001342	16	23	0.251234
+non-syndromic intellectual disability	DOID:0050889	16	16	0.313001
+retinal disease	DOID:0005679	16	46	0.000000
+respiratory system cancer	DOID:0050615	16	16	0.920965
+retinal degeneration	DOID:0008466	16	42	0.000093
+breast cancer	DOID:0001612	15	15	0.737722
+muscular disease	DOID:0080000	15	25	0.004773
+muscle tissue disease	DOID:0000066	15	25	0.007436
+Diamond-Blackfan anemia	DOID:0001339	15	22	0.000870
+thoracic cancer	DOID:0005093	15	15	0.737722
+male reproductive organ cancer	DOID:0003856	14	14	1.000000
+bone development disease	DOID:0080006	14	21	0.041511
+heart disease	DOID:0000114	14	17	0.681700
+retinitis pigmentosa	DOID:0010584	14	38	0.060985
+cone-rod dystrophy	DOID:0050572	14	14	0.563801
+myopathy	DOID:0000423	14	24	0.012433
+prostate cancer	DOID:0010283	13	13	1.000000
+cardiomyopathy	DOID:0050700	13	23	0.216856
+intrinsic cardiomyopathy	DOID:0060036	13	23	0.216856
+dilated cardiomyopathy	DOID:0012930	13	22	0.415404
+female reproductive organ cancer	DOID:0000120	13	16	0.711191
+ovarian cancer	DOID:0002394	12	12	0.474236
+neuromuscular disease	DOID:0000440	12	17	0.313001
+Charcot-Marie-Tooth disease	DOID:0010595	12	17	0.718125
+artery disease	DOID:0050828	12	12	0.205757
+syndrome	DOID:0000225	12	14	0.031347
+vascular disease	DOID:0000178	12	12	0.070269
+epilepsy syndrome	DOID:0001826	11	15	0.060462
+Leigh disease	DOID:0003652	11	11	0.313001
+electroclinical syndrome	DOID:0050701	11	13	0.307655
+acquired metabolic disease	DOID:0060158	10	16	0.003463
+endocrine system disease	DOID:0000028	10	13	0.116116
+endocrine gland cancer	DOID:0000170	9	11	0.718125
+osteochondrodysplasia	DOID:0002256	9	10	0.376393
+physical disorder	DOID:0080015	9	12	0.065639
+motor neuron disease	DOID:0000231	9	10	0.946830
+combined oxidative phosphorylation deficiency	DOID:0060286	8	8	0.911553
+congenital disorder of glycosylation	DOID:0005212	7	7	0.750760
+integumentary system disease	DOID:0000016	7	12	0.000059
+childhood electroclinical syndrome	DOID:0050704	7	7	0.664914
+heart valve disease	DOID:0004079	7	8	0.668418
+hematologic cancer	DOID:0002531	7	9	0.196626
+glucose metabolism disease	DOID:0004194	7	11	0.169272
+Charcot-Marie-Tooth disease type 2	DOID:0050539	7	7	1.000000
+spinocerebellar degeneration	DOID:0002478	7	7	0.711191
+immune system cancer	DOID:0060083	7	9	0.196626
+autosomal dominant non-syndromic intellectual disability	DOID:0060307	7	7	0.750760
+carbohydrate metabolism disease	DOID:0050013	7	11	0.169272
+paraplegia	DOID:0000607	7	7	0.196626
+benign neoplasm	DOID:0060072	7	10	1.000000
+hereditary spastic paraplegia	DOID:0002476	7	7	0.196626
+spinocerebellar ataxia	DOID:0001441	7	7	0.719729
+organic acidemia	DOID:0060159	6	7	0.546851
+tauopathy	DOID:0000680	6	6	0.307655
+diabetes mellitus	DOID:0009351	6	9	0.115710
+intestinal disease	DOID:0005295	6	7	0.332172
+type 2 diabetes mellitus	DOID:0009352	6	7	0.332172
+gastrointestinal system disease	DOID:0000077	6	7	0.007500
+amyotrophic lateral sclerosis	DOID:0000332	6	6	1.000000
+congenital heart disease	DOID:0001682	6	7	0.307655
+aortic valve stenosis	DOID:0001712	6	6	0.737722
+mitochondrial myopathy	DOID:0000699	6	10	0.563801
+Charcot-Marie-Tooth disease type 1	DOID:0050538	6	6	0.859301
+Alzheimer's disease	DOID:0010652	6	6	0.307655
+gonadal disease	DOID:0002277	6	8	0.544960
+muscular dystrophy	DOID:0009884	6	10	0.003639
+aortic valve disease	DOID:0000062	6	6	0.737722
+hypertrophic cardiomyopathy	DOID:0011984	5	5	0.681700
+skin disease	DOID:0000037	5	8	0.000093
+glycogen metabolism disorder	DOID:0050728	5	5	0.668418
+cerebral degeneration	DOID:0001443	5	5	0.986943
+cell type cancer	DOID:0050687	5	5	1.000000
+Kearns-Sayre syndrome	DOID:0012934	5	5	0.718125
+peroxisomal disease	DOID:0000906	5	5	0.568595
+urinary system disease	DOID:0000018	5	6	0.091392
+overnutrition	DOID:0000654	5	5	0.313001
+X-linked disease	DOID:0050735	5	6	0.737722
+chronic progressive external ophthalmoplegia	DOID:0012558	5	5	0.718125
+glycogen storage disease	DOID:0002747	5	5	0.668418
+hypertension	DOID:0010763	5	5	0.718125
+congenital nervous system abnormality	DOID:0002490	5	8	0.568595
+nutrition disease	DOID:0000374	5	5	0.313001
+autosomal recessive non-syndromic intellectual disability	DOID:0060308	5	5	0.681700
+dysostosis	DOID:0001934	5	6	0.149779
+hypogonadism	DOID:0001924	5	7	0.415404
+Lennox-Gastaut syndrome	DOID:0050561	5	5	0.332172
+organ system benign neoplasm	DOID:0060085	4	6	1.000000
+cell type benign neoplasm	DOID:0060084	4	4	1.000000
+lysosomal storage disease	DOID:0003211	4	8	0.313001
+xeroderma pigmentosum	DOID:0050427	4	4	0.681700
+nervous system cancer	DOID:0003093	4	4	0.752268
+Lynch syndrome	DOID:0003883	4	7	0.787323
+non-syndromic X-linked intellectual disability	DOID:0050776	4	4	0.722385
+Cornelia de Lange syndrome	DOID:0011725	4	6	0.711191
+leukemia	DOID:0001240	4	5	0.535946
+acute myeloid leukemia	DOID:0009119	4	5	0.722385
+phaeochromocytoma	DOID:0050771	4	4	0.787323
+nonsyndromic deafness	DOID:0050563	4	4	0.000031
+paraganglioma	DOID:0050773	4	6	0.711191
+auditory system disease	DOID:0002742	4	4	0.000010
+pontocerebellar hypoplasia	DOID:0060264	4	5	1.000000
+distal hereditary motor neuropathy	DOID:0050582	4	4	0.711191
+obesity	DOID:0009970	4	4	0.313001
+neuroendocrine tumor	DOID:0000169	4	6	0.711191
+myeloid leukemia	DOID:0008692	4	5	0.711191
+congenital disorder of glycosylation type II	DOID:0050571	4	4	0.974916
+Coffin-Siris syndrome	DOID:0001925	4	4	0.182954
+motor neuritis	DOID:0000683	4	4	0.711191
+2-hydroxyglutaric aciduria	DOID:0050573	3	3	0.376393
+male infertility	DOID:0012336	3	3	0.718125
+synucleinopathy	DOID:0050890	3	3	0.465558
+Cowden disease	DOID:0006457	3	5	0.750760
+pyruvate decarboxylase deficiency	DOID:0003649	3	5	0.568595
+lipid storage disease	DOID:0009455	3	7	0.856717
+basal ganglia disease	DOID:0000679	3	4	1.000000
+ulcerative colitis	DOID:0008577	3	3	0.681700
+optic nerve disease	DOID:0001891	3	3	0.435978
+urinary system cancer	DOID:0003996	3	3	0.558056
+heart septal defect	DOID:0001681	3	4	0.319788
+synostosis	DOID:0011971	3	3	0.376393
+endometrial carcinoma	DOID:0002871	3	3	0.750760
+heart conduction disease	DOID:0010273	3	3	0.112908
+reproductive system disease	DOID:0000015	3	4	0.112908
+frontotemporal dementia	DOID:0009255	3	4	0.749731
+stomach cancer	DOID:0010534	3	3	0.460331
+Leber congenital amaurosis	DOID:0014791	3	5	0.288894
+peripheral neuropathy	DOID:0060053	3	3	0.718125
+cranial nerve disease	DOID:0005656	3	3	0.724329
+maple syrup urine disease	DOID:0009269	3	4	0.668418
+syndromic X-linked intellectual disability	DOID:0060309	3	3	0.984711
+central nervous system cancer	DOID:0003620	3	3	1.000000
+syndromic intellectual disability	DOID:0050888	3	3	0.718125
+kidney disease	DOID:0000557	3	3	0.039539
+hemolytic anemia	DOID:0000583	3	3	0.558056
+male reproductive system disease	DOID:0000048	3	3	0.718125
+endometrial cancer	DOID:0001380	3	3	0.750760
+coronary artery disease	DOID:0003393	3	3	0.718125
+leukodystrophy	DOID:0010579	3	3	1.000000
+colitis	DOID:0060180	3	3	0.681700
+tyrosinemia	DOID:0009275	3	3	0.127992
+uterine cancer	DOID:0000363	3	3	0.750760
+dyskeratosis congenita	DOID:0002729	3	3	1.000000
+Muir-Torre syndrome	DOID:0050465	3	3	0.435978
+Treacher Collins syndrome	DOID:0002908	3	4	0.724329
+lissencephaly	DOID:0050453	3	4	1.000000
+hydrocephalus	DOID:0010908	3	7	0.949147
+glycine encephalopathy	DOID:0009268	3	3	0.332172
+inflammatory bowel disease	DOID:0050589	3	4	0.376393
+myocardial infarction	DOID:0005844	3	3	1.000000
+urinary bladder cancer	DOID:0011054	3	3	1.000000
+Smith-McCort dysplasia	DOID:0060247	3	4	0.304496
+mitochondrial encephalomyopathy	DOID:0000890	3	3	0.550460
+hereditary sensory neuropathy	DOID:0050548	3	3	0.718125
+normocytic anemia	DOID:0000720	3	3	0.558056
+chromosomal disease	DOID:0080014	3	3	0.750760
+Alpers syndrome	DOID:0001442	2	2	0.718125
+arthritis	DOID:0000848	2	2	0.060308
+Hirschsprung's disease	DOID:0010487	2	2	0.955030
+chronic pulmonary heart disease	DOID:0012326	2	2	1.000000
+lens disease	DOID:0000110	2	3	0.025705
+primary open angle glaucoma	DOID:0001070	2	2	1.000000
+purine-pyrimidine metabolic disorder	DOID:0000653	2	2	0.536362
+FG syndrome	DOID:0014711	2	3	1.000000
+D-2-hydroxyglutaric aciduria	DOID:0050575	2	2	0.536362
+nemaline myopathy	DOID:0003191	2	2	0.955030
+esophagus squamous cell carcinoma	DOID:0003748	2	2	1.000000
+uveal disease	DOID:0003480	2	2	0.862000
+congenital nonspherocytic hemolytic anemia	DOID:0002861	2	2	0.362636
+essential hypertension	DOID:0010825	2	2	0.711191
+pontocerebellar hypoplasia type 1A	DOID:0060265	2	2	0.362636
+bone inflammation disease	DOID:0003342	2	2	0.046073
+neuroma	DOID:0002001	2	2	0.862000
+primary pulmonary hypertension	DOID:0014557	2	2	1.000000
+Zellweger syndrome	DOID:0000905	2	2	0.862000
+ureteral disease	DOID:0001426	2	3	0.920965
+photosensitive trichothiodystrophy	DOID:0002960	2	2	0.711191
+mitral valve prolapse	DOID:0000988	2	2	0.362636
+congestive heart failure	DOID:0006000	2	2	1.000000
+thyroid carcinoma	DOID:0003963	2	2	0.668418
+Bardet-Biedl syndrome	DOID:0001935	2	2	0.804551
+aortic aneurysm	DOID:0003627	2	2	1.000000
+variable age at onset electroclinical syndrome	DOID:0050706	2	2	0.737722
+pre-eclampsia	DOID:0010591	2	2	1.000000
+Canavan disease	DOID:0003613	2	2	0.668418
+severe combined immunodeficiency	DOID:0000627	2	2	1.000000
+azoospermia	DOID:0014227	2	2	0.711191
+cataract	DOID:0000083	2	3	0.025345
+propionic acidemia	DOID:0014701	2	2	0.362636
+coloboma	DOID:0012270	2	2	0.887498
+neurilemmomatosis	DOID:0003204	2	2	0.862000
+Emery-Dreifuss muscular dystrophy	DOID:0011726	2	2	0.955030
+bone marrow cancer	DOID:0004960	2	3	0.806300
+posterior polar cataract	DOID:0050537	2	2	1.000000
+3-Methylcrotonyl-CoA carboxylase deficiency	DOID:0050710	2	3	0.442666
+pancreatic cancer	DOID:0001793	2	2	0.668418
+congenital hemolytic anemia	DOID:0000589	2	2	1.000000
+infancy electroclinical syndrome	DOID:0050703	2	2	0.804973
+aortic disease	DOID:0000520	2	2	1.000000
+Charcot-Marie-Tooth disease type X	DOID:0050542	2	2	0.903867
+scoliosis	DOID:0060249	2	2	0.442666
+MERRF syndrome	DOID:0000310	2	2	0.718125
+type 1 diabetes mellitus	DOID:0009744	2	2	0.806300
+neurilemmoma	DOID:0003192	2	2	0.862000
+neonatal period electroclinical syndrome	DOID:0050702	2	2	0.178594
+cerebrovascular disease	DOID:0006713	2	2	0.216015
+Cor pulmonale	DOID:0008515	2	2	1.000000
+atrial heart septal defect	DOID:0001882	2	2	0.804973
+hypermethioninemia	DOID:0050544	2	2	0.362636
+Ohtahara syndrome	DOID:0050709	2	2	0.214701
+amyotrophic lateral sclerosis type 1	DOID:0060193	2	2	0.568595
+Meier-Gorlin syndrome	DOID:0060306	2	3	0.710265
+cryptorchidism	DOID:0011383	2	2	0.668418
+cystic fibrosis	DOID:0001485	2	2	0.920965
+gastrointestinal stromal tumor	DOID:0009253	2	2	0.711191
+cytochrome-c oxidase deficiency disease	DOID:0003762	2	2	1.000000
+liver cancer	DOID:0003571	2	2	0.668418
+spondyloepimetaphyseal dysplasia	DOID:0080027	2	2	1.000000
+sphingolipidosis	DOID:0001927	2	4	0.710265
+esophageal carcinoma	DOID:0001107	2	2	1.000000
+thyroid cancer	DOID:0001781	2	2	0.668418
+mitral valve disease	DOID:0000061	2	2	0.362636
+infantile epileptic encephalopathy	DOID:0002481	2	3	0.319788
+idiopathic generalized epilepsy	DOID:0001827	2	5	0.025345
+polycystic liver disease	DOID:0050770	2	2	0.568595
+glaucoma	DOID:0001686	2	3	0.737722
+malignant glioma	DOID:0003070	2	2	1.000000
+congenital disorder of glycosylation type I	DOID:0050570	2	2	0.568595
+vesicoureteral reflux	DOID:0009620	2	3	0.920965
+Landau-Kleffner syndrome	DOID:0002538	2	2	1.000000
+congenital structural myopathy	DOID:0000422	2	2	0.804551
+combined T cell and B cell immunodeficiency	DOID:0000628	2	2	1.000000
+bone structure disease	DOID:0080010	2	2	0.442666
+metal metabolism disorder	DOID:0000896	2	2	0.323438
+coenzyme Q10 deficiency disease	DOID:0050730	2	2	1.000000
+phenylketonuria	DOID:0009281	2	2	0.362636
+lipid metabolism disorder	DOID:0003146	2	2	0.214701
+nervous system benign neoplasm	DOID:0060115	2	2	0.862000
+primary immunodeficiency disease	DOID:0000612	2	2	0.178096
+open-angle glaucoma	DOID:0001067	2	3	0.804973
+thyroid gland disease	DOID:0000050	2	2	0.668418
+integumentary system cancer	DOID:0060122	2	2	0.737722
+limb-girdle muscular dystrophy	DOID:0011724	2	2	0.020997
+hepatocellular carcinoma	DOID:0000684	2	2	0.668418
+progressive myoclonus epilepsy	DOID:0000891	2	2	0.737722
+colonic disease	DOID:0005353	2	2	0.955030
+skin cancer	DOID:0004159	2	2	0.737722
+Parkinson's disease	DOID:0014330	2	2	0.376393
+esophageal cancer	DOID:0005041	2	2	1.000000
+craniosynostosis	DOID:0002340	2	2	0.737722
+Dravet Syndrome	DOID:0060171	2	2	1.000000
+pancreatic carcinoma	DOID:0004905	2	2	0.737722
+osteogenesis imperfecta	DOID:0012347	2	2	0.711191
+idiopathic scoliosis	DOID:0060250	2	2	0.442666
+autosomal recessive nonsyndromic deafness	DOID:0050565	2	2	0.000585
+serine deficiency	DOID:0050721	2	2	0.718125
+megacolon	DOID:0011372	2	2	0.955030
+diabetic ketoacidosis	DOID:0001837	2	2	0.711191
+tetralogy of Fallot	DOID:0006419	2	2	0.376393
+hair disease	DOID:0000421	2	4	0.711191
+hypotrichosis	DOID:0004535	2	4	0.711191
+liver carcinoma	DOID:0000686	2	2	0.668418
+brain cancer	DOID:0001319	2	2	1.000000
+Machado-Joseph disease	DOID:0001440	1	1	0.737722
+Townes-Brocks syndrome	DOID:0050887	1	1	0.711191
+myelodysplastic myeloproliferative cancer	DOID:0004972	1	1	1.000000
+sudden infant death syndrome	DOID:0009007	1	1	0.750760
+Huntington's disease	DOID:0012858	1	1	1.000000
+distal arthrogryposis	DOID:0050646	1	1	0.750760
+infratentorial cancer	DOID:0004706	1	1	1.000000
+substance dependence	DOID:0009973	1	1	0.718125
+hypothyroidism	DOID:0001459	1	1	0.668418
+renal agenesis	DOID:0014766	1	1	1.000000
+meningioma	DOID:0003565	1	1	1.000000
+Down syndrome	DOID:0014250	1	1	1.000000
+attention deficit hyperactivity disorder	DOID:0001094	1	1	0.920965
+Aicardi-Goutieres syndrome	DOID:0050629	1	1	0.718125
+multiple sclerosis	DOID:0002377	1	1	1.000000
+bone marrow disease	DOID:0004961	1	1	0.787323
+prolactinoma	DOID:0005394	1	1	0.711191
+Brown-Vialetto-Van Laere syndrome	DOID:0050694	1	1	0.750760
+reticular dysgenesis	DOID:0060020	1	1	0.568595
+germ cell cancer	DOID:0002994	1	1	1.000000
+persistent mullerian duct syndrome	DOID:0050791	1	1	0.718125
+Bamforth-Lazarus syndrome	DOID:0050655	1	1	0.718125
+Charcot-Marie-Tooth disease intermediate type	DOID:0050543	1	1	0.718125
+follicular thyroid carcinoma	DOID:0003962	1	1	1.000000
+beta-ketothiolase deficiency	DOID:0014723	1	1	0.568595
+spondyloepimetaphyseal dysplasia, Missouri type	DOID:0080030	1	1	0.711191
+congenital adrenal hyperplasia	DOID:0050811	1	1	1.000000
+focal segmental glomerulosclerosis	DOID:0001312	1	1	0.920965
+aniridia	DOID:0012271	1	1	1.000000
+triosephosphate isomerase deficiency	DOID:0050884	1	2	0.668418
+deafness dystonia syndrome	DOID:0050757	1	1	0.737722
+hemorrhagic thrombocythemia	DOID:0002224	1	1	1.000000
+dermatitis	DOID:0002723	1	1	1.000000
+synpolydactyly	DOID:0060242	1	1	0.737722
+Nager acrofacial dysostosis	DOID:0005768	1	1	0.718125
+osteoarthritis	DOID:0008398	1	1	0.718125
+pontocerebellar hypoplasia type 9	DOID:0060278	1	1	0.711191
+glomerulonephritis	DOID:0002921	1	1	0.920965
+pyruvate carboxylase deficiency disease	DOID:0003651	1	1	0.568595
+retinoblastoma	DOID:0000768	1	1	0.718125
+atrial fibrillation	DOID:0060224	1	1	0.376393
+tyrosinemia type I	DOID:0050726	1	1	0.568595
+gangliosidosis GM2	DOID:0003321	1	1	0.718125
+velocardiofacial syndrome	DOID:0012583	1	1	1.000000
+pleuropulmonary blastoma	DOID:0004769	1	1	0.737722
+Gaucher's disease	DOID:0001926	1	1	0.711191
+pulmonary venoocclusive disease	DOID:0005453	1	1	0.718125
+parathyroid gland disease	DOID:0011201	1	2	0.668418
+nephronophthisis	DOID:0012712	1	1	0.313001
+osteopetrosis	DOID:0013533	1	2	0.668418
+iris disease	DOID:0000240	1	1	1.000000
+growth hormone secreting pituitary adenoma	DOID:0006255	1	1	1.000000
+alpha-mannosidosis	DOID:0003413	1	1	0.668418
+metachromatic leukodystrophy	DOID:0010581	1	2	0.711191
+primary pigmented nodular adrenocortical disease	DOID:0060280	1	1	1.000000
+Rett syndrome	DOID:0001206	1	1	1.000000
+hyperparathyroidism	DOID:0013543	1	2	0.668418
+skeletal muscle cancer	DOID:0004043	1	1	1.000000
+nephrosis	DOID:0002527	1	1	0.750760
+Lesch-Nyhan syndrome	DOID:0001919	1	1	0.668418
+PSAT deficiency	DOID:0050723	1	1	0.737722
+dysplastic nevus syndrome	DOID:0010041	1	1	1.000000
+atypical teratoid rhabdoid tumor	DOID:0002129	1	1	0.787323
+papillary thyroid carcinoma	DOID:0003969	1	1	0.668418
+Becker muscular dystrophy	DOID:0009883	1	1	0.718125
+sinoatrial node disease	DOID:0050824	1	1	1.000000
+familial meningioma	DOID:0004586	1	1	1.000000
+testicular cancer	DOID:0002998	1	1	1.000000
+acatalasia	DOID:0002582	1	1	0.568595
+Loeys-Dietz syndrome	DOID:0050466	1	1	1.000000
+oculocutaneous albinism	DOID:0050632	1	2	0.568595
+atelosteogenesis	DOID:0050648	1	1	1.000000
+degeneration of macula and posterior pole	DOID:0002007	1	1	0.021100
+peroxisomal acyl-CoA oxidase deficiency	DOID:0050797	1	1	0.711191
+familial atrial fibrillation	DOID:0050650	1	1	0.376393
+Bowen-Conradi syndrome	DOID:0050684	1	1	0.718125
+gamma-amino butyric acid metabolism disorder	DOID:0060176	1	1	0.668418
+branchiootic syndrome	DOID:0060232	1	1	0.787323
+gangliosidosis	DOID:0002368	1	1	0.750760
+seminoma	DOID:0004440	1	1	1.000000
+inclusion body myositis	DOID:0003429	1	1	1.000000
+polycythemia vera	DOID:0008997	1	1	0.737722
+holoprosencephaly	DOID:0004621	1	2	0.750760
+melanoma	DOID:0001909	1	1	1.000000
+familial hyperlipidemia	DOID:0001168	1	1	0.920965
+pulmonary blastoma	DOID:0004765	1	1	0.737722
+Sertoli cell-only syndrome	DOID:0050457	1	1	1.000000
+oculopharyngeal muscular dystrophy	DOID:0011719	1	1	0.711191
+X-linked nonsyndromic deafness	DOID:0050566	1	1	1.000000
+Brugada syndrome	DOID:0050451	1	1	0.313001
+goiter	DOID:0012176	1	1	0.737722
+movement disease	DOID:0000480	1	1	0.920965
+demyelinating disease	DOID:0003213	1	1	1.000000
+MASA syndrome	DOID:0060246	1	1	0.737722
+sick sinus syndrome	DOID:0013884	1	1	1.000000
+glycogen storage disease IX	DOID:0050594	1	1	0.827678
+pulmonary hypertension	DOID:0006432	1	1	0.787323
+hyperinsulinemic hypoglycemia	DOID:0013317	1	1	0.920965
+adenosine deaminase deficiency	DOID:0005810	1	1	0.568595
+gonadal dysgenesis	DOID:0014447	1	1	0.313001
+factor VIII deficiency	DOID:0012134	1	1	0.718125
+Joubert syndrome	DOID:0050777	1	1	0.087720
+infantile cerebellar-retinal degeneration	DOID:0050883	1	1	0.711191
+cutis laxa	DOID:0003144	1	4	0.750760
+parasitic protozoa infectious disease	DOID:0002789	1	1	0.471376
+Creutzfeldt-Jakob disease	DOID:0011949	1	1	1.000000
+congenital muscular dystrophy	DOID:0050557	1	2	0.035597
+essential tremor	DOID:0004990	1	1	0.787323
+Usher syndrome	DOID:0050439	1	1	0.668418
+age related macular degeneration	DOID:0010871	1	1	0.021100
+uterine fibroid	DOID:0013223	1	1	0.718125
+skin melanoma	DOID:0008923	1	1	0.750760
+restrictive cardiomyopathy	DOID:0000397	1	1	1.000000
+amyotrophic lateral sclerosis type 14	DOID:0060205	1	1	0.711191
+non-Hodgkin lymphoma	DOID:0060060	1	1	0.471376
+musculoskeletal system cancer	DOID:0060100	1	1	0.376393
+malignant mesothelioma	DOID:0001790	1	1	0.827678
+myeloma	DOID:0070004	1	2	0.750760
+basal cell carcinoma	DOID:0002513	1	1	1.000000
+hemorrhagic disease	DOID:0002213	1	1	0.920965
+CEDNIK syndrome	DOID:0060337	1	1	0.668418
+testicular germ cell cancer	DOID:0005557	1	1	1.000000
+glycogen storage disease V	DOID:0002746	1	1	0.668418
+Roberts syndrome	DOID:0005325	1	1	0.568595
+Alport syndrome	DOID:0010983	1	1	0.737722
+intestinal obstruction	DOID:0008437	1	1	1.000000
+fructose-1,6-bisphosphatase deficiency	DOID:0005204	1	1	0.568595
+endocrine organ benign neoplasm	DOID:0060089	1	3	1.000000
+Ogden syndrome	DOID:0050781	1	1	0.750760
+glomerulosclerosis	DOID:0050851	1	1	0.920965
+substance-related disorder	DOID:0000303	1	1	0.718125
+amyotrophic lateral sclerosis type 10	DOID:0060201	1	1	0.711191
+hyperlysinemia	DOID:0009274	1	1	0.668418
+thrombocytopenia	DOID:0001588	1	1	0.920965
+adrenal gland disease	DOID:0009553	1	1	0.750760
+amyotrophic lateral sclerosis type 6	DOID:0060198	1	1	0.718125
+cardiofaciocutaneous syndrome	DOID:0060233	1	2	1.000000
+coloboma of optic nerve	DOID:0011975	1	1	0.718125
+macular degeneration	DOID:0004448	1	1	0.004247
+anauxetic dysplasia	DOID:0050640	1	1	0.718125
+striatonigral degeneration	DOID:0004751	1	1	0.750760
+skin carcinoma	DOID:0003451	1	1	1.000000
+alcohol dependence	DOID:0050741	1	1	0.920965
+distal muscular dystrophy	DOID:0011720	1	1	0.920965
+glycogen storage disease XV	DOID:0050579	1	1	0.668418
+N syndrome	DOID:0050769	1	1	0.568595
+sensory system cancer	DOID:0060116	1	1	0.737722
+Riley-Day syndrome	DOID:0011589	1	1	0.668418
+Bjornstad syndrome	DOID:0050677	1	1	0.750760
+muscular dystrophy-dystroglycanopathy	DOID:0050588	1	2	0.196626
+pontocerebellar hypoplasia type 1B	DOID:0060266	1	1	0.711191
+juvenile rheumatoid arthritis	DOID:0000676	1	1	0.750760
+glycogen storage disease III	DOID:0002748	1	1	0.668418
+neurofibromatosis	DOID:0008712	1	1	0.787323
+tyrosinemia type III	DOID:0050727	1	1	0.568595
+gyrate atrophy	DOID:0001415	1	1	0.668418
+neuronal ceroid lipofuscinosis	DOID:0014503	1	3	0.750760
+nephritis	DOID:0010952	1	1	0.920965
+functioning pituitary adenoma	DOID:0005395	1	3	1.000000
+Charcot-Marie-Tooth disease type 4	DOID:0050541	1	1	0.568595
+xanthinuria	DOID:0060236	1	1	0.568595
+PHGDH deficiency	DOID:0050722	1	1	0.711191
+mevalonic aciduria	DOID:0050452	1	1	0.711191
+CHARGE syndrome	DOID:0050834	1	1	0.750760
+ovarian disease	DOID:0001100	1	1	0.254183
+SC phocomelia syndrome	DOID:0050536	1	1	0.568595
+adrenal cortex disease	DOID:0003952	1	1	0.750760
+Proteus syndrome	DOID:0013482	1	1	0.711191
+agammaglobulinemia	DOID:0002583	1	1	0.161500
+bloom syndrome	DOID:0002717	1	1	0.737722
+lymphoma	DOID:0060058	1	1	0.472412
+Dandy-Walker syndrome	DOID:0002785	1	1	0.750760
+metabolic syndrome X	DOID:0014221	1	1	0.920965
+juvenile myelomonocytic leukemia	DOID:0050458	1	1	1.000000
+visual pathway disease	DOID:0001393	1	1	0.718125
+autosomal dominant nonsyndromic deafness	DOID:0050564	1	1	0.007436
+atrioventricular septal defect	DOID:0050651	1	2	0.668418
+3MC syndrome	DOID:0060225	1	1	0.750760
+nephrotic syndrome	DOID:0001184	1	1	0.750760
+asphyxiating thoracic dystrophy	DOID:0050592	1	1	0.750760
+orofacial cleft	DOID:0050567	1	1	0.718125
+hemochromatosis	DOID:0002352	1	1	0.750760
+polycythemia	DOID:0008432	1	1	0.737722
+ACTH-secreting pituitary adenoma	DOID:0007004	1	1	0.737722
+mitochondrial complex V (ATP synthase) deficiency, nuclear type 1	DOID:0050768	1	1	0.711191
+amyotrophic lateral sclerosis type 17	DOID:0060208	1	1	0.718125
+ocular cancer	DOID:0002174	1	1	0.737722
+syndactyly	DOID:0011193	1	1	0.750760
+glycogen storage disease IV	DOID:0002750	1	1	0.718125
+pseudohypoparathyroidism	DOID:0004184	1	1	1.000000
+Antley-Bixler syndrome	DOID:0050462	1	2	0.787323
+bone remodeling disease	DOID:0080005	1	2	0.005823
+pituitary adenoma	DOID:0003829	1	3	1.000000
+periventricular nodular heterotopia	DOID:0050454	1	2	1.000000
+muscle cancer	DOID:0004045	1	1	1.000000
+Rubinstein-Taybi syndrome	DOID:0001933	1	2	0.787323
+multinodular goiter	DOID:0050489	1	1	0.737722
+Ohdo syndrome	DOID:0060289	1	2	1.000000
+thoracic aortic aneurysm	DOID:0014004	1	1	1.000000
+sex differentiation disease	DOID:0001923	1	1	0.718125
+atopic dermatitis	DOID:0003310	1	1	1.000000
+blood coagulation disease	DOID:0001247	1	1	0.196626
+Arts syndrome	DOID:0050647	1	1	0.718125
+cleidocranial dysplasia	DOID:0013994	1	1	0.750760
+multiple system atrophy	DOID:0004752	1	1	1.000000
+intestinal pseudo-obstruction	DOID:0003878	1	1	1.000000
+blood platelet disease	DOID:0002218	1	1	0.920965
+Fabry disease	DOID:0014499	1	1	0.668418
+Goldenhar syndrome	DOID:0002907	1	1	0.668418
+myositis	DOID:0000633	1	2	1.000000
+parasitic infectious disease	DOID:0001398	1	1	0.471376
+female reproductive system disease	DOID:0000229	1	1	0.254183
+adrenoleukodystrophy	DOID:0010588	1	1	1.000000
+ciliopathy	DOID:0060340	1	2	0.000031
+megaloblastic anemia	DOID:0013382	1	1	0.737722
+cervix carcinoma	DOID:0002893	1	1	1.000000
+abdominal aortic aneurysm	DOID:0007693	1	1	0.787323
+maturity-onset diabetes of the young	DOID:0050524	1	3	0.376393
+retinal cancer	DOID:0004645	1	1	0.718125
+Pelger-Huet anomaly	DOID:0009631	1	1	0.711191
+medulloblastoma	DOID:0050902	1	1	1.000000
+Meckel syndrome	DOID:0050778	1	1	0.474236
+Costello syndrome	DOID:0050469	1	1	0.718125
+systemic primary carnitine deficiency disease	DOID:0014365	1	1	0.718125
+Sandhoff disease	DOID:0003323	1	1	0.568595
+uterine benign neoplasm	DOID:0060095	1	1	0.718125
+cervical cancer	DOID:0004362	1	1	1.000000
+Jensen syndrome	DOID:0050867	1	1	0.737722
+disease by infectious agent	DOID:0050117	1	1	0.021166
+tyrosinemia type II	DOID:0050725	1	1	0.568595
+parathyroid carcinoma	DOID:0001540	1	1	0.711191
+choroid disease	DOID:0001417	1	1	0.668418
+familial encephalopathy with neuroserpin inclusion bodies	DOID:0050831	1	1	0.668418
+reproductive organ benign neoplasm	DOID:0050622	1	1	0.718125
+chronic myeloproliferative disease	DOID:0002226	1	1	1.000000
+Kallmann syndrome	DOID:0003614	1	2	0.668418
+scapuloperoneal myopathy	DOID:0060253	1	1	1.000000
+pseudohermaphroditism	DOID:0003765	1	1	0.718125
+rheumatoid arthritis	DOID:0007148	1	1	0.196626
+cerebellar disease	DOID:0002786	1	1	0.750760
+trilateral retinoblastoma	DOID:0004647	1	1	0.718125
+Stargardt disease	DOID:0050817	1	1	0.718125
+ileus	DOID:0008440	1	1	1.000000
+nevoid basal cell carcinoma syndrome	DOID:0002512	1	1	1.000000
+alveolar soft part sarcoma	DOID:0004239	1	1	0.718125
+pyridoxine-refractory autosomal recessive sideroblastic anemia	DOID:0060065	1	1	0.750760
+isovaleric acidemia	DOID:0014753	1	1	0.568595
+thrombocytopenia-absent radius syndrome	DOID:0014699	1	1	0.737722
+premature ovarian failure	DOID:0005426	1	1	0.254183
+prion disease	DOID:0000649	1	1	1.000000
+steroid inherited metabolic disorder	DOID:0001701	1	1	0.920965
+L-2-hydroxyglutaric aciduria	DOID:0050574	1	1	0.711191
+osteosclerosis	DOID:0004254	1	2	0.115710
+Weill-Marchesani syndrome	DOID:0050475	1	1	1.000000
+systemic lupus erythematosus	DOID:0009074	1	1	0.090246
+Fanconi's anemia	DOID:0013636	1	1	0.376393
+female reproductive organ benign neoplasm	DOID:0060086	1	1	0.718125
+Marfan syndrome	DOID:0014323	1	1	1.000000
+common variable immunodeficiency	DOID:0012177	1	1	0.668418
+malaria	DOID:0012365	1	1	0.471376
+Duchenne muscular dystrophy	DOID:0011723	1	1	0.718125
+Baraitser-Winter syndrome	DOID:0060229	1	1	0.750760
+46 XY gonadal dysgenesis	DOID:0014448	1	1	0.568595
+mitochondrial complex V (ATP synthase) deficiency nuclear type 4	DOID:0060333	1	1	0.750760
+familial hypercholesterolemia	DOID:0013810	1	1	1.000000
+pontocerebellar hypoplasia type 2E	DOID:0060271	1	1	0.711191
+retinal cell cancer	DOID:0000771	1	1	0.718125
+brachydactyly	DOID:0050581	1	2	0.750760
+inclusion body myopathy with Paget disease of bone and frontotemporal dementia	DOID:0050881	1	1	0.827678
+GABA aminotransferase deficiency	DOID:0060174	1	1	0.668418
+macrocytic anemia	DOID:0002361	1	1	0.737722
+myelofibrosis	DOID:0004971	1	1	1.000000
+sideroblastic anemia	DOID:0008955	1	1	1.000000

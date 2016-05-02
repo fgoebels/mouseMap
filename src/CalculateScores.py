@@ -6,22 +6,14 @@ import sys
 import os, math, copy, inspect
 
 def main():
-	(elutionF, ontoF, gene_ass_F, ppiF, outF) = sys.argv[1:]
+	(elutionF, outF) = sys.argv[1:]
 	
-	elutionData, toPred = calcS.loadEData(elutionF)
-	
-	toPredPPIs = []
-	ppiFH = open(ppiF)
-	for line in ppiFH:
-		line = line.rstrip()
-		protA, protB = line.split("\t")
-		toPredPPIs.append((protA, protB, "?"))
+	elutionData, scoreCalc = calcS.loadEData(elutionF)
 
-	toPred.calculate2DScores(toPredPPIs)
-	out = toPred.toTable(False)
+	scoreCalc.calculateAllPairs([calcS.MutualInformation(2)])
 
 	outFH = open(outF, "w")
-	print >> outFH, out
+	outFH.write(scoreCalc.toTable(False))
 	outFH.close()
 
 if __name__ == "__main__":

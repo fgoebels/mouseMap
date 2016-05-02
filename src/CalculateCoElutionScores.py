@@ -4,6 +4,7 @@ import numpy as np
 import scipy.stats
 import utils 
 import sys
+import math
 import MDAnalysis.analysis.psa
 import rpy2.robjects as robjects
 import rpy2.robjects.packages as rpackages
@@ -11,6 +12,8 @@ from scipy.spatial import distance
 import itertools
 import operator
 import copy
+from sklearn import cross_validation
+from sklearn.cross_validation import StratifiedKFold
 from collections import defaultdict
 from sklearn.metrics import precision_recall_curve, roc_curve, average_precision_score, roc_auc_score, precision_recall_fscore_support
 from sklearn.cross_validation import train_test_split, cross_val_predict
@@ -19,6 +22,10 @@ from sklearn.ensemble import RandomForestClassifier
 import matplotlib.pyplot as plt
 import inspect
 import os
+from sklearn import svm
+from sklearn import datasets
+from sklearn import metrics
+import random
 
 subfldr = os.path.realpath(os.path.abspath(os.path.join(os.path.split(inspect.getfile( inspect.currentframe() ))[0],"TCSS")))
 sys.path.append(subfldr)
@@ -127,6 +134,13 @@ class ElutionData():
 		self.elutionMat =  self.elutionMat[:, fracs]
 		self.normedElutionMat =  self.normedElutionMat[:, fracs]
 
+	def printMat(self, mat):
+		out = "ProtiID\tFraction_" + "\tFracion_".join(map(str, range(1,240)))
+		for prot in self.prot2Index:
+			index = self.prot2Index[prot]
+			out += "\n%s\t%s" %  (prot, "\t".join(map(str,self.normedElutionMat[index])))
+		return out
+
 def arr_norm(arr, axis=0):
     """
     axis=0: normalize each column; 1: normalize each row
@@ -145,9 +159,12 @@ def normalize_fracs(arr, norm_rows=True, norm_cols=True):
 
 class GOSim(object):
 
+	objs = "" 
+	
 	def __init__(self, onto_F, gene_anno_F):
 		self.name = ["Sim_CC", "Sim_BP", "Sim_MF"]
-		self.objs = load_semantic_similarity(onto_F, gene_anno_F, "C:2.4,P:3.5,F:3.3", "")
+#		if GOSim.objs == "":
+#			GOSim.objs = load_semantic_similarity(onto_F, gene_anno_F, "C:2.4,P:3.5,F:3.3", "")
 
 	def getScores(self, a, b, elutionData):
 		return (a,b)
@@ -156,7 +173,7 @@ class GOSim(object):
 		out = []
 		domain_def = {'C':'Cellular Component', 'P':'Biological Process', 'F':'Molecular Function'}
 		for domain in domain_def:
-			score = self.objs[domain]._semantic_similarity(a, b)[0]
+			score = GOSim.objs[domain]._semantic_similarity(a, b)[0]
 			if score is None: score = 0
 			out.append(score)
 		return out
@@ -237,6 +254,50 @@ def traver_corr(mat, repeat=10, norm='columns', verbose=True):
 	return avg_result
 
 
+class MutualInformation():
+	def __init__(self, minCounts = 2):
+		self.name="MI"
+		self.minCounts = minCounts
+	
+	def getScores(self, a, b, elutionData):
+		return (elutionData.getElution(a), elutionData.getElution(b))
+
+	def calculateScore(self, a, b):
+		numFracs = len(a)
+		(a_upper, b_upper, a_b_upper, a_lower, b_lower, a_b_lower) = map(len, self.getallFracs(a,b,self.minCounts))
+		
+		a_b_score = self.mi_helper_all([a_upper&b_upper, a_upper&b_lower, a_lower&b_upper, a_lower&b_lower])
+		a_score = self.mi_helper_all([a_upper, a_lower])
+		b_score = self.mi_helper_all([b_upper, b_lower])
+		mutual_information = math.log(numFracs,2) + 1/numFracs*( a_b_score - a_score - b_score)
+		return mutual_information
+
+	def mi_helper_all(self, counts):
+		return sum(map( self.mi_helper, counts))
+
+	def mi_helper(self, a):
+		if a == 0:
+			return(0)
+		else:
+			return(a*math.log(a,2))
+
+	def getallFracs(self, a, b, cutoff):
+		out = []
+		out.extend(self.getFracs(a,b,"u", cutoff))
+		out.extend(self.getFracs(a,b,"l",cutoff))
+		return out
+
+	def getFracs_helper(self, a, case, cutoff):
+		if case == "u":
+			return a > cutoff
+		else:
+			return a <= cutoff
+
+	def getFracs(self, a, b, case, cutoff):
+		a_Fracs = set([i for i,v in enumerate(a) if self.getFracs_helper(v, case, cutoff)])
+		b_Fracs = set([i for i,v in enumerate(b) if self.getFracs_helper(v, case, cutoff)])
+		a_b_Fracs = a_Fracs & b_Fracs
+		return (a_Fracs, b_Fracs, a_b_Fracs)
 
 class Jaccard():
         def __init__(self):
@@ -312,6 +373,8 @@ class Pearson:
 
 
 	def calculateScore(self, a,b):
+		score = scipy.stats.pearsonr(a, b)[0]
+		if math.isnan(score): return 0.0
 		return scipy.stats.pearsonr(a, b)[0]
 class Euclidiean:
 	def __init__(self):
@@ -349,9 +412,20 @@ class CalculateCoElutionScores():
 		self.scores = {}
 		self.header = ["ProtA","ProtB"]
 		self.oneDscores = [Poisson(), Pearson(), Wcc(), Apex(), Jaccard(), Euclidiean()]
-#		self.twoDscores = [Euclidiean(), Pearson(), Apex(), Jaccard()] 
+#		self.twoDscores = [Euclidiean()] 
 		self.twoDscores = [Pearson(), Wcc(), Apex(), Jaccard(), Euclidiean(), Herdin(), MatrixNorms(), GOSim("src/TCSS/gene_ontology.obo.txt", "Yeast/data/gene_association.tab")]
 		
+	def mergeScoreCalc(self, toMerge):
+		numFeature_in_merge = len(toMerge.scores[toMerge.scores.keys()[0]])
+		numFeature_in_self = len(self.scores[self.scores.keys()[0]])
+		for edge in toMerge.scores:
+			if edge in self.scores:
+				self.scores[edge] = np.append(self.scores[edge], toMerge.scores[edge])
+			else:
+				self.scores[edge] = np.append(np.array([0]*numFeature_in_self), toMerge.scores[edge])
+		for edge in self.scores:
+			if edge not in toMerge.scores:
+				self.scores[edge] = np.append(self.scores[edge], np.array([0]*numFeature_in_merge))
 
 	def getAllPairs(self):
 		allprots = self.elutionData.prot2Index.keys()
@@ -385,11 +459,11 @@ class CalculateCoElutionScores():
 		for scoreType in scoreTypes:
 			self.header = np.append(self.header, scoreType.name)
 		for protA, protB, label in PPIs:
-			if not self.elutionData.hasProt(protA): continue
-			if not self.elutionData.hasProt(protB): continue
 			if (protA, protB, label) not in self.scores: self.scores[(protA, protB, label)] = []
+			if not self.elutionData.hasProt(protA) or not self.elutionData.hasProt(protB):
+				self.scores[(protA, protB, label)] = np.append(self.scores[(protA, protB, label)], 0)
+				continue
 			for scoreType in scoreTypes:
-#				print "Calculating %s scores" % (scoreType.name)
 				profileA, profileB = scoreType.getScores(protA, protB, self.elutionData)
 				self.scores[(protA, protB, label)] = np.append(self.scores[(protA, protB, label)], scoreType.calculateScore(profileA, profileB))
 
@@ -422,31 +496,42 @@ class CalculateCoElutionScores():
 			if label == "negative": targets.append(0)
 			if label == "?": targets.append("?")
 			data.append(self.scores[(idA, idB, label)])
-		return np.array(data), np.array(targets)
+		return np.nan_to_num(np.array(data)), np.array(targets)
 
-class RandomForest:
+class CLF_Wrapper:
 	def __init__(self, data, targets):
 		self.data = data
 		self.targets = targets #label_binarize(targets, classes=[0, 1])
-		self.rfc = RandomForestClassifier(n_estimators=100)
-		self.rfc.fit(data, targets)
+		self.clf = svm.SVC(kernel="linear", probability=True)
+#		self.clf = RandomForestClassifier(n_estimators=100)
+		self.clf.fit(data, targets)
 		
 	def kFoldCV(self, folds=10):
-		return cross_val_predict(self.rfc, self.data, self.targets, cv=10)
+		folds = StratifiedKFold(self.targets, folds)
+		return cross_val_predict(self.clf, self.data, self.targets, cv=folds)
 
 	def getValScores(self, folds=10):
+#		return cross_validation.cross_val_score(self.clf, self.data, self.targets, cv=10, scoring='f1')
 		preds = self.kFoldCV(folds)
-		precision, recall, fmeasure = precision_recall_fscore_support(self.targets, preds, pos_label= 1, average='binary')[:3]
+		precision = metrics.precision_score(self.targets, preds, average=None)[1]
+		recall = metrics.recall_score(self.targets, preds, average=None)[1]
+		fmeasure = metrics.f1_score(self.targets, preds, average=None)[1]
 		auc_pr = average_precision_score(self.targets, preds)
 		auc_roc = roc_auc_score(self.targets, preds) 
 		return [precision, recall, fmeasure, auc_pr, auc_roc]
 
 	def getPRcurve(self, folds=10):
-		preds = self.kFoldCV(folds)
-		return precision_recall_curve(self.targets, preds)
+		all_probas = []
+		all_targets = []
+		for train, test in StratifiedKFold(self.targets, folds):
+			probas = self.clf.fit(self.data[train], self.targets[train]).predict_proba(self.data[test])
+			all_probas.extend(probas[:,1]) # make sure that 1 is positive class in binarizied class vector
+			all_targets.extend(self.targets[test])
+		return precision_recall_curve(all_targets, all_probas)
+#		return roc_curve(all_targets, all_probas)
 	
 	def predict(self, toPred):
-		return self.rfc.predict_proba(toPred)
+		return self.clf.predict_proba(toPred)
 
 def loadScoreData(scoreF, refF):
 	dataRef, headerRef = readTable(refF)
@@ -487,22 +572,32 @@ def loadEData(elutionProfileF):
 	return elutionData, scoreCalc
 
 def loadData(goldstandardF, elutionProfileF):
-	reference = readGoldStandard(goldstandardF)
 	elutionData, scoreCalc = loadEData(elutionProfileF)
+	reference = readGoldStandard(goldstandardF, elutionData)
 	return reference, elutionData, scoreCalc
 
-def trainML(scoreCalc):
-	data, targets = scoreCalc.toSklearnData()
-	clf = RandomForest(data, targets)
-	return clf
-
-def readGoldStandard(refF):
+def readGoldStandard(refF, elutionData, ratio=5):
+	positive = set([])
+	negative = set([])
+	protsWithElutionProfile = set([])
+	for data in elutionData:
+		protsWithElutionProfile = protsWithElutionProfile | set(data.prot2Index.keys())
+	print len(protsWithElutionProfile)
 	reference = set([])
 	goldstandardFH = open(refF)
 	for line in goldstandardFH:
 		line = line.rstrip()
-		(idA, idB, label) = line.split("\t")
-		reference.add((idA, idB, label))
+		(tmpidA, tmpidB, label) = line.split("\t")
+		if tmpidA not in protsWithElutionProfile or tmpidB not in protsWithElutionProfile: continue
+		idA, idB = sorted([tmpidA, tmpidB])
+		if label == "positive": positive.add((idA, idB, label))
+		if label == "negative": negative.add((idA, idB, label))
+
+	if len(positive)*ratio>len(negative):
+		print "Warning: not enough negative data points in reference to create desired ratio"
+		return positive | negative
+	
+	reference = positive | set(random.sample(negative, len(positive)*ratio))
 	return reference
 
 
@@ -519,7 +614,7 @@ def benchMarkFracSize(elutionProfileF, goldstandardF, size, runs, outF):
 		numPPIs =  scoreCalc.calculateAllPairs()
 		scoreCalc.calculateBenchmarkScore(reference)
 		data, targets = scoreCalc.toSklearnData()
-		clf = RandomForest(data, targets)
+		clf = CLF_Wrapper(data, targets)
 		scores =  clf.getValScores()
 		print >> outFH, "%i\t%i\t%s\t%s" % (size, numPPIs, ",".join(map(str, fractions)), "\t".join(map(str, scores)))
 	outFH.close()
@@ -531,9 +626,9 @@ def getPRcurve(elutionData, reference, score):
 	else:
 		scoreCalc.calculateAllScores(score, reference)
 	data, targets = scoreCalc.toSklearnData()
-	clf = RandomForest(data, targets)
+	clf = CLF_Wrapper(data, targets)
 	precision, recall, _ =  clf.getPRcurve()
-	return precision, recall
+	return score.name, precision, recall
 
 def plotPRcurve(prcurves, outF):
 	plt.clf()
@@ -585,13 +680,53 @@ def benchmarkOneProfile(elutionProfileF, expType, goldstandardF, outF):
 		scoreCalc.calculate1DScores(reference)
 	print "Done calc features"
 	data, targets = scoreCalc.toSklearnData()
-	clf = RandomForest(data, targets)
+	clf = CLF_Wrapper(data, targets)
 	scores =  clf.getValScores()
 	print scores
 
 def main():
-	(elutionProfilesF, outF) = sys.argv[1:]
-	benchamrkElutionProfiels(elutionProfilesF, outF)
+	refF, elutionFiles = sys.argv[1:]
+	elutionFH = open(elutionFiles)
+	scoreCals = []
+	elutionDatas = []
+	
+	for elutionFile in elutionFH:
+		elutionFile = elutionFile.rstrip()
+		elutionData = ElutionData(elutionFile)
+		elutionDatas.append(elutionData)
+
+	reference = readGoldStandard(refF, elutionDatas)
+	out = []
+	global_all_scoreCalc = []
+	for score in [Euclidiean(), Pearson(), Wcc(), Apex(), Jaccard(), MutualInformation(2)]:#[Euclidiean(), Pearson(), Wcc(), Apex(), Jaccard(), MutualInformation(2)]:	
+		for elutionD in elutionDatas:
+			scoreCalc = CalculateCoElutionScores(elutionD)
+			scoreCalc.calculateAllScores([score], reference)
+			scoreCals.append(scoreCalc)
+			global_all_scoreCalc.append(scoreCalc)
+		all_scoreCalc = scoreCals[0]
+		for i in range(1,len(scoreCals)):
+			all_scoreCalc.mergeScoreCalc(scoreCals[i])
+		data, targets = all_scoreCalc.toSklearnData()
+#		print all_scoreCalc.toTable()
+#		sys.exit()
+		clf = CLF_Wrapper(data, targets)
+		print clf.getValScores()
+		precision, recall, _ =  clf.getPRcurve()
+		out.append((score.name, precision, recall))
+		scoreCals = []
+	all_scoreCalc = global_all_scoreCalc[0]
+	for i in range(1, len(global_all_scoreCalc)):
+		all_scoreCalc.mergeScoreCalc(global_all_scoreCalc[i])
+
+	data, targets = all_scoreCalc.toSklearnData()	
+	clf = CLF_Wrapper(data, targets)
+	print clf.getValScores()
+	precision, recall, _ =  clf.getPRcurve()
+	out.append(("combined", precision, recall))
+
+	plotPRcurve(out, "test/test.pdf")
+	
 
 if __name__ == "__main__":
         try:

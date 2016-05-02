@@ -1,0 +1,5 @@
+data/C_ELEGANS/MS2/Ce_BNF.prot_count_uniqpeps_FDR0010
+data/C_ELEGANS/MS2/Ce_CRF.prot_count_uniqpeps_FDR0010
+data/C_ELEGANS/MS2/Ce_all_0208.prot_count_uniqpeps_FDR0010
+data/C_ELEGANS/MS2/Ce_all_0427.prot_count_uniqpeps_FDR0010
+data/C_ELEGANS/MS2/Ce_all_0628.prot_count_uniqpeps_FDR0010
