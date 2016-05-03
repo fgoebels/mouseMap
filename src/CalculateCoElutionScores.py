@@ -499,11 +499,13 @@ class CalculateCoElutionScores():
 		return np.nan_to_num(np.array(data)), np.array(targets)
 
 class CLF_Wrapper:
-	def __init__(self, data, targets):
+	def __init__(self, data, targets, forest=False):
 		self.data = data
 		self.targets = targets #label_binarize(targets, classes=[0, 1])
-		self.clf = svm.SVC(kernel="linear", probability=True)
-#		self.clf = RandomForestClassifier(n_estimators=100)
+		if forest:
+			self.clf = RandomForestClassifier(n_estimators=100)
+		else:	
+			self.clf = svm.SVC(kernel="linear", probability=True)
 		self.clf.fit(data, targets)
 		
 	def kFoldCV(self, folds=10):
@@ -573,7 +575,7 @@ def loadEData(elutionProfileF):
 
 def loadData(goldstandardF, elutionProfileF):
 	elutionData, scoreCalc = loadEData(elutionProfileF)
-	reference = readGoldStandard(goldstandardF, elutionData)
+	reference = readGoldStandard(goldstandardF, [elutionData])
 	return reference, elutionData, scoreCalc
 
 def readGoldStandard(refF, elutionData, ratio=5):
@@ -582,7 +584,6 @@ def readGoldStandard(refF, elutionData, ratio=5):
 	protsWithElutionProfile = set([])
 	for data in elutionData:
 		protsWithElutionProfile = protsWithElutionProfile | set(data.prot2Index.keys())
-	print len(protsWithElutionProfile)
 	reference = set([])
 	goldstandardFH = open(refF)
 	for line in goldstandardFH:
@@ -698,7 +699,8 @@ def main():
 	reference = readGoldStandard(refF, elutionDatas)
 	out = []
 	global_all_scoreCalc = []
-	for score in [Euclidiean(), Pearson(), Wcc(), Apex(), Jaccard(), MutualInformation(2)]:#[Euclidiean(), Pearson(), Wcc(), Apex(), Jaccard(), MutualInformation(2)]:	
+#	for score in [Euclidiean(), Pearson(), Wcc(), Apex(), Jaccard(), MutualInformation(2)]:
+	for score in [Pearson(), Poisson()]:
 		for elutionD in elutionDatas:
 			scoreCalc = CalculateCoElutionScores(elutionD)
 			scoreCalc.calculateAllScores([score], reference)
@@ -725,7 +727,7 @@ def main():
 	precision, recall, _ =  clf.getPRcurve()
 	out.append(("combined", precision, recall))
 
-	plotPRcurve(out, "test/test.pdf")
+	plotPRcurve(out, "test/test2.pdf")
 	
 
 if __name__ == "__main__":
