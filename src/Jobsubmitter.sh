@@ -1,5 +1,6 @@
 #!/bin/bash
-for NUM in `seq 1 1 240`;
-do
-submitjob 10 src/CalculateCoElutionScores.py 2D_Worm/Contrast_Celegans_240.sel.sorted.mapped.txt 2D_Worm/Ce_goldstandard.txt $NUM 2D_Worm/$NUM.test.out
-done
+while read l; do
+	for NUM in `seq 1 1 120`; do
+		qsub src/JobSubmit_calcF_scinet.sh -v INPUT="src/GetEntropyPerFrac.py $l data/WORM/Ce_goldstandart.txt $NUM /scratch/g/gbader/fgoebels/window_out/Worm_1D"
+	done
+done < $HOME/mouseMap/data/WORM/Allfracs.txt

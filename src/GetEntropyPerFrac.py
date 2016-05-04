@@ -7,26 +7,22 @@ import sys
 import os, math, copy
 
 def main():
-	(elutionFiles, refF, windowSize, outF) = sys.argv[1:]
-	elutionFilesFH = open(elutionFiles)
+	(elutionF, refF, windowSize, outF) = sys.argv[1:]
 	windowSize = int(windowSize)
 	outData = ['']*3
-	for line in elutionFilesFH:
-		line = line.rstrip()
-		print "processing %s" % (line)
-		reference, elutionData, scoreCalc = calcS.loadData(refF, line)
-		j = 0
-		name = line.split("Ce_")[1].split(".")[0]
-		for resultScore in getFracEvals(elutionData.elutionMat):
-			data_lines = entropyVSprecision(elutionData, reference, resultScore, windowSize)
-			for i in range(len(data_lines)):
-				outData[j] += "\n%s\t%i\t%s" % (name, windowSize, data_lines[i])
-			j += 1
-	elutionFilesFH.close()
+	reference, elutionData, scoreCalc = calcS.loadData(refF, elutionF)
+	j = 0
+	name = elutionF.split("Ce_")[1].split(".")[0]
+	for resultScore in getFracEvals(elutionData.elutionMat):
+		data_lines = entropyVSprecision(elutionData, reference, resultScore, windowSize)
+		for i in range(len(data_lines)):
+			outData[j] += "\n%s\t%i\t%s" % (name, windowSize, data_lines[i])
+		j += 1
 
-	printTable("%s_Entropy_%i.dat" % (outF, windowSize), "Entropy", outData[0])
-	printTable("%s_Prot-prob_%i.dat" % (outF, windowSize), "Prot-prob", outData[1])
-	printTable("%s_Num-prots_%i.dat" % (outF, windowSize), "Num-prots", outData[2])
+	if len(outData[0]) != 0: 
+		printTable("%s_%s_Entropy_%i.dat" % (outF, name, windowSize), "Entropy", outData[0])
+		printTable("%s_%s_Prot-prob_%i.dat" % (outF, name, windowSize), "Prot-prob", outData[1])
+		printTable("%s_%s_Num-prots_%i.dat" % (outF, name, windowSize), "Num-prots", outData[2])
 
 def printTable(outF, Scorename, lines):
 	outFH = open(outF, "w")
