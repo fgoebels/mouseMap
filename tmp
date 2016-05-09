@@ -1,0 +1,8 @@
+regr2.plot(tmp[,1], xlab="Size",
+           tmp[,2],  ylab="Entropy",
+           tmp[,3], zlab="Precision",i
+           resid.plot="square",
+           theta=140, phi=35, r=sqrt(15), ## used only in R
+           box=is.R(),
+           plot.back.planes=FALSE,
+           main="Least-squares with two X-variables")

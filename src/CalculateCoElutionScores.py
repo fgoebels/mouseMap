@@ -35,56 +35,9 @@ from main import load_semantic_similarity, calculate_semantic_similarity
 
 class ElutionData():
 	def __init__(self, elutionProfileF):
-		if type(elutionProfileF) != list: 
-			self.elutionMat, self.prot2Index  = self.loadElutionData(elutionProfileF)
-		elif type(elutionProfileF) == list and len(elutionProfileF)==1:
-			self.elutionMat, self.prot2Index  = self.loadElutionData(elutionProfileF[0])
-		else:
-			self.elutionMat, self.prot2Index  = self.loadMultipleElutionData(elutionProfileF)
+		self.elutionMat, self.prot2Index  = self.loadElutionData(elutionProfileF)
 		self.normedElutionMat = normalize_fracs(self.elutionMat)
 		self.elutionMat = np.array(self.elutionMat)
-
-	def loadMultipleElutionData(self, elutionProfiles):
-		self.elutionMat, self.prot2Index  = self.loadElutionData(elutionProfiles[0])
-		for profileF in elutionProfiles[1:]:
-			self.addElutionData(profileF)
-		return self.elutionMat, self.prot2Index
-
-	def addElutionData(self, toAddProfileF):
-		toAddelutionMat, toAddprot2Index  = self.loadElutionData(toAddProfileF)
-		toAddProts = set(toAddprot2Index.keys())
-		toAddNumFracs = len(toAddelutionMat[0])
-		thisNumFracs = len(self.elutionMat[0])
-		thisProts = set(self.prot2Index.keys())
-		newProt2Index = {}
-		newElutionMat = []
-		i = 0
-		for protID in toAddProts & thisProts:
-			newProt2Index[protID] = i
-			i += 1
-			toAddCounts = list(toAddelutionMat[toAddprot2Index[protID]])
-			thisCounts = list(self.elutionMat[self.prot2Index[protID]])
-			counts = toAddCounts + thisCounts
-			newElutionMat.append(counts)
-
-		def addMissing(missProts, i, eluMat, index, oldIndex, oldElumat, numToAdd, after=True):
-			for prot in missProts:
-				oldCounts = list(oldElumat[oldIndex[prot]])
-				counts = []
-				if after:
-					counts = oldCounts + [0]*numToAdd
-				else:
-					counts = [0]*numToAdd + oldCounts
-				index[prot] = i
-				i = i +1
-				eluMat.append(counts)
-			return eluMat, index
-#		newElutionMat, newProt2Index = addMissing(thisProts-toAddProts, i, newElutionMat, newProt2Index, self.prot2Index, self.elutionMat, toAddNumFracs)
-#		newElutionMat, newProt2Index = addMissing(toAddProts-thisProts, i, newElutionMat, newProt2Index, toAddprot2Index, toAddelutionMat, thisNumFracs, after=False)
-		
-		self.prot2Index = newProt2Index
-		self.elutionMat = np.array(newElutionMat)
-
 
 	def loadElutionData(self, elutionProfileF):
 		elutionProfileFH = open(elutionProfileF)
@@ -124,6 +77,9 @@ class ElutionData():
 
 	def hasProt(self, prot):
 		return prot in self.prot2Index
+
+	def getProtIndex(self, prot):
+		return self.prot2Index[prot]
 
 	def getRandomSubSet(self, size):
 		fractions = np.random.choice(range(np.shape(self.elutionMat)[1]), size, replace=False)
@@ -220,15 +176,40 @@ class Wcc:
 		return r_wcc(robjects.FloatVector(a), robjects.FloatVector(b), 20)[0]
 
 class Poisson:
-	def __init__(self):
-		self.name="poisson"
+	def __init__(self, repeat=100):
+		self.name="poisson-%i" % (repeat)
+		self.repeat=repeat
+		self.noiseMats = []
 
 	def getScores(self, a, b, elutionData):
-		return (elutionData.getElution(a), elutionData.getElution(b))
-
+		if len(self.noiseMats)> 0 and elutionData.elutionMat.shape != self.noiseMats[0].shape:
+			self.noiseMats = []
+		
+		if len(self.noiseMats)<self.repeat:
+			for i in range(self.repeat):
+				self.noiseMats.append(self.makenoisyMat(elutionData.elutionMat))
+		return (elutionData.getProtIndex(a), elutionData.getProtIndex(b))
+		
 
 	def calculateScore(self, a,b):
-		return traver_corr(np.asmatrix([a,b]), verbose=False)[0][1]
+		out = []
+		for mat in self.noiseMats:
+			profile_a = mat[a].getA1()
+			profile_b = mat[b].getA1()
+			mat_correlation = scipy.stats.pearsonr(profile_a, profile_b)[0]
+			out.append(mat_correlation)
+		return sum(out)/len(out)
+#		return traver_corr(np.asmatrix([a,b]), verbose=False)[0][1]
+
+	def makenoisyMat(self, mat):
+		M = mat.shape[1]
+		C = mat + 1/M
+		poisson_mat = np.matrix(np.zeros(C.shape))
+		for i in range(C.shape[0]):
+			for j in range(M):
+				poisson_mat[i,j] = np.random.poisson(C[i,j])
+		poisson_mat = np.nan_to_num(poisson_mat / np.sum(poisson_mat, 0))
+		return poisson_mat
 
 def traver_corr(mat, repeat=10, norm='columns', verbose=True):
 # As described in supplementary information in paper.
@@ -264,40 +245,28 @@ class MutualInformation():
 
 	def calculateScore(self, a, b):
 		numFracs = len(a)
-		(a_upper, b_upper, a_b_upper, a_lower, b_lower, a_b_lower) = map(len, self.getallFracs(a,b,self.minCounts))
-		
-		a_b_score = self.mi_helper_all([a_upper&b_upper, a_upper&b_lower, a_lower&b_upper, a_lower&b_lower])
-		a_score = self.mi_helper_all([a_upper, a_lower])
-		b_score = self.mi_helper_all([b_upper, b_lower])
-		mutual_information = math.log(numFracs,2) + 1/numFracs*( a_b_score - a_score - b_score)
+		(a_upper, a_lower) = self.getFracs(a, self.minCounts)
+		(b_upper, b_lower) = self.getFracs(b, self.minCounts)
+		entropy_a = self.bin_entropy(len(a_upper)/numFracs)
+		entropy_b = self.bin_entropy(len(b_upper)/numFracs)
+		joint_probs = np.array(map(lambda x: len(x)/numFracs, [a_upper&b_upper, a_upper&b_lower, a_lower&b_upper, a_lower&b_lower]))
+		joint_entropy_a_b = self.entropy(joint_probs, 2)
+		mutual_information =  entropy_a  + entropy_b - joint_entropy_a_b
 		return mutual_information
 
-	def mi_helper_all(self, counts):
-		return sum(map( self.mi_helper, counts))
+	def bin_entropy(self, p):
+		return self.entropy(np.array([p,1-p]))
 
-	def mi_helper(self, a):
-		if a == 0:
-			return(0)
-		else:
-			return(a*math.log(a,2))
+	def entropy(self, probs, base=0):
+		if base ==0: base = len(probs)
+		tmp_probs = probs
+		tmp_probs[tmp_probs==0] = 1
+		return -sum(probs*map(lambda x: math.log(x,base), tmp_probs))
 
-	def getallFracs(self, a, b, cutoff):
-		out = []
-		out.extend(self.getFracs(a,b,"u", cutoff))
-		out.extend(self.getFracs(a,b,"l",cutoff))
-		return out
-
-	def getFracs_helper(self, a, case, cutoff):
-		if case == "u":
-			return a > cutoff
-		else:
-			return a <= cutoff
-
-	def getFracs(self, a, b, case, cutoff):
-		a_Fracs = set([i for i,v in enumerate(a) if self.getFracs_helper(v, case, cutoff)])
-		b_Fracs = set([i for i,v in enumerate(b) if self.getFracs_helper(v, case, cutoff)])
-		a_b_Fracs = a_Fracs & b_Fracs
-		return (a_Fracs, b_Fracs, a_b_Fracs)
+	def getFracs(self, a, cutoff):
+		upper = set([i for i,v in enumerate(a) if v > cutoff])
+		lower = set([i for i,v in enumerate(a) if v <= cutoff])
+		return (upper, lower)
 
 class Jaccard():
         def __init__(self):
@@ -700,7 +669,7 @@ def main():
 	out = []
 	global_all_scoreCalc = []
 #	for score in [Euclidiean(), Pearson(), Wcc(), Apex(), Jaccard(), MutualInformation(2)]:
-	for score in [Pearson(), Poisson()]:
+	for score in [MutualInformation(2), Euclidiean(), Pearson(), Wcc(), Apex(), Jaccard(), Poisson(10)]:
 		for elutionD in elutionDatas:
 			scoreCalc = CalculateCoElutionScores(elutionD)
 			scoreCalc.calculateAllScores([score], reference)
@@ -710,8 +679,6 @@ def main():
 		for i in range(1,len(scoreCals)):
 			all_scoreCalc.mergeScoreCalc(scoreCals[i])
 		data, targets = all_scoreCalc.toSklearnData()
-#		print all_scoreCalc.toTable()
-#		sys.exit()
 		clf = CLF_Wrapper(data, targets)
 		print clf.getValScores()
 		precision, recall, _ =  clf.getPRcurve()
@@ -727,7 +694,7 @@ def main():
 	precision, recall, _ =  clf.getPRcurve()
 	out.append(("combined", precision, recall))
 
-	plotPRcurve(out, "test/test2.pdf")
+	plotPRcurve(out, "test/Worm_1D_MI.pdf")
 	
 
 if __name__ == "__main__":
